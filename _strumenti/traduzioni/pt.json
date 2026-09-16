@@ -1,0 +1,1821 @@
+{
+ "f140bfd5": {
+  "it": "no pAIn™: la tutela digitale contro la violenza di genere. App e dispositivi che chiedono aiuto con la voce o con un gesto, senza dover parlare con nessuno.",
+  "tr": "no pAIn™: a proteção digital contra a violência de género. Aplicações e dispositivos que pedem ajuda com a voz ou com um gesto, sem ter de falar com ninguém."
+ },
+ "7485a5cc": {
+  "it": "Il progetto",
+  "tr": "O projeto"
+ },
+ "3c3edab5": {
+  "it": "Le app",
+  "tr": "As aplicações"
+ },
+ "2405dae5": {
+  "it": "Free e Premium",
+  "tr": "Free e Premium"
+ },
+ "304ad423": {
+  "it": "Come funziona",
+  "tr": "Como funciona"
+ },
+ "3b2a74ba": {
+  "it": "Ricerca",
+  "tr": "Investigação"
+ },
+ "cef2e389": {
+  "it": "Per enti e aziende",
+  "tr": "Organizações"
+ },
+ "b0987c4b": {
+  "it": "Domande",
+  "tr": "Perguntas"
+ },
+ "9c6a2f5f": {
+  "it": "Contatti",
+  "tr": "Contactos"
+ },
+ "bc47d777": {
+  "it": "Tutela digitale · digital4help™",
+  "tr": "Proteção digital · digital4help™"
+ },
+ "3351a7a0": {
+  "it": "Chiedere aiuto <span class=\"hl\">senza dover parlare.</span>",
+  "tr": "Pedir ajuda <span class=\"hl\">sem ter de falar.</span>"
+ },
+ "e662d766": {
+  "it": "no pAIn™ è un ecosistema di app e dispositivi per la prevenzione della violenza di genere. Con una parola, un tocco o un pulsante, avvisa subito due persone di fiducia con la tua posizione: messaggi e telefonate partono da soli.",
+  "tr": "no pAIn™ é um ecossistema de aplicações e dispositivos para a prevenção da violência de género. Com uma palavra, um toque ou um botão, avisa de imediato duas pessoas de confiança com a sua localização: mensagens e chamadas partem sozinhas."
+ },
+ "14ea42b7": {
+  "it": "Scegli la tua app <span class=\"arr\">→</span>",
+  "tr": "Escolha a sua aplicação <span class=\"arr\">→</span>"
+ },
+ "82d6a819": {
+  "it": "Scopri button4help™ <span class=\"arr\">→</span>",
+  "tr": "Conheça o button4help™ <span class=\"arr\">→</span>"
+ },
+ "c1aca8f1": {
+  "it": "Progetto ideato dal <strong>Prof. Ing. Agostino Giorgio</strong><br>Docente del Politecnico di Bari",
+  "tr": "Projeto criado pelo <strong>Prof. Eng. Agostino Giorgio</strong><br>Docente do Politecnico di Bari"
+ },
+ "ef8c5976": {
+  "it": "Giulia<small>contatto di emergenza</small>",
+  "tr": "Giulia<small>contacto de emergência</small>"
+ },
+ "fd908409": {
+  "it": "<span class=\"sos\">RICHIESTA DI AIUTO</span><br>Ho bisogno di aiuto. Questa è la mia posizione.",
+  "tr": "<span class=\"sos\">PEDIDO DE AJUDA</span><br>Preciso de ajuda. Esta é a minha localização."
+ },
+ "f09882f7": {
+  "it": "41.1087° N, 16.8784° E<br><span class=\"live\">● posizione live attiva</span>",
+  "tr": "41.1087° N, 16.8784° E<br><span class=\"live\">● localização em tempo real ativa</span>"
+ },
+ "a3e96f0f": {
+  "it": "Esempio illustrativo di ciò che riceve un contatto",
+  "tr": "Exemplo ilustrativo do que um contacto recebe"
+ },
+ "ce0132df": {
+  "it": "L'idea",
+  "tr": "A ideia"
+ },
+ "f36541c1": {
+  "it": "Da signal4help a <span class=\"hl\">digital4help™</span>",
+  "tr": "Do signal4help ao <span class=\"hl\">digital4help™</span>"
+ },
+ "ed14bbed": {
+  "it": "Il segnale con la mano, signal4help, è diventato il gesto universale con cui chi è in pericolo chiede aiuto in silenzio. Ma funziona solo se qualcuno lo vede. no pAIn™ ne ha fatto una versione elettronica: il “signal for help” arriva alle persone giuste, ovunque siano, insieme alla posizione.",
+  "tr": "O sinal com a mão, signal4help, tornou-se o gesto universal com que quem está em perigo pede ajuda em silêncio. Mas só funciona se alguém o vir. no pAIn™ criou uma versão eletrónica: o “signal for help” chega às pessoas certas, onde quer que estejam, juntamente com a localização."
+ },
+ "923665b8": {
+  "it": "GESTO 1",
+  "tr": "GESTO 1"
+ },
+ "1d140d31": {
+  "it": "Palmo aperto",
+  "tr": "Palma aberta"
+ },
+ "95366a71": {
+  "it": "GESTO 2",
+  "tr": "GESTO 2"
+ },
+ "c4b876c9": {
+  "it": "Pollice piegato sul palmo",
+  "tr": "Polegar dobrado sobre a palma"
+ },
+ "943668de": {
+  "it": "GESTO 3",
+  "tr": "GESTO 3"
+ },
+ "0a28e822": {
+  "it": "Dita chiuse sul pollice",
+  "tr": "Dedos fechados sobre o polegar"
+ },
+ "cbb74791": {
+  "it": "Lo stesso messaggio, senza bisogno di essere vista",
+  "tr": "A mesma mensagem, sem precisar de ser vista"
+ },
+ "915f0e78": {
+  "it": "Una parola chiave detta ad alta voce, un tocco sullo schermo, sull'orologio o su un pulsante in tasca. L'app fa il resto e avvisa i tuoi contatti di emergenza.",
+  "tr": "Uma palavra-chave dita em voz alta, um toque no ecrã, no relógio ou num botão no bolso. A aplicação faz o resto e avisa os seus contactos de emergência."
+ },
+ "a192d5c1": {
+  "it": "Perché serve",
+  "tr": "Porque é necessário"
+ },
+ "6c714dba": {
+  "it": "Nel pericolo non sempre si può parlare.",
+  "tr": "Em perigo nem sempre se pode falar."
+ },
+ "51447e50": {
+  "it": "Il 112 e app come YouPol restano strumenti fondamentali. Però chiedono di parlare con un operatore, spiegare cosa sta succedendo e dire dove ci si trova. Con un aggressore accanto, spesso è impossibile.",
+  "tr": "O 112 e aplicações como o YouPol continuam a ser ferramentas fundamentais. Mas exigem falar com um operador, explicar o que se passa e dizer onde se encontra. Com um agressor ao lado, isso é muitas vezes impossível."
+ },
+ "deb6e2a4": {
+  "it": "Chiamata o app di segnalazione",
+  "tr": "Chamada ou aplicação de denúncia"
+ },
+ "921dd1f7": {
+  "it": "Bisogna prendere in mano il telefono e sbloccarlo",
+  "tr": "É preciso pegar no telemóvel e desbloqueá-lo"
+ },
+ "eed236ef": {
+  "it": "Bisogna parlare o scrivere, spiegando la situazione",
+  "tr": "É preciso falar ou escrever, explicando a situação"
+ },
+ "15656b20": {
+  "it": "Bisogna descrivere dove ci si trova",
+  "tr": "É preciso descrever onde se encontra"
+ },
+ "9124957b": {
+  "it": "Chi aggredisce può accorgersene",
+  "tr": "O agressor pode aperceber-se"
+ },
+ "49795334": {
+  "it": "Un'app con tecnologia no pAIn™",
+  "tr": "Uma aplicação com tecnologia no pAIn™"
+ },
+ "d0047c0e": {
+  "it": "Basta una parola chiave, anche con il telefono a qualche metro",
+  "tr": "Basta uma palavra-chave, mesmo com o telemóvel a alguns metros"
+ },
+ "479e4c85": {
+  "it": "Oppure un tocco discreto: su una notifica, sull'orologio, su un pulsante",
+  "tr": "Ou um toque discreto: numa notificação, no relógio, num botão"
+ },
+ "026026d4": {
+  "it": "La posizione viene inviata in automatico",
+  "tr": "A localização é enviada automaticamente"
+ },
+ "202def39": {
+  "it": "Due persone di fiducia sono avvisate subito e possono chiamare le forze dell'ordine",
+  "tr": "Duas pessoas de confiança são avisadas de imediato e podem chamar a polícia"
+ },
+ "89c8cdba": {
+  "it": "Come si attiva",
+  "tr": "Como se ativa"
+ },
+ "9d32cd40": {
+  "it": "Sei modi rapidissimi per lanciare l'allarme.",
+  "tr": "Seis formas rapidíssimas de dar o alarme."
+ },
+ "855eb6d8": {
+  "it": "Ogni situazione è diversa: per questo le app no pAIn™ offrono più punti di innesco. Scegli quelli che puoi usare senza farti notare. Le funzioni disponibili dipendono dall'app e dal dispositivo.",
+  "tr": "Cada situação é diferente: por isso as aplicações no pAIn™ oferecem vários acionadores. Escolha os que pode usar sem ser notada. As funções disponíveis dependem da aplicação e do dispositivo."
+ },
+ "5c8c7520": {
+  "it": "IA offline",
+  "tr": "IA offline"
+ },
+ "b382d344": {
+  "it": "Comando vocale",
+  "tr": "Comando de voz"
+ },
+ "530af9ef": {
+  "it": "Pronunci una parola chiave e le azioni di emergenza partono, senza toccare il telefono. Su Android il riconoscimento vocale è sul dispositivo, con 4 parole chiave fisse e 3 personali: funziona con app aperta, in background o chiusa, anche a schermo spento e con il telefono a qualche metro. Su iPhone basta dire “Ehi Siri, Proteggimi”.",
+  "tr": "Diz uma palavra-chave e as ações de emergência começam, sem tocar no telemóvel. No Android o reconhecimento de voz é feito no dispositivo, com 4 palavras-chave fixas e 3 pessoais: funciona com a aplicação aberta, em segundo plano ou fechada, mesmo com o ecrã desligado e o telemóvel a alguns metros. No iPhone basta dizer “Hey Siri, Ajuda-me”."
+ },
+ "faf9e1fd": {
+  "it": "app aperta",
+  "tr": "aplicação aberta"
+ },
+ "8ef8f4f2": {
+  "it": "Tasto di emergenza nell'app",
+  "tr": "Botão de emergência na aplicação"
+ },
+ "ae23781b": {
+  "it": "Il grande tasto SOS nella schermata principale. È il metodo più semplice e richiede che l'app sia in primo piano.",
+  "tr": "O grande botão SOS no ecrã principal. É o método mais simples e exige que a aplicação esteja em primeiro plano."
+ },
+ "0bed2b9f": {
+  "it": "Android · app chiusa",
+  "tr": "Android · aplicação fechada"
+ },
+ "57946f7b": {
+  "it": "Tasto rapido in home",
+  "tr": "Botão rápido no ecrã inicial"
+ },
+ "dc947037": {
+  "it": "Un tasto sulla schermata home del telefono risveglia l'app anche quando è chiusa e dormiente, e avvia subito l'emergenza.",
+  "tr": "Um botão no ecrã inicial do telemóvel acorda a aplicação mesmo quando está fechada e inativa, e inicia logo a emergência."
+ },
+ "910bbdb2": {
+  "it": "Android · discreto",
+  "tr": "Android · discreto"
+ },
+ "ac44bb94": {
+  "it": "Notifica persistente",
+  "tr": "Notificação persistente"
+ },
+ "e247de3d": {
+  "it": "Un tocco sulla notifica sempre presente. Chi ti guarda pensa che tu stia solo scorrendo le notifiche: in realtà stai chiedendo aiuto.",
+  "tr": "Um toque na notificação sempre presente. Quem a observa pensa que está só a percorrer as notificações: na verdade, está a pedir ajuda."
+ },
+ "49bb1439": {
+  "it": "Smartwatch",
+  "tr": "Smartwatch"
+ },
+ "c582733c": {
+  "it": "Voce o tasto sul quadrante di uno smartwatch Wear OS, oppure tocco su Apple Watch. Le app per smartphone hanno la loro app compagna per l'orologio; AIuto SOS funziona addirittura senza smartphone.",
+  "tr": "Voz ou botão no mostrador de um smartwatch Wear OS, ou um toque no Apple Watch. As aplicações para smartphone têm a sua aplicação complementar para o relógio; o AIuto SOS funciona mesmo sem smartphone."
+ },
+ "afc4bb5a": {
+  "it": "Pulsante button4help™",
+  "tr": "Botão button4help™"
+ },
+ "27245e1d": {
+  "it": "Tieni premuto per un paio di secondi il piccolo pulsante che porti con te: l'app sullo smartphone, a diversi metri di distanza, avvia l'emergenza. <a class=\"link-arrow\" href=\"button4help.html\">Scopri →</a>",
+  "tr": "Mantenha premido durante uns segundos o pequeno botão que traz consigo: a aplicação no smartphone, a vários metros de distância, inicia a emergência. <a class=\"link-arrow\" href=\"button4help.html\">Saber mais →</a>"
+ },
+ "72179135": {
+  "it": "Cosa succede",
+  "tr": "O que acontece"
+ },
+ "4a208c02": {
+  "it": "Tutto parte da solo, verso due persone di fiducia.",
+  "tr": "Tudo parte sozinho, para duas pessoas de confiança."
+ },
+ "c9d56318": {
+  "it": "Nell'app imposti due contatti di emergenza, parenti o amici. Appena l'allarme scatta, ricevono la tua richiesta di aiuto e la tua posizione.",
+  "tr": "Na aplicação define dois contactos de emergência, familiares ou amigos. Assim que o alarme dispara, recebem o seu pedido de ajuda e a sua localização."
+ },
+ "4d2b859a": {
+  "it": "SMS con posizione",
+  "tr": "SMS com localização"
+ },
+ "d4224bde": {
+  "it": "Coordinate GPS, indirizzo e link alla mappa. Viaggia sulla rete telefonica, senza bisogno di internet.",
+  "tr": "Coordenadas GPS, morada e ligação para o mapa. Viaja pela rede telefónica, sem precisar de internet."
+ },
+ "dd629a23": {
+  "it": "WhatsApp con posizione",
+  "tr": "WhatsApp com localização"
+ },
+ "64664831": {
+  "it": "Su iPhone il messaggio con la posizione arriva anche su WhatsApp.",
+  "tr": "No iPhone a mensagem com a localização chega também pelo WhatsApp."
+ },
+ "5fd172ca": {
+  "it": "live fino a 24 ore",
+  "tr": "em tempo real até 24 horas"
+ },
+ "5187e248": {
+  "it": "Telegram con posizione live",
+  "tr": "Telegram com localização em tempo real"
+ },
+ "d89f380c": {
+  "it": "La posizione si aggiorna in tempo reale, così i contatti possono seguirti. La durata dipende dall'app e dalla versione.",
+  "tr": "A localização é atualizada em tempo real, para que os seus contactos a possam acompanhar. A duração depende da aplicação e da versão."
+ },
+ "ee006bf8": {
+  "it": "Telefonata",
+  "tr": "Chamada telefónica"
+ },
+ "32339987": {
+  "it": "L'app avvia la chiamata ai contatti di emergenza, senza che tu debba comporre nulla.",
+  "tr": "A aplicação inicia a chamada para os contactos de emergência, sem que tenha de marcar nada."
+ },
+ "4bf5a602": {
+  "it": "Tu",
+  "tr": "Você"
+ },
+ "d57530db": {
+  "it": "voce, tocco o pulsante",
+  "tr": "voz, toque ou botão"
+ },
+ "7acbe219": {
+  "it": "App no pAIn™",
+  "tr": "Aplicação no pAIn™"
+ },
+ "dbd95aa2": {
+  "it": "posizione + messaggi",
+  "tr": "localização + mensagens"
+ },
+ "ee660409": {
+  "it": "2 contatti di fiducia",
+  "tr": "2 contactos de confiança"
+ },
+ "9f0c43e0": {
+  "it": "SMS · WhatsApp · Telegram · chiamata",
+  "tr": "SMS · WhatsApp · Telegram · chamada"
+ },
+ "61957ddc": {
+  "it": "Aiuto concreto",
+  "tr": "Ajuda concreta"
+ },
+ "1145e6b6": {
+  "it": "chiamano le forze dell'ordine o vengono da te",
+  "tr": "chamam a polícia ou vão ter consigo"
+ },
+ "ccff734a": {
+  "it": "<b>Importante</b> Le app avvisano i contatti che hai scelto: non chiamano direttamente il 112 e non lo sostituiscono. Accordati prima con i tuoi contatti su cosa fare quando ricevono un allarme, e fate insieme una prova.",
+  "tr": "<b>Importante</b> As aplicações avisam os contactos que escolheu: não ligam diretamente para o 112 e não o substituem. Combine antecipadamente com os seus contactos o que fazer quando recebem um alarme e façam juntos um teste."
+ },
+ "ffa6706d": {
+  "it": "Materiale promozionale del progetto. I gioielli nelle illustrazioni sono concept di design.",
+  "tr": "Material promocional do projeto. As joias nas ilustrações são conceitos de design."
+ },
+ "968d258f": {
+  "it": "L'ecosistema",
+  "tr": "O ecossistema"
+ },
+ "58ed31c8": {
+  "it": "Il tuo dispositivo. La tua app no pAIn™.",
+  "tr": "O seu dispositivo. A sua aplicação no pAIn™."
+ },
+ "0e5790b5": {
+  "it": "Smartphone Android, iPhone, smartwatch e un pulsante da tenere in tasca. Lingue, connessioni e funzioni cambiano da un'app all'altra: scegli la soluzione adatta a te.",
+  "tr": "Smartphones Android, iPhone, smartwatches e um botão para trazer no bolso. Idiomas, ligações e funções mudam de uma aplicação para outra: escolha a solução mais adequada."
+ },
+ "937cc276": {
+  "it": "ANDROID · 12 LINGUE",
+  "tr": "ANDROID · 12 IDIOMAS"
+ },
+ "bc873aca": {
+  "it": "La versione multilingue per Android, compatibile con button4help™.",
+  "tr": "A versão multilingue para Android, compatível com o button4help™."
+ },
+ "02bb91db": {
+  "it": "Scopri →",
+  "tr": "Saber mais →"
+ },
+ "da94c32a": {
+  "it": "ANDROID · ITALIANO",
+  "tr": "ANDROID · ITALIANO"
+ },
+ "560d580a": {
+  "it": "Proteggimi (no pAIn™)",
+  "tr": "Proteggimi (no pAIn™)"
+ },
+ "c9dc4660": {
+  "it": "L'app no pAIn™ per Android in lingua italiana.",
+  "tr": "A aplicação no pAIn™ para Android em italiano."
+ },
+ "7c9000fa": {
+  "it": "IPHONE · 12 LINGUE",
+  "tr": "IPHONE · 12 IDIOMAS"
+ },
+ "53a6ca86": {
+  "it": "no pAIn™ (Proteggimi)",
+  "tr": "no pAIn™ (Proteggimi)"
+ },
+ "20efe117": {
+  "it": "La versione per iPhone e Apple Watch.",
+  "tr": "A versão para iPhone e Apple Watch."
+ },
+ "646c8658": {
+  "it": "WEAR OS · SOLO SMARTWATCH",
+  "tr": "WEAR OS · SÓ SMARTWATCH"
+ },
+ "ae8e4f36": {
+  "it": "Funziona sull'orologio da solo, senza smartphone.",
+  "tr": "Funciona só no relógio, sem smartphone."
+ },
+ "fe4f6e94": {
+  "it": "DISPOSITIVO BLUETOOTH",
+  "tr": "DISPOSITIVO BLUETOOTH"
+ },
+ "f3871ce8": {
+  "it": "Il pulsante che fa scattare l'allarme a distanza. Si acquista da un rivenditore esterno.",
+  "tr": "O botão que dispara o alarme à distância. Compra-se num revendedor externo."
+ },
+ "cd6f44e7": {
+  "it": "Confronta le versioni Free e Premium →",
+  "tr": "Compare as versões Free e Premium →"
+ },
+ "c9e1e158": {
+  "it": "Come iniziare",
+  "tr": "Como começar"
+ },
+ "461fee95": {
+  "it": "Scegli come attivare. Decidi chi avvisare.",
+  "tr": "Escolha como ativar. Decida quem avisar."
+ },
+ "f18a1185": {
+  "it": "Prepara la tua rete",
+  "tr": "Prepare a sua rede"
+ },
+ "ec84f4d8": {
+  "it": "Scegli l'app adatta al tuo dispositivo, configura i contatti e abilita le azioni che desideri utilizzare. Se usi il pulsante, completa l'abbinamento.",
+  "tr": "Escolha a aplicação adequada ao seu dispositivo, configure os contactos e ative as ações que pretende usar. Se usar o botão, conclua o emparelhamento."
+ },
+ "fb1634e8": {
+  "it": "Prima dell'utilizzo",
+  "tr": "Antes da utilização"
+ },
+ "a408696f": {
+  "it": "Attiva la richiesta",
+  "tr": "Ative o pedido"
+ },
+ "b729dfea": {
+  "it": "Usa la modalità prevista dalla tua app: comando vocale, tocco sullo schermo, smartwatch compatibile o pulsante fisico associato.",
+  "tr": "Use o modo previsto pela sua aplicação: comando de voz, toque no ecrã, smartwatch compatível ou botão físico associado."
+ },
+ "4dac2a4a": {
+  "it": "Quando serve",
+  "tr": "Quando for preciso"
+ },
+ "7baeebcb": {
+  "it": "Avvisa chi hai scelto",
+  "tr": "Avise quem escolheu"
+ },
+ "2e3538da": {
+  "it": "Partono le azioni abilitate: messaggi con posizione, condivisione live tramite Telegram e telefonate ai contatti configurati.",
+  "tr": "Partem as ações ativadas: mensagens com localização, partilha em tempo real pelo Telegram e chamadas para os contactos configurados."
+ },
+ "bcbad548": {
+  "it": "Verso i tuoi contatti",
+  "tr": "Para os seus contactos"
+ },
+ "c1def374": {
+  "it": "Tutti i dettagli su come funziona →",
+  "tr": "Todos os detalhes sobre como funciona →"
+ },
+ "9e32c6aa": {
+  "it": "Tecnologia e ricerca",
+  "tr": "Tecnologia e investigação"
+ },
+ "d06791de": {
+  "it": "Nato in università, pubblicato su rivista scientifica.",
+  "tr": "Nascido na universidade, publicado numa revista científica."
+ },
+ "1d2d739f": {
+  "it": "no pAIn™ sta per <em>never oppressed protected by Artificial Intelligence Non violence system</em>. Il progetto è descritto in due articoli sulla rivista <em>Electronics</em> (2024 e 2026) e in una presentazione completa di 23 pagine.",
+  "tr": "no pAIn™ significa <em>never oppressed protected by Artificial Intelligence Non violence system</em>. O projeto é descrito em dois artigos da revista <em>Electronics</em> (2024 e 2026) e numa apresentação completa de 23 páginas."
+ },
+ "933b9302": {
+  "it": "Tecnologia e pubblicazioni →",
+  "tr": "Tecnologia e publicações →"
+ },
+ "271da2d3": {
+  "it": "Collaboriamo",
+  "tr": "Colaboremos"
+ },
+ "2021fdec": {
+  "it": "Porta no pAIn™ nella tua organizzazione.",
+  "tr": "Leve o no pAIn™ à sua organização."
+ },
+ "fece8668": {
+  "it": "Enti pubblici, associazioni, aziende e sponsor: far conoscere lo strumento e inserirlo in un contesto di supporto è importante quanto metterlo a disposizione.",
+  "tr": "Entidades públicas, associações, empresas e patrocinadores: dar a conhecer a ferramenta e integrá-la numa rede de apoio é tão importante como disponibilizá-la."
+ },
+ "2922d011": {
+  "it": "Proposte per enti e aziende →",
+  "tr": "Propostas para entidades e empresas →"
+ },
+ "408bf598": {
+  "it": "Prezzi, disponibilità e collaborazioni",
+  "tr": "Preços, disponibilidade e colaborações"
+ },
+ "04d28f92": {
+  "it": "Troviamo la soluzione adatta a te.",
+  "tr": "Vamos encontrar a solução certa para si."
+ },
+ "3b06eb9a": {
+  "it": "Prof. Ing. Agostino Giorgio",
+  "tr": "Prof. Eng. Agostino Giorgio"
+ },
+ "f7164594": {
+  "it": "Dipartimento di Ingegneria Elettrica e dell'Informazione",
+  "tr": "Departamento de Engenharia Eletrotécnica e da Informação"
+ },
+ "19232904": {
+  "it": "Tel. ufficio: 080 596 3239/579",
+  "tr": "Tel. escritório: 080 596 3239/579"
+ },
+ "063197de": {
+  "it": "Informazioni per privati",
+  "tr": "Informações para particulares"
+ },
+ "d5d3839c": {
+  "it": "App, button4help™ e compatibilità con il tuo telefono",
+  "tr": "Aplicações, button4help™ e compatibilidade com o seu telemóvel"
+ },
+ "1de7ac43": {
+  "it": "Proposte per enti e aziende",
+  "tr": "Propostas para entidades e empresas"
+ },
+ "38aa4552": {
+  "it": "Dimostrazioni e collaborazioni",
+  "tr": "Demonstrações e colaborações"
+ },
+ "e611274e": {
+  "it": "Si aprirà la tua app di posta. Puoi scrivere anche direttamente a <a href=\"mailto:agostino.giorgio@poliba.it\">agostino.giorgio@poliba.it</a>",
+  "tr": "Vai abrir-se a sua aplicação de email. Também pode escrever diretamente para <a href=\"mailto:agostino.giorgio@poliba.it\">agostino.giorgio@poliba.it</a>"
+ },
+ "30c5dd7a": {
+  "it": "Progetto del Prof. Ing. Agostino Giorgio<br>Docente del Politecnico di Bari",
+  "tr": "Projeto do Prof. Eng. Agostino Giorgio<br>Docente do Politecnico di Bari"
+ },
+ "376980d1": {
+  "it": "Il sito",
+  "tr": "O site"
+ },
+ "02e617b0": {
+  "it": "Risorse",
+  "tr": "Recursos"
+ },
+ "d2c43509": {
+  "it": "Manuali e privacy delle app ↗",
+  "tr": "Manuais e privacidade das aplicações ↗"
+ },
+ "3de40ce7": {
+  "it": "Presentazione del progetto (PDF, in italiano) ↗",
+  "tr": "Apresentação do projeto (PDF, em italiano) ↗"
+ },
+ "fa6502e1": {
+  "it": "In caso di pericolo immediato chiama il 112. Le app no pAIn™ avvisano i contatti di emergenza scelti da te e non sostituiscono i servizi pubblici di emergenza.",
+  "tr": "Em caso de perigo imediato, ligue para o 112. As aplicações no pAIn™ avisam os contactos de emergência que escolheu e não substituem os serviços públicos de emergência."
+ },
+ "84beb5f4": {
+  "it": "Informati. Configura. Prova.",
+  "tr": "Informe-se. Configure. Teste."
+ },
+ "e1eb3d77": {
+  "it": "Navigazione principale",
+  "tr": "Navegação principal"
+ },
+ "8ada5d6f": {
+  "it": "Esempio di messaggio di emergenza ricevuto da un contatto, con mappa e posizione live",
+  "tr": "Exemplo de mensagem de emergência recebida por um contacto, com mapa e localização em tempo real"
+ },
+ "faf87077": {
+  "it": "Percorso della richiesta di aiuto",
+  "tr": "Percurso do pedido de ajuda"
+ },
+ "0c5818c5": {
+  "it": "Locandina del progetto no pAIn: digital4help, protezione digitale. Elenca Proteggimi per Android in italiano, AI help You per Android in 12 lingue, AIuto SOS watch4help per smartwatch Wear OS e no pAIn per iOS.",
+  "tr": "Cartaz do projeto no pAIn: digital4help, proteção digital. Enumera Proteggimi para Android em italiano, AI help You para Android em 12 idiomas, AIuto SOS watch4help para smartwatches Wear OS e no pAIn para iOS."
+ },
+ "2d84f182": {
+  "it": "no pAIn™ — Le app",
+  "tr": "no pAIn™ — As aplicações"
+ },
+ "4cb80780": {
+  "it": "Le app del progetto no pAIn™: AI help You, Proteggimi, no pAIn™ per iPhone, AIuto SOS watch4help™ per Wear OS, AI help App.",
+  "tr": "As aplicações do projeto no pAIn™: AI help You, Proteggimi, no pAIn™ para iPhone, AIuto SOS watch4help™ para Wear OS, AI help App."
+ },
+ "4798db56": {
+  "it": "Scegli la tua app",
+  "tr": "Escolha a sua aplicação"
+ },
+ "3844a828": {
+  "it": "Scegli come <span class=\"hl\">farti sentire.</span>",
+  "tr": "Escolha como <span class=\"hl\">se fazer ouvir.</span>"
+ },
+ "1fe8fc5f": {
+  "it": "no pAIn™ porta su smartphone un “signal for help” elettronico, attivabile con la voce o con un tocco. watch4help™ è la stessa tecnologia per smartwatch. Lingue, connessioni e funzioni cambiano da un'app all'altra.",
+  "tr": "no pAIn™ leva ao smartphone um “signal for help” eletrónico, ativável com a voz ou com um toque. watch4help™ é a mesma tecnologia para smartwatches. Idiomas, ligações e funções mudam de uma aplicação para outra."
+ },
+ "2d8cc3bc": {
+  "it": "AI help App · AIutoSOS Apple Watch",
+  "tr": "AI help App · AIutoSOS Apple Watch"
+ },
+ "eb84c3fe": {
+  "it": "Materiale promozionale del progetto · concept illustrativo",
+  "tr": "Material promocional do projeto · conceito ilustrativo"
+ },
+ "9f217028": {
+  "it": "12 lingue",
+  "tr": "12 idiomas"
+ },
+ "c3d2a0e3": {
+  "it": "La versione Android in 12 lingue, con parole chiave personalizzabili, riconoscimento vocale offline e app compagna per smartwatch Wear OS. Offre tutti i punti di innesco della tecnologia no pAIn™, compreso il pulsante button4help™.",
+  "tr": "A versão Android em 12 idiomas, com palavras-chave personalizáveis, reconhecimento de voz offline e aplicação complementar para smartwatches Wear OS. Oferece todos os acionadores da tecnologia no pAIn™, incluindo o botão button4help™."
+ },
+ "2d194a50": {
+  "it": "Posizione live su Telegram",
+  "tr": "Localização em tempo real no Telegram"
+ },
+ "79136d29": {
+  "it": "Da 1 minuto a 24 ore, impostabili",
+  "tr": "De 1 minuto a 24 horas, configurável"
+ },
+ "3f0060e7": {
+  "it": "Scarica da Google Play <span class=\"arr\">↗</span>",
+  "tr": "Obter no Google Play <span class=\"arr\">↗</span>"
+ },
+ "234e8230": {
+  "it": "Comandi vocali: 4 parole chiave fisse e 3 personali, anche a schermo spento e con telefono a qualche metro",
+  "tr": "Comandos de voz: 4 palavras-chave fixas e 3 pessoais, mesmo com o ecrã desligado e o telemóvel a alguns metros"
+ },
+ "9c27cbb0": {
+  "it": "Attivazione con l'assistente Google",
+  "tr": "Ativação com o Assistente Google"
+ },
+ "b3dffb7e": {
+  "it": "Tasto di emergenza nella schermata principale",
+  "tr": "Botão de emergência no ecrã principal"
+ },
+ "6b9d4770": {
+  "it": "Tasto rapido in home che risveglia l'app chiusa",
+  "tr": "Botão rápido no ecrã inicial que acorda a aplicação fechada"
+ },
+ "04d63739": {
+  "it": "Voce o tasto dall'app compagna per smartwatch Wear OS",
+  "tr": "Voz ou botão a partir da aplicação complementar para smartwatches Wear OS"
+ },
+ "beac9291": {
+  "it": "Pressione di un paio di secondi su button4help™",
+  "tr": "Pressão de uns segundos no button4help™"
+ },
+ "413559c6": {
+  "it": "Cosa invia",
+  "tr": "O que envia"
+ },
+ "98aa1b82": {
+  "it": "SMS con coordinate GPS, indirizzo e link alla mappa",
+  "tr": "SMS com coordenadas GPS, morada e ligação para o mapa"
+ },
+ "d4c9d532": {
+  "it": "Telefonata automatica ai contatti",
+  "tr": "Chamada automática para os contactos"
+ },
+ "2de0c79b": {
+  "it": "WhatsApp non previsto su Android",
+  "tr": "WhatsApp não disponível no Android"
+ },
+ "db678d25": {
+  "it": "AI help You avvisa i contatti configurati. Non contatta i servizi pubblici di emergenza e non li sostituisce. Senza abbonamento funziona in modalità emergenza rapida: <a class=\"link-arrow\" href=\"versioni.html\">vedi Free e Premium</a>.",
+  "tr": "O AI help You avisa os contactos configurados. Não contacta os serviços públicos de emergência nem os substitui. Sem subscrição funciona em modo de emergência rápida: <a class=\"link-arrow\" href=\"versioni.html\">ver Free e Premium</a>."
+ },
+ "6ea5fa0c": {
+  "it": "Italiano",
+  "tr": "Italiano"
+ },
+ "20c7a5d2": {
+  "it": "Proteggimi <span class=\"hl\">(no pAIn™)</span>",
+  "tr": "Proteggimi <span class=\"hl\">(no pAIn™)</span>"
+ },
+ "eed3fce0": {
+  "it": "La versione Android in italiano, con attivazione vocale o manuale. Ascolta le tue parole chiave anche con app chiusa e schermo spento, e ha un'app compagna per smartwatch Wear OS.",
+  "tr": "A versão Android em italiano, com ativação por voz ou manual. Ouve as suas palavras-chave mesmo com a aplicação fechada e o ecrã desligado, e tem uma aplicação complementar para smartwatches Wear OS."
+ },
+ "8ea55c3d": {
+  "it": "Fino a 30 minuti",
+  "tr": "Até 30 minutos"
+ },
+ "6c64d7dd": {
+  "it": "Comandi vocali con parole chiave personalizzate, riconoscimento vocale offline",
+  "tr": "Comandos de voz com palavras-chave personalizadas, reconhecimento de voz offline"
+ },
+ "ce25e0f3": {
+  "it": "SMS con geolocalizzazione",
+  "tr": "SMS com geolocalização"
+ },
+ "248290f9": {
+  "it": "Telegram con posizione, anche live",
+  "tr": "Telegram com localização, também em tempo real"
+ },
+ "3cc7cd1e": {
+  "it": "no pAIn™ <span class=\"hl\">(Proteggimi)</span>",
+  "tr": "no pAIn™ <span class=\"hl\">(Proteggimi)</span>"
+ },
+ "1a03fdfe": {
+  "it": "La versione per iPhone, con le stesse funzioni sostanziali di AI help You: 12 lingue, app compagna per Apple Watch e compatibilità con button4help™. In più, invia l'allarme anche su WhatsApp.",
+  "tr": "A versão para iPhone, com as mesmas funções essenciais do AI help You: 12 idiomas, aplicação complementar para Apple Watch e compatibilidade com o button4help™. Além disso, envia o alarme também pelo WhatsApp."
+ },
+ "ea1a0de1": {
+  "it": "Free: 30 minuti · Premium: da 1 minuto a 24 ore",
+  "tr": "Free: 30 minutos · Premium: de 1 minuto a 24 horas"
+ },
+ "60d31c99": {
+  "it": "Scarica dall'App Store <span class=\"arr\">↗</span>",
+  "tr": "Descarregar na App Store <span class=\"arr\">↗</span>"
+ },
+ "139feebd": {
+  "it": "L'app compagna su Apple Watch: un tocco su EMERGENZA",
+  "tr": "A aplicação complementar no Apple Watch: um toque em EMERGENZA"
+ },
+ "12c0a0fa": {
+  "it": "Tasto SOS nella schermata principale",
+  "tr": "Botão SOS no ecrã principal"
+ },
+ "4dd7f245": {
+  "it": "Comando vocale “Ehi Siri, Proteggimi” (Premium)",
+  "tr": "Comando de voz “Hey Siri, Ajuda-me” (Premium)"
+ },
+ "046e3411": {
+  "it": "Tocco sul quadrante di Apple Watch, anche con iPhone bloccato",
+  "tr": "Toque no mostrador do Apple Watch, mesmo com o iPhone bloqueado"
+ },
+ "cb8e543a": {
+  "it": "Telegram con posizione e link alla mappa",
+  "tr": "Telegram com localização e ligação para o mapa"
+ },
+ "a4ad6467": {
+  "it": "SMS con geolocalizzazione (Premium)",
+  "tr": "SMS com geolocalização (Premium)"
+ },
+ "c1adc012": {
+  "it": "WhatsApp con geolocalizzazione (Premium)",
+  "tr": "WhatsApp com geolocalização (Premium)"
+ },
+ "9aa46536": {
+  "it": "Telefonata automatica ai contatti (Premium)",
+  "tr": "Chamada automática para os contactos (Premium)"
+ },
+ "55055aa6": {
+  "it": "Il download è gratuito e comprende tasto SOS, Telegram con posizione, posizione live per 30 minuti e app per Apple Watch. Premium aggiunge Siri, SMS, WhatsApp, telefonata e posizione live da 1 minuto a 24 ore, con un acquisto una tantum e senza abbonamento.",
+  "tr": "A transferência é gratuita e inclui botão SOS, Telegram com localização, localização em tempo real durante 30 minutos e a aplicação para Apple Watch. O Premium acrescenta Siri, SMS, WhatsApp, chamada e localização em tempo real de 1 minuto a 24 horas, com uma compra única e sem subscrição."
+ },
+ "046c9709": {
+  "it": "SMS, WhatsApp e telefonata passano dal Comando Rapido Apple “Proteggimi”, che si installa dall'app. Da Apple Watch partono Telegram e posizione anche con iPhone bloccato; per le altre azioni serve l'app iPhone in primo piano.",
+  "tr": "SMS, WhatsApp e chamada passam pelo Atalho Apple “Proteggimi”, que se instala a partir da aplicação. A partir do Apple Watch, Telegram e localização partem mesmo com o iPhone bloqueado; para as outras ações, a aplicação do iPhone tem de estar em primeiro plano."
+ },
+ "5a57807b": {
+  "it": "Senza smartphone",
+  "tr": "Sem smartphone"
+ },
+ "968d7a54": {
+  "it": "Un'app solo per smartwatch Wear OS che non ha bisogno dello smartphone. È la tecnologia no pAIn™ in versione indossabile, chiamata watch4help™: l'allarme parte direttamente dal polso.",
+  "tr": "Uma aplicação só para smartwatches Wear OS que não precisa do smartphone. É a tecnologia no pAIn™ em versão vestível, chamada watch4help™: o alarme parte diretamente do pulso."
+ },
+ "e1c60fd6": {
+  "it": "Fino a 60 minuti",
+  "tr": "Até 60 minutos"
+ },
+ "f0dec499": {
+  "it": "Comando vocale sull'orologio",
+  "tr": "Comando de voz no relógio"
+ },
+ "fff8e9ce": {
+  "it": "Tasto di emergenza sul quadrante",
+  "tr": "Botão de emergência no mostrador"
+ },
+ "e44b4962": {
+  "it": "Accesso rapido dal quadrante e dalle complication",
+  "tr": "Acesso rápido a partir do mostrador e das complicações"
+ },
+ "128ac670": {
+  "it": "Da sapere",
+  "tr": "A saber"
+ },
+ "fad03b25": {
+  "it": "Funziona in autonomia, anche con lo smartphone lontano o spento",
+  "tr": "Funciona de forma autónoma, mesmo com o smartphone longe ou desligado"
+ },
+ "b9fef944": {
+  "it": "I canali disponibili dipendono dalla connessione dell'orologio: LTE con SIM oppure Wi-Fi/Bluetooth",
+  "tr": "Os canais disponíveis dependem da ligação do relógio: LTE com SIM ou Wi-Fi/Bluetooth"
+ },
+ "8e57ca44": {
+  "it": "Da non confondere con le app compagne di Proteggimi e AI help You, che invece lavorano insieme al telefono abbinato.",
+  "tr": "Não confundir com as aplicações complementares do Proteggimi e do AI help You, que funcionam em conjunto com o telemóvel emparelhado."
+ },
+ "0b973f5f": {
+  "it": "In immagini e video",
+  "tr": "Em imagens e vídeos"
+ },
+ "e24ab608": {
+  "it": "Com'è e come funziona al polso.",
+  "tr": "Como é e como funciona no pulso."
+ },
+ "4a976c92": {
+  "it": "Un tocco sul grande tasto rosso o un comando vocale: l'orologio invia la posizione e l'allerta ai tuoi contatti con Telegram, SMS e telefonata, anche con lo smartphone lontano.",
+  "tr": "Um toque no grande botão vermelho ou um comando de voz: o relógio envia a localização e o alerta aos seus contactos por Telegram, SMS e chamada, mesmo com o smartphone longe."
+ },
+ "361f7a8e": {
+  "it": "Tocca un'immagine per ingrandirla. Scorri di lato per vedere le altre.",
+  "tr": "Toque numa imagem para a ampliar. Deslize para o lado para ver as outras."
+ },
+ "1383b500": {
+  "it": "Locandina",
+  "tr": "Cartaz"
+ },
+ "a360f8b3": {
+  "it": "<strong>SOS dal tuo smartwatch</strong>Voce o tocco: invia posizione e allerta. Posizione live, Telegram, SMS, chiamata.",
+  "tr": "<strong>SOS a partir do seu smartwatch</strong>Voz ou toque: envia localização e alerta. Localização em tempo real, Telegram, SMS, chamada."
+ },
+ "77c73a5b": {
+  "it": "Schermata",
+  "tr": "Captura de ecrã"
+ },
+ "a90bbea3": {
+  "it": "<strong>L'app sull'orologio</strong>Il tasto INVIO e l'ascolto dei comandi vocali, attivabile e sospendibile.",
+  "tr": "<strong>A aplicação no relógio</strong>O botão INVIO (enviar) e a escuta dos comandos de voz, que pode ser ativada e pausada."
+ },
+ "50485b89": {
+  "it": "Altre soluzioni",
+  "tr": "Outras soluções"
+ },
+ "9d65d888": {
+  "it": "Anche queste fanno parte del progetto.",
+  "tr": "Também fazem parte do projeto."
+ },
+ "ac36c51e": {
+  "it": "Un'altra soluzione multilingue per Android: 12 lingue, di cui 3 con riconoscimento vocale anche offline. Si attiva con comandi vocali o con la richiesta manuale di aiuto.",
+  "tr": "Outra solução multilingue para Android: 12 idiomas, 3 dos quais com reconhecimento de voz também offline. Ativa-se com comandos de voz ou com o pedido manual de ajuda."
+ },
+ "ab397262": {
+  "it": "Apri Google Play <span class=\"arr\">↗</span>",
+  "tr": "Abrir o Google Play <span class=\"arr\">↗</span>"
+ },
+ "f129d3cc": {
+  "it": "In programma",
+  "tr": "Em breve"
+ },
+ "d957da8e": {
+  "it": "AIutoSOS per Apple Watch",
+  "tr": "AIutoSOS para Apple Watch"
+ },
+ "0766bfc1": {
+  "it": "Un'app dedicata ad Apple Watch, di prossima pubblicazione. È diversa dall'app compagna già inclusa in no pAIn™ per iPhone.",
+  "tr": "Uma aplicação dedicada ao Apple Watch, a publicar em breve. É diferente da aplicação complementar já incluída no no pAIn™ para iPhone."
+ },
+ "4928453f": {
+  "it": "Per usare oggi Apple Watch, installa <a class=\"link-arrow\" href=\"#no-pain-ios\">no pAIn™ per iPhone</a>.",
+  "tr": "Para usar hoje o Apple Watch, instale o <a class=\"link-arrow\" href=\"#no-pain-ios\">no pAIn™ para iPhone</a>."
+ },
+ "9e63a7c6": {
+  "it": "Il pulsante da tenere in tasca che fa scattare l'allarme di AI help You e di no pAIn™ per iPhone. Cos'è, cosa non è e dove acquistarlo.",
+  "tr": "O botão para trazer no bolso que dispara o alarme do AI help You e do no pAIn™ para iPhone. O que é, o que não é e onde comprá-lo."
+ },
+ "f97a981e": {
+  "it": "Scopri button4help™ →",
+  "tr": "Conheça o button4help™ →"
+ },
+ "e5646562": {
+  "it": "Configurazione",
+  "tr": "Configuração"
+ },
+ "81fff1af": {
+  "it": "Segui il manuale della tua app.",
+  "tr": "Siga o manual da sua aplicação."
+ },
+ "a32614bb": {
+  "it": "La durata della posizione live cambia da un'app all'altra: controlla le opzioni dell'app installata.",
+  "tr": "A duração da localização em tempo real muda de uma aplicação para outra: verifique as opções da aplicação instalada."
+ },
+ "e67b051b": {
+  "it": "Manuale Android <span class=\"arr\">↗</span>",
+  "tr": "Manual Android <span class=\"arr\">↗</span>"
+ },
+ "174ef965": {
+  "it": "Manuale iOS <span class=\"arr\">↗</span>",
+  "tr": "Manual iOS <span class=\"arr\">↗</span>"
+ },
+ "e5928a22": {
+  "it": "Guida Telegram <span class=\"arr\">↗</span>",
+  "tr": "Guia do Telegram <span class=\"arr\">↗</span>"
+ },
+ "3819a10a": {
+  "it": "App",
+  "tr": "Aplicações"
+ },
+ "2492782e": {
+  "it": "Locandina: Proteggimi (no pAIn), l'app diversa e intelligente. Aiuto immediato anche senza toccare lo smartphone. Elenco delle versioni per Android, Wear OS e iOS.",
+  "tr": "Cartaz: Proteggimi (no pAIn), a aplicação diferente e inteligente. Ajuda imediata mesmo sem tocar no smartphone. Lista das versões para Android, Wear OS e iOS."
+ },
+ "33c5d0b2": {
+  "it": "Apple Watch con il grande tasto rosso EMERGENZA e la conferma Inviato",
+  "tr": "Apple Watch com o grande botão vermelho EMERGENZA e a confirmação Inviato (enviado)"
+ },
+ "edc36c25": {
+  "it": "Locandina di AIuto SOS watch4help: una donna di notte, sotto la pioggia, seguita da un uomo incappucciato, preme il tasto HELP sul suo smartwatch",
+  "tr": "Cartaz do AIuto SOS watch4help: uma mulher, à noite, à chuva, seguida por um homem de capuz, carrega no botão HELP do seu smartwatch"
+ },
+ "dd4113e6": {
+  "it": "Smartwatch Wear OS con l'app AIuto SOS: tasto rosso INVIO e pulsante FERMA ASCOLTO",
+  "tr": "Smartwatch Wear OS com a aplicação AIuto SOS: botão vermelho INVIO (enviar) e botão FERMA ASCOLTO (parar de ouvir)"
+ },
+ "f0186c7d": {
+  "it": "button4help™ — no pAIn™",
+  "tr": "button4help™ — no pAIn™"
+ },
+ "7dd822ac": {
+  "it": "button4help™, il pulsante Bluetooth che fa scattare l'allarme delle app no pAIn™ a distanza. Cos'è, cosa non è, dove acquistarlo.",
+  "tr": "button4help™, o botão Bluetooth que dispara à distância o alarme das aplicações no pAIn™. O que é, o que não é, onde comprá-lo."
+ },
+ "958757ce": {
+  "it": "Il pulsante fisico no pAIn™",
+  "tr": "O botão físico no pAIn™"
+ },
+ "60bbacf0": {
+  "it": "Piccolo da portare, semplice da attivare. È il “pulsante magico” del progetto: lo tieni in tasca, in borsa o al portachiavi e, quando lo tieni premuto per un paio di secondi, l'app sul tuo smartphone avvia l'emergenza, anche a diversi metri di distanza.",
+  "tr": "Pequeno para trazer, simples de ativar. É o “botão mágico” do projeto: traz-se no bolso, na mala ou no porta-chaves e, quando o mantém premido durante uns segundos, a aplicação do seu smartphone inicia a emergência, mesmo a vários metros de distância."
+ },
+ "341e5940": {
+  "it": "Acquista su AliExpress <span class=\"arr\">↗</span>",
+  "tr": "Comprar no AliExpress <span class=\"arr\">↗</span>"
+ },
+ "8297e0a4": {
+  "it": "Come si usa",
+  "tr": "Como se usa"
+ },
+ "d9c74914": {
+  "it": "Il pulsante non è venduto da no pAIn™: si compra da un rivenditore esterno e si abbina all'app.",
+  "tr": "O botão não é vendido pelo no pAIn™: compra-se num revendedor externo e emparelha-se com a aplicação."
+ },
+ "4a879621": {
+  "it": "Fotografia reale di button4help™ accanto a una moneta da 50 centesimi",
+  "tr": "Fotografia real do button4help™ ao lado de uma moeda de 50 cêntimos"
+ },
+ "5a008d55": {
+  "it": "Com'è e come si usa.",
+  "tr": "Como é e como se usa."
+ },
+ "6a615a7a": {
+  "it": "Lo tieni al portachiavi o in tasca. Quando serve, lo premi: l'app sul telefono avvia in automatico le richieste di aiuto e la posizione live verso i tuoi contatti.",
+  "tr": "Traga-o no porta-chaves ou no bolso. Quando for preciso, carregue: a aplicação do telemóvel inicia automaticamente os pedidos de ajuda e a localização em tempo real para os seus contactos."
+ },
+ "de29e55f": {
+  "it": "<strong>Una pressione, l'allarme parte</strong>Con AI help You: richieste di aiuto e posizione live fino a 24 ore. Locandina in inglese.",
+  "tr": "<strong>Uma pressão e o alarme dispara</strong>Com o AI help You: pedidos de ajuda e localização em tempo real até 24 horas. Cartaz em inglês."
+ },
+ "67062c98": {
+  "it": "Foto reale",
+  "tr": "Fotografia real"
+ },
+ "7a16e76b": {
+  "it": "<strong>Le dimensioni reali</strong>Poco più grande di una moneta da 50 centesimi.",
+  "tr": "<strong>O tamanho real</strong>Pouco maior do que uma moeda de 50 cêntimos."
+ },
+ "2070cd4b": {
+  "it": "Cos'è",
+  "tr": "O que é"
+ },
+ "9890b2ce": {
+  "it": "Un comando a distanza per il tuo telefono.",
+  "tr": "Um comando à distância para o seu telemóvel."
+ },
+ "9b251b4d": {
+  "it": "button4help™ è un pulsante che attiva procedure sullo smartphone entro la portata del Bluetooth. È miniaturizzato perché contiene solo un modulo Bluetooth Low Energy e una batteria a bottone: niente GPS, niente Wi-Fi. La posizione la ricava l'app sul telefono.",
+  "tr": "O button4help™ é um botão que ativa procedimentos no smartphone dentro do alcance do Bluetooth. É miniaturizado porque contém apenas um módulo Bluetooth Low Energy e uma pilha tipo botão: sem GPS, sem Wi-Fi. A localização é obtida pela aplicação no telemóvel."
+ },
+ "6787efb8": {
+  "it": "Attivazione fisica senza impugnare il telefono",
+  "tr": "Ativação física sem pegar no telemóvel"
+ },
+ "d736ee12": {
+  "it": "Collegamento allo smartphone tramite Bluetooth",
+  "tr": "Ligação ao smartphone por Bluetooth"
+ },
+ "8403c8dd": {
+  "it": "Invio secondo le azioni configurate nell'app: messaggi, posizione, telefonate",
+  "tr": "Envio de acordo com as ações configuradas na aplicação: mensagens, localização, chamadas"
+ },
+ "365bf985": {
+  "it": "Attivazione",
+  "tr": "Ativação"
+ },
+ "c835e44b": {
+  "it": "Pressione di circa 2 secondi",
+  "tr": "Pressão de cerca de 2 segundos"
+ },
+ "7908249d": {
+  "it": "Connessione",
+  "tr": "Ligação"
+ },
+ "bd72a591": {
+  "it": "Solo Bluetooth BLE",
+  "tr": "Só Bluetooth BLE"
+ },
+ "af6b2b86": {
+  "it": "Portata",
+  "tr": "Alcance"
+ },
+ "f107edef": {
+  "it": "Diversi metri, quella del Bluetooth",
+  "tr": "Vários metros, o do Bluetooth"
+ },
+ "388e50c9": {
+  "it": "Alimentazione",
+  "tr": "Alimentação"
+ },
+ "65a3fe13": {
+  "it": "Batteria a bottone",
+  "tr": "Pilha tipo botão"
+ },
+ "5597c45e": {
+  "it": "Dimensioni",
+  "tr": "Dimensões"
+ },
+ "bc64b029": {
+  "it": "Poco più di una moneta",
+  "tr": "Pouco maior do que uma moeda"
+ },
+ "3b616f99": {
+  "it": "Funziona con",
+  "tr": "Funciona com"
+ },
+ "fca3fc97": {
+  "it": "AI help You (Android) e no pAIn™ (iPhone)",
+  "tr": "AI help You (Android) e no pAIn™ (iPhone)"
+ },
+ "8aab18f4": {
+  "it": "Cosa non è",
+  "tr": "O que não é"
+ },
+ "4f1cb28f": {
+  "it": "Non è un localizzatore. Non è un pulsante per anziani.",
+  "tr": "Não é um localizador. Não é um botão para idosos."
+ },
+ "a548c8ad": {
+  "it": "In commercio si trovano tracker GPS o Bluetooth che si collegano alla rete degli AirTag di Apple o a quella di Android, usati per ritrovare oggetti e animali. button4help™ è tutt'altra cosa.",
+  "tr": "No mercado há localizadores GPS ou Bluetooth que se ligam à rede dos AirTag da Apple ou à do Android, usados para encontrar objetos e animais. O button4help™ é outra coisa."
+ },
+ "6db059c6": {
+  "it": "Dispositivo",
+  "tr": "Dispositivo"
+ },
+ "f54e2369": {
+  "it": "A cosa serve",
+  "tr": "Para que serve"
+ },
+ "bc3ce023": {
+  "it": "Tracker GPS o BLE",
+  "tr": "Localizador GPS ou BLE"
+ },
+ "2f4967a6": {
+  "it": "Ritrovare oggetti e animali",
+  "tr": "Encontrar objetos e animais"
+ },
+ "2e515267": {
+  "it": "Si fa localizzare tramite la rete AirTag di Apple o quella di Android",
+  "tr": "É localizado através da rede AirTag da Apple ou da do Android"
+ },
+ "33730eab": {
+  "it": "Pulsante SOS per anziani",
+  "tr": "Botão SOS para idosos"
+ },
+ "5aaa5107": {
+  "it": "Chiamare un centro di assistenza",
+  "tr": "Ligar para um centro de assistência"
+ },
+ "4397cb12": {
+  "it": "Dispositivo dedicato, spesso con SIM o base propria",
+  "tr": "Dispositivo dedicado, muitas vezes com SIM ou base própria"
+ },
+ "aee3bb1e": {
+  "it": "Far scattare l'allarme dell'app no pAIn™",
+  "tr": "Disparar o alarme da aplicação no pAIn™"
+ },
+ "20709993": {
+  "it": "Comando a distanza verso lo smartphone: parte l'emergenza con messaggi, posizione e chiamate ai tuoi contatti",
+  "tr": "Comando à distância para o smartphone: a emergência começa com mensagens, localização e chamadas para os seus contactos"
+ },
+ "83bc9dd4": {
+  "it": "Tre passaggi, poi è sempre con te.",
+  "tr": "Três passos e fica sempre consigo."
+ },
+ "2ad3bbd9": {
+  "it": "Acquistalo",
+  "tr": "Compre-o"
+ },
+ "2a235caf": {
+  "it": "Compra il pulsante dal rivenditore indicato qui sotto. Prezzo, spedizione e disponibilità dipendono dal venditore.",
+  "tr": "Compre o botão no revendedor indicado abaixo. Preço, envio e disponibilidade dependem do vendedor."
+ },
+ "4f37e640": {
+  "it": "Abbinalo all'app",
+  "tr": "Emparelhe-o com a aplicação"
+ },
+ "be135ba9": {
+  "it": "In AI help You o in no pAIn™ per iPhone, segui la procedura di abbinamento del manuale. Poi fai una prova concordata con i tuoi contatti.",
+  "tr": "No AI help You ou no no pAIn™ para iPhone, siga o procedimento de emparelhamento do manual. Depois faça um teste combinado com os seus contactos."
+ },
+ "bfafd6eb": {
+  "it": "Tienilo premuto",
+  "tr": "Mantenha-o premido"
+ },
+ "0cce84c0": {
+  "it": "Quando serve, premi il pulsante per un paio di secondi: l'app avvia le azioni di emergenza che hai impostato.",
+  "tr": "Quando for preciso, carregue no botão durante uns segundos: a aplicação inicia as ações de emergência que definiu."
+ },
+ "95d857fd": {
+  "it": "Il pulsante comanda l'app sullo smartphone: il telefono deve essere acceso, entro la portata Bluetooth, con l'app configurata. Se ti serve un dispositivo che funzioni senza telefono, guarda <a class=\"link-arrow\" href=\"prodotti.html#aiuto-sos\">AIuto SOS per Wear OS</a>.",
+  "tr": "O botão comanda a aplicação no smartphone: o telemóvel tem de estar ligado, dentro do alcance Bluetooth e com a aplicação configurada. Se precisar de um dispositivo que funcione sem telemóvel, veja o <a class=\"link-arrow\" href=\"prodotti.html#aiuto-sos\">AIuto SOS para Wear OS</a>."
+ },
+ "65c77e5d": {
+  "it": "Dove acquistarlo",
+  "tr": "Onde comprá-lo"
+ },
+ "ea0e770f": {
+  "it": "button4help™ si acquista su AliExpress, da un venditore terzo. no pAIn™ non vende il dispositivo e non gestisce ordini, spedizioni o resi.",
+  "tr": "O button4help™ compra-se no AliExpress, a um vendedor terceiro. O no pAIn™ não vende o dispositivo nem trata de encomendas, envios ou devoluções."
+ },
+ "92b67a03": {
+  "it": "Hai dubbi sulla compatibilità con il tuo telefono? <a class=\"link-arrow\" href=\"mailto:agostino.giorgio@poliba.it\" data-mail=\"private\">Scrivici prima di acquistare</a>.",
+  "tr": "Tem dúvidas sobre a compatibilidade com o seu telemóvel? <a class=\"link-arrow\" href=\"mailto:agostino.giorgio@poliba.it\" data-mail=\"private\">Escreva-nos antes de comprar</a>."
+ },
+ "b2f18c7a": {
+  "it": "La versione gioiello è già disponibile?",
+  "tr": "A versão joia já está disponível?"
+ },
+ "7644c8e2": {
+  "it": "Le foto di questa pagina mostrano il dispositivo attuale. Le immagini promozionali con pendenti a cuore o altri gioielli illustrano possibilità di design: disponibilità e caratteristiche vanno confermate con il progettista.",
+  "tr": "As fotografias desta página mostram o dispositivo atual. As imagens promocionais com pendentes em forma de coração ou outras joias ilustram possibilidades de design: a disponibilidade e as características têm de ser confirmadas com o projetista."
+ },
+ "ee681b0a": {
+  "it": "Altre domande frequenti →",
+  "tr": "Mais perguntas frequentes →"
+ },
+ "2d09c535": {
+  "it": "Fotografia reale di button4help, un pulsante nero rotondo con anello per portachiavi, accanto a una moneta da 50 centesimi di euro per confrontarne le dimensioni",
+  "tr": "Fotografia real do button4help, um botão preto redondo com argola para porta-chaves, ao lado de uma moeda de 50 cêntimos de euro para comparar o tamanho"
+ },
+ "35ddd6d7": {
+  "it": "Locandina di button4help con AI help You: di notte, sotto la pioggia, una donna seguita da un uomo stringe il pulsante al portachiavi; nel riquadro l'amica riceve SMS e posizione su Telegram",
+  "tr": "Cartaz do button4help com o AI help You: à noite, à chuva, uma mulher seguida por um homem aperta o botão do porta-chaves; no detalhe, uma amiga recebe um SMS e a localização no Telegram"
+ },
+ "65f3becd": {
+  "it": "Fotografia reale di button4help accanto a una moneta da 50 centesimi di euro",
+  "tr": "Fotografia real do button4help ao lado de uma moeda de 50 cêntimos de euro"
+ },
+ "4124ebae": {
+  "it": "no pAIn™ — Free e Premium",
+  "tr": "no pAIn™ — Free e Premium"
+ },
+ "99d0f5ce": {
+  "it": "Cosa è incluso nelle versioni gratuite e Premium delle app no pAIn™ per Android e iPhone, con il confronto completo delle funzioni.",
+  "tr": "O que está incluído nas versões gratuitas e Premium das aplicações no pAIn™ para Android e iPhone, com a comparação completa das funções."
+ },
+ "45b5ed65": {
+  "it": "Scegli sapendo <span class=\"hl\">cosa è incluso.</span>",
+  "tr": "Escolha sabendo <span class=\"hl\">o que está incluído.</span>"
+ },
+ "35b66deb": {
+  "it": "Le funzioni di emergenza gratuite sono diverse su Android e iPhone. I tasti rapidi Android e il tasto SOS di iOS restano utilizzabili gratuitamente, secondo la configurazione prevista.",
+  "tr": "As funções de emergência gratuitas são diferentes no Android e no iPhone. Os botões rápidos do Android e o botão SOS do iOS continuam a poder ser usados gratuitamente, de acordo com a configuração prevista."
+ },
+ "1a22bf91": {
+  "it": "Emergenza rapida, anche gratis",
+  "tr": "Emergência rápida, mesmo grátis"
+ },
+ "f1a3cc18": {
+  "it": "Senza abbonamento l'app usa la modalità emergenza rapida: l'attivazione parte dai tasti della home o dalla notifica persistente. Il pulsante Avvia/Start è inattivo; voce e modifica delle impostazioni sono disponibili durante un'emergenza rapida attiva.",
+  "tr": "Sem subscrição, a aplicação usa o modo de emergência rápida: a ativação parte dos botões do ecrã inicial ou da notificação persistente. O botão Avvia/Start está inativo; a voz e a alteração das definições estão disponíveis durante uma emergência rápida ativa."
+ },
+ "e430c6e7": {
+  "it": "Premium abilita l'uso completo descritto nel confronto. Condizioni e prezzo sono indicati nella scheda della singola app su Google Play.",
+  "tr": "O Premium permite a utilização completa descrita na comparação. As condições e o preço constam da página de cada aplicação no Google Play."
+ },
+ "35c98e53": {
+  "it": "SOS e Apple Watch inclusi",
+  "tr": "SOS e Apple Watch incluídos"
+ },
+ "4ee39e7e": {
+  "it": "Tasto SOS al tocco",
+  "tr": "Botão SOS com um toque"
+ },
+ "b6e03f67": {
+  "it": "Telegram con geolocalizzazione",
+  "tr": "Telegram com geolocalização"
+ },
+ "80ac734d": {
+  "it": "Posizione live per 30 minuti",
+  "tr": "Localização em tempo real durante 30 minutos"
+ },
+ "f21a5e8e": {
+  "it": "App compagna per Apple Watch",
+  "tr": "Aplicação complementar para Apple Watch"
+ },
+ "88029d5e": {
+  "it": "Download gratuito. Le funzioni di emergenza incluse restano gratuite.",
+  "tr": "Transferência gratuita. As funções de emergência incluídas continuam gratuitas."
+ },
+ "99a170b7": {
+  "it": "Un acquisto, più funzioni",
+  "tr": "Uma compra, mais funções"
+ },
+ "c5f3092c": {
+  "it": "“Ehi Siri, Proteggimi” in 12 lingue",
+  "tr": "“Hey Siri, Ajuda-me” em 12 idiomas"
+ },
+ "1190dac0": {
+  "it": "SMS, WhatsApp e telefonata ai contatti",
+  "tr": "SMS, WhatsApp e chamada para os contactos"
+ },
+ "60c62804": {
+  "it": "Posizione live da 1 minuto a 24 ore",
+  "tr": "Localização em tempo real de 1 minuto a 24 horas"
+ },
+ "90f33f8e": {
+  "it": "Acquisto una tantum, senza abbonamento. Il prezzo è riportato sull'App Store.",
+  "tr": "Compra única, sem subscrição. O preço está indicado na App Store."
+ },
+ "d7ed525c": {
+  "it": "Confronto completo",
+  "tr": "Comparação completa"
+ },
+ "4adba7f9": {
+  "it": "Tutte le funzioni, Android e iOS.",
+  "tr": "Todas as funções, Android e iOS."
+ },
+ "af6cdad7": {
+  "it": "Confronto tratto dalla presentazione del progetto. Per Android è una sintesi della famiglia di app: consulta la <a class=\"link-arrow\" href=\"prodotti.html\">scheda della singola app</a> per lingue, accessori e durata della posizione. Su telefono puoi scorrere la tabella in orizzontale.",
+  "tr": "Comparação retirada da apresentação do projeto. Para o Android é um resumo da família de aplicações: consulte a <a class=\"link-arrow\" href=\"prodotti.html\">página de cada aplicação</a> para idiomas, acessórios e duração da localização. No telemóvel pode deslizar a tabela na horizontal."
+ },
+ "e8d295dc": {
+  "it": "Funzioni secondo piattaforma e versione",
+  "tr": "Funções por plataforma e versão"
+ },
+ "22f0be8d": {
+  "it": "Funzione",
+  "tr": "Função"
+ },
+ "b92553c3": {
+  "it": "SOS nella pagina principale",
+  "tr": "SOS na página principal"
+ },
+ "c13e1a99": {
+  "it": "No¹",
+  "tr": "Não¹"
+ },
+ "c3032d4a": {
+  "it": "Sì",
+  "tr": "Sim"
+ },
+ "d8ab62a6": {
+  "it": "Tasti rapidi home / notifica, anche ad app chiusa",
+  "tr": "Botões rápidos do ecrã inicial / notificação, mesmo com a aplicação fechada"
+ },
+ "61e6be1a": {
+  "it": "No",
+  "tr": "Não"
+ },
+ "38303040": {
+  "it": "Voce: 4 parole chiave fisse + 3 personali",
+  "tr": "Voz: 4 palavras-chave fixas + 3 pessoais"
+ },
+ "f6015d68": {
+  "it": "Sì²",
+  "tr": "Sim²"
+ },
+ "c19e53d2": {
+  "it": "Attivazione con Google / Siri",
+  "tr": "Ativação com Google / Siri"
+ },
+ "217cae5d": {
+  "it": "Riconoscimento vocale offline, nelle lingue supportate",
+  "tr": "Reconhecimento de voz offline, nos idiomas suportados"
+ },
+ "d2449840": {
+  "it": "Telegram con GPS, indirizzo e link alla mappa",
+  "tr": "Telegram com GPS, morada e ligação para o mapa"
+ },
+ "c98e49e4": {
+  "it": "Messaggio WhatsApp",
+  "tr": "Mensagem de WhatsApp"
+ },
+ "e7e5c556": {
+  "it": "Telefonata al contatto configurato",
+  "tr": "Chamada para o contacto configurado"
+ },
+ "6a9becb3": {
+  "it": "Secondo l'app³",
+  "tr": "Depende da aplicação³"
+ },
+ "1ecf177a": {
+  "it": "30 minuti",
+  "tr": "30 minutos"
+ },
+ "30acb109": {
+  "it": "1 min – 24 ore",
+  "tr": "1 min – 24 horas"
+ },
+ "d25e8013": {
+  "it": "App compagna Wear OS / Apple Watch",
+  "tr": "Aplicação complementar Wear OS / Apple Watch"
+ },
+ "936c1b05": {
+  "it": "Smartwatch senza smartphone",
+  "tr": "Smartwatch sem smartphone"
+ },
+ "590c7126": {
+  "it": "App Wear OS dedicata",
+  "tr": "Aplicação Wear OS dedicada"
+ },
+ "d766ee2c": {
+  "it": "Accesso rapido dal quadrante e complication",
+  "tr": "Acesso rápido a partir do mostrador e complicações"
+ },
+ "a1a75106": {
+  "it": "Comandi vocali su smartwatch",
+  "tr": "Comandos de voz no smartwatch"
+ },
+ "31b8ea4d": {
+  "it": "Modifica impostazioni ad app avviata",
+  "tr": "Alteração das definições com a aplicação em execução"
+ },
+ "83e86049": {
+  "it": "Guida integrata passo passo e PDF",
+  "tr": "Guia integrado passo a passo e PDF"
+ },
+ "853624cf": {
+  "it": "Nessun account, login o cloud proprietario",
+  "tr": "Sem conta, início de sessão ou cloud própria"
+ },
+ "1ffbed10": {
+  "it": "¹ Senza abbonamento il tasto Avvia/Start è inattivo; si usano i tasti di emergenza rapida.",
+  "tr": "¹ Sem subscrição o botão Avvia/Start está inativo; usam-se os botões de emergência rápida."
+ },
+ "1715bdd9": {
+  "it": "² In Android Free, solo mentre è attiva un'emergenza rapida.",
+  "tr": "² No Android Free, só enquanto uma emergência rápida está ativa."
+ },
+ "e576e548": {
+  "it": "³ La presentazione indica fino a 24 ore nelle versioni abilitate: AI help You da 1 minuto a 24 ore, Proteggimi Android fino a 30 minuti, AIuto SOS watch4help™ fino a 60 minuti. Le 12 lingue riguardano le app multilingue; Proteggimi Android è in italiano.",
+  "tr": "³ A apresentação indica até 24 horas nas versões ativadas: AI help You de 1 minuto a 24 horas, Proteggimi Android até 30 minutos, AIuto SOS watch4help™ até 60 minutos. Os 12 idiomas referem-se às aplicações multilingues; o Proteggimi Android está em italiano."
+ },
+ "4adb6e82": {
+  "it": "Domande su costi e funzioni",
+  "tr": "Perguntas sobre custos e funções"
+ },
+ "8d73b6f2": {
+  "it": "no pAIn™ — Come funziona",
+  "tr": "no pAIn™ — Como funciona"
+ },
+ "664fdb6b": {
+  "it": "Come si attivano le app no pAIn™, quali azioni partono, come funziona watch4help™ e come preparare la prima configurazione.",
+  "tr": "Como se ativam as aplicações no pAIn™, que ações partem, como funciona o watch4help™ e como preparar a primeira configuração."
+ },
+ "b232a9df": {
+  "it": "Scegli come attivare. <span class=\"hl\">Decidi chi avvisare.</span>",
+  "tr": "Escolha como ativar. <span class=\"hl\">Decida quem avisar.</span>"
+ },
+ "fd903e09": {
+  "it": "Il progetto offre diverse modalità di attivazione. Le funzioni disponibili dipendono dall'app, dal dispositivo e dalla configurazione.",
+  "tr": "O projeto oferece vários modos de ativação. As funções disponíveis dependem da aplicação, do dispositivo e da configuração."
+ },
+ "cbc5208b": {
+  "it": "Scegli l'app adatta al tuo dispositivo, configura i due contatti di emergenza e abilita le azioni che desideri utilizzare. Se usi il pulsante, completa l'abbinamento.",
+  "tr": "Escolha a aplicação adequada ao seu dispositivo, configure os dois contactos de emergência e ative as ações que pretende usar. Se usar o botão, conclua o emparelhamento."
+ },
+ "3b1a1e2f": {
+  "it": "Le modalità di attivazione",
+  "tr": "Os modos de ativação"
+ },
+ "01906b32": {
+  "it": "Un'interfaccia diversa, secondo il dispositivo che usi.",
+  "tr": "Uma interface diferente, conforme o dispositivo que usa."
+ },
+ "cbc9be52": {
+  "it": "Voce",
+  "tr": "Voz"
+ },
+ "f691286c": {
+  "it": "Senza toccare il telefono",
+  "tr": "Sem tocar no telemóvel"
+ },
+ "1c6c453d": {
+  "it": "Su Android: 4 parole chiave fisse e 3 personali, riconosciute sul dispositivo anche in background o a schermo spento, con il telefono a qualche metro. Su iOS Premium: “Ehi Siri, Proteggimi”.",
+  "tr": "No Android: 4 palavras-chave fixas e 3 pessoais, reconhecidas no dispositivo mesmo em segundo plano ou com o ecrã desligado, com o telemóvel a alguns metros. No iOS Premium: “Hey Siri, Ajuda-me”."
+ },
+ "f40e4fa7": {
+  "it": "Tocco",
+  "tr": "Toque"
+ },
+ "88c826af": {
+  "it": "Tasto SOS, home, notifica",
+  "tr": "Botão SOS, ecrã inicial, notificação"
+ },
+ "e80ae12e": {
+  "it": "Usa il tasto SOS previsto dalla tua versione. Su Android i tasti rapidi della home e la notifica persistente funzionano anche con app chiusa.",
+  "tr": "Use o botão SOS previsto na sua versão. No Android os botões rápidos do ecrã inicial e a notificação persistente funcionam também com a aplicação fechada."
+ },
+ "3a3521af": {
+  "it": "Dal polso",
+  "tr": "A partir do pulso"
+ },
+ "af13bab0": {
+  "it": "Usa voce o pulsante dell'app compatibile. Distingui l'app compagna del telefono dall'app autonoma per Wear OS.",
+  "tr": "Use a voz ou o botão da aplicação compatível. Distinga a aplicação complementar do telemóvel da aplicação autónoma para Wear OS."
+ },
+ "77f8557d": {
+  "it": "Dalla tasca",
+  "tr": "A partir do bolso"
+ },
+ "d1bbdc48": {
+  "it": "Tieni premuto per un paio di secondi il pulsante collegato al telefono: l'app esegue le azioni impostate. <a class=\"link-arrow\" href=\"button4help.html\">Scopri →</a>",
+  "tr": "Mantenha premido durante uns segundos o botão ligado ao telemóvel: a aplicação executa as ações definidas. <a class=\"link-arrow\" href=\"button4help.html\">Saber mais →</a>"
+ },
+ "3e2258c0": {
+  "it": "Dopo l'attivazione",
+  "tr": "Depois da ativação"
+ },
+ "589eca08": {
+  "it": "Le azioni che hai scelto.",
+  "tr": "As ações que escolheu."
+ },
+ "62ae47e4": {
+  "it": "Coordinate GPS, indirizzo e link alla mappa nei messaggi ai contatti. Su iOS richiede Premium e il Comando Rapido Apple.",
+  "tr": "Coordenadas GPS, morada e ligação para o mapa nas mensagens aos contactos. No iOS requer Premium e o Atalho Apple."
+ },
+ "6fb4588f": {
+  "it": "tutte le app",
+  "tr": "todas as aplicações"
+ },
+ "339ee28c": {
+  "it": "Invio della posizione e aggiornamento live: 30 minuti su iOS Free, durata configurabile nelle versioni abilitate fino a 24 ore.",
+  "tr": "Envio da localização e atualização em tempo real: 30 minutos no iOS Free, duração configurável até 24 horas nas versões ativadas."
+ },
+ "0e0ed0f9": {
+  "it": "Chiamate",
+  "tr": "Chamadas"
+ },
+ "5009b2d7": {
+  "it": "Telefonate ai numeri impostati. Su iOS Premium si attivano tramite il Comando Rapido Apple “Proteggimi”.",
+  "tr": "Chamadas para os números definidos. No iOS Premium são ativadas através do Atalho Apple “Proteggimi”."
+ },
+ "12d40da3": {
+  "it": "Disponibile su iOS Premium tramite il Comando Rapido Apple. Non è previsto nelle versioni Android.",
+  "tr": "Disponível no iOS Premium através do Atalho Apple. Não previsto nas versões Android."
+ },
+ "0755181d": {
+  "it": "<b>Importante</b> Le app avvisano i contatti configurati. Non contattano i servizi pubblici di emergenza e non li sostituiscono: i tuoi contatti, ricevuto l'allarme, possono chiamare le forze dell'ordine con tutte le informazioni e venire in tuo aiuto.",
+  "tr": "<b>Importante</b> As aplicações avisam os contactos configurados. Não contactam os serviços públicos de emergência nem os substituem: ao receberem o alarme, os seus contactos podem chamar a polícia com todas as informações e ir em seu auxílio."
+ },
+ "2bff3d53": {
+  "it": "watch4help™ · SOS al polso",
+  "tr": "watch4help™ · SOS no pulso"
+ },
+ "164fe5ab": {
+  "it": "Collegato al telefono o autonomo.",
+  "tr": "Ligado ao telemóvel ou autónomo."
+ },
+ "42226bd7": {
+  "it": "Due modalità, da distinguere",
+  "tr": "Dois modos a distinguir"
+ },
+ "96d4c317": {
+  "it": "Proteggimi e AI help You hanno un'app compagna per l'orologio abbinato. AIuto SOS watch4help™ è invece la soluzione autonoma, utilizzabile senza smartphone con una connessione adatta ai canali scelti.",
+  "tr": "O Proteggimi e o AI help You têm uma aplicação complementar para o relógio emparelhado. O AIuto SOS watch4help™ é, pelo contrário, a solução autónoma, utilizável sem smartphone com uma ligação adequada aos canais escolhidos."
+ },
+ "312fc767": {
+  "it": "Un tocco, con iPhone abbinato",
+  "tr": "Um toque, com o iPhone emparelhado"
+ },
+ "98a4265e": {
+  "it": "L'app compagna può avviare Telegram e posizione anche con iPhone bloccato. Per avviare anche SMS, WhatsApp e telefonata servono Premium, il Comando Rapido configurato e l'app iPhone in primo piano.",
+  "tr": "A aplicação complementar pode iniciar Telegram e localização mesmo com o iPhone bloqueado. Para iniciar também SMS, WhatsApp e chamada, são precisos o Premium, o Atalho configurado e a aplicação do iPhone em primeiro plano."
+ },
+ "351a9e06": {
+  "it": "Schermate delle app tratte dalla presentazione del progetto.",
+  "tr": "Capturas das aplicações retiradas da apresentação do projeto."
+ },
+ "d9277110": {
+  "it": "La prima configurazione",
+  "tr": "A primeira configuração"
+ },
+ "09b2800f": {
+  "it": "Preparala prima. Provala insieme.",
+  "tr": "Prepare-a antes. Teste-a em conjunto."
+ },
+ "5ec3efac": {
+  "it": "Una configurazione corretta è parte del funzionamento. Segui sempre il manuale della tua app.",
+  "tr": "Uma configuração correta faz parte do funcionamento. Siga sempre o manual da sua aplicação."
+ },
+ "1968ce31": {
+  "it": "Scegli chi avvisare",
+  "tr": "Escolha quem avisar"
+ },
+ "9c6f6baa": {
+  "it": "Accetta i termini nell'app, inserisci i numeri di telefono e i chat ID Telegram. Concorda con i contatti come gestire una richiesta.",
+  "tr": "Aceite os termos na aplicação, introduza os números de telefone e os chat ID do Telegram. Combine com os contactos como tratar um pedido."
+ },
+ "5129551e": {
+  "it": "Abilita ciò che serve",
+  "tr": "Ative o que for preciso"
+ },
+ "4401a646": {
+  "it": "Scegli i canali di invio, le parole chiave personali e i permessi necessari. Su iOS configura il Comando Rapido “Proteggimi” per le funzioni Premium.",
+  "tr": "Escolha os canais de envio, as palavras-chave pessoais e as permissões necessárias. No iOS configure o Atalho “Proteggimi” para as funções Premium."
+ },
+ "d5dd5c2c": {
+  "it": "Verifica il dispositivo",
+  "tr": "Verifique o dispositivo"
+ },
+ "1be4d1eb": {
+  "it": "Controlla batteria, connessione, attività in background e abbinamento degli accessori.",
+  "tr": "Verifique bateria, ligação, atividade em segundo plano e emparelhamento dos acessórios."
+ },
+ "3e41f499": {
+  "it": "Fai una prova concordata",
+  "tr": "Faça um teste combinado"
+ },
+ "bbf6ae89": {
+  "it": "Avvisa prima i tuoi contatti, esegui il test e verifica che messaggio e posizione siano arrivati.",
+  "tr": "Avise primeiro os seus contactos, faça o teste e confirme que a mensagem e a localização chegaram."
+ },
+ "bc636f46": {
+  "it": "Connessione e privacy: cosa sapere →",
+  "tr": "Ligação e privacidade: o que saber →"
+ },
+ "1989a681": {
+  "it": "no pAIn™ — Tecnologia e ricerca",
+  "tr": "no pAIn™ — Tecnologia e investigação"
+ },
+ "07d0d552": {
+  "it": "La tecnologia e le pubblicazioni scientifiche del progetto no pAIn™ del Prof. Ing. Agostino Giorgio, Politecnico di Bari.",
+  "tr": "A tecnologia e as publicações científicas do projeto no pAIn™ do Prof. Eng. Agostino Giorgio, Politecnico di Bari."
+ },
+ "8dec5249": {
+  "it": "Dalla ricerca <span class=\"hl\">alla richiesta di aiuto.</span>",
+  "tr": "Da investigação <span class=\"hl\">ao pedido de ajuda.</span>"
+ },
+ "3a7ea31a": {
+  "it": "no pAIn™ significa <em>never oppressed protected by Artificial Intelligence Non violence system</em>. Il progetto del Prof. Ing. Agostino Giorgio, docente del Politecnico di Bari, applica intelligenza artificiale, riconoscimento vocale e geolocalizzazione alla richiesta di aiuto verso contatti fidati.",
+  "tr": "no pAIn™ significa <em>never oppressed protected by Artificial Intelligence Non violence system</em>. O projeto do Prof. Eng. Agostino Giorgio, docente do Politecnico di Bari, aplica inteligência artificial, reconhecimento de voz e geolocalização ao pedido de ajuda a contactos de confiança."
+ },
+ "7a4c0b9b": {
+  "it": "Architettura",
+  "tr": "Arquitetura"
+ },
+ "f2934e70": {
+  "it": "Dal tuo dispositivo ai tuoi contatti",
+  "tr": "Do seu dispositivo para os seus contactos"
+ },
+ "216dd7c5": {
+  "it": "Il progetto descrive un'architettura senza account, login o cloud proprietario. Lo sviluppatore dichiara di non raccogliere dati personali; impostazioni e contatti rimangono sul dispositivo. Per recapitare gli avvisi e ricavare l'indirizzo vengono comunque usati i servizi esterni previsti dall'app.",
+  "tr": "O projeto descreve uma arquitetura sem conta, início de sessão ou cloud própria. O programador declara não recolher dados pessoais; as definições e os contactos ficam no dispositivo. Para entregar os alertas e obter a morada são, ainda assim, usados os serviços externos previstos pela aplicação."
+ },
+ "f9c98298": {
+  "it": "Riconoscimento vocale sul dispositivo",
+  "tr": "Reconhecimento de voz no dispositivo"
+ },
+ "c6703e52": {
+  "it": "Nelle versioni Android e nelle lingue abilitate, il riconoscimento delle parole chiave funziona anche offline. L'invio degli avvisi richiede invece le connessioni necessarie al canale scelto: rete dati, SMS o telefonia.",
+  "tr": "Nas versões Android e nos idiomas ativados, o reconhecimento das palavras-chave funciona também offline. O envio dos alertas, pelo contrário, requer as ligações necessárias ao canal escolhido: dados móveis, SMS ou telefonia."
+ },
+ "d86ad526": {
+  "it": "Affidabilità",
+  "tr": "Fiabilidade"
+ },
+ "45ca0fbe": {
+  "it": "Continuità e ripristino",
+  "tr": "Continuidade e recuperação"
+ },
+ "26c3887c": {
+  "it": "La presentazione descrive ritrasmissione degli avvisi al ritorno della rete, ripresa della posizione live dopo interruzioni e riattivazione guidata dopo riavvii o aggiornamenti, con test su smartphone e smartwatch reali. L'effettivo funzionamento dipende da versione, permessi, rete e dispositivo.",
+  "tr": "A apresentação descreve o reenvio dos alertas quando a rede regressa, a retoma da localização em tempo real após interrupções e a reativação guiada após reinícios ou atualizações, com testes em smartphones e smartwatches reais. O funcionamento efetivo depende da versão, das permissões, da rede e do dispositivo."
+ },
+ "22266a9c": {
+  "it": "Pubblicazioni",
+  "tr": "Publicações"
+ },
+ "7cc8a78c": {
+  "it": "Pubblicato su rivista scientifica.",
+  "tr": "Publicado numa revista científica."
+ },
+ "4de95746": {
+  "it": "Il dispositivo e l'app sono descritti in due articoli sulla rivista internazionale <em>Electronics</em> (MDPI), ad accesso aperto.",
+  "tr": "O dispositivo e a aplicação são descritos em dois artigos de acesso aberto da revista internacional <em>Electronics</em> (MDPI)."
+ },
+ "3f10489d": {
+  "it": "Approfondisci il progetto",
+  "tr": "Saiba mais sobre o projeto"
+ },
+ "e449099c": {
+  "it": "La presentazione completa.",
+  "tr": "A apresentação completa."
+ },
+ "33b96627": {
+  "it": "Funzionamento, versioni, schermate e riferimenti scientifici. PDF in italiano, 23 pagine.",
+  "tr": "Funcionamento, versões, capturas e referências científicas. PDF em italiano, 23 páginas."
+ },
+ "1329fef9": {
+  "it": "Apri la presentazione PDF <span class=\"arr\">↗</span>",
+  "tr": "Abrir a apresentação em PDF <span class=\"arr\">↗</span>"
+ },
+ "89c663d7": {
+  "it": "Materiale promozionale del progetto",
+  "tr": "Material promocional do projeto"
+ },
+ "8797ba72": {
+  "it": "Locandina del progetto no pAIn by Agostino Giorgio, Politecnico di Bari: digital4help, protezione digitale, una nuova era per la tutela delle donne",
+  "tr": "Cartaz do projeto no pAIn de Agostino Giorgio, Politecnico di Bari: digital4help, proteção digital, uma nova era para a proteção das mulheres"
+ },
+ "3a0eca35": {
+  "it": "no pAIn™ — Collabora",
+  "tr": "no pAIn™ — Colabore"
+ },
+ "2f329875": {
+  "it": "Porta no pAIn™ nella tua organizzazione: enti pubblici, associazioni, aziende e sponsor.",
+  "tr": "Leve o no pAIn™ à sua organização: entidades públicas, associações, empresas e patrocinadores."
+ },
+ "0f218826": {
+  "it": "Porta no pAIn™ <span class=\"hl\">nella tua organizzazione.</span>",
+  "tr": "Leve o no pAIn™ <span class=\"hl\">à sua organização.</span>"
+ },
+ "00d835f5": {
+  "it": "Mettere uno strumento a disposizione è il primo passo. Farlo conoscere, spiegarne l'uso e inserirlo in un contesto di supporto è altrettanto importante.",
+  "tr": "Disponibilizar uma ferramenta é o primeiro passo. Dá-la a conhecer, explicar a sua utilização e integrá-la numa rede de apoio é igualmente importante."
+ },
+ "ed20cf20": {
+  "it": "Richiedi una dimostrazione <span class=\"arr\">↗</span>",
+  "tr": "Pedir uma demonstração <span class=\"arr\">↗</span>"
+ },
+ "dfc78647": {
+  "it": "Enti pubblici",
+  "tr": "Entidades públicas"
+ },
+ "2bd94dc1": {
+  "it": "Iniziative locali e progetti pilota",
+  "tr": "Iniciativas locais e projetos-piloto"
+ },
+ "203f6364": {
+  "it": "Valutiamo iniziative sul territorio e progetti pilota, a partire da una dimostrazione e da obiettivi condivisi.",
+  "tr": "Avaliamos iniciativas locais e projetos-piloto, a partir de uma demonstração e de objetivos partilhados."
+ },
+ "f3584485": {
+  "it": "Associazioni",
+  "tr": "Associações"
+ },
+ "2c4ff7c9": {
+  "it": "Accanto a chi conosce i bisogni",
+  "tr": "Ao lado de quem conhece as necessidades"
+ },
+ "97d70b91": {
+  "it": "Un confronto con chi lavora ogni giorno con le persone, per capire utilità, modalità d'uso e limiti dello strumento.",
+  "tr": "Um diálogo com quem trabalha todos os dias com as pessoas, para perceber a utilidade, os modos de utilização e os limites da ferramenta."
+ },
+ "0ab434b0": {
+  "it": "Aziende e sponsor",
+  "tr": "Empresas e patrocinadores"
+ },
+ "51348394": {
+  "it": "Sensibilizzazione e sostegno",
+  "tr": "Sensibilização e apoio"
+ },
+ "f4d66b9e": {
+  "it": "Approfondiamo proposte per gruppi di utenti, iniziative di sensibilizzazione e sostegno a progetti sul territorio.",
+  "tr": "Analisamos propostas para grupos de utilizadores, iniciativas de sensibilização e apoio a projetos locais."
+ },
+ "c0b7455c": {
+  "it": "Cosa portiamo",
+  "tr": "O que trazemos"
+ },
+ "d5c89ab3": {
+  "it": "Una tecnologia nata in università, pronta da usare.",
+  "tr": "Uma tecnologia nascida na universidade, pronta a usar."
+ },
+ "907fb86c": {
+  "it": "App gratuite da scaricare per Android, iPhone e smartwatch, un pulsante acquistabile da chiunque, nessun account e nessun cloud da gestire. E un progetto descritto in pubblicazioni scientifiche.",
+  "tr": "Aplicações gratuitas para Android, iPhone e smartwatches, um botão que qualquer pessoa pode comprar, sem contas nem cloud para gerir. E um projeto descrito em publicações científicas."
+ },
+ "9544f0cf": {
+  "it": "Una dimostrazione è il modo migliore per iniziare <span class=\"arr\">↗</span>",
+  "tr": "Uma demonstração é a melhor forma de começar <span class=\"arr\">↗</span>"
+ },
+ "851d2b68": {
+  "it": "Presentazione PDF <span class=\"arr\">↗</span>",
+  "tr": "Apresentação em PDF <span class=\"arr\">↗</span>"
+ },
+ "6878e072": {
+  "it": "Locandina: Proteggimi (no pAIn), l'app diversa e intelligente. Aiuto immediato anche senza toccare lo smartphone.",
+  "tr": "Cartaz: Proteggimi (no pAIn), a aplicação diferente e inteligente. Ajuda imediata mesmo sem tocar no smartphone."
+ },
+ "cb27864b": {
+  "it": "no pAIn™ — Domande frequenti",
+  "tr": "no pAIn™ — Perguntas frequentes"
+ },
+ "3b6519ae": {
+  "it": "Risposte chiare sulle app no pAIn™, su button4help™, sulla connessione, sulla privacy e sui costi.",
+  "tr": "Respostas claras sobre as aplicações no pAIn™, o button4help™, a ligação, a privacidade e os custos."
+ },
+ "d18377be": {
+  "it": "Domande semplici. <span class=\"hl\">Risposte chiare.</span>",
+  "tr": "Perguntas simples. <span class=\"hl\">Respostas claras.</span>"
+ },
+ "44dbf7c0": {
+  "it": "Prima di scegliere, conosci il funzionamento e le condizioni d'uso.",
+  "tr": "Antes de escolher, conheça o funcionamento e as condições de utilização."
+ },
+ "a943bf49": {
+  "it": "Perché non chiamare direttamente il 112?",
+  "tr": "Porque não ligar diretamente para o 112?"
+ },
+ "5879ca74": {
+  "it": "Il 112 resta fondamentale e, se puoi, chiamalo. Ma in pericolo spesso non si può parlare con un operatore, spiegare la situazione e dire dove ci si trova. Le app no pAIn™ servono proprio a questo: con una parola o un tocco discreto avvisano due persone di fiducia con la tua posizione, e saranno loro a chiamare le forze dell'ordine.",
+  "tr": "O 112 continua a ser fundamental e, se puder, ligue. Mas em perigo muitas vezes não é possível falar com um operador, explicar a situação e dizer onde se encontra. É para isso que servem as aplicações no pAIn™: com uma palavra ou um toque discreto avisam duas pessoas de confiança com a sua localização, e serão elas a chamar a polícia."
+ },
+ "bba383c4": {
+  "it": "Chi riceve la richiesta di aiuto?",
+  "tr": "Quem recebe o pedido de ajuda?"
+ },
+ "677457a0": {
+  "it": "I due contatti di emergenza impostati da te nell'app, parenti o amici. A seconda dell'app puoi abilitare SMS, WhatsApp (iPhone), Telegram e telefonate. Le app non contattano i servizi pubblici di emergenza.",
+  "tr": "Os dois contactos de emergência que definiu na aplicação, familiares ou amigos. Consoante a aplicação, pode ativar SMS, WhatsApp (iPhone), Telegram e chamadas. As aplicações não contactam os serviços públicos de emergência."
+ },
+ "c585af6a": {
+  "it": "Posso usarle con un iPhone?",
+  "tr": "Posso usá-las com um iPhone?"
+ },
+ "837d55d5": {
+  "it": "Sì: no pAIn™ (Proteggimi) è disponibile sull'App Store, in 12 lingue e con app compagna per Apple Watch. La versione gratuita include SOS e Telegram; Premium aggiunge Siri, SMS, WhatsApp e chiamate tramite i Comandi Rapidi. <a href=\"versioni.html\">Vedi il confronto</a>.",
+  "tr": "Sim: o no pAIn™ (Proteggimi) está disponível na App Store, em 12 idiomas e com aplicação complementar para Apple Watch. A versão gratuita inclui SOS e Telegram; o Premium acrescenta Siri, SMS, WhatsApp e chamadas através dos Atalhos. <a href=\"versioni.html\">Ver a comparação</a>."
+ },
+ "5e269703": {
+  "it": "Quanto costano?",
+  "tr": "Quanto custam?"
+ },
+ "264bfcce": {
+  "it": "Su iOS il download e le funzioni Free sono gratuiti; Premium richiede un acquisto una tantum, senza abbonamento. Su Android restano gratuiti i tasti di emergenza rapida, con le limitazioni illustrate nel <a href=\"versioni.html\">confronto</a>. Consulta gli store per i prezzi delle app.",
+  "tr": "No iOS a transferência e as funções Free são gratuitas; o Premium requer uma compra única, sem subscrição. No Android os botões de emergência rápida continuam gratuitos, com as limitações indicadas na <a href=\"versioni.html\">comparação</a>. Consulte as lojas para ver o preço das aplicações."
+ },
+ "98931ccd": {
+  "it": "La posizione resta visibile per 24 ore in ogni app?",
+  "tr": "A localização fica visível durante 24 horas em todas as aplicações?"
+ },
+ "73d74e51": {
+  "it": "La durata dipende dall'app e dalla versione. Su iOS Free è di 30 minuti; su iOS Premium va da 1 minuto a 24 ore. AI help You arriva fino a 24 ore; Proteggimi Android e AIuto SOS watch4help™ riportano rispettivamente 30 e 60 minuti. Controlla le opzioni dell'app installata.",
+  "tr": "A duração depende da aplicação e da versão. No iOS Free é de 30 minutos; no iOS Premium vai de 1 minuto a 24 horas. O AI help You chega às 24 horas; o Proteggimi Android e o AIuto SOS watch4help™ indicam 30 e 60 minutos, respetivamente. Verifique as opções da aplicação instalada."
+ },
+ "22510adf": {
+  "it": "Lo smartwatch deve essere sempre vicino al telefono?",
+  "tr": "O smartwatch tem de estar sempre perto do telemóvel?"
+ },
+ "28dd55f0": {
+  "it": "Per Wear OS puoi scegliere fra l'app compagna del telefono e AIuto SOS watch4help™, autonoma, che usa la connessione dell'orologio. L'app compagna per Apple Watch lavora con l'iPhone abbinato: Telegram e posizione possono partire anche con iPhone bloccato; per le altre azioni Premium serve l'app iPhone in primo piano. Un'app dedicata AIutoSOS per Apple Watch è in programma.",
+  "tr": "No Wear OS pode escolher entre a aplicação complementar do telemóvel e o AIuto SOS watch4help™, autónomo, que usa a ligação do relógio. A aplicação complementar para Apple Watch funciona com o iPhone emparelhado: Telegram e localização podem partir mesmo com o iPhone bloqueado; para as outras ações Premium a aplicação do iPhone tem de estar em primeiro plano. Está prevista uma aplicação AIutoSOS dedicada ao Apple Watch."
+ },
+ "5f1834e5": {
+  "it": "Il pulsante funziona senza smartphone?",
+  "tr": "O botão funciona sem smartphone?"
+ },
+ "b93269ec": {
+  "it": "No. button4help™ è il comando di un'app sullo smartphone associato: il telefono deve essere acceso e raggiungibile via Bluetooth. Se ti serve una soluzione senza telefono, c'è l'app autonoma <a href=\"prodotti.html#aiuto-sos\">AIuto SOS watch4help™</a> per Wear OS, le cui funzioni dipendono dalla connettività dell'orologio.",
+  "tr": "Não. O button4help™ comanda uma aplicação no smartphone emparelhado: o telemóvel tem de estar ligado e acessível por Bluetooth. Se precisar de uma solução sem telemóvel, existe a aplicação autónoma <a href=\"prodotti.html#aiuto-sos\">AIuto SOS watch4help™</a> para Wear OS, cujas funções dependem da conectividade do relógio."
+ },
+ "b702e7a0": {
+  "it": "In cosa è diverso da un AirTag o da un tracker?",
+  "tr": "Em que é diferente de um AirTag ou de um localizador?"
+ },
+ "ee37e011": {
+  "it": "I tracker GPS o Bluetooth servono a ritrovare oggetti e animali tramite la rete AirTag di Apple o quella di Android. button4help™ non si fa localizzare: è un pulsante che, premuto per un paio di secondi, fa scattare l'emergenza nell'app. Contiene solo un modulo Bluetooth Low Energy e una batteria a bottone, per questo è così piccolo. È diverso anche dai classici pulsanti SOS per anziani.",
+  "tr": "Os localizadores GPS ou Bluetooth servem para encontrar objetos e animais através da rede AirTag da Apple ou da do Android. O button4help™ não pode ser localizado: é um botão que, premido durante uns segundos, dispara a emergência na aplicação. Contém apenas um módulo Bluetooth Low Energy e uma pilha tipo botão, por isso é tão pequeno. É também diferente dos clássicos botões SOS para idosos."
+ },
+ "404d40e9": {
+  "it": "Dove lo compro e con quali app funziona?",
+  "tr": "Onde o compro e com que aplicações funciona?"
+ },
+ "eb01d77f": {
+  "it": "Si acquista su <a href=\"https://it.aliexpress.com/item/1005008509583971.html\" target=\"_blank\" rel=\"noopener\">AliExpress</a>, da un venditore terzo: no pAIn™ non lo vende. Funziona con AI help You su Android e con no pAIn™ su iPhone. Per dubbi sulla compatibilità con il tuo telefono, <a href=\"mailto:agostino.giorgio@poliba.it\" data-mail=\"private\">scrivi al progettista</a>.",
+  "tr": "Compra-se no <a href=\"https://it.aliexpress.com/item/1005008509583971.html\" target=\"_blank\" rel=\"noopener\">AliExpress</a>, a um vendedor terceiro: o no pAIn™ não o vende. Funciona com o AI help You no Android e com o no pAIn™ no iPhone. Se tiver dúvidas sobre a compatibilidade com o seu telemóvel, <a href=\"mailto:agostino.giorgio@poliba.it\" data-mail=\"private\">escreva ao projetista</a>."
+ },
+ "3a4698fd": {
+  "it": "Le foto del pulsante mostrano il dispositivo attuale. Le immagini promozionali con pendenti a cuore o altri gioielli illustrano possibilità di design: disponibilità e caratteristiche di questi accessori vanno confermate con il progettista.",
+  "tr": "As fotografias do botão mostram o dispositivo atual. As imagens promocionais com pendentes em forma de coração ou outras joias ilustram possibilidades de design: a disponibilidade e as características destes acessórios têm de ser confirmadas com o projetista."
+ },
+ "688cc56a": {
+  "it": "Connessione e privacy",
+  "tr": "Ligação e privacidade"
+ },
+ "ae12ac09": {
+  "it": "“IA offline” significa che non serve connessione?",
+  "tr": "“IA offline” significa que não é precisa ligação?"
+ },
+ "73f2db19": {
+  "it": "Il riconoscimento locale delle parole chiave non invia l'audio a un servizio cloud. L'invio degli avvisi è un passaggio diverso: Telegram e WhatsApp richiedono internet; SMS e telefonate dipendono dalla rete e dal piano dell'operatore. Anche il collegamento fra accessorio e telefono deve essere disponibile.",
+  "tr": "O reconhecimento local das palavras-chave não envia o áudio para um serviço na cloud. O envio dos alertas é um passo diferente: Telegram e WhatsApp precisam de internet; SMS e chamadas dependem da rede e do tarifário do operador. A ligação entre o acessório e o telemóvel também tem de estar disponível."
+ },
+ "1198a78d": {
+  "it": "Vengono registrate le conversazioni?",
+  "tr": "As conversas são gravadas?"
+ },
+ "66ecb0b4": {
+  "it": "Lo sviluppatore dichiara che il microfono serve al riconoscimento locale delle parole chiave, senza registrare l'audio, e che contatti e impostazioni restano sul dispositivo. Gli avvisi usano comunque servizi esterni, come operatori telefonici e Telegram, con le rispettive informative. Consulta l'<a href=\"https://poliba.wixsite.com/no_pain_privacy\" target=\"_blank\" rel=\"noopener\">informativa della singola app</a>.",
+  "tr": "O programador declara que o microfone serve para o reconhecimento local das palavras-chave, sem gravar áudio, e que os contactos e as definições ficam no dispositivo. Os alertas usam, ainda assim, serviços externos, como operadores telefónicos e o Telegram, com as respetivas políticas de privacidade. Consulte a <a href=\"https://poliba.wixsite.com/no_pain_privacy\" target=\"_blank\" rel=\"noopener\">política de privacidade de cada aplicação</a>."
+ },
+ "ed1d4c77": {
+  "it": "Serve creare un account?",
+  "tr": "É preciso criar uma conta?"
+ },
+ "92ae487c": {
+  "it": "No. Le app non richiedono account, login o cloud proprietario: impostazioni e contatti restano sul tuo telefono.",
+  "tr": "Não. As aplicações não pedem conta, início de sessão nem cloud própria: as definições e os contactos ficam no seu telemóvel."
+ },
+ "_ui": {
+  "menu": "Menu",
+  "close": "Fechar",
+  "closeImage": "Fechar"
+ },
+ "_mail": {
+  "privateSubject": "button4help™ — pedido de informações",
+  "privateBody": "Bom dia,\ngostaria de receber informações sobre o button4help™: preço, disponibilidade e compatibilidade com o meu telemóvel.\n\nModelo do telemóvel: \n\nCom os melhores cumprimentos",
+  "partnerSubject": "no pAIn™ — pedido de colaboração",
+  "partnerBody": "Bom dia,\ngostaria de saber mais sobre o projeto no pAIn™ e avaliar uma possível colaboração ou demonstração.\n\nEntidade ou empresa: \nPessoa de contacto: \n\nCom os melhores cumprimentos"
+ }
+}

@@ -1,0 +1,1821 @@
+{
+ "f140bfd5": {
+  "it": "no pAIn™: la tutela digitale contro la violenza di genere. App e dispositivi che chiedono aiuto con la voce o con un gesto, senza dover parlare con nessuno.",
+  "tr": "no pAIn™: digitalt skydd mot könsrelaterat våld. Appar och enheter som ber om hjälp med rösten eller en gest, utan att du behöver prata med någon."
+ },
+ "7485a5cc": {
+  "it": "Il progetto",
+  "tr": "Projektet"
+ },
+ "3c3edab5": {
+  "it": "Le app",
+  "tr": "Apparna"
+ },
+ "2405dae5": {
+  "it": "Free e Premium",
+  "tr": "Free och Premium"
+ },
+ "304ad423": {
+  "it": "Come funziona",
+  "tr": "Så fungerar det"
+ },
+ "3b2a74ba": {
+  "it": "Ricerca",
+  "tr": "Forskning"
+ },
+ "cef2e389": {
+  "it": "Per enti e aziende",
+  "tr": "Organisationer"
+ },
+ "b0987c4b": {
+  "it": "Domande",
+  "tr": "Frågor"
+ },
+ "9c6a2f5f": {
+  "it": "Contatti",
+  "tr": "Kontakt"
+ },
+ "bc47d777": {
+  "it": "Tutela digitale · digital4help™",
+  "tr": "Digitalt skydd · digital4help™"
+ },
+ "3351a7a0": {
+  "it": "Chiedere aiuto <span class=\"hl\">senza dover parlare.</span>",
+  "tr": "Be om hjälp <span class=\"hl\">utan att behöva prata.</span>"
+ },
+ "e662d766": {
+  "it": "no pAIn™ è un ecosistema di app e dispositivi per la prevenzione della violenza di genere. Con una parola, un tocco o un pulsante, avvisa subito due persone di fiducia con la tua posizione: messaggi e telefonate partono da soli.",
+  "tr": "no pAIn™ är ett ekosystem av appar och enheter för att förebygga könsrelaterat våld. Med ett ord, en beröring eller en knapp varnar det direkt två personer du litar på och skickar din position: meddelanden och samtal går iväg av sig själva."
+ },
+ "14ea42b7": {
+  "it": "Scegli la tua app <span class=\"arr\">→</span>",
+  "tr": "Välj din app <span class=\"arr\">→</span>"
+ },
+ "82d6a819": {
+  "it": "Scopri button4help™ <span class=\"arr\">→</span>",
+  "tr": "Upptäck button4help™ <span class=\"arr\">→</span>"
+ },
+ "c1aca8f1": {
+  "it": "Progetto ideato dal <strong>Prof. Ing. Agostino Giorgio</strong><br>Docente del Politecnico di Bari",
+  "tr": "Ett projekt av <strong>professor, civilingenjör Agostino Giorgio</strong><br>Lärare vid Politecnico di Bari"
+ },
+ "ef8c5976": {
+  "it": "Giulia<small>contatto di emergenza</small>",
+  "tr": "Giulia<small>nödkontakt</small>"
+ },
+ "fd908409": {
+  "it": "<span class=\"sos\">RICHIESTA DI AIUTO</span><br>Ho bisogno di aiuto. Questa è la mia posizione.",
+  "tr": "<span class=\"sos\">HJÄLPBEGÄRAN</span><br>Jag behöver hjälp. Här är min position."
+ },
+ "f09882f7": {
+  "it": "41.1087° N, 16.8784° E<br><span class=\"live\">● posizione live attiva</span>",
+  "tr": "41.1087° N, 16.8784° E<br><span class=\"live\">● liveposition aktiv</span>"
+ },
+ "a3e96f0f": {
+  "it": "Esempio illustrativo di ciò che riceve un contatto",
+  "tr": "Exempel på vad en kontakt får"
+ },
+ "ce0132df": {
+  "it": "L'idea",
+  "tr": "Idén"
+ },
+ "f36541c1": {
+  "it": "Da signal4help a <span class=\"hl\">digital4help™</span>",
+  "tr": "Från signal4help till <span class=\"hl\">digital4help™</span>"
+ },
+ "ed14bbed": {
+  "it": "Il segnale con la mano, signal4help, è diventato il gesto universale con cui chi è in pericolo chiede aiuto in silenzio. Ma funziona solo se qualcuno lo vede. no pAIn™ ne ha fatto una versione elettronica: il “signal for help” arriva alle persone giuste, ovunque siano, insieme alla posizione.",
+  "tr": "Handsignalen signal4help har blivit den universella gest med vilken den som är i fara tyst ber om hjälp. Men den fungerar bara om någon ser den. no pAIn™ har skapat en elektronisk version: ”signal for help” når rätt personer, var de än är, tillsammans med positionen."
+ },
+ "923665b8": {
+  "it": "GESTO 1",
+  "tr": "GEST 1"
+ },
+ "1d140d31": {
+  "it": "Palmo aperto",
+  "tr": "Öppen handflata"
+ },
+ "95366a71": {
+  "it": "GESTO 2",
+  "tr": "GEST 2"
+ },
+ "c4b876c9": {
+  "it": "Pollice piegato sul palmo",
+  "tr": "Tummen vikt in i handflatan"
+ },
+ "943668de": {
+  "it": "GESTO 3",
+  "tr": "GEST 3"
+ },
+ "0a28e822": {
+  "it": "Dita chiuse sul pollice",
+  "tr": "Fingrarna slutna över tummen"
+ },
+ "cbb74791": {
+  "it": "Lo stesso messaggio, senza bisogno di essere vista",
+  "tr": "Samma budskap, utan att behöva synas"
+ },
+ "915f0e78": {
+  "it": "Una parola chiave detta ad alta voce, un tocco sullo schermo, sull'orologio o su un pulsante in tasca. L'app fa il resto e avvisa i tuoi contatti di emergenza.",
+  "tr": "Ett nyckelord sagt högt, en beröring på skärmen, på klockan eller på en knapp i fickan. Appen gör resten och varnar dina nödkontakter."
+ },
+ "a192d5c1": {
+  "it": "Perché serve",
+  "tr": "Varför det behövs"
+ },
+ "6c714dba": {
+  "it": "Nel pericolo non sempre si può parlare.",
+  "tr": "I fara kan man inte alltid prata."
+ },
+ "51447e50": {
+  "it": "Il 112 e app come YouPol restano strumenti fondamentali. Però chiedono di parlare con un operatore, spiegare cosa sta succedendo e dire dove ci si trova. Con un aggressore accanto, spesso è impossibile.",
+  "tr": "112 och appar som YouPol är fortfarande viktiga verktyg. Men de kräver att du pratar med en operatör, förklarar vad som händer och säger var du är. Med en angripare bredvid dig är det ofta omöjligt."
+ },
+ "deb6e2a4": {
+  "it": "Chiamata o app di segnalazione",
+  "tr": "Samtal eller anmälningsapp"
+ },
+ "921dd1f7": {
+  "it": "Bisogna prendere in mano il telefono e sbloccarlo",
+  "tr": "Du måste ta upp telefonen och låsa upp den"
+ },
+ "eed236ef": {
+  "it": "Bisogna parlare o scrivere, spiegando la situazione",
+  "tr": "Du måste prata eller skriva och förklara situationen"
+ },
+ "15656b20": {
+  "it": "Bisogna descrivere dove ci si trova",
+  "tr": "Du måste beskriva var du är"
+ },
+ "9124957b": {
+  "it": "Chi aggredisce può accorgersene",
+  "tr": "Angriparen kan märka det"
+ },
+ "49795334": {
+  "it": "Un'app con tecnologia no pAIn™",
+  "tr": "En app med no pAIn™-teknik"
+ },
+ "d0047c0e": {
+  "it": "Basta una parola chiave, anche con il telefono a qualche metro",
+  "tr": "Det räcker med ett nyckelord, även när telefonen ligger några meter bort"
+ },
+ "479e4c85": {
+  "it": "Oppure un tocco discreto: su una notifica, sull'orologio, su un pulsante",
+  "tr": "Eller en diskret beröring: på en avisering, på klockan, på en knapp"
+ },
+ "026026d4": {
+  "it": "La posizione viene inviata in automatico",
+  "tr": "Positionen skickas automatiskt"
+ },
+ "202def39": {
+  "it": "Due persone di fiducia sono avvisate subito e possono chiamare le forze dell'ordine",
+  "tr": "Två personer du litar på varnas direkt och kan ringa polisen"
+ },
+ "89c8cdba": {
+  "it": "Come si attiva",
+  "tr": "Så aktiverar du det"
+ },
+ "9d32cd40": {
+  "it": "Sei modi rapidissimi per lanciare l'allarme.",
+  "tr": "Sex blixtsnabba sätt att slå larm."
+ },
+ "855eb6d8": {
+  "it": "Ogni situazione è diversa: per questo le app no pAIn™ offrono più punti di innesco. Scegli quelli che puoi usare senza farti notare. Le funzioni disponibili dipendono dall'app e dal dispositivo.",
+  "tr": "Varje situation är olika: därför erbjuder no pAIn™-apparna flera sätt att utlösa larmet. Välj de sätt du kan använda utan att märkas. Vilka funktioner som finns beror på appen och enheten."
+ },
+ "5c8c7520": {
+  "it": "IA offline",
+  "tr": "Offline-AI"
+ },
+ "b382d344": {
+  "it": "Comando vocale",
+  "tr": "Röstkommando"
+ },
+ "530af9ef": {
+  "it": "Pronunci una parola chiave e le azioni di emergenza partono, senza toccare il telefono. Su Android il riconoscimento vocale è sul dispositivo, con 4 parole chiave fisse e 3 personali: funziona con app aperta, in background o chiusa, anche a schermo spento e con il telefono a qualche metro. Su iPhone basta dire “Ehi Siri, Proteggimi”.",
+  "tr": "Du säger ett nyckelord och nödåtgärderna startar, utan att du rör telefonen. På Android sker röstigenkänningen på enheten, med 4 fasta och 3 personliga nyckelord: den fungerar med appen öppen, i bakgrunden eller stängd, även med skärmen avstängd och telefonen några meter bort. På iPhone räcker det att säga ”Hej Siri, Hjälp mig”."
+ },
+ "faf9e1fd": {
+  "it": "app aperta",
+  "tr": "appen öppen"
+ },
+ "8ef8f4f2": {
+  "it": "Tasto di emergenza nell'app",
+  "tr": "Nödknapp i appen"
+ },
+ "ae23781b": {
+  "it": "Il grande tasto SOS nella schermata principale. È il metodo più semplice e richiede che l'app sia in primo piano.",
+  "tr": "Den stora SOS-knappen på huvudskärmen. Det enklaste sättet, men appen måste vara i förgrunden."
+ },
+ "0bed2b9f": {
+  "it": "Android · app chiusa",
+  "tr": "Android · appen stängd"
+ },
+ "57946f7b": {
+  "it": "Tasto rapido in home",
+  "tr": "Snabbknapp på hemskärmen"
+ },
+ "dc947037": {
+  "it": "Un tasto sulla schermata home del telefono risveglia l'app anche quando è chiusa e dormiente, e avvia subito l'emergenza.",
+  "tr": "En knapp på telefonens hemskärm väcker appen även när den är stängd och vilande, och startar nödläget direkt."
+ },
+ "910bbdb2": {
+  "it": "Android · discreto",
+  "tr": "Android · diskret"
+ },
+ "ac44bb94": {
+  "it": "Notifica persistente",
+  "tr": "Beständig avisering"
+ },
+ "e247de3d": {
+  "it": "Un tocco sulla notifica sempre presente. Chi ti guarda pensa che tu stia solo scorrendo le notifiche: in realtà stai chiedendo aiuto.",
+  "tr": "Ett tryck på aviseringen som alltid finns där. Den som tittar tror att du bara bläddrar bland aviseringar: i själva verket ber du om hjälp."
+ },
+ "49bb1439": {
+  "it": "Smartwatch",
+  "tr": "Smartklocka"
+ },
+ "c582733c": {
+  "it": "Voce o tasto sul quadrante di uno smartwatch Wear OS, oppure tocco su Apple Watch. Le app per smartphone hanno la loro app compagna per l'orologio; AIuto SOS funziona addirittura senza smartphone.",
+  "tr": "Röst eller knapp på urtavlan på en Wear OS-klocka, eller ett tryck på Apple Watch. Mobilapparna har en egen följeslagarapp för klockan; AIuto SOS fungerar till och med utan mobil."
+ },
+ "afc4bb5a": {
+  "it": "Pulsante button4help™",
+  "tr": "Knappen button4help™"
+ },
+ "27245e1d": {
+  "it": "Tieni premuto per un paio di secondi il piccolo pulsante che porti con te: l'app sullo smartphone, a diversi metri di distanza, avvia l'emergenza. <a class=\"link-arrow\" href=\"button4help.html\">Scopri →</a>",
+  "tr": "Håll in den lilla knappen du bär med dig i ett par sekunder: appen i mobilen, flera meter bort, startar nödläget. <a class=\"link-arrow\" href=\"button4help.html\">Läs mer →</a>"
+ },
+ "72179135": {
+  "it": "Cosa succede",
+  "tr": "Vad som händer"
+ },
+ "4a208c02": {
+  "it": "Tutto parte da solo, verso due persone di fiducia.",
+  "tr": "Allt startar av sig självt, till två personer du litar på."
+ },
+ "c9d56318": {
+  "it": "Nell'app imposti due contatti di emergenza, parenti o amici. Appena l'allarme scatta, ricevono la tua richiesta di aiuto e la tua posizione.",
+  "tr": "I appen anger du två nödkontakter, släktingar eller vänner. Så fort larmet går får de din hjälpbegäran och din position."
+ },
+ "4d2b859a": {
+  "it": "SMS con posizione",
+  "tr": "Sms med position"
+ },
+ "d4224bde": {
+  "it": "Coordinate GPS, indirizzo e link alla mappa. Viaggia sulla rete telefonica, senza bisogno di internet.",
+  "tr": "GPS-koordinater, adress och kartlänk. Skickas via telefonnätet, utan internet."
+ },
+ "dd629a23": {
+  "it": "WhatsApp con posizione",
+  "tr": "WhatsApp med position"
+ },
+ "64664831": {
+  "it": "Su iPhone il messaggio con la posizione arriva anche su WhatsApp.",
+  "tr": "På iPhone kommer meddelandet med positionen även via WhatsApp."
+ },
+ "5fd172ca": {
+  "it": "live fino a 24 ore",
+  "tr": "live i upp till 24 timmar"
+ },
+ "5187e248": {
+  "it": "Telegram con posizione live",
+  "tr": "Telegram med liveposition"
+ },
+ "d89f380c": {
+  "it": "La posizione si aggiorna in tempo reale, così i contatti possono seguirti. La durata dipende dall'app e dalla versione.",
+  "tr": "Positionen uppdateras i realtid så att dina kontakter kan följa dig. Hur länge beror på appen och versionen."
+ },
+ "ee006bf8": {
+  "it": "Telefonata",
+  "tr": "Telefonsamtal"
+ },
+ "32339987": {
+  "it": "L'app avvia la chiamata ai contatti di emergenza, senza che tu debba comporre nulla.",
+  "tr": "Appen ringer dina nödkontakter utan att du behöver slå något nummer."
+ },
+ "4bf5a602": {
+  "it": "Tu",
+  "tr": "Du"
+ },
+ "d57530db": {
+  "it": "voce, tocco o pulsante",
+  "tr": "röst, beröring eller knapp"
+ },
+ "7acbe219": {
+  "it": "App no pAIn™",
+  "tr": "no pAIn™-appen"
+ },
+ "dbd95aa2": {
+  "it": "posizione + messaggi",
+  "tr": "position + meddelanden"
+ },
+ "ee660409": {
+  "it": "2 contatti di fiducia",
+  "tr": "2 kontakter du litar på"
+ },
+ "9f0c43e0": {
+  "it": "SMS · WhatsApp · Telegram · chiamata",
+  "tr": "Sms · WhatsApp · Telegram · samtal"
+ },
+ "61957ddc": {
+  "it": "Aiuto concreto",
+  "tr": "Verklig hjälp"
+ },
+ "1145e6b6": {
+  "it": "chiamano le forze dell'ordine o vengono da te",
+  "tr": "de ringer polisen eller kommer till dig"
+ },
+ "ccff734a": {
+  "it": "<b>Importante</b> Le app avvisano i contatti che hai scelto: non chiamano direttamente il 112 e non lo sostituiscono. Accordati prima con i tuoi contatti su cosa fare quando ricevono un allarme, e fate insieme una prova.",
+  "tr": "<b>Viktigt</b> Apparna varnar de kontakter du har valt: de ringer inte 112 direkt och ersätter inte heller numret. Kom överens med dina kontakter i förväg om vad de ska göra när de får ett larm, och testa tillsammans."
+ },
+ "ffa6706d": {
+  "it": "Materiale promozionale del progetto. I gioielli nelle illustrazioni sono concept di design.",
+  "tr": "Projektets marknadsföringsmaterial. Smyckena på illustrationerna är designkoncept."
+ },
+ "968d258f": {
+  "it": "L'ecosistema",
+  "tr": "Ekosystemet"
+ },
+ "58ed31c8": {
+  "it": "Il tuo dispositivo. La tua app no pAIn™.",
+  "tr": "Din enhet. Din no pAIn™-app."
+ },
+ "0e5790b5": {
+  "it": "Smartphone Android, iPhone, smartwatch e un pulsante da tenere in tasca. Lingue, connessioni e funzioni cambiano da un'app all'altra: scegli la soluzione adatta a te.",
+  "tr": "Android-mobiler, iPhone, smartklockor och en knapp att ha i fickan. Språk, anslutningar och funktioner skiljer sig mellan apparna: välj den lösning som passar dig."
+ },
+ "937cc276": {
+  "it": "ANDROID · 12 LINGUE",
+  "tr": "ANDROID · 12 SPRÅK"
+ },
+ "bc873aca": {
+  "it": "La versione multilingue per Android, compatibile con button4help™.",
+  "tr": "Den flerspråkiga versionen för Android, kompatibel med button4help™."
+ },
+ "02bb91db": {
+  "it": "Scopri →",
+  "tr": "Läs mer →"
+ },
+ "da94c32a": {
+  "it": "ANDROID · ITALIANO",
+  "tr": "ANDROID · ITALIENSKA"
+ },
+ "560d580a": {
+  "it": "Proteggimi (no pAIn™)",
+  "tr": "Proteggimi (no pAIn™)"
+ },
+ "c9dc4660": {
+  "it": "L'app no pAIn™ per Android in lingua italiana.",
+  "tr": "no pAIn™-appen för Android på italienska."
+ },
+ "7c9000fa": {
+  "it": "IPHONE · 12 LINGUE",
+  "tr": "IPHONE · 12 SPRÅK"
+ },
+ "53a6ca86": {
+  "it": "no pAIn™ (Proteggimi)",
+  "tr": "no pAIn™ (Proteggimi)"
+ },
+ "20efe117": {
+  "it": "La versione per iPhone e Apple Watch.",
+  "tr": "Versionen för iPhone och Apple Watch."
+ },
+ "646c8658": {
+  "it": "WEAR OS · SOLO SMARTWATCH",
+  "tr": "WEAR OS · ENDAST SMARTKLOCKA"
+ },
+ "ae8e4f36": {
+  "it": "Funziona sull'orologio da solo, senza smartphone.",
+  "tr": "Fungerar på klockan ensam, utan mobil."
+ },
+ "fe4f6e94": {
+  "it": "DISPOSITIVO BLUETOOTH",
+  "tr": "BLUETOOTH-ENHET"
+ },
+ "f3871ce8": {
+  "it": "Il pulsante che fa scattare l'allarme a distanza. Si acquista da un rivenditore esterno.",
+  "tr": "Knappen som slår larm på avstånd. Köps hos en extern återförsäljare."
+ },
+ "cd6f44e7": {
+  "it": "Confronta le versioni Free e Premium →",
+  "tr": "Jämför Free och Premium →"
+ },
+ "c9e1e158": {
+  "it": "Come iniziare",
+  "tr": "Kom igång"
+ },
+ "461fee95": {
+  "it": "Scegli come attivare. Decidi chi avvisare.",
+  "tr": "Välj hur du aktiverar. Bestäm vem du varnar."
+ },
+ "f18a1185": {
+  "it": "Prepara la tua rete",
+  "tr": "Förbered ditt nätverk"
+ },
+ "ec84f4d8": {
+  "it": "Scegli l'app adatta al tuo dispositivo, configura i contatti e abilita le azioni che desideri utilizzare. Se usi il pulsante, completa l'abbinamento.",
+  "tr": "Välj appen som passar din enhet, ställ in kontakterna och aktivera de åtgärder du vill använda. Om du använder knappen, slutför parkopplingen."
+ },
+ "fb1634e8": {
+  "it": "Prima dell'utilizzo",
+  "tr": "Före användning"
+ },
+ "a408696f": {
+  "it": "Attiva la richiesta",
+  "tr": "Skicka begäran"
+ },
+ "b729dfea": {
+  "it": "Usa la modalità prevista dalla tua app: comando vocale, tocco sullo schermo, smartwatch compatibile o pulsante fisico associato.",
+  "tr": "Använd det sätt din app erbjuder: röstkommando, tryck på skärmen, kompatibel smartklocka eller parkopplad fysisk knapp."
+ },
+ "4dac2a4a": {
+  "it": "Quando serve",
+  "tr": "När det behövs"
+ },
+ "7baeebcb": {
+  "it": "Avvisa chi hai scelto",
+  "tr": "Varna dem du har valt"
+ },
+ "2e3538da": {
+  "it": "Partono le azioni abilitate: messaggi con posizione, condivisione live tramite Telegram e telefonate ai contatti configurati.",
+  "tr": "De aktiverade åtgärderna startar: meddelanden med position, livedelning via Telegram och samtal till de inställda kontakterna."
+ },
+ "bcbad548": {
+  "it": "Verso i tuoi contatti",
+  "tr": "Till dina kontakter"
+ },
+ "c1def374": {
+  "it": "Tutti i dettagli su come funziona →",
+  "tr": "Alla detaljer om hur det fungerar →"
+ },
+ "9e32c6aa": {
+  "it": "Tecnologia e ricerca",
+  "tr": "Teknik och forskning"
+ },
+ "d06791de": {
+  "it": "Nato in università, pubblicato su rivista scientifica.",
+  "tr": "Född på universitetet, publicerad i en vetenskaplig tidskrift."
+ },
+ "1d2d739f": {
+  "it": "no pAIn™ sta per <em>never oppressed protected by Artificial Intelligence Non violence system</em>. Il progetto è descritto in due articoli sulla rivista <em>Electronics</em> (2024 e 2026) e in una presentazione completa di 23 pagine.",
+  "tr": "no pAIn™ står för <em>never oppressed protected by Artificial Intelligence Non violence system</em>. Projektet beskrivs i två artiklar i tidskriften <em>Electronics</em> (2024 och 2026) och i en fullständig presentation på 23 sidor."
+ },
+ "933b9302": {
+  "it": "Tecnologia e pubblicazioni →",
+  "tr": "Teknik och publikationer →"
+ },
+ "271da2d3": {
+  "it": "Collaboriamo",
+  "tr": "Låt oss samarbeta"
+ },
+ "2021fdec": {
+  "it": "Porta no pAIn™ nella tua organizzazione.",
+  "tr": "Ta med no pAIn™ till din organisation."
+ },
+ "fece8668": {
+  "it": "Enti pubblici, associazioni, aziende e sponsor: far conoscere lo strumento e inserirlo in un contesto di supporto è importante quanto metterlo a disposizione.",
+  "tr": "Offentliga aktörer, föreningar, företag och sponsorer: att göra verktyget känt och bygga in det i ett stödnätverk är lika viktigt som att tillhandahålla det."
+ },
+ "2922d011": {
+  "it": "Proposte per enti e aziende →",
+  "tr": "Förslag för organisationer och företag →"
+ },
+ "408bf598": {
+  "it": "Prezzi, disponibilità e collaborazioni",
+  "tr": "Priser, tillgänglighet och samarbeten"
+ },
+ "04d28f92": {
+  "it": "Troviamo la soluzione adatta a te.",
+  "tr": "Låt oss hitta rätt lösning för dig."
+ },
+ "3b06eb9a": {
+  "it": "Prof. Ing. Agostino Giorgio",
+  "tr": "Professor, civilingenjör Agostino Giorgio"
+ },
+ "f7164594": {
+  "it": "Dipartimento di Ingegneria Elettrica e dell'Informazione",
+  "tr": "Institutionen för elektroteknik och informationsteknik"
+ },
+ "19232904": {
+  "it": "Tel. ufficio: 080 596 3239/579",
+  "tr": "Tfn kontor: 080 596 3239/579"
+ },
+ "063197de": {
+  "it": "Informazioni per privati",
+  "tr": "Information för privatpersoner"
+ },
+ "d5d3839c": {
+  "it": "App, button4help™ e compatibilità con il tuo telefono",
+  "tr": "Appar, button4help™ och kompatibilitet med din telefon"
+ },
+ "1de7ac43": {
+  "it": "Proposte per enti e aziende",
+  "tr": "Förslag för organisationer och företag"
+ },
+ "38aa4552": {
+  "it": "Dimostrazioni e collaborazioni",
+  "tr": "Demonstrationer och samarbeten"
+ },
+ "e611274e": {
+  "it": "Si aprirà la tua app di posta. Puoi scrivere anche direttamente a <a href=\"mailto:agostino.giorgio@poliba.it\">agostino.giorgio@poliba.it</a>",
+  "tr": "Din e-postapp öppnas. Du kan också skriva direkt till <a href=\"mailto:agostino.giorgio@poliba.it\">agostino.giorgio@poliba.it</a>"
+ },
+ "30c5dd7a": {
+  "it": "Progetto del Prof. Ing. Agostino Giorgio<br>Docente del Politecnico di Bari",
+  "tr": "Ett projekt av professor, civilingenjör Agostino Giorgio<br>Lärare vid Politecnico di Bari"
+ },
+ "376980d1": {
+  "it": "Il sito",
+  "tr": "Webbplatsen"
+ },
+ "02e617b0": {
+  "it": "Risorse",
+  "tr": "Resurser"
+ },
+ "d2c43509": {
+  "it": "Manuali e privacy delle app ↗",
+  "tr": "Appmanualer och integritet ↗"
+ },
+ "3de40ce7": {
+  "it": "Presentazione del progetto (PDF, in italiano) ↗",
+  "tr": "Projektpresentation (pdf, på italienska) ↗"
+ },
+ "fa6502e1": {
+  "it": "In caso di pericolo immediato chiama il 112. Le app no pAIn™ avvisano i contatti di emergenza scelti da te e non sostituiscono i servizi pubblici di emergenza.",
+  "tr": "Ring 112 vid akut fara. no pAIn™-apparna varnar de nödkontakter du har valt och ersätter inte samhällets räddningstjänster."
+ },
+ "84beb5f4": {
+  "it": "Informati. Configura. Prova.",
+  "tr": "Informera dig. Ställ in. Testa."
+ },
+ "e1eb3d77": {
+  "it": "Navigazione principale",
+  "tr": "Huvudnavigering"
+ },
+ "8ada5d6f": {
+  "it": "Esempio di messaggio di emergenza ricevuto da un contatto, con mappa e posizione live",
+  "tr": "Exempel på ett nödmeddelande som en kontakt får, med karta och liveposition"
+ },
+ "faf87077": {
+  "it": "Percorso della richiesta di aiuto",
+  "tr": "Hjälpbegärans väg"
+ },
+ "0c5818c5": {
+  "it": "Locandina del progetto no pAIn: digital4help, protezione digitale. Elenca Proteggimi per Android in italiano, AI help You per Android in 12 lingue, AIuto SOS watch4help per smartwatch Wear OS e no pAIn per iOS.",
+  "tr": "Affisch för projektet no pAIn: digital4help, digitalt skydd. Den listar Proteggimi för Android på italienska, AI help You för Android på 12 språk, AIuto SOS watch4help för Wear OS-klockor och no pAIn för iOS."
+ },
+ "2d84f182": {
+  "it": "no pAIn™ — Le app",
+  "tr": "no pAIn™ — Apparna"
+ },
+ "4cb80780": {
+  "it": "Le app del progetto no pAIn™: AI help You, Proteggimi, no pAIn™ per iPhone, AIuto SOS watch4help™ per Wear OS, AI help App.",
+  "tr": "Apparna i projektet no pAIn™: AI help You, Proteggimi, no pAIn™ för iPhone, AIuto SOS watch4help™ för Wear OS, AI help App."
+ },
+ "4798db56": {
+  "it": "Scegli la tua app",
+  "tr": "Välj din app"
+ },
+ "3844a828": {
+  "it": "Scegli come <span class=\"hl\">farti sentire.</span>",
+  "tr": "Välj hur du <span class=\"hl\">gör dig hörd.</span>"
+ },
+ "1fe8fc5f": {
+  "it": "no pAIn™ porta su smartphone un “signal for help” elettronico, attivabile con la voce o con un tocco. watch4help™ è la stessa tecnologia per smartwatch. Lingue, connessioni e funzioni cambiano da un'app all'altra.",
+  "tr": "no pAIn™ ger mobilen en elektronisk ”signal for help” som aktiveras med rösten eller en beröring. watch4help™ är samma teknik för smartklockor. Språk, anslutningar och funktioner skiljer sig mellan apparna."
+ },
+ "2d8cc3bc": {
+  "it": "AI help App · AIutoSOS Apple Watch",
+  "tr": "AI help App · AIutoSOS Apple Watch"
+ },
+ "eb84c3fe": {
+  "it": "Materiale promozionale del progetto · concept illustrativo",
+  "tr": "Projektets marknadsföringsmaterial · illustrativt koncept"
+ },
+ "9f217028": {
+  "it": "12 lingue",
+  "tr": "12 språk"
+ },
+ "c3d2a0e3": {
+  "it": "La versione Android in 12 lingue, con parole chiave personalizzabili, riconoscimento vocale offline e app compagna per smartwatch Wear OS. Offre tutti i punti di innesco della tecnologia no pAIn™, compreso il pulsante button4help™.",
+  "tr": "Android-versionen på 12 språk, med anpassningsbara nyckelord, offline röstigenkänning och följeslagarapp för Wear OS-klockor. Den erbjuder alla sätt att utlösa larm med no pAIn™-tekniken, inklusive knappen button4help™."
+ },
+ "2d194a50": {
+  "it": "Posizione live su Telegram",
+  "tr": "Liveposition via Telegram"
+ },
+ "79136d29": {
+  "it": "Da 1 minuto a 24 ore, impostabili",
+  "tr": "Från 1 minut till 24 timmar, inställbart"
+ },
+ "3f0060e7": {
+  "it": "Scarica da Google Play <span class=\"arr\">↗</span>",
+  "tr": "Ladda ned på Google Play <span class=\"arr\">↗</span>"
+ },
+ "234e8230": {
+  "it": "Comandi vocali: 4 parole chiave fisse e 3 personali, anche a schermo spento e con telefono a qualche metro",
+  "tr": "Röstkommandon: 4 fasta och 3 personliga nyckelord, även med skärmen avstängd och telefonen några meter bort"
+ },
+ "9c27cbb0": {
+  "it": "Attivazione con l'assistente Google",
+  "tr": "Aktivering med Google Assistent"
+ },
+ "b3dffb7e": {
+  "it": "Tasto di emergenza nella schermata principale",
+  "tr": "Nödknapp på huvudskärmen"
+ },
+ "6b9d4770": {
+  "it": "Tasto rapido in home che risveglia l'app chiusa",
+  "tr": "Snabbknapp på hemskärmen som väcker den stängda appen"
+ },
+ "04d63739": {
+  "it": "Voce o tasto dall'app compagna per smartwatch Wear OS",
+  "tr": "Röst eller knapp från följeslagarappen för Wear OS-klockor"
+ },
+ "beac9291": {
+  "it": "Pressione di un paio di secondi su button4help™",
+  "tr": "Tryck i ett par sekunder på button4help™"
+ },
+ "413559c6": {
+  "it": "Cosa invia",
+  "tr": "Vad den skickar"
+ },
+ "98aa1b82": {
+  "it": "SMS con coordinate GPS, indirizzo e link alla mappa",
+  "tr": "Sms med GPS-koordinater, adress och kartlänk"
+ },
+ "d4c9d532": {
+  "it": "Telefonata automatica ai contatti",
+  "tr": "Automatiskt samtal till kontakterna"
+ },
+ "2de0c79b": {
+  "it": "WhatsApp non previsto su Android",
+  "tr": "WhatsApp finns inte på Android"
+ },
+ "db678d25": {
+  "it": "AI help You avvisa i contatti configurati. Non contatta i servizi pubblici di emergenza e non li sostituisce. Senza abbonamento funziona in modalità emergenza rapida: <a class=\"link-arrow\" href=\"versioni.html\">vedi Free e Premium</a>.",
+  "tr": "AI help You varnar de inställda kontakterna. Appen kontaktar inte samhällets räddningstjänster och ersätter dem inte. Utan prenumeration fungerar den i snabbt nödläge: <a class=\"link-arrow\" href=\"versioni.html\">se Free och Premium</a>."
+ },
+ "6ea5fa0c": {
+  "it": "Italiano",
+  "tr": "Italienska"
+ },
+ "20c7a5d2": {
+  "it": "Proteggimi <span class=\"hl\">(no pAIn™)</span>",
+  "tr": "Proteggimi <span class=\"hl\">(no pAIn™)</span>"
+ },
+ "eed3fce0": {
+  "it": "La versione Android in italiano, con attivazione vocale o manuale. Ascolta le tue parole chiave anche con app chiusa e schermo spento, e ha un'app compagna per smartwatch Wear OS.",
+  "tr": "Android-versionen på italienska, med aktivering via röst eller manuellt. Den lyssnar efter dina nyckelord även med appen stängd och skärmen avstängd, och har en följeslagarapp för Wear OS-klockor."
+ },
+ "8ea55c3d": {
+  "it": "Fino a 30 minuti",
+  "tr": "Upp till 30 minuter"
+ },
+ "6c64d7dd": {
+  "it": "Comandi vocali con parole chiave personalizzate, riconoscimento vocale offline",
+  "tr": "Röstkommandon med egna nyckelord, offline röstigenkänning"
+ },
+ "ce25e0f3": {
+  "it": "SMS con geolocalizzazione",
+  "tr": "Sms med geolokalisering"
+ },
+ "248290f9": {
+  "it": "Telegram con posizione, anche live",
+  "tr": "Telegram med position, även live"
+ },
+ "3cc7cd1e": {
+  "it": "no pAIn™ <span class=\"hl\">(Proteggimi)</span>",
+  "tr": "no pAIn™ <span class=\"hl\">(Proteggimi)</span>"
+ },
+ "1a03fdfe": {
+  "it": "La versione per iPhone, con le stesse funzioni sostanziali di AI help You: 12 lingue, app compagna per Apple Watch e compatibilità con button4help™. In più, invia l'allarme anche su WhatsApp.",
+  "tr": "iPhone-versionen, med samma grundfunktioner som AI help You: 12 språk, följeslagarapp för Apple Watch och kompatibilitet med button4help™. Dessutom skickar den larmet även via WhatsApp."
+ },
+ "ea1a0de1": {
+  "it": "Free: 30 minuti · Premium: da 1 minuto a 24 ore",
+  "tr": "Free: 30 minuter · Premium: från 1 minut till 24 timmar"
+ },
+ "60d31c99": {
+  "it": "Scarica dall'App Store <span class=\"arr\">↗</span>",
+  "tr": "Ladda ned i App Store <span class=\"arr\">↗</span>"
+ },
+ "139feebd": {
+  "it": "L'app compagna su Apple Watch: un tocco su EMERGENZA",
+  "tr": "Följeslagarappen på Apple Watch: ett tryck på EMERGENZA"
+ },
+ "12c0a0fa": {
+  "it": "Tasto SOS nella schermata principale",
+  "tr": "SOS-knapp på huvudskärmen"
+ },
+ "4dd7f245": {
+  "it": "Comando vocale “Ehi Siri, Proteggimi” (Premium)",
+  "tr": "Röstkommandot ”Hej Siri, Hjälp mig” (Premium)"
+ },
+ "046e3411": {
+  "it": "Tocco sul quadrante di Apple Watch, anche con iPhone bloccato",
+  "tr": "Tryck på Apple Watch-urtavlan, även med iPhone låst"
+ },
+ "cb8e543a": {
+  "it": "Telegram con posizione e link alla mappa",
+  "tr": "Telegram med position och kartlänk"
+ },
+ "a4ad6467": {
+  "it": "SMS con geolocalizzazione (Premium)",
+  "tr": "Sms med geolokalisering (Premium)"
+ },
+ "c1adc012": {
+  "it": "WhatsApp con geolocalizzazione (Premium)",
+  "tr": "WhatsApp med geolokalisering (Premium)"
+ },
+ "9aa46536": {
+  "it": "Telefonata automatica ai contatti (Premium)",
+  "tr": "Automatiskt samtal till kontakterna (Premium)"
+ },
+ "55055aa6": {
+  "it": "Il download è gratuito e comprende tasto SOS, Telegram con posizione, posizione live per 30 minuti e app per Apple Watch. Premium aggiunge Siri, SMS, WhatsApp, telefonata e posizione live da 1 minuto a 24 ore, con un acquisto una tantum e senza abbonamento.",
+  "tr": "Nedladdningen är gratis och omfattar SOS-knapp, Telegram med position, liveposition i 30 minuter och appen för Apple Watch. Premium lägger till Siri, sms, WhatsApp, samtal och liveposition från 1 minut till 24 timmar, med ett engångsköp och utan prenumeration."
+ },
+ "046c9709": {
+  "it": "SMS, WhatsApp e telefonata passano dal Comando Rapido Apple “Proteggimi”, che si installa dall'app. Da Apple Watch partono Telegram e posizione anche con iPhone bloccato; per le altre azioni serve l'app iPhone in primo piano.",
+  "tr": "Sms, WhatsApp och samtal går via Apples genväg ”Proteggimi”, som installeras från appen. Från Apple Watch skickas Telegram och position även med iPhone låst; för övriga åtgärder måste iPhone-appen vara i förgrunden."
+ },
+ "5a57807b": {
+  "it": "Senza smartphone",
+  "tr": "Utan mobil"
+ },
+ "968d7a54": {
+  "it": "Un'app solo per smartwatch Wear OS che non ha bisogno dello smartphone. È la tecnologia no pAIn™ in versione indossabile, chiamata watch4help™: l'allarme parte direttamente dal polso.",
+  "tr": "En app enbart för Wear OS-klockor som inte behöver någon mobil. Det är no pAIn™-tekniken i bärbar form, kallad watch4help™: larmet startar direkt från handleden."
+ },
+ "e1c60fd6": {
+  "it": "Fino a 60 minuti",
+  "tr": "Upp till 60 minuter"
+ },
+ "f0dec499": {
+  "it": "Comando vocale sull'orologio",
+  "tr": "Röstkommando på klockan"
+ },
+ "fff8e9ce": {
+  "it": "Tasto di emergenza sul quadrante",
+  "tr": "Nödknapp på urtavlan"
+ },
+ "e44b4962": {
+  "it": "Accesso rapido dal quadrante e dalle complication",
+  "tr": "Snabbåtkomst från urtavlan och komplikationer"
+ },
+ "128ac670": {
+  "it": "Da sapere",
+  "tr": "Bra att veta"
+ },
+ "fad03b25": {
+  "it": "Funziona in autonomia, anche con lo smartphone lontano o spento",
+  "tr": "Fungerar självständigt, även när mobilen är långt bort eller avstängd"
+ },
+ "b9fef944": {
+  "it": "I canali disponibili dipendono dalla connessione dell'orologio: LTE con SIM oppure Wi-Fi/Bluetooth",
+  "tr": "Vilka kanaler som finns beror på klockans anslutning: LTE med SIM eller wifi/Bluetooth"
+ },
+ "8e57ca44": {
+  "it": "Da non confondere con le app compagne di Proteggimi e AI help You, che invece lavorano insieme al telefono abbinato.",
+  "tr": "Ska inte förväxlas med följeslagarapparna till Proteggimi och AI help You, som fungerar tillsammans med den parkopplade telefonen."
+ },
+ "0b973f5f": {
+  "it": "In immagini e video",
+  "tr": "I bilder och video"
+ },
+ "e24ab608": {
+  "it": "Com'è e come funziona al polso.",
+  "tr": "Så ser den ut och så fungerar den på handleden."
+ },
+ "4a976c92": {
+  "it": "Un tocco sul grande tasto rosso o un comando vocale: l'orologio invia la posizione e l'allerta ai tuoi contatti con Telegram, SMS e telefonata, anche con lo smartphone lontano.",
+  "tr": "Ett tryck på den stora röda knappen eller ett röstkommando: klockan skickar positionen och larmet till dina kontakter via Telegram, sms och samtal, även när mobilen är långt bort."
+ },
+ "361f7a8e": {
+  "it": "Tocca un'immagine per ingrandirla. Scorri di lato per vedere le altre.",
+  "tr": "Tryck på en bild för att förstora den. Svep i sidled för att se de andra."
+ },
+ "1383b500": {
+  "it": "Locandina",
+  "tr": "Affisch"
+ },
+ "a360f8b3": {
+  "it": "<strong>SOS dal tuo smartwatch</strong>Voce o tocco: invia posizione e allerta. Posizione live, Telegram, SMS, chiamata.",
+  "tr": "<strong>SOS från din smartklocka</strong>Röst eller beröring: skickar position och larm. Liveposition, Telegram, sms, samtal."
+ },
+ "77c73a5b": {
+  "it": "Schermata",
+  "tr": "Skärmbild"
+ },
+ "a90bbea3": {
+  "it": "<strong>L'app sull'orologio</strong>Il tasto INVIO e l'ascolto dei comandi vocali, attivabile e sospendibile.",
+  "tr": "<strong>Appen på klockan</strong>Knappen INVIO (skicka) och lyssnandet efter röstkommandon, som kan slås på och pausas."
+ },
+ "50485b89": {
+  "it": "Altre soluzioni",
+  "tr": "Andra lösningar"
+ },
+ "9d65d888": {
+  "it": "Anche queste fanno parte del progetto.",
+  "tr": "Även dessa är en del av projektet."
+ },
+ "ac36c51e": {
+  "it": "Un'altra soluzione multilingue per Android: 12 lingue, di cui 3 con riconoscimento vocale anche offline. Si attiva con comandi vocali o con la richiesta manuale di aiuto.",
+  "tr": "Ytterligare en flerspråkig lösning för Android: 12 språk, varav 3 med röstigenkänning även offline. Aktiveras med röstkommandon eller en manuell hjälpbegäran."
+ },
+ "ab397262": {
+  "it": "Apri Google Play <span class=\"arr\">↗</span>",
+  "tr": "Öppna Google Play <span class=\"arr\">↗</span>"
+ },
+ "f129d3cc": {
+  "it": "In programma",
+  "tr": "Planerad"
+ },
+ "d957da8e": {
+  "it": "AIutoSOS per Apple Watch",
+  "tr": "AIutoSOS för Apple Watch"
+ },
+ "0766bfc1": {
+  "it": "Un'app dedicata ad Apple Watch, di prossima pubblicazione. È diversa dall'app compagna già inclusa in no pAIn™ per iPhone.",
+  "tr": "En app särskilt för Apple Watch, som snart publiceras. Den skiljer sig från följeslagarappen som redan ingår i no pAIn™ för iPhone."
+ },
+ "4928453f": {
+  "it": "Per usare oggi Apple Watch, installa <a class=\"link-arrow\" href=\"#no-pain-ios\">no pAIn™ per iPhone</a>.",
+  "tr": "Vill du använda Apple Watch redan i dag, installera <a class=\"link-arrow\" href=\"#no-pain-ios\">no pAIn™ för iPhone</a>."
+ },
+ "9e63a7c6": {
+  "it": "Il pulsante da tenere in tasca che fa scattare l'allarme di AI help You e di no pAIn™ per iPhone. Cos'è, cosa non è e dove acquistarlo.",
+  "tr": "Knappen att ha i fickan som utlöser larmet i AI help You och no pAIn™ för iPhone. Vad den är, vad den inte är och var du köper den."
+ },
+ "f97a981e": {
+  "it": "Scopri button4help™ →",
+  "tr": "Upptäck button4help™ →"
+ },
+ "e5646562": {
+  "it": "Configurazione",
+  "tr": "Inställning"
+ },
+ "81fff1af": {
+  "it": "Segui il manuale della tua app.",
+  "tr": "Följ manualen för din app."
+ },
+ "a32614bb": {
+  "it": "La durata della posizione live cambia da un'app all'altra: controlla le opzioni dell'app installata.",
+  "tr": "Livepositionens längd skiljer sig mellan apparna: kontrollera alternativen i den installerade appen."
+ },
+ "e67b051b": {
+  "it": "Manuale Android <span class=\"arr\">↗</span>",
+  "tr": "Manual Android <span class=\"arr\">↗</span>"
+ },
+ "174ef965": {
+  "it": "Manuale iOS <span class=\"arr\">↗</span>",
+  "tr": "Manual iOS <span class=\"arr\">↗</span>"
+ },
+ "e5928a22": {
+  "it": "Guida Telegram <span class=\"arr\">↗</span>",
+  "tr": "Guide till Telegram <span class=\"arr\">↗</span>"
+ },
+ "3819a10a": {
+  "it": "App",
+  "tr": "Appar"
+ },
+ "2492782e": {
+  "it": "Locandina: Proteggimi (no pAIn), l'app diversa e intelligente. Aiuto immediato anche senza toccare lo smartphone. Elenco delle versioni per Android, Wear OS e iOS.",
+  "tr": "Affisch: Proteggimi (no pAIn), den annorlunda, smarta appen. Omedelbar hjälp även utan att röra mobilen. Lista över versioner för Android, Wear OS och iOS."
+ },
+ "33c5d0b2": {
+  "it": "Apple Watch con il grande tasto rosso EMERGENZA e la conferma Inviato",
+  "tr": "Apple Watch med den stora röda knappen EMERGENZA och bekräftelsen Inviato (skickat)"
+ },
+ "edc36c25": {
+  "it": "Locandina di AIuto SOS watch4help: una donna di notte, sotto la pioggia, seguita da un uomo incappucciato, preme il tasto HELP sul suo smartwatch",
+  "tr": "Affisch för AIuto SOS watch4help: en kvinna förföljs en regnig natt av en man i luva och trycker på HELP-knappen på sin smartklocka"
+ },
+ "dd4113e6": {
+  "it": "Smartwatch Wear OS con l'app AIuto SOS: tasto rosso INVIO e pulsante FERMA ASCOLTO",
+  "tr": "Wear OS-klocka med appen AIuto SOS: röd knapp INVIO (skicka) och knappen FERMA ASCOLTO (sluta lyssna)"
+ },
+ "f0186c7d": {
+  "it": "button4help™ — no pAIn™",
+  "tr": "button4help™ — no pAIn™"
+ },
+ "7dd822ac": {
+  "it": "button4help™, il pulsante Bluetooth che fa scattare l'allarme delle app no pAIn™ a distanza. Cos'è, cosa non è, dove acquistarlo.",
+  "tr": "button4help™, Bluetooth-knappen som på avstånd utlöser larmet i no pAIn™-apparna. Vad den är, vad den inte är, var du köper den."
+ },
+ "958757ce": {
+  "it": "Il pulsante fisico no pAIn™",
+  "tr": "no pAIn™:s fysiska knapp"
+ },
+ "60bbacf0": {
+  "it": "Piccolo da portare, semplice da attivare. È il “pulsante magico” del progetto: lo tieni in tasca, in borsa o al portachiavi e, quando lo tieni premuto per un paio di secondi, l'app sul tuo smartphone avvia l'emergenza, anche a diversi metri di distanza.",
+  "tr": "Liten att bära, enkel att aktivera. Det är projektets ”magiska knapp”: du har den i fickan, i väskan eller på nyckelringen, och när du håller in den i ett par sekunder startar appen i din mobil nödläget, även flera meter bort."
+ },
+ "341e5940": {
+  "it": "Acquista su AliExpress <span class=\"arr\">↗</span>",
+  "tr": "Köp på AliExpress <span class=\"arr\">↗</span>"
+ },
+ "8297e0a4": {
+  "it": "Come si usa",
+  "tr": "Så använder du den"
+ },
+ "d9c74914": {
+  "it": "Il pulsante non è venduto da no pAIn™: si compra da un rivenditore esterno e si abbina all'app.",
+  "tr": "Knappen säljs inte av no pAIn™: du köper den hos en extern återförsäljare och parkopplar den med appen."
+ },
+ "4a879621": {
+  "it": "Fotografia reale di button4help™ accanto a una moneta da 50 centesimi",
+  "tr": "Riktigt foto av button4help™ bredvid ett 50-centsmynt"
+ },
+ "5a008d55": {
+  "it": "Com'è e come si usa.",
+  "tr": "Så ser den ut och så använder du den."
+ },
+ "6a615a7a": {
+  "it": "Lo tieni al portachiavi o in tasca. Quando serve, lo premi: l'app sul telefono avvia in automatico le richieste di aiuto e la posizione live verso i tuoi contatti.",
+  "tr": "Ha den på nyckelringen eller i fickan. När det behövs trycker du: appen i telefonen startar automatiskt hjälpbegäran och livepositionen till dina kontakter."
+ },
+ "de29e55f": {
+  "it": "<strong>Una pressione, l'allarme parte</strong>Con AI help You: richieste di aiuto e posizione live fino a 24 ore. Locandina in inglese.",
+  "tr": "<strong>Ett tryck och larmet går</strong>Med AI help You: hjälpbegäran och liveposition i upp till 24 timmar. Affisch på engelska."
+ },
+ "67062c98": {
+  "it": "Foto reale",
+  "tr": "Riktigt foto"
+ },
+ "7a16e76b": {
+  "it": "<strong>Le dimensioni reali</strong>Poco più grande di una moneta da 50 centesimi.",
+  "tr": "<strong>Den verkliga storleken</strong>Bara lite större än ett 50-centsmynt."
+ },
+ "2070cd4b": {
+  "it": "Cos'è",
+  "tr": "Vad den är"
+ },
+ "9890b2ce": {
+  "it": "Un comando a distanza per il tuo telefono.",
+  "tr": "En fjärrkontroll för din telefon."
+ },
+ "9b251b4d": {
+  "it": "button4help™ è un pulsante che attiva procedure sullo smartphone entro la portata del Bluetooth. È miniaturizzato perché contiene solo un modulo Bluetooth Low Energy e una batteria a bottone: niente GPS, niente Wi-Fi. La posizione la ricava l'app sul telefono.",
+  "tr": "button4help™ är en knapp som startar åtgärder i mobilen inom Bluetooth-räckvidd. Den är så liten eftersom den bara innehåller en Bluetooth Low Energy-modul och ett knappcellsbatteri: ingen GPS, inget wifi. Positionen tas fram av appen i telefonen."
+ },
+ "6787efb8": {
+  "it": "Attivazione fisica senza impugnare il telefono",
+  "tr": "Fysisk aktivering utan att ta fram telefonen"
+ },
+ "d736ee12": {
+  "it": "Collegamento allo smartphone tramite Bluetooth",
+  "tr": "Anslutning till mobilen via Bluetooth"
+ },
+ "8403c8dd": {
+  "it": "Invio secondo le azioni configurate nell'app: messaggi, posizione, telefonate",
+  "tr": "Skickar enligt åtgärderna som ställts in i appen: meddelanden, position, samtal"
+ },
+ "365bf985": {
+  "it": "Attivazione",
+  "tr": "Aktivering"
+ },
+ "c835e44b": {
+  "it": "Pressione di circa 2 secondi",
+  "tr": "Tryck i cirka 2 sekunder"
+ },
+ "7908249d": {
+  "it": "Connessione",
+  "tr": "Anslutning"
+ },
+ "bd72a591": {
+  "it": "Solo Bluetooth BLE",
+  "tr": "Endast Bluetooth BLE"
+ },
+ "af6b2b86": {
+  "it": "Portata",
+  "tr": "Räckvidd"
+ },
+ "f107edef": {
+  "it": "Diversi metri, quella del Bluetooth",
+  "tr": "Flera meter, Bluetooth-räckvidd"
+ },
+ "388e50c9": {
+  "it": "Alimentazione",
+  "tr": "Strömförsörjning"
+ },
+ "65a3fe13": {
+  "it": "Batteria a bottone",
+  "tr": "Knappcellsbatteri"
+ },
+ "5597c45e": {
+  "it": "Dimensioni",
+  "tr": "Storlek"
+ },
+ "bc64b029": {
+  "it": "Poco più di una moneta",
+  "tr": "Bara lite större än ett mynt"
+ },
+ "3b616f99": {
+  "it": "Funziona con",
+  "tr": "Fungerar med"
+ },
+ "fca3fc97": {
+  "it": "AI help You (Android) e no pAIn™ (iPhone)",
+  "tr": "AI help You (Android) och no pAIn™ (iPhone)"
+ },
+ "8aab18f4": {
+  "it": "Cosa non è",
+  "tr": "Vad den inte är"
+ },
+ "4f1cb28f": {
+  "it": "Non è un localizzatore. Non è un pulsante per anziani.",
+  "tr": "Ingen spårare. Ingen larmknapp för äldre."
+ },
+ "a548c8ad": {
+  "it": "In commercio si trovano tracker GPS o Bluetooth che si collegano alla rete degli AirTag di Apple o a quella di Android, usati per ritrovare oggetti e animali. button4help™ è tutt'altra cosa.",
+  "tr": "I handeln finns GPS- eller Bluetooth-spårare som ansluter till Apples AirTag-nätverk eller Androids nätverk och används för att hitta föremål och djur. button4help™ är något helt annat."
+ },
+ "6db059c6": {
+  "it": "Dispositivo",
+  "tr": "Enhet"
+ },
+ "f54e2369": {
+  "it": "A cosa serve",
+  "tr": "Vad den används till"
+ },
+ "bc3ce023": {
+  "it": "Tracker GPS o BLE",
+  "tr": "GPS- eller BLE-spårare"
+ },
+ "2f4967a6": {
+  "it": "Ritrovare oggetti e animali",
+  "tr": "Hitta föremål och djur"
+ },
+ "2e515267": {
+  "it": "Si fa localizzare tramite la rete AirTag di Apple o quella di Android",
+  "tr": "Lokaliseras via Apples AirTag-nätverk eller Androids nätverk"
+ },
+ "33730eab": {
+  "it": "Pulsante SOS per anziani",
+  "tr": "SOS-knapp för äldre"
+ },
+ "5aaa5107": {
+  "it": "Chiamare un centro di assistenza",
+  "tr": "Ringa en larmcentral"
+ },
+ "4397cb12": {
+  "it": "Dispositivo dedicato, spesso con SIM o base propria",
+  "tr": "Egen enhet, ofta med eget SIM-kort eller egen basstation"
+ },
+ "aee3bb1e": {
+  "it": "Far scattare l'allarme dell'app no pAIn™",
+  "tr": "Utlösa larmet i no pAIn™-appen"
+ },
+ "20709993": {
+  "it": "Comando a distanza verso lo smartphone: parte l'emergenza con messaggi, posizione e chiamate ai tuoi contatti",
+  "tr": "Fjärrkommando till mobilen: nödläget startar med meddelanden, position och samtal till dina kontakter"
+ },
+ "83bc9dd4": {
+  "it": "Tre passaggi, poi è sempre con te.",
+  "tr": "Tre steg, sedan är den alltid med dig."
+ },
+ "2ad3bbd9": {
+  "it": "Acquistalo",
+  "tr": "Köp den"
+ },
+ "2a235caf": {
+  "it": "Compra il pulsante dal rivenditore indicato qui sotto. Prezzo, spedizione e disponibilità dipendono dal venditore.",
+  "tr": "Köp knappen hos återförsäljaren nedan. Pris, frakt och tillgänglighet beror på säljaren."
+ },
+ "4f37e640": {
+  "it": "Abbinalo all'app",
+  "tr": "Parkoppla den med appen"
+ },
+ "be135ba9": {
+  "it": "In AI help You o in no pAIn™ per iPhone, segui la procedura di abbinamento del manuale. Poi fai una prova concordata con i tuoi contatti.",
+  "tr": "I AI help You eller i no pAIn™ för iPhone följer du parkopplingen i manualen. Gör sedan ett test som du kommit överens om med dina kontakter."
+ },
+ "bfafd6eb": {
+  "it": "Tienilo premuto",
+  "tr": "Håll in den"
+ },
+ "0cce84c0": {
+  "it": "Quando serve, premi il pulsante per un paio di secondi: l'app avvia le azioni di emergenza che hai impostato.",
+  "tr": "När det behövs trycker du på knappen i ett par sekunder: appen startar de nödåtgärder du har ställt in."
+ },
+ "95d857fd": {
+  "it": "Il pulsante comanda l'app sullo smartphone: il telefono deve essere acceso, entro la portata Bluetooth, con l'app configurata. Se ti serve un dispositivo che funzioni senza telefono, guarda <a class=\"link-arrow\" href=\"prodotti.html#aiuto-sos\">AIuto SOS per Wear OS</a>.",
+  "tr": "Knappen styr appen i mobilen: telefonen måste vara påslagen, inom Bluetooth-räckvidd och ha appen inställd. Om du behöver en enhet som fungerar utan telefon, se <a class=\"link-arrow\" href=\"prodotti.html#aiuto-sos\">AIuto SOS för Wear OS</a>."
+ },
+ "65c77e5d": {
+  "it": "Dove acquistarlo",
+  "tr": "Var du köper den"
+ },
+ "ea0e770f": {
+  "it": "button4help™ si acquista su AliExpress, da un venditore terzo. no pAIn™ non vende il dispositivo e non gestisce ordini, spedizioni o resi.",
+  "tr": "button4help™ köps på AliExpress, av en extern säljare. no pAIn™ säljer inte enheten och hanterar inte beställningar, frakt eller returer."
+ },
+ "92b67a03": {
+  "it": "Hai dubbi sulla compatibilità con il tuo telefono? <a class=\"link-arrow\" href=\"mailto:agostino.giorgio@poliba.it\" data-mail=\"private\">Scrivici prima di acquistare</a>.",
+  "tr": "Osäker på om den fungerar med din telefon? <a class=\"link-arrow\" href=\"mailto:agostino.giorgio@poliba.it\" data-mail=\"private\">Skriv till oss innan du köper</a>."
+ },
+ "b2f18c7a": {
+  "it": "La versione gioiello è già disponibile?",
+  "tr": "Finns smyckesversionen redan?"
+ },
+ "7644c8e2": {
+  "it": "Le foto di questa pagina mostrano il dispositivo attuale. Le immagini promozionali con pendenti a cuore o altri gioielli illustrano possibilità di design: disponibilità e caratteristiche vanno confermate con il progettista.",
+  "tr": "Bilderna på den här sidan visar den nuvarande enheten. Marknadsföringsbilderna med hjärthängen eller andra smycken visar designmöjligheter: tillgänglighet och egenskaper måste bekräftas med formgivaren."
+ },
+ "ee681b0a": {
+  "it": "Altre domande frequenti →",
+  "tr": "Fler vanliga frågor →"
+ },
+ "2d09c535": {
+  "it": "Fotografia reale di button4help, un pulsante nero rotondo con anello per portachiavi, accanto a una moneta da 50 centesimi di euro per confrontarne le dimensioni",
+  "tr": "Riktigt foto av button4help, en rund svart knapp med ögla för nyckelring, bredvid ett 50-euroscentsmynt för att jämföra storleken"
+ },
+ "35ddd6d7": {
+  "it": "Locandina di button4help con AI help You: di notte, sotto la pioggia, una donna seguita da un uomo stringe il pulsante al portachiavi; nel riquadro l'amica riceve SMS e posizione su Telegram",
+  "tr": "Affisch för button4help med AI help You: en regnig natt håller en kvinna som förföljs av en man knappen på sin nyckelring; i den lilla bilden får en vän ett sms och positionen via Telegram"
+ },
+ "65f3becd": {
+  "it": "Fotografia reale di button4help accanto a una moneta da 50 centesimi di euro",
+  "tr": "Riktigt foto av button4help bredvid ett 50-euroscentsmynt"
+ },
+ "4124ebae": {
+  "it": "no pAIn™ — Free e Premium",
+  "tr": "no pAIn™ — Free och Premium"
+ },
+ "99d0f5ce": {
+  "it": "Cosa è incluso nelle versioni gratuite e Premium delle app no pAIn™ per Android e iPhone, con il confronto completo delle funzioni.",
+  "tr": "Vad som ingår i gratis- och Premium-versionerna av no pAIn™-apparna för Android och iPhone, med en fullständig funktionsjämförelse."
+ },
+ "45b5ed65": {
+  "it": "Scegli sapendo <span class=\"hl\">cosa è incluso.</span>",
+  "tr": "Välj med vetskap om <span class=\"hl\">vad som ingår.</span>"
+ },
+ "35b66deb": {
+  "it": "Le funzioni di emergenza gratuite sono diverse su Android e iPhone. I tasti rapidi Android e il tasto SOS di iOS restano utilizzabili gratuitamente, secondo la configurazione prevista.",
+  "tr": "De kostnadsfria nödfunktionerna skiljer sig mellan Android och iPhone. Androids snabbknappar och SOS-knappen i iOS kan fortsatt användas gratis, enligt den avsedda inställningen."
+ },
+ "1a22bf91": {
+  "it": "Emergenza rapida, anche gratis",
+  "tr": "Snabbt nödläge, även gratis"
+ },
+ "f1a3cc18": {
+  "it": "Senza abbonamento l'app usa la modalità emergenza rapida: l'attivazione parte dai tasti della home o dalla notifica persistente. Il pulsante Avvia/Start è inattivo; voce e modifica delle impostazioni sono disponibili durante un'emergenza rapida attiva.",
+  "tr": "Utan prenumeration använder appen snabbt nödläge: aktiveringen sker från knapparna på hemskärmen eller den beständiga aviseringen. Knappen Avvia/Start är inaktiv; röst och ändring av inställningar är tillgängliga under ett aktivt snabbt nödläge."
+ },
+ "e430c6e7": {
+  "it": "Premium abilita l'uso completo descritto nel confronto. Condizioni e prezzo sono indicati nella scheda della singola app su Google Play.",
+  "tr": "Premium ger den fullständiga användning som beskrivs i jämförelsen. Villkor och pris står på respektive apps sida i Google Play."
+ },
+ "35c98e53": {
+  "it": "SOS e Apple Watch inclusi",
+  "tr": "SOS och Apple Watch ingår"
+ },
+ "4ee39e7e": {
+  "it": "Tasto SOS al tocco",
+  "tr": "SOS-knapp med ett tryck"
+ },
+ "b6e03f67": {
+  "it": "Telegram con geolocalizzazione",
+  "tr": "Telegram med geolokalisering"
+ },
+ "80ac734d": {
+  "it": "Posizione live per 30 minuti",
+  "tr": "Liveposition i 30 minuter"
+ },
+ "f21a5e8e": {
+  "it": "App compagna per Apple Watch",
+  "tr": "Följeslagarapp för Apple Watch"
+ },
+ "88029d5e": {
+  "it": "Download gratuito. Le funzioni di emergenza incluse restano gratuite.",
+  "tr": "Gratis nedladdning. De inkluderade nödfunktionerna förblir gratis."
+ },
+ "99a170b7": {
+  "it": "Un acquisto, più funzioni",
+  "tr": "Ett köp, fler funktioner"
+ },
+ "c5f3092c": {
+  "it": "“Ehi Siri, Proteggimi” in 12 lingue",
+  "tr": "”Hej Siri, Hjälp mig” på 12 språk"
+ },
+ "1190dac0": {
+  "it": "SMS, WhatsApp e telefonata ai contatti",
+  "tr": "Sms, WhatsApp och samtal till kontakterna"
+ },
+ "60c62804": {
+  "it": "Posizione live da 1 minuto a 24 ore",
+  "tr": "Liveposition från 1 minut till 24 timmar"
+ },
+ "90f33f8e": {
+  "it": "Acquisto una tantum, senza abbonamento. Il prezzo è riportato sull'App Store.",
+  "tr": "Engångsköp, ingen prenumeration. Priset visas i App Store."
+ },
+ "d7ed525c": {
+  "it": "Confronto completo",
+  "tr": "Fullständig jämförelse"
+ },
+ "4adba7f9": {
+  "it": "Tutte le funzioni, Android e iOS.",
+  "tr": "Alla funktioner, Android och iOS."
+ },
+ "af6cdad7": {
+  "it": "Confronto tratto dalla presentazione del progetto. Per Android è una sintesi della famiglia di app: consulta la <a class=\"link-arrow\" href=\"prodotti.html\">scheda della singola app</a> per lingue, accessori e durata della posizione. Su telefono puoi scorrere la tabella in orizzontale.",
+  "tr": "Jämförelse hämtad från projektpresentationen. För Android är det en sammanfattning av appfamiljen: se <a class=\"link-arrow\" href=\"prodotti.html\">sidan för respektive app</a> för språk, tillbehör och positionens längd. På mobilen kan du rulla tabellen i sidled."
+ },
+ "e8d295dc": {
+  "it": "Funzioni secondo piattaforma e versione",
+  "tr": "Funktioner per plattform och version"
+ },
+ "22f0be8d": {
+  "it": "Funzione",
+  "tr": "Funktion"
+ },
+ "b92553c3": {
+  "it": "SOS nella pagina principale",
+  "tr": "SOS på huvudsidan"
+ },
+ "c13e1a99": {
+  "it": "No¹",
+  "tr": "Nej¹"
+ },
+ "c3032d4a": {
+  "it": "Sì",
+  "tr": "Ja"
+ },
+ "d8ab62a6": {
+  "it": "Tasti rapidi home / notifica, anche ad app chiusa",
+  "tr": "Snabbknappar på hemskärm / avisering, även med appen stängd"
+ },
+ "61e6be1a": {
+  "it": "No",
+  "tr": "Nej"
+ },
+ "38303040": {
+  "it": "Voce: 4 parole chiave fisse + 3 personali",
+  "tr": "Röst: 4 fasta + 3 personliga nyckelord"
+ },
+ "f6015d68": {
+  "it": "Sì²",
+  "tr": "Ja²"
+ },
+ "c19e53d2": {
+  "it": "Attivazione con Google / Siri",
+  "tr": "Aktivering med Google / Siri"
+ },
+ "217cae5d": {
+  "it": "Riconoscimento vocale offline, nelle lingue supportate",
+  "tr": "Offline röstigenkänning, på de språk som stöds"
+ },
+ "d2449840": {
+  "it": "Telegram con GPS, indirizzo e link alla mappa",
+  "tr": "Telegram med GPS, adress och kartlänk"
+ },
+ "c98e49e4": {
+  "it": "Messaggio WhatsApp",
+  "tr": "WhatsApp-meddelande"
+ },
+ "e7e5c556": {
+  "it": "Telefonata al contatto configurato",
+  "tr": "Samtal till den inställda kontakten"
+ },
+ "6a9becb3": {
+  "it": "Secondo l'app³",
+  "tr": "Beror på appen³"
+ },
+ "1ecf177a": {
+  "it": "30 minuti",
+  "tr": "30 minuter"
+ },
+ "30acb109": {
+  "it": "1 min – 24 ore",
+  "tr": "1 min – 24 tim"
+ },
+ "d25e8013": {
+  "it": "App compagna Wear OS / Apple Watch",
+  "tr": "Följeslagarapp Wear OS / Apple Watch"
+ },
+ "936c1b05": {
+  "it": "Smartwatch senza smartphone",
+  "tr": "Smartklocka utan mobil"
+ },
+ "590c7126": {
+  "it": "App Wear OS dedicata",
+  "tr": "Egen Wear OS-app"
+ },
+ "d766ee2c": {
+  "it": "Accesso rapido dal quadrante e complication",
+  "tr": "Snabbåtkomst från urtavlan och komplikationer"
+ },
+ "a1a75106": {
+  "it": "Comandi vocali su smartwatch",
+  "tr": "Röstkommandon på smartklockan"
+ },
+ "31b8ea4d": {
+  "it": "Modifica impostazioni ad app avviata",
+  "tr": "Ändra inställningar medan appen körs"
+ },
+ "83e86049": {
+  "it": "Guida integrata passo passo e PDF",
+  "tr": "Inbyggd steg-för-steg-guide och pdf"
+ },
+ "853624cf": {
+  "it": "Nessun account, login o cloud proprietario",
+  "tr": "Inget konto, ingen inloggning, inget eget moln"
+ },
+ "1ffbed10": {
+  "it": "¹ Senza abbonamento il tasto Avvia/Start è inattivo; si usano i tasti di emergenza rapida.",
+  "tr": "¹ Utan prenumeration är knappen Avvia/Start inaktiv; snabbknapparna för nödläge används."
+ },
+ "1715bdd9": {
+  "it": "² In Android Free, solo mentre è attiva un'emergenza rapida.",
+  "tr": "² I Android Free endast medan ett snabbt nödläge är aktivt."
+ },
+ "e576e548": {
+  "it": "³ La presentazione indica fino a 24 ore nelle versioni abilitate: AI help You da 1 minuto a 24 ore, Proteggimi Android fino a 30 minuti, AIuto SOS watch4help™ fino a 60 minuti. Le 12 lingue riguardano le app multilingue; Proteggimi Android è in italiano.",
+  "tr": "³ Presentationen anger upp till 24 timmar i de upplåsta versionerna: AI help You från 1 minut till 24 timmar, Proteggimi Android upp till 30 minuter, AIuto SOS watch4help™ upp till 60 minuter. De 12 språken gäller de flerspråkiga apparna; Proteggimi Android är på italienska."
+ },
+ "4adb6e82": {
+  "it": "Domande su costi e funzioni",
+  "tr": "Frågor om kostnader och funktioner"
+ },
+ "8d73b6f2": {
+  "it": "no pAIn™ — Come funziona",
+  "tr": "no pAIn™ — Så fungerar det"
+ },
+ "664fdb6b": {
+  "it": "Come si attivano le app no pAIn™, quali azioni partono, come funziona watch4help™ e come preparare la prima configurazione.",
+  "tr": "Hur no pAIn™-apparna aktiveras, vilka åtgärder som startar, hur watch4help™ fungerar och hur du förbereder den första inställningen."
+ },
+ "b232a9df": {
+  "it": "Scegli come attivare. <span class=\"hl\">Decidi chi avvisare.</span>",
+  "tr": "Välj hur du aktiverar. <span class=\"hl\">Bestäm vem du varnar.</span>"
+ },
+ "fd903e09": {
+  "it": "Il progetto offre diverse modalità di attivazione. Le funzioni disponibili dipendono dall'app, dal dispositivo e dalla configurazione.",
+  "tr": "Projektet erbjuder flera sätt att aktivera. Vilka funktioner som finns beror på appen, enheten och inställningarna."
+ },
+ "cbc5208b": {
+  "it": "Scegli l'app adatta al tuo dispositivo, configura i due contatti di emergenza e abilita le azioni che desideri utilizzare. Se usi il pulsante, completa l'abbinamento.",
+  "tr": "Välj appen som passar din enhet, ställ in de två nödkontakterna och aktivera de åtgärder du vill använda. Om du använder knappen, slutför parkopplingen."
+ },
+ "3b1a1e2f": {
+  "it": "Le modalità di attivazione",
+  "tr": "Sätten att aktivera"
+ },
+ "01906b32": {
+  "it": "Un'interfaccia diversa, secondo il dispositivo che usi.",
+  "tr": "Ett annat gränssnitt beroende på enheten du använder."
+ },
+ "cbc9be52": {
+  "it": "Voce",
+  "tr": "Röst"
+ },
+ "f691286c": {
+  "it": "Senza toccare il telefono",
+  "tr": "Utan att röra telefonen"
+ },
+ "1c6c453d": {
+  "it": "Su Android: 4 parole chiave fisse e 3 personali, riconosciute sul dispositivo anche in background o a schermo spento, con il telefono a qualche metro. Su iOS Premium: “Ehi Siri, Proteggimi”.",
+  "tr": "På Android: 4 fasta och 3 personliga nyckelord, som känns igen på enheten även i bakgrunden eller med skärmen avstängd, med telefonen några meter bort. På iOS Premium: ”Hej Siri, Hjälp mig”."
+ },
+ "f40e4fa7": {
+  "it": "Tocco",
+  "tr": "Beröring"
+ },
+ "88c826af": {
+  "it": "Tasto SOS, home, notifica",
+  "tr": "SOS-knapp, hemskärm, avisering"
+ },
+ "e80ae12e": {
+  "it": "Usa il tasto SOS previsto dalla tua versione. Su Android i tasti rapidi della home e la notifica persistente funzionano anche con app chiusa.",
+  "tr": "Använd SOS-knappen i din version. På Android fungerar snabbknapparna på hemskärmen och den beständiga aviseringen även med appen stängd."
+ },
+ "3a3521af": {
+  "it": "Dal polso",
+  "tr": "Från handleden"
+ },
+ "af13bab0": {
+  "it": "Usa voce o pulsante dell'app compatibile. Distingui l'app compagna del telefono dall'app autonoma per Wear OS.",
+  "tr": "Använd rösten eller knappen i den kompatibla appen. Skilj mellan telefonens följeslagarapp och den fristående Wear OS-appen."
+ },
+ "77f8557d": {
+  "it": "Dalla tasca",
+  "tr": "Från fickan"
+ },
+ "d1bbdc48": {
+  "it": "Tieni premuto per un paio di secondi il pulsante collegato al telefono: l'app esegue le azioni impostate. <a class=\"link-arrow\" href=\"button4help.html\">Scopri →</a>",
+  "tr": "Håll in knappen som är ansluten till telefonen i ett par sekunder: appen utför de inställda åtgärderna. <a class=\"link-arrow\" href=\"button4help.html\">Läs mer →</a>"
+ },
+ "3e2258c0": {
+  "it": "Dopo l'attivazione",
+  "tr": "Efter aktiveringen"
+ },
+ "589eca08": {
+  "it": "Le azioni che hai scelto.",
+  "tr": "De åtgärder du har valt."
+ },
+ "62ae47e4": {
+  "it": "Coordinate GPS, indirizzo e link alla mappa nei messaggi ai contatti. Su iOS richiede Premium e il Comando Rapido Apple.",
+  "tr": "GPS-koordinater, adress och kartlänk i meddelandena till kontakterna. På iOS krävs Premium och Apples genväg."
+ },
+ "6fb4588f": {
+  "it": "tutte le app",
+  "tr": "alla appar"
+ },
+ "339ee28c": {
+  "it": "Invio della posizione e aggiornamento live: 30 minuti su iOS Free, durata configurabile nelle versioni abilitate fino a 24 ore.",
+  "tr": "Positionen skickas och uppdateras live: 30 minuter på iOS Free, inställbar längd upp till 24 timmar i de upplåsta versionerna."
+ },
+ "0e0ed0f9": {
+  "it": "Chiamate",
+  "tr": "Samtal"
+ },
+ "5009b2d7": {
+  "it": "Telefonate ai numeri impostati. Su iOS Premium si attivano tramite il Comando Rapido Apple “Proteggimi”.",
+  "tr": "Samtal till de nummer du angett. På iOS Premium startar de via Apples genväg ”Proteggimi”."
+ },
+ "12d40da3": {
+  "it": "Disponibile su iOS Premium tramite il Comando Rapido Apple. Non è previsto nelle versioni Android.",
+  "tr": "Tillgängligt på iOS Premium via Apples genväg. Finns inte i Android-versionerna."
+ },
+ "0755181d": {
+  "it": "<b>Importante</b> Le app avvisano i contatti configurati. Non contattano i servizi pubblici di emergenza e non li sostituiscono: i tuoi contatti, ricevuto l'allarme, possono chiamare le forze dell'ordine con tutte le informazioni e venire in tuo aiuto.",
+  "tr": "<b>Viktigt</b> Apparna varnar de inställda kontakterna. De kontaktar inte samhällets räddningstjänster och ersätter dem inte: när dina kontakter fått larmet kan de ringa polisen med all information och komma till din hjälp."
+ },
+ "2bff3d53": {
+  "it": "watch4help™ · SOS al polso",
+  "tr": "watch4help™ · SOS på handleden"
+ },
+ "164fe5ab": {
+  "it": "Collegato al telefono o autonomo.",
+  "tr": "Ansluten till telefonen eller fristående."
+ },
+ "42226bd7": {
+  "it": "Due modalità, da distinguere",
+  "tr": "Två lägen att hålla isär"
+ },
+ "96d4c317": {
+  "it": "Proteggimi e AI help You hanno un'app compagna per l'orologio abbinato. AIuto SOS watch4help™ è invece la soluzione autonoma, utilizzabile senza smartphone con una connessione adatta ai canali scelti.",
+  "tr": "Proteggimi och AI help You har en följeslagarapp för den parkopplade klockan. AIuto SOS watch4help™ är i stället den fristående lösningen, som kan användas utan mobil med en anslutning som passar de valda kanalerna."
+ },
+ "312fc767": {
+  "it": "Un tocco, con iPhone abbinato",
+  "tr": "Ett tryck, med parkopplad iPhone"
+ },
+ "98a4265e": {
+  "it": "L'app compagna può avviare Telegram e posizione anche con iPhone bloccato. Per avviare anche SMS, WhatsApp e telefonata servono Premium, il Comando Rapido configurato e l'app iPhone in primo piano.",
+  "tr": "Följeslagarappen kan starta Telegram och position även med iPhone låst. För att också starta sms, WhatsApp och samtal krävs Premium, en inställd genväg och iPhone-appen i förgrunden."
+ },
+ "351a9e06": {
+  "it": "Schermate delle app tratte dalla presentazione del progetto.",
+  "tr": "Skärmbilder av apparna från projektpresentationen."
+ },
+ "d9277110": {
+  "it": "La prima configurazione",
+  "tr": "Den första inställningen"
+ },
+ "09b2800f": {
+  "it": "Preparala prima. Provala insieme.",
+  "tr": "Förbered i förväg. Testa tillsammans."
+ },
+ "5ec3efac": {
+  "it": "Una configurazione corretta è parte del funzionamento. Segui sempre il manuale della tua app.",
+  "tr": "En korrekt inställning är en del av funktionen. Följ alltid manualen för din app."
+ },
+ "1968ce31": {
+  "it": "Scegli chi avvisare",
+  "tr": "Välj vem du varnar"
+ },
+ "9c6f6baa": {
+  "it": "Accetta i termini nell'app, inserisci i numeri di telefono e i chat ID Telegram. Concorda con i contatti come gestire una richiesta.",
+  "tr": "Godkänn villkoren i appen, ange telefonnumren och chatt-ID:n i Telegram. Kom överens med kontakterna om hur en begäran ska hanteras."
+ },
+ "5129551e": {
+  "it": "Abilita ciò che serve",
+  "tr": "Aktivera det som behövs"
+ },
+ "4401a646": {
+  "it": "Scegli i canali di invio, le parole chiave personali e i permessi necessari. Su iOS configura il Comando Rapido “Proteggimi” per le funzioni Premium.",
+  "tr": "Välj kanaler, personliga nyckelord och nödvändiga behörigheter. På iOS ställer du in genvägen ”Proteggimi” för Premium-funktionerna."
+ },
+ "d5dd5c2c": {
+  "it": "Verifica il dispositivo",
+  "tr": "Kontrollera enheten"
+ },
+ "1be4d1eb": {
+  "it": "Controlla batteria, connessione, attività in background e abbinamento degli accessori.",
+  "tr": "Kontrollera batteri, anslutning, bakgrundsaktivitet och parkoppling av tillbehör."
+ },
+ "3e41f499": {
+  "it": "Fai una prova concordata",
+  "tr": "Gör ett överenskommet test"
+ },
+ "bbf6ae89": {
+  "it": "Avvisa prima i tuoi contatti, esegui il test e verifica che messaggio e posizione siano arrivati.",
+  "tr": "Informera kontakterna först, testa och kontrollera att meddelande och position kommit fram."
+ },
+ "bc636f46": {
+  "it": "Connessione e privacy: cosa sapere →",
+  "tr": "Anslutning och integritet: bra att veta →"
+ },
+ "1989a681": {
+  "it": "no pAIn™ — Tecnologia e ricerca",
+  "tr": "no pAIn™ — Teknik och forskning"
+ },
+ "07d0d552": {
+  "it": "La tecnologia e le pubblicazioni scientifiche del progetto no pAIn™ del Prof. Ing. Agostino Giorgio, Politecnico di Bari.",
+  "tr": "Tekniken och de vetenskapliga publikationerna i projektet no pAIn™ av professor Agostino Giorgio, Politecnico di Bari."
+ },
+ "8dec5249": {
+  "it": "Dalla ricerca <span class=\"hl\">alla richiesta di aiuto.</span>",
+  "tr": "Från forskning <span class=\"hl\">till hjälpbegäran.</span>"
+ },
+ "3a7ea31a": {
+  "it": "no pAIn™ significa <em>never oppressed protected by Artificial Intelligence Non violence system</em>. Il progetto del Prof. Ing. Agostino Giorgio, docente del Politecnico di Bari, applica intelligenza artificiale, riconoscimento vocale e geolocalizzazione alla richiesta di aiuto verso contatti fidati.",
+  "tr": "no pAIn™ betyder <em>never oppressed protected by Artificial Intelligence Non violence system</em>. Projektet av professor Agostino Giorgio, lärare vid Politecnico di Bari, använder artificiell intelligens, röstigenkänning och geolokalisering för hjälpbegäran till personer du litar på."
+ },
+ "7a4c0b9b": {
+  "it": "Architettura",
+  "tr": "Arkitektur"
+ },
+ "f2934e70": {
+  "it": "Dal tuo dispositivo ai tuoi contatti",
+  "tr": "Från din enhet till dina kontakter"
+ },
+ "216dd7c5": {
+  "it": "Il progetto descrive un'architettura senza account, login o cloud proprietario. Lo sviluppatore dichiara di non raccogliere dati personali; impostazioni e contatti rimangono sul dispositivo. Per recapitare gli avvisi e ricavare l'indirizzo vengono comunque usati i servizi esterni previsti dall'app.",
+  "tr": "Projektet beskriver en arkitektur utan konto, inloggning eller eget moln. Utvecklaren uppger att inga personuppgifter samlas in; inställningar och kontakter stannar på enheten. För att leverera larm och ta fram adressen används ändå de externa tjänster som appen förutsätter."
+ },
+ "f9c98298": {
+  "it": "Riconoscimento vocale sul dispositivo",
+  "tr": "Röstigenkänning på enheten"
+ },
+ "c6703e52": {
+  "it": "Nelle versioni Android e nelle lingue abilitate, il riconoscimento delle parole chiave funziona anche offline. L'invio degli avvisi richiede invece le connessioni necessarie al canale scelto: rete dati, SMS o telefonia.",
+  "tr": "I Android-versionerna och på de upplåsta språken fungerar igenkänningen av nyckelord även offline. För att skicka larm krävs däremot de anslutningar som den valda kanalen behöver: mobildata, sms eller telefoni."
+ },
+ "d86ad526": {
+  "it": "Affidabilità",
+  "tr": "Tillförlitlighet"
+ },
+ "45ca0fbe": {
+  "it": "Continuità e ripristino",
+  "tr": "Kontinuitet och återställning"
+ },
+ "26c3887c": {
+  "it": "La presentazione descrive ritrasmissione degli avvisi al ritorno della rete, ripresa della posizione live dopo interruzioni e riattivazione guidata dopo riavvii o aggiornamenti, con test su smartphone e smartwatch reali. L'effettivo funzionamento dipende da versione, permessi, rete e dispositivo.",
+  "tr": "Presentationen beskriver att larm skickas igen när nätet kommer tillbaka, att livepositionen återupptas efter avbrott och guidad återaktivering efter omstarter eller uppdateringar, med tester på riktiga mobiler och smartklockor. Den faktiska funktionen beror på version, behörigheter, nät och enhet."
+ },
+ "22266a9c": {
+  "it": "Pubblicazioni",
+  "tr": "Publikationer"
+ },
+ "7cc8a78c": {
+  "it": "Pubblicato su rivista scientifica.",
+  "tr": "Publicerad i en vetenskaplig tidskrift."
+ },
+ "4de95746": {
+  "it": "Il dispositivo e l'app sono descritti in due articoli sulla rivista internazionale <em>Electronics</em> (MDPI), ad accesso aperto.",
+  "tr": "Enheten och appen beskrivs i två fritt tillgängliga artiklar i den internationella tidskriften <em>Electronics</em> (MDPI)."
+ },
+ "3f10489d": {
+  "it": "Approfondisci il progetto",
+  "tr": "Fördjupa dig i projektet"
+ },
+ "e449099c": {
+  "it": "La presentazione completa.",
+  "tr": "Den fullständiga presentationen."
+ },
+ "33b96627": {
+  "it": "Funzionamento, versioni, schermate e riferimenti scientifici. PDF in italiano, 23 pagine.",
+  "tr": "Funktion, versioner, skärmbilder och vetenskapliga referenser. Pdf på italienska, 23 sidor."
+ },
+ "1329fef9": {
+  "it": "Apri la presentazione PDF <span class=\"arr\">↗</span>",
+  "tr": "Öppna pdf-presentationen <span class=\"arr\">↗</span>"
+ },
+ "89c663d7": {
+  "it": "Materiale promozionale del progetto",
+  "tr": "Projektets marknadsföringsmaterial"
+ },
+ "8797ba72": {
+  "it": "Locandina del progetto no pAIn by Agostino Giorgio, Politecnico di Bari: digital4help, protezione digitale, una nuova era per la tutela delle donne",
+  "tr": "Affisch för projektet no pAIn av Agostino Giorgio, Politecnico di Bari: digital4help, digitalt skydd, en ny era för skyddet av kvinnor"
+ },
+ "3a0eca35": {
+  "it": "no pAIn™ — Collabora",
+  "tr": "no pAIn™ — Samarbeta"
+ },
+ "2f329875": {
+  "it": "Porta no pAIn™ nella tua organizzazione: enti pubblici, associazioni, aziende e sponsor.",
+  "tr": "Ta med no pAIn™ till din organisation: offentliga aktörer, föreningar, företag och sponsorer."
+ },
+ "0f218826": {
+  "it": "Porta no pAIn™ <span class=\"hl\">nella tua organizzazione.</span>",
+  "tr": "Ta med no pAIn™ <span class=\"hl\">till din organisation.</span>"
+ },
+ "00d835f5": {
+  "it": "Mettere uno strumento a disposizione è il primo passo. Farlo conoscere, spiegarne l'uso e inserirlo in un contesto di supporto è altrettanto importante.",
+  "tr": "Att tillhandahålla ett verktyg är första steget. Att göra det känt, förklara hur det används och bygga in det i ett stödnätverk är lika viktigt."
+ },
+ "ed20cf20": {
+  "it": "Richiedi una dimostrazione <span class=\"arr\">↗</span>",
+  "tr": "Be om en demonstration <span class=\"arr\">↗</span>"
+ },
+ "dfc78647": {
+  "it": "Enti pubblici",
+  "tr": "Offentliga aktörer"
+ },
+ "2bd94dc1": {
+  "it": "Iniziative locali e progetti pilota",
+  "tr": "Lokala initiativ och pilotprojekt"
+ },
+ "203f6364": {
+  "it": "Valutiamo iniziative sul territorio e progetti pilota, a partire da una dimostrazione e da obiettivi condivisi.",
+  "tr": "Vi utvärderar lokala initiativ och pilotprojekt, med en demonstration och gemensamma mål som utgångspunkt."
+ },
+ "f3584485": {
+  "it": "Associazioni",
+  "tr": "Föreningar"
+ },
+ "2c4ff7c9": {
+  "it": "Accanto a chi conosce i bisogni",
+  "tr": "Bredvid dem som känner behoven"
+ },
+ "97d70b91": {
+  "it": "Un confronto con chi lavora ogni giorno con le persone, per capire utilità, modalità d'uso e limiti dello strumento.",
+  "tr": "En dialog med dem som varje dag arbetar med människor, för att förstå verktygets nytta, användningssätt och begränsningar."
+ },
+ "0ab434b0": {
+  "it": "Aziende e sponsor",
+  "tr": "Företag och sponsorer"
+ },
+ "51348394": {
+  "it": "Sensibilizzazione e sostegno",
+  "tr": "Medvetenhet och stöd"
+ },
+ "f4d66b9e": {
+  "it": "Approfondiamo proposte per gruppi di utenti, iniziative di sensibilizzazione e sostegno a progetti sul territorio.",
+  "tr": "Vi går igenom förslag för användargrupper, informationsinsatser och stöd till lokala projekt."
+ },
+ "c0b7455c": {
+  "it": "Cosa portiamo",
+  "tr": "Vad vi bidrar med"
+ },
+ "d5c89ab3": {
+  "it": "Una tecnologia nata in università, pronta da usare.",
+  "tr": "En teknik född på universitetet, redo att använda."
+ },
+ "907fb86c": {
+  "it": "App gratuite da scaricare per Android, iPhone e smartwatch, un pulsante acquistabile da chiunque, nessun account e nessun cloud da gestire. E un progetto descritto in pubblicazioni scientifiche.",
+  "tr": "Gratis appar för Android, iPhone och smartklockor, en knapp som vem som helst kan köpa, inga konton och inget moln att hantera. Och ett projekt som beskrivs i vetenskapliga publikationer."
+ },
+ "9544f0cf": {
+  "it": "Una dimostrazione è il modo migliore per iniziare <span class=\"arr\">↗</span>",
+  "tr": "En demonstration är det bästa sättet att börja <span class=\"arr\">↗</span>"
+ },
+ "851d2b68": {
+  "it": "Presentazione PDF <span class=\"arr\">↗</span>",
+  "tr": "Pdf-presentation <span class=\"arr\">↗</span>"
+ },
+ "6878e072": {
+  "it": "Locandina: Proteggimi (no pAIn), l'app diversa e intelligente. Aiuto immediato anche senza toccare lo smartphone.",
+  "tr": "Affisch: Proteggimi (no pAIn), den annorlunda, smarta appen. Omedelbar hjälp även utan att röra mobilen."
+ },
+ "cb27864b": {
+  "it": "no pAIn™ — Domande frequenti",
+  "tr": "no pAIn™ — Vanliga frågor"
+ },
+ "3b6519ae": {
+  "it": "Risposte chiare sulle app no pAIn™, su button4help™, sulla connessione, sulla privacy e sui costi.",
+  "tr": "Tydliga svar om no pAIn™-apparna, button4help™, anslutning, integritet och kostnader."
+ },
+ "d18377be": {
+  "it": "Domande semplici. <span class=\"hl\">Risposte chiare.</span>",
+  "tr": "Enkla frågor. <span class=\"hl\">Tydliga svar.</span>"
+ },
+ "44dbf7c0": {
+  "it": "Prima di scegliere, conosci il funzionamento e le condizioni d'uso.",
+  "tr": "Innan du väljer, lär dig hur det fungerar och vilka villkor som gäller."
+ },
+ "a943bf49": {
+  "it": "Perché non chiamare direttamente il 112?",
+  "tr": "Varför inte ringa 112 direkt?"
+ },
+ "5879ca74": {
+  "it": "Il 112 resta fondamentale e, se puoi, chiamalo. Ma in pericolo spesso non si può parlare con un operatore, spiegare la situazione e dire dove ci si trova. Le app no pAIn™ servono proprio a questo: con una parola o un tocco discreto avvisano due persone di fiducia con la tua posizione, e saranno loro a chiamare le forze dell'ordine.",
+  "tr": "112 är fortfarande viktigt, och ring om du kan. Men i fara går det ofta inte att prata med en operatör, förklara situationen och säga var du är. Det är just därför no pAIn™-apparna finns: med ett ord eller en diskret beröring varnar de två personer du litar på och skickar din position, och det är de som ringer polisen."
+ },
+ "bba383c4": {
+  "it": "Chi riceve la richiesta di aiuto?",
+  "tr": "Vem får hjälpbegäran?"
+ },
+ "677457a0": {
+  "it": "I due contatti di emergenza impostati da te nell'app, parenti o amici. A seconda dell'app puoi abilitare SMS, WhatsApp (iPhone), Telegram e telefonate. Le app non contattano i servizi pubblici di emergenza.",
+  "tr": "De två nödkontakter du angett i appen, släktingar eller vänner. Beroende på appen kan du aktivera sms, WhatsApp (iPhone), Telegram och samtal. Apparna kontaktar inte samhällets räddningstjänster."
+ },
+ "c585af6a": {
+  "it": "Posso usarle con un iPhone?",
+  "tr": "Kan jag använda dem med iPhone?"
+ },
+ "837d55d5": {
+  "it": "Sì: no pAIn™ (Proteggimi) è disponibile sull'App Store, in 12 lingue e con app compagna per Apple Watch. La versione gratuita include SOS e Telegram; Premium aggiunge Siri, SMS, WhatsApp e chiamate tramite i Comandi Rapidi. <a href=\"versioni.html\">Vedi il confronto</a>.",
+  "tr": "Ja: no pAIn™ (Proteggimi) finns i App Store, på 12 språk och med följeslagarapp för Apple Watch. Gratisversionen innehåller SOS och Telegram; Premium lägger till Siri, sms, WhatsApp och samtal via Genvägar. <a href=\"versioni.html\">Se jämförelsen</a>."
+ },
+ "5e269703": {
+  "it": "Quanto costano?",
+  "tr": "Vad kostar de?"
+ },
+ "264bfcce": {
+  "it": "Su iOS il download e le funzioni Free sono gratuiti; Premium richiede un acquisto una tantum, senza abbonamento. Su Android restano gratuiti i tasti di emergenza rapida, con le limitazioni illustrate nel <a href=\"versioni.html\">confronto</a>. Consulta gli store per i prezzi delle app.",
+  "tr": "På iOS är nedladdningen och Free-funktionerna gratis; Premium kräver ett engångsköp, ingen prenumeration. På Android förblir snabbknapparna för nödläge gratis, med de begränsningar som visas i <a href=\"versioni.html\">jämförelsen</a>. Se butikerna för apparnas priser."
+ },
+ "98931ccd": {
+  "it": "La posizione resta visibile per 24 ore in ogni app?",
+  "tr": "Syns positionen i 24 timmar i alla appar?"
+ },
+ "73d74e51": {
+  "it": "La durata dipende dall'app e dalla versione. Su iOS Free è di 30 minuti; su iOS Premium va da 1 minuto a 24 ore. AI help You arriva fino a 24 ore; Proteggimi Android e AIuto SOS watch4help™ riportano rispettivamente 30 e 60 minuti. Controlla le opzioni dell'app installata.",
+  "tr": "Längden beror på appen och versionen. På iOS Free är den 30 minuter; på iOS Premium från 1 minut till 24 timmar. AI help You går upp till 24 timmar; Proteggimi Android och AIuto SOS watch4help™ anger 30 respektive 60 minuter. Kontrollera alternativen i den installerade appen."
+ },
+ "22510adf": {
+  "it": "Lo smartwatch deve essere sempre vicino al telefono?",
+  "tr": "Måste smartklockan alltid vara nära telefonen?"
+ },
+ "28dd55f0": {
+  "it": "Per Wear OS puoi scegliere fra l'app compagna del telefono e AIuto SOS watch4help™, autonoma, che usa la connessione dell'orologio. L'app compagna per Apple Watch lavora con l'iPhone abbinato: Telegram e posizione possono partire anche con iPhone bloccato; per le altre azioni Premium serve l'app iPhone in primo piano. Un'app dedicata AIutoSOS per Apple Watch è in programma.",
+  "tr": "På Wear OS kan du välja mellan telefonens följeslagarapp och den fristående AIuto SOS watch4help™, som använder klockans anslutning. Följeslagarappen för Apple Watch fungerar med den parkopplade iPhonen: Telegram och position kan skickas även med iPhone låst; för övriga Premium-åtgärder måste iPhone-appen vara i förgrunden. En egen AIutoSOS-app för Apple Watch är planerad."
+ },
+ "5f1834e5": {
+  "it": "Il pulsante funziona senza smartphone?",
+  "tr": "Fungerar knappen utan mobil?"
+ },
+ "b93269ec": {
+  "it": "No. button4help™ è il comando di un'app sullo smartphone associato: il telefono deve essere acceso e raggiungibile via Bluetooth. Se ti serve una soluzione senza telefono, c'è l'app autonoma <a href=\"prodotti.html#aiuto-sos\">AIuto SOS watch4help™</a> per Wear OS, le cui funzioni dipendono dalla connettività dell'orologio.",
+  "tr": "Nej. button4help™ styr en app i den parkopplade mobilen: telefonen måste vara påslagen och nåbar via Bluetooth. Behöver du en lösning utan telefon finns den fristående appen <a href=\"prodotti.html#aiuto-sos\">AIuto SOS watch4help™</a> för Wear OS, vars funktioner beror på klockans anslutning."
+ },
+ "b702e7a0": {
+  "it": "In cosa è diverso da un AirTag o da un tracker?",
+  "tr": "Hur skiljer den sig från en AirTag eller en spårare?"
+ },
+ "ee37e011": {
+  "it": "I tracker GPS o Bluetooth servono a ritrovare oggetti e animali tramite la rete AirTag di Apple o quella di Android. button4help™ non si fa localizzare: è un pulsante che, premuto per un paio di secondi, fa scattare l'emergenza nell'app. Contiene solo un modulo Bluetooth Low Energy e una batteria a bottone, per questo è così piccolo. È diverso anche dai classici pulsanti SOS per anziani.",
+  "tr": "GPS- eller Bluetooth-spårare används för att hitta föremål och djur via Apples AirTag-nätverk eller Androids nätverk. button4help™ går inte att lokalisera: det är en knapp som, intryckt i ett par sekunder, utlöser nödläget i appen. Den innehåller bara en Bluetooth Low Energy-modul och ett knappcellsbatteri, därför är den så liten. Den skiljer sig också från klassiska SOS-knappar för äldre."
+ },
+ "404d40e9": {
+  "it": "Dove lo compro e con quali app funziona?",
+  "tr": "Var köper jag den och vilka appar fungerar den med?"
+ },
+ "eb01d77f": {
+  "it": "Si acquista su <a href=\"https://it.aliexpress.com/item/1005008509583971.html\" target=\"_blank\" rel=\"noopener\">AliExpress</a>, da un venditore terzo: no pAIn™ non lo vende. Funziona con AI help You su Android e con no pAIn™ su iPhone. Per dubbi sulla compatibilità con il tuo telefono, <a href=\"mailto:agostino.giorgio@poliba.it\" data-mail=\"private\">scrivi al progettista</a>.",
+  "tr": "Den köps på <a href=\"https://it.aliexpress.com/item/1005008509583971.html\" target=\"_blank\" rel=\"noopener\">AliExpress</a>, av en extern säljare: no pAIn™ säljer den inte. Den fungerar med AI help You på Android och med no pAIn™ på iPhone. Om du är osäker på kompatibiliteten med din telefon, <a href=\"mailto:agostino.giorgio@poliba.it\" data-mail=\"private\">skriv till formgivaren</a>."
+ },
+ "3a4698fd": {
+  "it": "Le foto del pulsante mostrano il dispositivo attuale. Le immagini promozionali con pendenti a cuore o altri gioielli illustrano possibilità di design: disponibilità e caratteristiche di questi accessori vanno confermate con il progettista.",
+  "tr": "Bilderna på knappen visar den nuvarande enheten. Marknadsföringsbilderna med hjärthängen eller andra smycken visar designmöjligheter: tillgänglighet och egenskaper för dessa tillbehör måste bekräftas med formgivaren."
+ },
+ "688cc56a": {
+  "it": "Connessione e privacy",
+  "tr": "Anslutning och integritet"
+ },
+ "ae12ac09": {
+  "it": "“IA offline” significa che non serve connessione?",
+  "tr": "Betyder ”offline-AI” att ingen anslutning behövs?"
+ },
+ "73f2db19": {
+  "it": "Il riconoscimento locale delle parole chiave non invia l'audio a un servizio cloud. L'invio degli avvisi è un passaggio diverso: Telegram e WhatsApp richiedono internet; SMS e telefonate dipendono dalla rete e dal piano dell'operatore. Anche il collegamento fra accessorio e telefono deve essere disponibile.",
+  "tr": "Den lokala igenkänningen av nyckelord skickar inte ljud till en molntjänst. Att skicka larm är ett separat steg: Telegram och WhatsApp kräver internet; sms och samtal beror på nätet och operatörsabonnemanget. Anslutningen mellan tillbehör och telefon måste också finnas."
+ },
+ "1198a78d": {
+  "it": "Vengono registrate le conversazioni?",
+  "tr": "Spelas samtal in?"
+ },
+ "66ecb0b4": {
+  "it": "Lo sviluppatore dichiara che il microfono serve al riconoscimento locale delle parole chiave, senza registrare l'audio, e che contatti e impostazioni restano sul dispositivo. Gli avvisi usano comunque servizi esterni, come operatori telefonici e Telegram, con le rispettive informative. Consulta l'<a href=\"https://poliba.wixsite.com/no_pain_privacy\" target=\"_blank\" rel=\"noopener\">informativa della singola app</a>.",
+  "tr": "Utvecklaren uppger att mikrofonen används för lokal igenkänning av nyckelord, utan att ljud spelas in, och att kontakter och inställningar stannar på enheten. Larmen använder ändå externa tjänster, som teleoperatörer och Telegram, med egna integritetspolicyer. Läs <a href=\"https://poliba.wixsite.com/no_pain_privacy\" target=\"_blank\" rel=\"noopener\">integritetspolicyn för respektive app</a>."
+ },
+ "ed1d4c77": {
+  "it": "Serve creare un account?",
+  "tr": "Behöver jag skapa ett konto?"
+ },
+ "92ae487c": {
+  "it": "No. Le app non richiedono account, login o cloud proprietario: impostazioni e contatti restano sul tuo telefono.",
+  "tr": "Nej. Apparna kräver inget konto, ingen inloggning och inget eget moln: inställningar och kontakter stannar i din telefon."
+ },
+ "_ui": {
+  "menu": "Meny",
+  "close": "Stäng",
+  "closeImage": "Stäng"
+ },
+ "_mail": {
+  "privateSubject": "button4help™ — förfrågan om information",
+  "privateBody": "Hej,\njag vill gärna ha information om button4help™: pris, tillgänglighet och kompatibilitet med min telefon.\n\nTelefonmodell: \n\nVänliga hälsningar",
+  "partnerSubject": "no pAIn™ — förfrågan om samarbete",
+  "partnerBody": "Hej,\njag vill gärna veta mer om projektet no pAIn™ och diskutera ett möjligt samarbete eller en demonstration.\n\nOrganisation eller företag: \nKontaktperson: \n\nVänliga hälsningar"
+ }
+}

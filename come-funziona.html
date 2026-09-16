@@ -1,30 +1,46 @@
 <!doctype html>
-<html lang="it">
+<html lang="it" data-lang="it">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>no pAIn — Come funziona</title>
-<meta name="description" content="Come si attivano le app no pAIn, quali azioni partono, come funziona watch4help e come preparare la prima configurazione.">
-<meta property="og:title" content="no pAIn — Come funziona">
-<meta property="og:description" content="Come si attivano le app no pAIn, quali azioni partono, come funziona watch4help e come preparare la prima configurazione.">
+<script>
+/* sceglie la lingua prima di mostrare la pagina: ?lang= → scelta salvata → lingua del browser → italiano */
+(function () {
+  var L = ['it','en','fr','de','es','tr','el','pt','ro','pl','nl','sv'], l = null, d = document.documentElement;
+  try { l = new URLSearchParams(location.search).get('lang'); } catch (e) {}
+  if (L.indexOf(l) < 0) { try { l = localStorage.getItem('np-lang'); } catch (e) {} }
+  if (L.indexOf(l) < 0) {
+    l = null;
+    var n = navigator.languages || [navigator.language || ''];
+    for (var i = 0; i < n.length && !l; i++) { var c = String(n[i]).slice(0, 2).toLowerCase(); if (L.indexOf(c) >= 0) l = c; }
+  }
+  l = l || 'it';
+  d.setAttribute('data-lang', l);
+  if (l !== 'it') { d.classList.add('np-wait'); setTimeout(function () { d.classList.remove('np-wait'); }, 2500); }
+})();
+</script>
+<title>no pAIn™ — Come funziona</title>
+<meta name="description" content="Come si attivano le app no pAIn™, quali azioni partono, come funziona watch4help™ e come preparare la prima configurazione.">
+<meta property="og:title" content="no pAIn™ — Come funziona">
+<meta property="og:description" content="Come si attivano le app no pAIn™, quali azioni partono, come funziona watch4help™ e come preparare la prima configurazione.">
 <meta property="og:image" content="assets/no-pain-app-family.jpg">
-<meta name="theme-color" content="#110d22">
-<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<meta name="theme-color" content="#000a49">
+<link rel="icon" href="assets/favicon-64.png" type="image/png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&amp;family=Familjen+Grotesk:wght@500;600;700&amp;family=IBM+Plex+Mono:wght@400;500&amp;display=swap">
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css?v=20260916e">
 </head>
 <body>
 
 <header class="site-header">
   <div class="wrap">
-    <a class="logo" href="index.html">no p<b>AI</b>n.</a>
-    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="menu">Menu</button>
+    <a class="logo" href="index.html" data-no-i18n><span class="shield"><img src="assets/logo-scudo.png" alt="" width="84" height="84"></span><span class="word">no p<b>AI</b>n<span class="tm">™</span></span></a>
     <nav class="nav" id="menu" aria-label="Navigazione principale">
       <a href="index.html">Il progetto</a>
       <a href="prodotti.html">Le app</a>
-      <a href="button4help.html">button4help</a>
+      <a href="button4help.html">button4help™</a>
       <a href="versioni.html">Free e Premium</a>
       <a href="come-funziona.html" aria-current="page">Come funziona</a>
       <a href="ricerca.html">Ricerca</a>
@@ -32,6 +48,27 @@
       <a href="domande.html">Domande</a>
       <a class="nav-cta" href="#contatti">Contatti</a>
     </nav>
+    <div class="header-tools">
+      <div class="lang-switch" data-no-i18n>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.7 3.8 5.7 3.8 9s-1.3 6.3-3.8 9c-2.5-2.7-3.8-5.7-3.8-9S9.5 5.7 12 3z"/></svg>
+        <span class="lang-code" aria-hidden="true">IT</span>
+        <select id="lang-select" aria-label="Lingua · Language">
+          <option value="it">Italiano</option>
+          <option value="en">English</option>
+          <option value="fr">Français</option>
+          <option value="de">Deutsch</option>
+          <option value="es">Español</option>
+          <option value="tr">Türkçe</option>
+          <option value="el">Ελληνικά</option>
+          <option value="pt">Português</option>
+          <option value="ro">Română</option>
+          <option value="pl">Polski</option>
+          <option value="nl">Nederlands</option>
+          <option value="sv">Svenska</option>
+        </select>
+      </div>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="menu" data-no-i18n>Menu</button>
+    </div>
   </div>
 </header>
 
@@ -78,7 +115,7 @@
         <p>Usa voce o pulsante dell'app compatibile. Distingui l'app compagna del telefono dall'app autonoma per Wear OS.</p>
       </article>
       <article class="card featured">
-        <span class="meta">button4help</span>
+        <span class="meta">button4help™</span>
         <h3>Dalla tasca</h3>
         <p>Tieni premuto per un paio di secondi il pulsante collegato al telefono: l'app esegue le azioni impostate. <a class="link-arrow" href="button4help.html">Scopri →</a></p>
       </article>
@@ -121,18 +158,18 @@
 <section id="watch4help">
   <div class="wrap">
     <div class="sec-head">
-      <span class="eyebrow">watch4help · SOS al polso</span>
+      <span class="eyebrow">watch4help™ · SOS al polso</span>
       <h2>Collegato al telefono o autonomo.</h2>
     </div>
     <div class="cards two">
       <article class="card">
-        <figure class="shot photo"><img src="assets/wearos-sos.png" width="781" height="768" loading="lazy" alt="Smartwatch Wear OS con l'app AIuto SOS: tasto rosso INVIO e pulsante FERMA ASCOLTO"></figure>
+        <figure class="shot photo fit"><img src="assets/wearos-sos.png" width="781" height="768" loading="lazy" alt="Smartwatch Wear OS con l'app AIuto SOS: tasto rosso INVIO e pulsante FERMA ASCOLTO"></figure>
         <span class="meta">Wear OS</span>
         <h3>Due modalità, da distinguere</h3>
-        <p>Proteggimi e AI help You hanno un'app compagna per l'orologio abbinato. AIuto SOS watch4help è invece la soluzione autonoma, utilizzabile senza smartphone con una connessione adatta ai canali scelti.</p>
+        <p>Proteggimi e AI help You hanno un'app compagna per l'orologio abbinato. AIuto SOS watch4help™ è invece la soluzione autonoma, utilizzabile senza smartphone con una connessione adatta ai canali scelti.</p>
       </article>
       <article class="card">
-        <figure class="shot photo"><img src="assets/apple-watch-sos.png" width="544" height="787" loading="lazy" style="max-height:440px;object-fit:cover" alt="Apple Watch con il grande tasto rosso EMERGENZA e la conferma Inviato"></figure>
+        <figure class="shot photo fit"><img src="assets/apple-watch-sos.png" width="544" height="787" loading="lazy" alt="Apple Watch con il grande tasto rosso EMERGENZA e la conferma Inviato"></figure>
         <span class="meta">Apple Watch</span>
         <h3>Un tocco, con iPhone abbinato</h3>
         <p>L'app compagna può avviare Telegram e posizione anche con iPhone bloccato. Per avviare anche SMS, WhatsApp e telefonata servono Premium, il Comando Rapido configurato e l'app iPhone in primo piano.</p>
@@ -176,13 +213,13 @@
         <span>Dipartimento di Ingegneria Elettrica e dell'Informazione</span>
         <span>Politecnico di Bari · Via Re David, 200 · 70125 Bari</span>
         <a href="tel:+390805963239">Tel. ufficio: 080 596 3239/579</a>
-        <a href="mailto:agostino.giorgio@poliba.it">agostino.giorgio@poliba.it</a>
-        <a href="https://www.instagram.com/no_pain_app/" target="_blank" rel="noopener">Instagram: @no_pain_app ↗</a>
+        <a href="mailto:agostino.giorgio@poliba.it" data-no-i18n>agostino.giorgio@poliba.it</a>
+        <a href="https://www.instagram.com/no_pain_app/" target="_blank" rel="noopener" data-no-i18n>Instagram: @no_pain_app ↗</a>
       </address>
     </div>
     <div class="contact-options">
-      <a class="contact-option" href="mailto:agostino.giorgio@poliba.it?subject=button4help%20%E2%80%94%20richiesta%20di%20informazioni&amp;body=Buongiorno%2C%0Avorrei%20ricevere%20informazioni%20su%20button4help%2C%20prezzo%2C%20disponibilit%C3%A0%20e%20compatibilit%C3%A0%20con%20il%20mio%20telefono.%0A%0AModello%20del%20telefono%3A%20%0A%0ACordiali%20saluti"><span><strong>Informazioni per privati</strong><span>App, button4help e compatibilità con il tuo telefono</span></span><span class="arr">↗</span></a>
-      <a class="contact-option" href="mailto:agostino.giorgio@poliba.it?subject=no%20pAIn%20%E2%80%94%20richiesta%20di%20collaborazione&amp;body=Buongiorno%2C%0Avorrei%20approfondire%20il%20progetto%20no%20pAIn%20e%20valutare%20una%20possibile%20collaborazione%20o%20dimostrazione.%0A%0AEnte%20o%20azienda%3A%20%0ANome%20del%20referente%3A%20%0A%0ACordiali%20saluti"><span><strong>Proposte per enti e aziende</strong><span>Dimostrazioni e collaborazioni</span></span><span class="arr">↗</span></a>
+      <a class="contact-option" href="mailto:agostino.giorgio@poliba.it" data-mail="private"><span><strong>Informazioni per privati</strong><span>App, button4help™ e compatibilità con il tuo telefono</span></span><span class="arr">↗</span></a>
+      <a class="contact-option" href="mailto:agostino.giorgio@poliba.it" data-mail="partner"><span><strong>Proposte per enti e aziende</strong><span>Dimostrazioni e collaborazioni</span></span><span class="arr">↗</span></a>
       <p class="small">Si aprirà la tua app di posta. Puoi scrivere anche direttamente a <a href="mailto:agostino.giorgio@poliba.it">agostino.giorgio@poliba.it</a></p>
     </div>
   </div>
@@ -191,7 +228,7 @@
 <footer class="site-footer">
   <div class="wrap">
     <div>
-      <a class="logo" href="index.html">no p<b>AI</b>n.</a>
+      <a class="logo" href="index.html" data-no-i18n><span class="shield"><img src="assets/logo-scudo.png" alt="" width="84" height="84"></span><span class="word">no p<b>AI</b>n<span class="tm">™</span></span></a>
       <p style="margin-top:12px">Progetto del Prof. Ing. Agostino Giorgio<br>Docente del Politecnico di Bari</p>
     </div>
     <div>
@@ -199,7 +236,7 @@
       <ul>
         <li><a href="index.html">Il progetto</a></li>
         <li><a href="prodotti.html">Le app</a></li>
-        <li><a href="button4help.html">button4help</a></li>
+        <li><a href="button4help.html">button4help™</a></li>
         <li><a href="versioni.html">Free e Premium</a></li>
         <li><a href="come-funziona.html">Come funziona</a></li>
         <li><a href="ricerca.html">Ricerca</a></li>
@@ -211,14 +248,14 @@
       <h4>Risorse</h4>
       <ul>
         <li><a href="https://poliba.wixsite.com/no_pain_privacy" target="_blank" rel="noopener">Manuali e privacy delle app ↗</a></li>
-        <li><a href="assets/no-pain-presentazione.pdf" target="_blank" rel="noopener">Presentazione del progetto (PDF) ↗</a></li>
+        <li><a href="assets/no-pain-presentazione.pdf" target="_blank" rel="noopener">Presentazione del progetto (PDF, in italiano) ↗</a></li>
         <li><a href="https://www.instagram.com/no_pain_app/" target="_blank" rel="noopener">Instagram ↗</a></li>
       </ul>
     </div>
-    <p class="fineprint">In caso di pericolo immediato chiama il 112. Le app no pAIn avvisano i contatti di emergenza scelti da te e non sostituiscono i servizi pubblici di emergenza. © <span id="year">2026</span> no pAIn · Informati. Configura. Prova.</p>
+    <p class="fineprint"><span>In caso di pericolo immediato chiama il 112. Le app no pAIn™ avvisano i contatti di emergenza scelti da te e non sostituiscono i servizi pubblici di emergenza.</span> <span data-no-i18n>© <span id="year">2026</span> no pAIn™</span> · <span>Informati. Configura. Prova.</span></p>
   </div>
 </footer>
 
-<script src="site.js"></script>
+<script src="site.js?v=20260916e"></script>
 </body>
 </html>

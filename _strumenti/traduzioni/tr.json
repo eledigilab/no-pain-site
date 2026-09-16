@@ -1,0 +1,1821 @@
+{
+ "f140bfd5": {
+  "it": "no pAIn™: la tutela digitale contro la violenza di genere. App e dispositivi che chiedono aiuto con la voce o con un gesto, senza dover parlare con nessuno.",
+  "tr": "no pAIn™: toplumsal cinsiyete dayalı şiddete karşı dijital koruma. Kimseyle konuşmak zorunda kalmadan sesle ya da bir hareketle yardım isteyen uygulamalar ve cihazlar."
+ },
+ "7485a5cc": {
+  "it": "Il progetto",
+  "tr": "Proje"
+ },
+ "3c3edab5": {
+  "it": "Le app",
+  "tr": "Uygulamalar"
+ },
+ "2405dae5": {
+  "it": "Free e Premium",
+  "tr": "Free ve Premium"
+ },
+ "304ad423": {
+  "it": "Come funziona",
+  "tr": "Nasıl çalışır"
+ },
+ "3b2a74ba": {
+  "it": "Ricerca",
+  "tr": "Araştırma"
+ },
+ "cef2e389": {
+  "it": "Per enti e aziende",
+  "tr": "Kuruluşlar"
+ },
+ "b0987c4b": {
+  "it": "Domande",
+  "tr": "Sorular"
+ },
+ "9c6a2f5f": {
+  "it": "Contatti",
+  "tr": "İletişim"
+ },
+ "bc47d777": {
+  "it": "Tutela digitale · digital4help™",
+  "tr": "Dijital koruma · digital4help™"
+ },
+ "3351a7a0": {
+  "it": "Chiedere aiuto <span class=\"hl\">senza dover parlare.</span>",
+  "tr": "Konuşmak zorunda kalmadan <span class=\"hl\">yardım isteyin.</span>"
+ },
+ "e662d766": {
+  "it": "no pAIn™ è un ecosistema di app e dispositivi per la prevenzione della violenza di genere. Con una parola, un tocco o un pulsante, avvisa subito due persone di fiducia con la tua posizione: messaggi e telefonate partono da soli.",
+  "tr": "no pAIn™, toplumsal cinsiyete dayalı şiddetin önlenmesi için uygulama ve cihazlardan oluşan bir ekosistemdir. Bir kelime, bir dokunuş ya da bir düğmeyle güvendiğiniz iki kişiyi konumunuzla birlikte hemen uyarır: mesajlar ve aramalar kendiliğinden gönderilir."
+ },
+ "14ea42b7": {
+  "it": "Scegli la tua app <span class=\"arr\">→</span>",
+  "tr": "Uygulamanızı seçin <span class=\"arr\">→</span>"
+ },
+ "82d6a819": {
+  "it": "Scopri button4help™ <span class=\"arr\">→</span>",
+  "tr": "button4help™ ürününü keşfedin <span class=\"arr\">→</span>"
+ },
+ "c1aca8f1": {
+  "it": "Progetto ideato dal <strong>Prof. Ing. Agostino Giorgio</strong><br>Docente del Politecnico di Bari",
+  "tr": "Projeyi geliştiren: <strong>Prof. Müh. Agostino Giorgio</strong><br>Politecnico di Bari öğretim üyesi"
+ },
+ "ef8c5976": {
+  "it": "Giulia<small>contatto di emergenza</small>",
+  "tr": "Giulia<small>acil durum kişisi</small>"
+ },
+ "fd908409": {
+  "it": "<span class=\"sos\">RICHIESTA DI AIUTO</span><br>Ho bisogno di aiuto. Questa è la mia posizione.",
+  "tr": "<span class=\"sos\">YARDIM TALEBİ</span><br>Yardıma ihtiyacım var. Konumum bu."
+ },
+ "f09882f7": {
+  "it": "41.1087° N, 16.8784° E<br><span class=\"live\">● posizione live attiva</span>",
+  "tr": "41.1087° N, 16.8784° E<br><span class=\"live\">● canlı konum açık</span>"
+ },
+ "a3e96f0f": {
+  "it": "Esempio illustrativo di ciò che riceve un contatto",
+  "tr": "Bir kişinin aldığı mesaja örnek"
+ },
+ "ce0132df": {
+  "it": "L'idea",
+  "tr": "Fikir"
+ },
+ "f36541c1": {
+  "it": "Da signal4help a <span class=\"hl\">digital4help™</span>",
+  "tr": "signal4help’ten <span class=\"hl\">digital4help™</span>"
+ },
+ "ed14bbed": {
+  "it": "Il segnale con la mano, signal4help, è diventato il gesto universale con cui chi è in pericolo chiede aiuto in silenzio. Ma funziona solo se qualcuno lo vede. no pAIn™ ne ha fatto una versione elettronica: il “signal for help” arriva alle persone giuste, ovunque siano, insieme alla posizione.",
+  "tr": "El işareti signal4help, tehlikedeki kişinin sessizce yardım istediği evrensel hareket hâline geldi. Ancak yalnızca biri görürse işe yarar. no pAIn™ bunun elektronik bir sürümünü geliştirdi: “signal for help”, konumla birlikte, nerede olurlarsa olsunlar doğru kişilere ulaşır."
+ },
+ "923665b8": {
+  "it": "GESTO 1",
+  "tr": "HAREKET 1"
+ },
+ "1d140d31": {
+  "it": "Palmo aperto",
+  "tr": "Açık avuç"
+ },
+ "95366a71": {
+  "it": "GESTO 2",
+  "tr": "HAREKET 2"
+ },
+ "c4b876c9": {
+  "it": "Pollice piegato sul palmo",
+  "tr": "Başparmak avuç içine kıvrılır"
+ },
+ "943668de": {
+  "it": "GESTO 3",
+  "tr": "HAREKET 3"
+ },
+ "0a28e822": {
+  "it": "Dita chiuse sul pollice",
+  "tr": "Parmaklar başparmağın üzerine kapanır"
+ },
+ "cbb74791": {
+  "it": "Lo stesso messaggio, senza bisogno di essere vista",
+  "tr": "Görülmeye gerek kalmadan aynı mesaj"
+ },
+ "915f0e78": {
+  "it": "Una parola chiave detta ad alta voce, un tocco sullo schermo, sull'orologio o su un pulsante in tasca. L'app fa il resto e avvisa i tuoi contatti di emergenza.",
+  "tr": "Yüksek sesle söylenen bir anahtar kelime, ekrana, saate ya da cepteki bir düğmeye bir dokunuş. Gerisini uygulama yapar ve acil durum kişilerinizi uyarır."
+ },
+ "a192d5c1": {
+  "it": "Perché serve",
+  "tr": "Neden gerekli"
+ },
+ "6c714dba": {
+  "it": "Nel pericolo non sempre si può parlare.",
+  "tr": "Tehlike anında her zaman konuşulamaz."
+ },
+ "51447e50": {
+  "it": "Il 112 e app come YouPol restano strumenti fondamentali. Però chiedono di parlare con un operatore, spiegare cosa sta succedendo e dire dove ci si trova. Con un aggressore accanto, spesso è impossibile.",
+  "tr": "112 ve YouPol gibi uygulamalar temel araçlar olmaya devam ediyor. Ancak bir operatörle konuşmayı, neler olduğunu anlatmayı ve nerede olduğunuzu söylemeyi gerektirirler. Yanınızda bir saldırgan varken bu çoğu zaman imkânsızdır."
+ },
+ "deb6e2a4": {
+  "it": "Chiamata o app di segnalazione",
+  "tr": "Arama veya ihbar uygulaması"
+ },
+ "921dd1f7": {
+  "it": "Bisogna prendere in mano il telefono e sbloccarlo",
+  "tr": "Telefonu elinize alıp kilidini açmanız gerekir"
+ },
+ "eed236ef": {
+  "it": "Bisogna parlare o scrivere, spiegando la situazione",
+  "tr": "Durumu anlatarak konuşmanız veya yazmanız gerekir"
+ },
+ "15656b20": {
+  "it": "Bisogna descrivere dove ci si trova",
+  "tr": "Nerede olduğunuzu tarif etmeniz gerekir"
+ },
+ "9124957b": {
+  "it": "Chi aggredisce può accorgersene",
+  "tr": "Saldırgan fark edebilir"
+ },
+ "49795334": {
+  "it": "Un'app con tecnologia no pAIn™",
+  "tr": "no pAIn™ teknolojili bir uygulama"
+ },
+ "d0047c0e": {
+  "it": "Basta una parola chiave, anche con il telefono a qualche metro",
+  "tr": "Telefon birkaç metre uzakta olsa bile bir anahtar kelime yeterlidir"
+ },
+ "479e4c85": {
+  "it": "Oppure un tocco discreto: su una notifica, sull'orologio, su un pulsante",
+  "tr": "Ya da fark edilmeyen bir dokunuş: bir bildirime, saate, bir düğmeye"
+ },
+ "026026d4": {
+  "it": "La posizione viene inviata in automatico",
+  "tr": "Konum otomatik olarak gönderilir"
+ },
+ "202def39": {
+  "it": "Due persone di fiducia sono avvisate subito e possono chiamare le forze dell'ordine",
+  "tr": "Güvendiğiniz iki kişi anında uyarılır ve polisi arayabilir"
+ },
+ "89c8cdba": {
+  "it": "Come si attiva",
+  "tr": "Nasıl etkinleştirilir"
+ },
+ "9d32cd40": {
+  "it": "Sei modi rapidissimi per lanciare l'allarme.",
+  "tr": "Alarm vermenin son derece hızlı altı yolu."
+ },
+ "855eb6d8": {
+  "it": "Ogni situazione è diversa: per questo le app no pAIn™ offrono più punti di innesco. Scegli quelli che puoi usare senza farti notare. Le funzioni disponibili dipendono dall'app e dal dispositivo.",
+  "tr": "Her durum farklıdır: bu yüzden no pAIn™ uygulamaları birden çok tetikleyici sunar. Fark edilmeden kullanabileceklerinizi seçin. Kullanılabilen işlevler uygulamaya ve cihaza bağlıdır."
+ },
+ "5c8c7520": {
+  "it": "IA offline",
+  "tr": "Çevrimdışı yapay zekâ"
+ },
+ "b382d344": {
+  "it": "Comando vocale",
+  "tr": "Sesli komut"
+ },
+ "530af9ef": {
+  "it": "Pronunci una parola chiave e le azioni di emergenza partono, senza toccare il telefono. Su Android il riconoscimento vocale è sul dispositivo, con 4 parole chiave fisse e 3 personali: funziona con app aperta, in background o chiusa, anche a schermo spento e con il telefono a qualche metro. Su iPhone basta dire “Ehi Siri, Proteggimi”.",
+  "tr": "Bir anahtar kelime söylersiniz ve telefona dokunmadan acil durum eylemleri başlar. Android’de ses tanıma cihaz üzerinde çalışır; 4 sabit ve 3 kişisel anahtar kelimeyle uygulama açıkken, arka plandayken veya kapalıyken, ekran kapalıyken ve telefon birkaç metre uzaktayken bile çalışır. iPhone’da “Hey Siri, Bana yardım et” demeniz yeterlidir."
+ },
+ "faf9e1fd": {
+  "it": "app aperta",
+  "tr": "uygulama açık"
+ },
+ "8ef8f4f2": {
+  "it": "Tasto di emergenza nell'app",
+  "tr": "Uygulamadaki acil durum düğmesi"
+ },
+ "ae23781b": {
+  "it": "Il grande tasto SOS nella schermata principale. È il metodo più semplice e richiede che l'app sia in primo piano.",
+  "tr": "Ana ekrandaki büyük SOS düğmesi. En basit yöntemdir ve uygulamanın ön planda olmasını gerektirir."
+ },
+ "0bed2b9f": {
+  "it": "Android · app chiusa",
+  "tr": "Android · uygulama kapalı"
+ },
+ "57946f7b": {
+  "it": "Tasto rapido in home",
+  "tr": "Ana ekranda hızlı düğme"
+ },
+ "dc947037": {
+  "it": "Un tasto sulla schermata home del telefono risveglia l'app anche quando è chiusa e dormiente, e avvia subito l'emergenza.",
+  "tr": "Telefonun ana ekranındaki bir düğme, uygulama kapalı ve uykudayken bile onu uyandırır ve acil durumu hemen başlatır."
+ },
+ "910bbdb2": {
+  "it": "Android · discreto",
+  "tr": "Android · fark edilmeden"
+ },
+ "ac44bb94": {
+  "it": "Notifica persistente",
+  "tr": "Kalıcı bildirim"
+ },
+ "e247de3d": {
+  "it": "Un tocco sulla notifica sempre presente. Chi ti guarda pensa che tu stia solo scorrendo le notifiche: in realtà stai chiedendo aiuto.",
+  "tr": "Her zaman görünen bildirime bir dokunuş. Sizi izleyen kişi yalnızca bildirimlere göz gezdirdiğinizi düşünür: aslında yardım istiyorsunuzdur."
+ },
+ "49bb1439": {
+  "it": "Smartwatch",
+  "tr": "Akıllı saat"
+ },
+ "c582733c": {
+  "it": "Voce o tasto sul quadrante di uno smartwatch Wear OS, oppure tocco su Apple Watch. Le app per smartphone hanno la loro app compagna per l'orologio; AIuto SOS funziona addirittura senza smartphone.",
+  "tr": "Wear OS akıllı saatin kadranında ses veya düğme ya da Apple Watch’ta bir dokunuş. Akıllı telefon uygulamalarının saat için yardımcı uygulaması vardır; AIuto SOS ise akıllı telefon olmadan da çalışır."
+ },
+ "afc4bb5a": {
+  "it": "Pulsante button4help™",
+  "tr": "button4help™ düğmesi"
+ },
+ "27245e1d": {
+  "it": "Tieni premuto per un paio di secondi il piccolo pulsante che porti con te: l'app sullo smartphone, a diversi metri di distanza, avvia l'emergenza. <a class=\"link-arrow\" href=\"button4help.html\">Scopri →</a>",
+  "tr": "Yanınızda taşıdığınız küçük düğmeyi birkaç saniye basılı tutun: birkaç metre uzaktaki akıllı telefondaki uygulama acil durumu başlatır. <a class=\"link-arrow\" href=\"button4help.html\">Keşfedin →</a>"
+ },
+ "72179135": {
+  "it": "Cosa succede",
+  "tr": "Ne olur"
+ },
+ "4a208c02": {
+  "it": "Tutto parte da solo, verso due persone di fiducia.",
+  "tr": "Her şey kendiliğinden, güvendiğiniz iki kişiye gider."
+ },
+ "c9d56318": {
+  "it": "Nell'app imposti due contatti di emergenza, parenti o amici. Appena l'allarme scatta, ricevono la tua richiesta di aiuto e la tua posizione.",
+  "tr": "Uygulamada yakınlarınızdan veya arkadaşlarınızdan iki acil durum kişisi belirlersiniz. Alarm devreye girer girmez yardım talebinizi ve konumunuzu alırlar."
+ },
+ "4d2b859a": {
+  "it": "SMS con posizione",
+  "tr": "Konumlu SMS"
+ },
+ "d4224bde": {
+  "it": "Coordinate GPS, indirizzo e link alla mappa. Viaggia sulla rete telefonica, senza bisogno di internet.",
+  "tr": "GPS koordinatları, adres ve harita bağlantısı. İnternet gerekmeden telefon şebekesi üzerinden gider."
+ },
+ "dd629a23": {
+  "it": "WhatsApp con posizione",
+  "tr": "Konumlu WhatsApp"
+ },
+ "64664831": {
+  "it": "Su iPhone il messaggio con la posizione arriva anche su WhatsApp.",
+  "tr": "iPhone’da konumlu mesaj WhatsApp üzerinden de gönderilir."
+ },
+ "5fd172ca": {
+  "it": "live fino a 24 ore",
+  "tr": "24 saate kadar canlı"
+ },
+ "5187e248": {
+  "it": "Telegram con posizione live",
+  "tr": "Canlı konumlu Telegram"
+ },
+ "d89f380c": {
+  "it": "La posizione si aggiorna in tempo reale, così i contatti possono seguirti. La durata dipende dall'app e dalla versione.",
+  "tr": "Konum gerçek zamanlı güncellenir, böylece kişileriniz sizi takip edebilir. Süre uygulamaya ve sürüme bağlıdır."
+ },
+ "ee006bf8": {
+  "it": "Telefonata",
+  "tr": "Telefon araması"
+ },
+ "32339987": {
+  "it": "L'app avvia la chiamata ai contatti di emergenza, senza che tu debba comporre nulla.",
+  "tr": "Uygulama, sizin numara çevirmenize gerek kalmadan acil durum kişilerinizi arar."
+ },
+ "4bf5a602": {
+  "it": "Tu",
+  "tr": "Siz"
+ },
+ "d57530db": {
+  "it": "voce, tocco o pulsante",
+  "tr": "ses, dokunuş veya düğme"
+ },
+ "7acbe219": {
+  "it": "App no pAIn™",
+  "tr": "no pAIn™ uygulaması"
+ },
+ "dbd95aa2": {
+  "it": "posizione + messaggi",
+  "tr": "konum + mesajlar"
+ },
+ "ee660409": {
+  "it": "2 contatti di fiducia",
+  "tr": "2 güvenilir kişi"
+ },
+ "9f0c43e0": {
+  "it": "SMS · WhatsApp · Telegram · chiamata",
+  "tr": "SMS · WhatsApp · Telegram · arama"
+ },
+ "61957ddc": {
+  "it": "Aiuto concreto",
+  "tr": "Somut yardım"
+ },
+ "1145e6b6": {
+  "it": "chiamano le forze dell'ordine o vengono da te",
+  "tr": "polisi ararlar ya da yanınıza gelirler"
+ },
+ "ccff734a": {
+  "it": "<b>Importante</b> Le app avvisano i contatti che hai scelto: non chiamano direttamente il 112 e non lo sostituiscono. Accordati prima con i tuoi contatti su cosa fare quando ricevono un allarme, e fate insieme una prova.",
+  "tr": "<b>Önemli</b> Uygulamalar seçtiğiniz kişileri uyarır: 112’yi doğrudan aramaz ve onun yerini tutmaz. Alarm geldiğinde ne yapacaklarını kişilerinizle önceden konuşun ve birlikte bir deneme yapın."
+ },
+ "ffa6706d": {
+  "it": "Materiale promozionale del progetto. I gioielli nelle illustrazioni sono concept di design.",
+  "tr": "Projenin tanıtım materyali. İllüstrasyonlardaki takılar tasarım konseptidir."
+ },
+ "968d258f": {
+  "it": "L'ecosistema",
+  "tr": "Ekosistem"
+ },
+ "58ed31c8": {
+  "it": "Il tuo dispositivo. La tua app no pAIn™.",
+  "tr": "Cihazınız. no pAIn™ uygulamanız."
+ },
+ "0e5790b5": {
+  "it": "Smartphone Android, iPhone, smartwatch e un pulsante da tenere in tasca. Lingue, connessioni e funzioni cambiano da un'app all'altra: scegli la soluzione adatta a te.",
+  "tr": "Android akıllı telefonlar, iPhone, akıllı saatler ve cepte taşınacak bir düğme. Diller, bağlantılar ve işlevler uygulamadan uygulamaya değişir: size uygun çözümü seçin."
+ },
+ "937cc276": {
+  "it": "ANDROID · 12 LINGUE",
+  "tr": "ANDROID · 12 DİL"
+ },
+ "bc873aca": {
+  "it": "La versione multilingue per Android, compatibile con button4help™.",
+  "tr": "Android için çok dilli sürüm, button4help™ ile uyumlu."
+ },
+ "02bb91db": {
+  "it": "Scopri →",
+  "tr": "Keşfedin →"
+ },
+ "da94c32a": {
+  "it": "ANDROID · ITALIANO",
+  "tr": "ANDROID · İTALYANCA"
+ },
+ "560d580a": {
+  "it": "Proteggimi (no pAIn™)",
+  "tr": "Proteggimi (no pAIn™)"
+ },
+ "c9dc4660": {
+  "it": "L'app no pAIn™ per Android in lingua italiana.",
+  "tr": "İtalyanca Android için no pAIn™ uygulaması."
+ },
+ "7c9000fa": {
+  "it": "IPHONE · 12 LINGUE",
+  "tr": "IPHONE · 12 DİL"
+ },
+ "53a6ca86": {
+  "it": "no pAIn™ (Proteggimi)",
+  "tr": "no pAIn™ (Proteggimi)"
+ },
+ "20efe117": {
+  "it": "La versione per iPhone e Apple Watch.",
+  "tr": "iPhone ve Apple Watch sürümü."
+ },
+ "646c8658": {
+  "it": "WEAR OS · SOLO SMARTWATCH",
+  "tr": "WEAR OS · YALNIZCA AKILLI SAAT"
+ },
+ "ae8e4f36": {
+  "it": "Funziona sull'orologio da solo, senza smartphone.",
+  "tr": "Akıllı telefon olmadan, yalnızca saatte çalışır."
+ },
+ "fe4f6e94": {
+  "it": "DISPOSITIVO BLUETOOTH",
+  "tr": "BLUETOOTH CİHAZI"
+ },
+ "f3871ce8": {
+  "it": "Il pulsante che fa scattare l'allarme a distanza. Si acquista da un rivenditore esterno.",
+  "tr": "Alarmı uzaktan başlatan düğme. Harici bir satıcıdan satın alınır."
+ },
+ "cd6f44e7": {
+  "it": "Confronta le versioni Free e Premium →",
+  "tr": "Free ve Premium sürümlerini karşılaştırın →"
+ },
+ "c9e1e158": {
+  "it": "Come iniziare",
+  "tr": "Başlarken"
+ },
+ "461fee95": {
+  "it": "Scegli come attivare. Decidi chi avvisare.",
+  "tr": "Nasıl etkinleştireceğinizi seçin. Kimi uyaracağınıza karar verin."
+ },
+ "f18a1185": {
+  "it": "Prepara la tua rete",
+  "tr": "Ağınızı hazırlayın"
+ },
+ "ec84f4d8": {
+  "it": "Scegli l'app adatta al tuo dispositivo, configura i contatti e abilita le azioni che desideri utilizzare. Se usi il pulsante, completa l'abbinamento.",
+  "tr": "Cihazınıza uygun uygulamayı seçin, kişileri ayarlayın ve kullanmak istediğiniz eylemleri etkinleştirin. Düğmeyi kullanıyorsanız eşleştirmeyi tamamlayın."
+ },
+ "fb1634e8": {
+  "it": "Prima dell'utilizzo",
+  "tr": "Kullanımdan önce"
+ },
+ "a408696f": {
+  "it": "Attiva la richiesta",
+  "tr": "Talebi başlatın"
+ },
+ "b729dfea": {
+  "it": "Usa la modalità prevista dalla tua app: comando vocale, tocco sullo schermo, smartwatch compatibile o pulsante fisico associato.",
+  "tr": "Uygulamanızın sunduğu yöntemi kullanın: sesli komut, ekrana dokunma, uyumlu akıllı saat veya eşleştirilmiş fiziksel düğme."
+ },
+ "4dac2a4a": {
+  "it": "Quando serve",
+  "tr": "Gerektiğinde"
+ },
+ "7baeebcb": {
+  "it": "Avvisa chi hai scelto",
+  "tr": "Seçtiğiniz kişileri uyarın"
+ },
+ "2e3538da": {
+  "it": "Partono le azioni abilitate: messaggi con posizione, condivisione live tramite Telegram e telefonate ai contatti configurati.",
+  "tr": "Etkinleştirilen eylemler başlar: konumlu mesajlar, Telegram ile canlı konum paylaşımı ve ayarlı kişilere aramalar."
+ },
+ "bcbad548": {
+  "it": "Verso i tuoi contatti",
+  "tr": "Kişilerinize"
+ },
+ "c1def374": {
+  "it": "Tutti i dettagli su come funziona →",
+  "tr": "Nasıl çalıştığına dair tüm ayrıntılar →"
+ },
+ "9e32c6aa": {
+  "it": "Tecnologia e ricerca",
+  "tr": "Teknoloji ve araştırma"
+ },
+ "d06791de": {
+  "it": "Nato in università, pubblicato su rivista scientifica.",
+  "tr": "Üniversitede doğdu, bilimsel bir dergide yayımlandı."
+ },
+ "1d2d739f": {
+  "it": "no pAIn™ sta per <em>never oppressed protected by Artificial Intelligence Non violence system</em>. Il progetto è descritto in due articoli sulla rivista <em>Electronics</em> (2024 e 2026) e in una presentazione completa di 23 pagine.",
+  "tr": "no pAIn™, <em>never oppressed protected by Artificial Intelligence Non violence system</em> anlamına gelir. Proje, <em>Electronics</em> dergisindeki iki makalede (2024 ve 2026) ve 23 sayfalık kapsamlı bir sunumda anlatılmaktadır."
+ },
+ "933b9302": {
+  "it": "Tecnologia e pubblicazioni →",
+  "tr": "Teknoloji ve yayınlar →"
+ },
+ "271da2d3": {
+  "it": "Collaboriamo",
+  "tr": "Birlikte çalışalım"
+ },
+ "2021fdec": {
+  "it": "Porta no pAIn™ nella tua organizzazione.",
+  "tr": "no pAIn™ projesini kuruluşunuza getirin."
+ },
+ "fece8668": {
+  "it": "Enti pubblici, associazioni, aziende e sponsor: far conoscere lo strumento e inserirlo in un contesto di supporto è importante quanto metterlo a disposizione.",
+  "tr": "Kamu kurumları, dernekler, şirketler ve sponsorlar: aracı tanıtmak ve bir destek ağına yerleştirmek, onu kullanıma sunmak kadar önemlidir."
+ },
+ "2922d011": {
+  "it": "Proposte per enti e aziende →",
+  "tr": "Kurum ve şirketlere yönelik öneriler →"
+ },
+ "408bf598": {
+  "it": "Prezzi, disponibilità e collaborazioni",
+  "tr": "Fiyatlar, bulunabilirlik ve iş birlikleri"
+ },
+ "04d28f92": {
+  "it": "Troviamo la soluzione adatta a te.",
+  "tr": "Size uygun çözümü birlikte bulalım."
+ },
+ "3b06eb9a": {
+  "it": "Prof. Ing. Agostino Giorgio",
+  "tr": "Prof. Müh. Agostino Giorgio"
+ },
+ "f7164594": {
+  "it": "Dipartimento di Ingegneria Elettrica e dell'Informazione",
+  "tr": "Elektrik ve Bilişim Mühendisliği Bölümü"
+ },
+ "19232904": {
+  "it": "Tel. ufficio: 080 596 3239/579",
+  "tr": "Ofis tel.: 080 596 3239/579"
+ },
+ "063197de": {
+  "it": "Informazioni per privati",
+  "tr": "Bireyler için bilgi"
+ },
+ "d5d3839c": {
+  "it": "App, button4help™ e compatibilità con il tuo telefono",
+  "tr": "Uygulamalar, button4help™ ve telefonunuzla uyumluluk"
+ },
+ "1de7ac43": {
+  "it": "Proposte per enti e aziende",
+  "tr": "Kurum ve şirketlere yönelik öneriler"
+ },
+ "38aa4552": {
+  "it": "Dimostrazioni e collaborazioni",
+  "tr": "Tanıtımlar ve iş birlikleri"
+ },
+ "e611274e": {
+  "it": "Si aprirà la tua app di posta. Puoi scrivere anche direttamente a <a href=\"mailto:agostino.giorgio@poliba.it\">agostino.giorgio@poliba.it</a>",
+  "tr": "E-posta uygulamanız açılacak. Doğrudan şu adrese de yazabilirsiniz: <a href=\"mailto:agostino.giorgio@poliba.it\">agostino.giorgio@poliba.it</a>"
+ },
+ "30c5dd7a": {
+  "it": "Progetto del Prof. Ing. Agostino Giorgio<br>Docente del Politecnico di Bari",
+  "tr": "Prof. Müh. Agostino Giorgio’nun projesi<br>Politecnico di Bari öğretim üyesi"
+ },
+ "376980d1": {
+  "it": "Il sito",
+  "tr": "Site"
+ },
+ "02e617b0": {
+  "it": "Risorse",
+  "tr": "Kaynaklar"
+ },
+ "d2c43509": {
+  "it": "Manuali e privacy delle app ↗",
+  "tr": "Uygulama kılavuzları ve gizlilik ↗"
+ },
+ "3de40ce7": {
+  "it": "Presentazione del progetto (PDF, in italiano) ↗",
+  "tr": "Proje sunumu (PDF, İtalyanca) ↗"
+ },
+ "fa6502e1": {
+  "it": "In caso di pericolo immediato chiama il 112. Le app no pAIn™ avvisano i contatti di emergenza scelti da te e non sostituiscono i servizi pubblici di emergenza.",
+  "tr": "Acil bir tehlikede 112’yi arayın. no pAIn™ uygulamaları seçtiğiniz acil durum kişilerini uyarır ve kamu acil durum hizmetlerinin yerini tutmaz."
+ },
+ "84beb5f4": {
+  "it": "Informati. Configura. Prova.",
+  "tr": "Bilgi edinin. Ayarlayın. Deneyin."
+ },
+ "e1eb3d77": {
+  "it": "Navigazione principale",
+  "tr": "Ana gezinme"
+ },
+ "8ada5d6f": {
+  "it": "Esempio di messaggio di emergenza ricevuto da un contatto, con mappa e posizione live",
+  "tr": "Bir kişinin aldığı, haritalı ve canlı konumlu acil durum mesajı örneği"
+ },
+ "faf87077": {
+  "it": "Percorso della richiesta di aiuto",
+  "tr": "Yardım talebinin izlediği yol"
+ },
+ "0c5818c5": {
+  "it": "Locandina del progetto no pAIn: digital4help, protezione digitale. Elenca Proteggimi per Android in italiano, AI help You per Android in 12 lingue, AIuto SOS watch4help per smartwatch Wear OS e no pAIn per iOS.",
+  "tr": "no pAIn projesinin afişi: digital4help, dijital koruma. İtalyanca Android için Proteggimi, 12 dilde Android için AI help You, Wear OS akıllı saatler için AIuto SOS watch4help ve iOS için no pAIn listelenir."
+ },
+ "2d84f182": {
+  "it": "no pAIn™ — Le app",
+  "tr": "no pAIn™ — Uygulamalar"
+ },
+ "4cb80780": {
+  "it": "Le app del progetto no pAIn™: AI help You, Proteggimi, no pAIn™ per iPhone, AIuto SOS watch4help™ per Wear OS, AI help App.",
+  "tr": "no pAIn™ projesinin uygulamaları: AI help You, Proteggimi, iPhone için no pAIn™, Wear OS için AIuto SOS watch4help™, AI help App."
+ },
+ "4798db56": {
+  "it": "Scegli la tua app",
+  "tr": "Uygulamanızı seçin"
+ },
+ "3844a828": {
+  "it": "Scegli come <span class=\"hl\">farti sentire.</span>",
+  "tr": "Sesinizi <span class=\"hl\">nasıl duyuracağınızı seçin.</span>"
+ },
+ "1fe8fc5f": {
+  "it": "no pAIn™ porta su smartphone un “signal for help” elettronico, attivabile con la voce o con un tocco. watch4help™ è la stessa tecnologia per smartwatch. Lingue, connessioni e funzioni cambiano da un'app all'altra.",
+  "tr": "no pAIn™, akıllı telefona sesle veya dokunarak etkinleşen elektronik bir “signal for help” getirir. watch4help™ akıllı saatler için aynı teknolojidir. Diller, bağlantılar ve işlevler uygulamadan uygulamaya değişir."
+ },
+ "2d8cc3bc": {
+  "it": "AI help App · AIutoSOS Apple Watch",
+  "tr": "AI help App · AIutoSOS Apple Watch"
+ },
+ "eb84c3fe": {
+  "it": "Materiale promozionale del progetto · concept illustrativo",
+  "tr": "Projenin tanıtım materyali · temsili konsept"
+ },
+ "9f217028": {
+  "it": "12 lingue",
+  "tr": "12 dil"
+ },
+ "c3d2a0e3": {
+  "it": "La versione Android in 12 lingue, con parole chiave personalizzabili, riconoscimento vocale offline e app compagna per smartwatch Wear OS. Offre tutti i punti di innesco della tecnologia no pAIn™, compreso il pulsante button4help™.",
+  "tr": "12 dilde Android sürümü; özelleştirilebilir anahtar kelimeler, çevrimdışı ses tanıma ve Wear OS akıllı saatler için yardımcı uygulama içerir. button4help™ düğmesi dahil no pAIn™ teknolojisinin tüm tetikleyicilerini sunar."
+ },
+ "2d194a50": {
+  "it": "Posizione live su Telegram",
+  "tr": "Telegram’da canlı konum"
+ },
+ "79136d29": {
+  "it": "Da 1 minuto a 24 ore, impostabili",
+  "tr": "1 dakikadan 24 saate kadar, ayarlanabilir"
+ },
+ "3f0060e7": {
+  "it": "Scarica da Google Play <span class=\"arr\">↗</span>",
+  "tr": "Google Play’den indirin <span class=\"arr\">↗</span>"
+ },
+ "234e8230": {
+  "it": "Comandi vocali: 4 parole chiave fisse e 3 personali, anche a schermo spento e con telefono a qualche metro",
+  "tr": "Sesli komutlar: 4 sabit ve 3 kişisel anahtar kelime, ekran kapalıyken ve telefon birkaç metre uzaktayken bile"
+ },
+ "9c27cbb0": {
+  "it": "Attivazione con l'assistente Google",
+  "tr": "Google Asistan ile etkinleştirme"
+ },
+ "b3dffb7e": {
+  "it": "Tasto di emergenza nella schermata principale",
+  "tr": "Ana ekranda acil durum düğmesi"
+ },
+ "6b9d4770": {
+  "it": "Tasto rapido in home che risveglia l'app chiusa",
+  "tr": "Ana ekranda, kapalı uygulamayı uyandıran hızlı düğme"
+ },
+ "04d63739": {
+  "it": "Voce o tasto dall'app compagna per smartwatch Wear OS",
+  "tr": "Wear OS akıllı saatler için yardımcı uygulamadan ses veya düğme"
+ },
+ "beac9291": {
+  "it": "Pressione di un paio di secondi su button4help™",
+  "tr": "button4help™ düğmesine birkaç saniye basma"
+ },
+ "413559c6": {
+  "it": "Cosa invia",
+  "tr": "Neler gönderir"
+ },
+ "98aa1b82": {
+  "it": "SMS con coordinate GPS, indirizzo e link alla mappa",
+  "tr": "GPS koordinatları, adres ve harita bağlantısı içeren SMS"
+ },
+ "d4c9d532": {
+  "it": "Telefonata automatica ai contatti",
+  "tr": "Kişilere otomatik arama"
+ },
+ "2de0c79b": {
+  "it": "WhatsApp non previsto su Android",
+  "tr": "Android’de WhatsApp yok"
+ },
+ "db678d25": {
+  "it": "AI help You avvisa i contatti configurati. Non contatta i servizi pubblici di emergenza e non li sostituisce. Senza abbonamento funziona in modalità emergenza rapida: <a class=\"link-arrow\" href=\"versioni.html\">vedi Free e Premium</a>.",
+  "tr": "AI help You ayarlanan kişileri uyarır. Kamu acil durum hizmetleriyle iletişime geçmez ve onların yerini tutmaz. Abonelik olmadan hızlı acil durum modunda çalışır: <a class=\"link-arrow\" href=\"versioni.html\">Free ve Premium’a bakın</a>."
+ },
+ "6ea5fa0c": {
+  "it": "Italiano",
+  "tr": "İtalyanca"
+ },
+ "20c7a5d2": {
+  "it": "Proteggimi <span class=\"hl\">(no pAIn™)</span>",
+  "tr": "Proteggimi <span class=\"hl\">(no pAIn™)</span>"
+ },
+ "eed3fce0": {
+  "it": "La versione Android in italiano, con attivazione vocale o manuale. Ascolta le tue parole chiave anche con app chiusa e schermo spento, e ha un'app compagna per smartwatch Wear OS.",
+  "tr": "İtalyanca Android sürümü; sesle veya elle etkinleştirilir. Uygulama kapalı ve ekran kapalıyken bile anahtar kelimelerinizi dinler ve Wear OS akıllı saatler için yardımcı uygulaması vardır."
+ },
+ "8ea55c3d": {
+  "it": "Fino a 30 minuti",
+  "tr": "30 dakikaya kadar"
+ },
+ "6c64d7dd": {
+  "it": "Comandi vocali con parole chiave personalizzate, riconoscimento vocale offline",
+  "tr": "Özel anahtar kelimelerle sesli komutlar, çevrimdışı ses tanıma"
+ },
+ "ce25e0f3": {
+  "it": "SMS con geolocalizzazione",
+  "tr": "Konum bilgili SMS"
+ },
+ "248290f9": {
+  "it": "Telegram con posizione, anche live",
+  "tr": "Konumlu Telegram, canlı konum dahil"
+ },
+ "3cc7cd1e": {
+  "it": "no pAIn™ <span class=\"hl\">(Proteggimi)</span>",
+  "tr": "no pAIn™ <span class=\"hl\">(Proteggimi)</span>"
+ },
+ "1a03fdfe": {
+  "it": "La versione per iPhone, con le stesse funzioni sostanziali di AI help You: 12 lingue, app compagna per Apple Watch e compatibilità con button4help™. In più, invia l'allarme anche su WhatsApp.",
+  "tr": "AI help You ile aynı temel işlevlere sahip iPhone sürümü: 12 dil, Apple Watch için yardımcı uygulama ve button4help™ uyumluluğu. Ayrıca alarmı WhatsApp üzerinden de gönderir."
+ },
+ "ea1a0de1": {
+  "it": "Free: 30 minuti · Premium: da 1 minuto a 24 ore",
+  "tr": "Free: 30 dakika · Premium: 1 dakikadan 24 saate kadar"
+ },
+ "60d31c99": {
+  "it": "Scarica dall'App Store <span class=\"arr\">↗</span>",
+  "tr": "App Store’dan indirin <span class=\"arr\">↗</span>"
+ },
+ "139feebd": {
+  "it": "L'app compagna su Apple Watch: un tocco su EMERGENZA",
+  "tr": "Apple Watch’taki yardımcı uygulama: EMERGENZA’ya tek dokunuş"
+ },
+ "12c0a0fa": {
+  "it": "Tasto SOS nella schermata principale",
+  "tr": "Ana ekranda SOS düğmesi"
+ },
+ "4dd7f245": {
+  "it": "Comando vocale “Ehi Siri, Proteggimi” (Premium)",
+  "tr": "“Hey Siri, Bana yardım et” sesli komutu (Premium)"
+ },
+ "046e3411": {
+  "it": "Tocco sul quadrante di Apple Watch, anche con iPhone bloccato",
+  "tr": "iPhone kilitliyken bile Apple Watch kadranına dokunma"
+ },
+ "cb8e543a": {
+  "it": "Telegram con posizione e link alla mappa",
+  "tr": "Konum ve harita bağlantılı Telegram"
+ },
+ "a4ad6467": {
+  "it": "SMS con geolocalizzazione (Premium)",
+  "tr": "Konum bilgili SMS (Premium)"
+ },
+ "c1adc012": {
+  "it": "WhatsApp con geolocalizzazione (Premium)",
+  "tr": "Konum bilgili WhatsApp (Premium)"
+ },
+ "9aa46536": {
+  "it": "Telefonata automatica ai contatti (Premium)",
+  "tr": "Kişilere otomatik arama (Premium)"
+ },
+ "55055aa6": {
+  "it": "Il download è gratuito e comprende tasto SOS, Telegram con posizione, posizione live per 30 minuti e app per Apple Watch. Premium aggiunge Siri, SMS, WhatsApp, telefonata e posizione live da 1 minuto a 24 ore, con un acquisto una tantum e senza abbonamento.",
+  "tr": "İndirme ücretsizdir ve SOS düğmesi, konumlu Telegram, 30 dakikalık canlı konum ile Apple Watch uygulamasını içerir. Premium; Siri, SMS, WhatsApp, arama ve 1 dakikadan 24 saate kadar canlı konum ekler; tek seferlik satın alma, abonelik yok."
+ },
+ "046c9709": {
+  "it": "SMS, WhatsApp e telefonata passano dal Comando Rapido Apple “Proteggimi”, che si installa dall'app. Da Apple Watch partono Telegram e posizione anche con iPhone bloccato; per le altre azioni serve l'app iPhone in primo piano.",
+  "tr": "SMS, WhatsApp ve arama, uygulamadan yüklenen “Proteggimi” Apple Kestirmesi üzerinden çalışır. Apple Watch’tan Telegram ve konum, iPhone kilitliyken bile gönderilir; diğer eylemler için iPhone uygulamasının ön planda olması gerekir."
+ },
+ "5a57807b": {
+  "it": "Senza smartphone",
+  "tr": "Akıllı telefonsuz"
+ },
+ "968d7a54": {
+  "it": "Un'app solo per smartwatch Wear OS che non ha bisogno dello smartphone. È la tecnologia no pAIn™ in versione indossabile, chiamata watch4help™: l'allarme parte direttamente dal polso.",
+  "tr": "Akıllı telefona ihtiyaç duymayan, yalnızca Wear OS akıllı saatler için bir uygulama. watch4help™ adı verilen giyilebilir no pAIn™ teknolojisidir: alarm doğrudan kolunuzdan başlar."
+ },
+ "e1c60fd6": {
+  "it": "Fino a 60 minuti",
+  "tr": "60 dakikaya kadar"
+ },
+ "f0dec499": {
+  "it": "Comando vocale sull'orologio",
+  "tr": "Saatte sesli komut"
+ },
+ "fff8e9ce": {
+  "it": "Tasto di emergenza sul quadrante",
+  "tr": "Kadranda acil durum düğmesi"
+ },
+ "e44b4962": {
+  "it": "Accesso rapido dal quadrante e dalle complication",
+  "tr": "Kadrandan ve komplikasyonlardan hızlı erişim"
+ },
+ "128ac670": {
+  "it": "Da sapere",
+  "tr": "Bilmeniz gerekenler"
+ },
+ "fad03b25": {
+  "it": "Funziona in autonomia, anche con lo smartphone lontano o spento",
+  "tr": "Akıllı telefon uzakta veya kapalıyken bile bağımsız çalışır"
+ },
+ "b9fef944": {
+  "it": "I canali disponibili dipendono dalla connessione dell'orologio: LTE con SIM oppure Wi-Fi/Bluetooth",
+  "tr": "Kullanılabilen kanallar saatin bağlantısına bağlıdır: SIM’li LTE veya Wi-Fi/Bluetooth"
+ },
+ "8e57ca44": {
+  "it": "Da non confondere con le app compagne di Proteggimi e AI help You, che invece lavorano insieme al telefono abbinato.",
+  "tr": "Eşleştirilmiş telefonla birlikte çalışan Proteggimi ve AI help You yardımcı uygulamalarıyla karıştırılmamalıdır."
+ },
+ "0b973f5f": {
+  "it": "In immagini e video",
+  "tr": "Görsellerle ve videolarla"
+ },
+ "e24ab608": {
+  "it": "Com'è e come funziona al polso.",
+  "tr": "Kolda nasıl göründüğü ve nasıl çalıştığı."
+ },
+ "4a976c92": {
+  "it": "Un tocco sul grande tasto rosso o un comando vocale: l'orologio invia la posizione e l'allerta ai tuoi contatti con Telegram, SMS e telefonata, anche con lo smartphone lontano.",
+  "tr": "Büyük kırmızı düğmeye bir dokunuş veya bir sesli komut: saat, akıllı telefon uzakta olsa bile konumu ve uyarıyı Telegram, SMS ve arama ile kişilerinize gönderir."
+ },
+ "361f7a8e": {
+  "it": "Tocca un'immagine per ingrandirla. Scorri di lato per vedere le altre.",
+  "tr": "Büyütmek için bir görsele dokunun. Diğerlerini görmek için yana kaydırın."
+ },
+ "1383b500": {
+  "it": "Locandina",
+  "tr": "Afiş"
+ },
+ "a360f8b3": {
+  "it": "<strong>SOS dal tuo smartwatch</strong>Voce o tocco: invia posizione e allerta. Posizione live, Telegram, SMS, chiamata.",
+  "tr": "<strong>Akıllı saatinizden SOS</strong>Ses veya dokunuş: konum ve uyarı gönderir. Canlı konum, Telegram, SMS, arama."
+ },
+ "77c73a5b": {
+  "it": "Schermata",
+  "tr": "Ekran görüntüsü"
+ },
+ "a90bbea3": {
+  "it": "<strong>L'app sull'orologio</strong>Il tasto INVIO e l'ascolto dei comandi vocali, attivabile e sospendibile.",
+  "tr": "<strong>Saatteki uygulama</strong>INVIO (gönder) düğmesi ve açılıp duraklatılabilen sesli komut dinleme."
+ },
+ "50485b89": {
+  "it": "Altre soluzioni",
+  "tr": "Diğer çözümler"
+ },
+ "9d65d888": {
+  "it": "Anche queste fanno parte del progetto.",
+  "tr": "Bunlar da projenin parçası."
+ },
+ "ac36c51e": {
+  "it": "Un'altra soluzione multilingue per Android: 12 lingue, di cui 3 con riconoscimento vocale anche offline. Si attiva con comandi vocali o con la richiesta manuale di aiuto.",
+  "tr": "Android için başka bir çok dilli çözüm: 12 dil, bunların 3’ünde ses tanıma çevrimdışı da çalışır. Sesli komutlarla veya elle yardım talebiyle etkinleşir."
+ },
+ "ab397262": {
+  "it": "Apri Google Play <span class=\"arr\">↗</span>",
+  "tr": "Google Play’i açın <span class=\"arr\">↗</span>"
+ },
+ "f129d3cc": {
+  "it": "In programma",
+  "tr": "Planlanıyor"
+ },
+ "d957da8e": {
+  "it": "AIutoSOS per Apple Watch",
+  "tr": "Apple Watch için AIutoSOS"
+ },
+ "0766bfc1": {
+  "it": "Un'app dedicata ad Apple Watch, di prossima pubblicazione. È diversa dall'app compagna già inclusa in no pAIn™ per iPhone.",
+  "tr": "Yakında yayımlanacak, Apple Watch’a özel bir uygulama. iPhone için no pAIn™ içinde zaten bulunan yardımcı uygulamadan farklıdır."
+ },
+ "4928453f": {
+  "it": "Per usare oggi Apple Watch, installa <a class=\"link-arrow\" href=\"#no-pain-ios\">no pAIn™ per iPhone</a>.",
+  "tr": "Apple Watch’ı bugün kullanmak için <a class=\"link-arrow\" href=\"#no-pain-ios\">iPhone için no pAIn™</a> uygulamasını yükleyin."
+ },
+ "9e63a7c6": {
+  "it": "Il pulsante da tenere in tasca che fa scattare l'allarme di AI help You e di no pAIn™ per iPhone. Cos'è, cosa non è e dove acquistarlo.",
+  "tr": "AI help You ve iPhone için no pAIn™ alarmını tetikleyen, cepte taşınan düğme. Ne olduğu, ne olmadığı ve nereden alınacağı."
+ },
+ "f97a981e": {
+  "it": "Scopri button4help™ →",
+  "tr": "button4help™ ürününü keşfedin →"
+ },
+ "e5646562": {
+  "it": "Configurazione",
+  "tr": "Kurulum"
+ },
+ "81fff1af": {
+  "it": "Segui il manuale della tua app.",
+  "tr": "Uygulamanızın kılavuzunu izleyin."
+ },
+ "a32614bb": {
+  "it": "La durata della posizione live cambia da un'app all'altra: controlla le opzioni dell'app installata.",
+  "tr": "Canlı konum süresi uygulamadan uygulamaya değişir: yüklü uygulamanın seçeneklerini kontrol edin."
+ },
+ "e67b051b": {
+  "it": "Manuale Android <span class=\"arr\">↗</span>",
+  "tr": "Android kılavuzu <span class=\"arr\">↗</span>"
+ },
+ "174ef965": {
+  "it": "Manuale iOS <span class=\"arr\">↗</span>",
+  "tr": "iOS kılavuzu <span class=\"arr\">↗</span>"
+ },
+ "e5928a22": {
+  "it": "Guida Telegram <span class=\"arr\">↗</span>",
+  "tr": "Telegram rehberi <span class=\"arr\">↗</span>"
+ },
+ "3819a10a": {
+  "it": "App",
+  "tr": "Uygulamalar"
+ },
+ "2492782e": {
+  "it": "Locandina: Proteggimi (no pAIn), l'app diversa e intelligente. Aiuto immediato anche senza toccare lo smartphone. Elenco delle versioni per Android, Wear OS e iOS.",
+  "tr": "Afiş: Proteggimi (no pAIn), farklı ve akıllı uygulama. Akıllı telefona dokunmadan bile anında yardım. Android, Wear OS ve iOS sürümlerinin listesi."
+ },
+ "33c5d0b2": {
+  "it": "Apple Watch con il grande tasto rosso EMERGENZA e la conferma Inviato",
+  "tr": "Büyük kırmızı EMERGENZA düğmesi ve Inviato (gönderildi) onayı olan Apple Watch"
+ },
+ "edc36c25": {
+  "it": "Locandina di AIuto SOS watch4help: una donna di notte, sotto la pioggia, seguita da un uomo incappucciato, preme il tasto HELP sul suo smartwatch",
+  "tr": "AIuto SOS watch4help afişi: gece yağmurda kapüşonlu bir adam tarafından takip edilen bir kadın akıllı saatindeki HELP düğmesine basıyor"
+ },
+ "dd4113e6": {
+  "it": "Smartwatch Wear OS con l'app AIuto SOS: tasto rosso INVIO e pulsante FERMA ASCOLTO",
+  "tr": "AIuto SOS uygulamalı Wear OS akıllı saat: kırmızı INVIO (gönder) düğmesi ve FERMA ASCOLTO (dinlemeyi durdur) düğmesi"
+ },
+ "f0186c7d": {
+  "it": "button4help™ — no pAIn™",
+  "tr": "button4help™ — no pAIn™"
+ },
+ "7dd822ac": {
+  "it": "button4help™, il pulsante Bluetooth che fa scattare l'allarme delle app no pAIn™ a distanza. Cos'è, cosa non è, dove acquistarlo.",
+  "tr": "button4help™, no pAIn™ uygulamalarının alarmını uzaktan tetikleyen Bluetooth düğmesi. Ne olduğu, ne olmadığı, nereden alınacağı."
+ },
+ "958757ce": {
+  "it": "Il pulsante fisico no pAIn™",
+  "tr": "no pAIn™ fiziksel düğmesi"
+ },
+ "60bbacf0": {
+  "it": "Piccolo da portare, semplice da attivare. È il “pulsante magico” del progetto: lo tieni in tasca, in borsa o al portachiavi e, quando lo tieni premuto per un paio di secondi, l'app sul tuo smartphone avvia l'emergenza, anche a diversi metri di distanza.",
+  "tr": "Taşıması kolay, etkinleştirmesi basit. Projenin “sihirli düğmesi”: cebinizde, çantanızda veya anahtarlığınızda taşırsınız; birkaç saniye basılı tuttuğunuzda akıllı telefonunuzdaki uygulama, birkaç metre uzakta olsa bile acil durumu başlatır."
+ },
+ "341e5940": {
+  "it": "Acquista su AliExpress <span class=\"arr\">↗</span>",
+  "tr": "AliExpress’ten satın alın <span class=\"arr\">↗</span>"
+ },
+ "8297e0a4": {
+  "it": "Come si usa",
+  "tr": "Nasıl kullanılır"
+ },
+ "d9c74914": {
+  "it": "Il pulsante non è venduto da no pAIn™: si compra da un rivenditore esterno e si abbina all'app.",
+  "tr": "Düğme no pAIn™ tarafından satılmaz: harici bir satıcıdan alınır ve uygulamayla eşleştirilir."
+ },
+ "4a879621": {
+  "it": "Fotografia reale di button4help™ accanto a una moneta da 50 centesimi",
+  "tr": "50 sentlik bir madeni paranın yanında button4help™ düğmesinin gerçek fotoğrafı"
+ },
+ "5a008d55": {
+  "it": "Com'è e come si usa.",
+  "tr": "Nasıl göründüğü ve nasıl kullanıldığı."
+ },
+ "6a615a7a": {
+  "it": "Lo tieni al portachiavi o in tasca. Quando serve, lo premi: l'app sul telefono avvia in automatico le richieste di aiuto e la posizione live verso i tuoi contatti.",
+  "tr": "Anahtarlığınızda veya cebinizde taşıyın. Gerektiğinde basın: telefondaki uygulama yardım taleplerini ve canlı konumu kişilerinize otomatik olarak gönderir."
+ },
+ "de29e55f": {
+  "it": "<strong>Una pressione, l'allarme parte</strong>Con AI help You: richieste di aiuto e posizione live fino a 24 ore. Locandina in inglese.",
+  "tr": "<strong>Tek basış, alarm başlar</strong>AI help You ile: yardım talepleri ve 24 saate kadar canlı konum. Afiş İngilizcedir."
+ },
+ "67062c98": {
+  "it": "Foto reale",
+  "tr": "Gerçek fotoğraf"
+ },
+ "7a16e76b": {
+  "it": "<strong>Le dimensioni reali</strong>Poco più grande di una moneta da 50 centesimi.",
+  "tr": "<strong>Gerçek boyutu</strong>50 sentlik bir madeni paradan biraz büyük."
+ },
+ "2070cd4b": {
+  "it": "Cos'è",
+  "tr": "Nedir"
+ },
+ "9890b2ce": {
+  "it": "Un comando a distanza per il tuo telefono.",
+  "tr": "Telefonunuz için bir uzaktan kumanda."
+ },
+ "9b251b4d": {
+  "it": "button4help™ è un pulsante che attiva procedure sullo smartphone entro la portata del Bluetooth. È miniaturizzato perché contiene solo un modulo Bluetooth Low Energy e una batteria a bottone: niente GPS, niente Wi-Fi. La posizione la ricava l'app sul telefono.",
+  "tr": "button4help™, Bluetooth menzili içinde akıllı telefonda işlemleri başlatan bir düğmedir. Yalnızca bir Bluetooth Low Energy modülü ve bir düğme pil içerdiği için minyatürdür: GPS yok, Wi-Fi yok. Konumu telefondaki uygulama belirler."
+ },
+ "6787efb8": {
+  "it": "Attivazione fisica senza impugnare il telefono",
+  "tr": "Telefonu elinize almadan fiziksel etkinleştirme"
+ },
+ "d736ee12": {
+  "it": "Collegamento allo smartphone tramite Bluetooth",
+  "tr": "Akıllı telefona Bluetooth ile bağlantı"
+ },
+ "8403c8dd": {
+  "it": "Invio secondo le azioni configurate nell'app: messaggi, posizione, telefonate",
+  "tr": "Uygulamada ayarlanan eylemlere göre gönderim: mesajlar, konum, aramalar"
+ },
+ "365bf985": {
+  "it": "Attivazione",
+  "tr": "Etkinleştirme"
+ },
+ "c835e44b": {
+  "it": "Pressione di circa 2 secondi",
+  "tr": "Yaklaşık 2 saniye basma"
+ },
+ "7908249d": {
+  "it": "Connessione",
+  "tr": "Bağlantı"
+ },
+ "bd72a591": {
+  "it": "Solo Bluetooth BLE",
+  "tr": "Yalnızca Bluetooth BLE"
+ },
+ "af6b2b86": {
+  "it": "Portata",
+  "tr": "Menzil"
+ },
+ "f107edef": {
+  "it": "Diversi metri, quella del Bluetooth",
+  "tr": "Birkaç metre, Bluetooth menzili"
+ },
+ "388e50c9": {
+  "it": "Alimentazione",
+  "tr": "Güç"
+ },
+ "65a3fe13": {
+  "it": "Batteria a bottone",
+  "tr": "Düğme pil"
+ },
+ "5597c45e": {
+  "it": "Dimensioni",
+  "tr": "Boyut"
+ },
+ "bc64b029": {
+  "it": "Poco più di una moneta",
+  "tr": "Bir madeni paradan biraz büyük"
+ },
+ "3b616f99": {
+  "it": "Funziona con",
+  "tr": "Uyumlu olduğu uygulamalar"
+ },
+ "fca3fc97": {
+  "it": "AI help You (Android) e no pAIn™ (iPhone)",
+  "tr": "AI help You (Android) ve no pAIn™ (iPhone)"
+ },
+ "8aab18f4": {
+  "it": "Cosa non è",
+  "tr": "Ne değildir"
+ },
+ "4f1cb28f": {
+  "it": "Non è un localizzatore. Non è un pulsante per anziani.",
+  "tr": "Konum takip cihazı değildir. Yaşlılar için bir düğme değildir."
+ },
+ "a548c8ad": {
+  "it": "In commercio si trovano tracker GPS o Bluetooth che si collegano alla rete degli AirTag di Apple o a quella di Android, usati per ritrovare oggetti e animali. button4help™ è tutt'altra cosa.",
+  "tr": "Piyasada Apple’ın AirTag ağına veya Android ağına bağlanan, eşya ve evcil hayvan bulmak için kullanılan GPS veya Bluetooth takip cihazları vardır. button4help™ bambaşka bir şeydir."
+ },
+ "6db059c6": {
+  "it": "Dispositivo",
+  "tr": "Cihaz"
+ },
+ "f54e2369": {
+  "it": "A cosa serve",
+  "tr": "Ne işe yarar"
+ },
+ "bc3ce023": {
+  "it": "Tracker GPS o BLE",
+  "tr": "GPS veya BLE takip cihazı"
+ },
+ "2f4967a6": {
+  "it": "Ritrovare oggetti e animali",
+  "tr": "Eşya ve evcil hayvan bulmak"
+ },
+ "2e515267": {
+  "it": "Si fa localizzare tramite la rete AirTag di Apple o quella di Android",
+  "tr": "Apple’ın AirTag ağı veya Android ağı üzerinden konumu bulunur"
+ },
+ "33730eab": {
+  "it": "Pulsante SOS per anziani",
+  "tr": "Yaşlılar için SOS düğmesi"
+ },
+ "5aaa5107": {
+  "it": "Chiamare un centro di assistenza",
+  "tr": "Bir yardım merkezini aramak"
+ },
+ "4397cb12": {
+  "it": "Dispositivo dedicato, spesso con SIM o base propria",
+  "tr": "Özel cihaz, çoğu zaman kendi SIM’i veya istasyonu olan"
+ },
+ "aee3bb1e": {
+  "it": "Far scattare l'allarme dell'app no pAIn™",
+  "tr": "no pAIn™ uygulamasının alarmını tetiklemek"
+ },
+ "20709993": {
+  "it": "Comando a distanza verso lo smartphone: parte l'emergenza con messaggi, posizione e chiamate ai tuoi contatti",
+  "tr": "Akıllı telefona uzaktan komut: acil durum, kişilerinize mesajlar, konum ve aramalarla başlar"
+ },
+ "83bc9dd4": {
+  "it": "Tre passaggi, poi è sempre con te.",
+  "tr": "Üç adım, sonra hep yanınızda."
+ },
+ "2ad3bbd9": {
+  "it": "Acquistalo",
+  "tr": "Satın alın"
+ },
+ "2a235caf": {
+  "it": "Compra il pulsante dal rivenditore indicato qui sotto. Prezzo, spedizione e disponibilità dipendono dal venditore.",
+  "tr": "Düğmeyi aşağıda belirtilen satıcıdan alın. Fiyat, gönderim ve bulunabilirlik satıcıya bağlıdır."
+ },
+ "4f37e640": {
+  "it": "Abbinalo all'app",
+  "tr": "Uygulamayla eşleştirin"
+ },
+ "be135ba9": {
+  "it": "In AI help You o in no pAIn™ per iPhone, segui la procedura di abbinamento del manuale. Poi fai una prova concordata con i tuoi contatti.",
+  "tr": "AI help You’da veya iPhone için no pAIn™ uygulamasında kılavuzdaki eşleştirme adımlarını izleyin. Ardından kişilerinizle kararlaştırdığınız bir deneme yapın."
+ },
+ "bfafd6eb": {
+  "it": "Tienilo premuto",
+  "tr": "Basılı tutun"
+ },
+ "0cce84c0": {
+  "it": "Quando serve, premi il pulsante per un paio di secondi: l'app avvia le azioni di emergenza che hai impostato.",
+  "tr": "Gerektiğinde düğmeye birkaç saniye basın: uygulama ayarladığınız acil durum eylemlerini başlatır."
+ },
+ "95d857fd": {
+  "it": "Il pulsante comanda l'app sullo smartphone: il telefono deve essere acceso, entro la portata Bluetooth, con l'app configurata. Se ti serve un dispositivo che funzioni senza telefono, guarda <a class=\"link-arrow\" href=\"prodotti.html#aiuto-sos\">AIuto SOS per Wear OS</a>.",
+  "tr": "Düğme akıllı telefondaki uygulamayı kontrol eder: telefon açık, Bluetooth menzilinde ve uygulama ayarlı olmalıdır. Telefonsuz çalışan bir cihaza ihtiyacınız varsa <a class=\"link-arrow\" href=\"prodotti.html#aiuto-sos\">Wear OS için AIuto SOS</a> uygulamasına bakın."
+ },
+ "65c77e5d": {
+  "it": "Dove acquistarlo",
+  "tr": "Nereden alınır"
+ },
+ "ea0e770f": {
+  "it": "button4help™ si acquista su AliExpress, da un venditore terzo. no pAIn™ non vende il dispositivo e non gestisce ordini, spedizioni o resi.",
+  "tr": "button4help™, AliExpress’te üçüncü taraf bir satıcıdan alınır. no pAIn™ cihazı satmaz; sipariş, gönderim veya iadelerle ilgilenmez."
+ },
+ "92b67a03": {
+  "it": "Hai dubbi sulla compatibilità con il tuo telefono? <a class=\"link-arrow\" href=\"mailto:agostino.giorgio@poliba.it\" data-mail=\"private\">Scrivici prima di acquistare</a>.",
+  "tr": "Telefonunuzla uyumluluğundan emin değil misiniz? <a class=\"link-arrow\" href=\"mailto:agostino.giorgio@poliba.it\" data-mail=\"private\">Satın almadan önce bize yazın</a>."
+ },
+ "b2f18c7a": {
+  "it": "La versione gioiello è già disponibile?",
+  "tr": "Takı sürümü şimdiden satışta mı?"
+ },
+ "7644c8e2": {
+  "it": "Le foto di questa pagina mostrano il dispositivo attuale. Le immagini promozionali con pendenti a cuore o altri gioielli illustrano possibilità di design: disponibilità e caratteristiche vanno confermate con il progettista.",
+  "tr": "Bu sayfadaki fotoğraflar mevcut cihazı gösterir. Kalp kolyeli veya başka takılı tanıtım görselleri tasarım olanaklarını gösterir: bulunabilirlik ve özellikler tasarımcıyla teyit edilmelidir."
+ },
+ "ee681b0a": {
+  "it": "Altre domande frequenti →",
+  "tr": "Sık sorulan diğer sorular →"
+ },
+ "2d09c535": {
+  "it": "Fotografia reale di button4help, un pulsante nero rotondo con anello per portachiavi, accanto a una moneta da 50 centesimi di euro per confrontarne le dimensioni",
+  "tr": "button4help’in gerçek fotoğrafı: anahtarlık halkalı, yuvarlak siyah bir düğme; boyutunu karşılaştırmak için 50 euro sentlik bir madeni paranın yanında"
+ },
+ "35ddd6d7": {
+  "it": "Locandina di button4help con AI help You: di notte, sotto la pioggia, una donna seguita da un uomo stringe il pulsante al portachiavi; nel riquadro l'amica riceve SMS e posizione su Telegram",
+  "tr": "AI help You ile button4help afişi: gece yağmurda bir adam tarafından takip edilen bir kadın anahtarlığındaki düğmeyi sıkıyor; küçük resimde bir arkadaşı SMS ve Telegram’dan konum alıyor"
+ },
+ "65f3becd": {
+  "it": "Fotografia reale di button4help accanto a una moneta da 50 centesimi di euro",
+  "tr": "50 euro sentlik bir madeni paranın yanında button4help’in gerçek fotoğrafı"
+ },
+ "4124ebae": {
+  "it": "no pAIn™ — Free e Premium",
+  "tr": "no pAIn™ — Free ve Premium"
+ },
+ "99d0f5ce": {
+  "it": "Cosa è incluso nelle versioni gratuite e Premium delle app no pAIn™ per Android e iPhone, con il confronto completo delle funzioni.",
+  "tr": "Android ve iPhone için no pAIn™ uygulamalarının ücretsiz ve Premium sürümlerinde neler bulunduğu, işlevlerin tam karşılaştırmasıyla."
+ },
+ "45b5ed65": {
+  "it": "Scegli sapendo <span class=\"hl\">cosa è incluso.</span>",
+  "tr": "Neyin dahil olduğunu <span class=\"hl\">bilerek seçin.</span>"
+ },
+ "35b66deb": {
+  "it": "Le funzioni di emergenza gratuite sono diverse su Android e iPhone. I tasti rapidi Android e il tasto SOS di iOS restano utilizzabili gratuitamente, secondo la configurazione prevista.",
+  "tr": "Ücretsiz acil durum işlevleri Android ve iPhone’da farklıdır. Android hızlı düğmeleri ve iOS SOS düğmesi, öngörülen yapılandırmaya göre ücretsiz kullanılmaya devam eder."
+ },
+ "1a22bf91": {
+  "it": "Emergenza rapida, anche gratis",
+  "tr": "Hızlı acil durum, ücretsiz de"
+ },
+ "f1a3cc18": {
+  "it": "Senza abbonamento l'app usa la modalità emergenza rapida: l'attivazione parte dai tasti della home o dalla notifica persistente. Il pulsante Avvia/Start è inattivo; voce e modifica delle impostazioni sono disponibili durante un'emergenza rapida attiva.",
+  "tr": "Abonelik olmadan uygulama hızlı acil durum modunu kullanır: etkinleştirme ana ekran düğmelerinden veya kalıcı bildirimden başlar. Avvia/Start düğmesi etkin değildir; ses ve ayar değişiklikleri, etkin bir hızlı acil durum sırasında kullanılabilir."
+ },
+ "e430c6e7": {
+  "it": "Premium abilita l'uso completo descritto nel confronto. Condizioni e prezzo sono indicati nella scheda della singola app su Google Play.",
+  "tr": "Premium, karşılaştırmada anlatılan tam kullanımı açar. Koşullar ve fiyat her uygulamanın Google Play sayfasında yer alır."
+ },
+ "35c98e53": {
+  "it": "SOS e Apple Watch inclusi",
+  "tr": "SOS ve Apple Watch dahil"
+ },
+ "4ee39e7e": {
+  "it": "Tasto SOS al tocco",
+  "tr": "Dokunarak SOS düğmesi"
+ },
+ "b6e03f67": {
+  "it": "Telegram con geolocalizzazione",
+  "tr": "Konum bilgili Telegram"
+ },
+ "80ac734d": {
+  "it": "Posizione live per 30 minuti",
+  "tr": "30 dakika canlı konum"
+ },
+ "f21a5e8e": {
+  "it": "App compagna per Apple Watch",
+  "tr": "Apple Watch için yardımcı uygulama"
+ },
+ "88029d5e": {
+  "it": "Download gratuito. Le funzioni di emergenza incluse restano gratuite.",
+  "tr": "Ücretsiz indirme. Dahil olan acil durum işlevleri ücretsiz kalır."
+ },
+ "99a170b7": {
+  "it": "Un acquisto, più funzioni",
+  "tr": "Tek satın alma, daha fazla işlev"
+ },
+ "c5f3092c": {
+  "it": "“Ehi Siri, Proteggimi” in 12 lingue",
+  "tr": "12 dilde “Hey Siri, Bana yardım et”"
+ },
+ "1190dac0": {
+  "it": "SMS, WhatsApp e telefonata ai contatti",
+  "tr": "Kişilere SMS, WhatsApp ve arama"
+ },
+ "60c62804": {
+  "it": "Posizione live da 1 minuto a 24 ore",
+  "tr": "1 dakikadan 24 saate kadar canlı konum"
+ },
+ "90f33f8e": {
+  "it": "Acquisto una tantum, senza abbonamento. Il prezzo è riportato sull'App Store.",
+  "tr": "Tek seferlik satın alma, abonelik yok. Fiyat App Store’da belirtilir."
+ },
+ "d7ed525c": {
+  "it": "Confronto completo",
+  "tr": "Tam karşılaştırma"
+ },
+ "4adba7f9": {
+  "it": "Tutte le funzioni, Android e iOS.",
+  "tr": "Tüm işlevler, Android ve iOS."
+ },
+ "af6cdad7": {
+  "it": "Confronto tratto dalla presentazione del progetto. Per Android è una sintesi della famiglia di app: consulta la <a class=\"link-arrow\" href=\"prodotti.html\">scheda della singola app</a> per lingue, accessori e durata della posizione. Su telefono puoi scorrere la tabella in orizzontale.",
+  "tr": "Proje sunumundan alınan karşılaştırma. Android için uygulama ailesinin bir özetidir: diller, aksesuarlar ve konum süresi için <a class=\"link-arrow\" href=\"prodotti.html\">ilgili uygulamanın sayfasına</a> bakın. Telefonda tabloyu yatay kaydırabilirsiniz."
+ },
+ "e8d295dc": {
+  "it": "Funzioni secondo piattaforma e versione",
+  "tr": "Platforma ve sürüme göre işlevler"
+ },
+ "22f0be8d": {
+  "it": "Funzione",
+  "tr": "İşlev"
+ },
+ "b92553c3": {
+  "it": "SOS nella pagina principale",
+  "tr": "Ana sayfada SOS"
+ },
+ "c13e1a99": {
+  "it": "No¹",
+  "tr": "Hayır¹"
+ },
+ "c3032d4a": {
+  "it": "Sì",
+  "tr": "Evet"
+ },
+ "d8ab62a6": {
+  "it": "Tasti rapidi home / notifica, anche ad app chiusa",
+  "tr": "Ana ekran / bildirim hızlı düğmeleri, uygulama kapalıyken bile"
+ },
+ "61e6be1a": {
+  "it": "No",
+  "tr": "Hayır"
+ },
+ "38303040": {
+  "it": "Voce: 4 parole chiave fisse + 3 personali",
+  "tr": "Ses: 4 sabit + 3 kişisel anahtar kelime"
+ },
+ "f6015d68": {
+  "it": "Sì²",
+  "tr": "Evet²"
+ },
+ "c19e53d2": {
+  "it": "Attivazione con Google / Siri",
+  "tr": "Google / Siri ile etkinleştirme"
+ },
+ "217cae5d": {
+  "it": "Riconoscimento vocale offline, nelle lingue supportate",
+  "tr": "Desteklenen dillerde çevrimdışı ses tanıma"
+ },
+ "d2449840": {
+  "it": "Telegram con GPS, indirizzo e link alla mappa",
+  "tr": "GPS, adres ve harita bağlantılı Telegram"
+ },
+ "c98e49e4": {
+  "it": "Messaggio WhatsApp",
+  "tr": "WhatsApp mesajı"
+ },
+ "e7e5c556": {
+  "it": "Telefonata al contatto configurato",
+  "tr": "Ayarlı kişiye arama"
+ },
+ "6a9becb3": {
+  "it": "Secondo l'app³",
+  "tr": "Uygulamaya göre³"
+ },
+ "1ecf177a": {
+  "it": "30 minuti",
+  "tr": "30 dakika"
+ },
+ "30acb109": {
+  "it": "1 min – 24 ore",
+  "tr": "1 dk – 24 saat"
+ },
+ "d25e8013": {
+  "it": "App compagna Wear OS / Apple Watch",
+  "tr": "Wear OS / Apple Watch yardımcı uygulaması"
+ },
+ "936c1b05": {
+  "it": "Smartwatch senza smartphone",
+  "tr": "Akıllı telefonsuz akıllı saat"
+ },
+ "590c7126": {
+  "it": "App Wear OS dedicata",
+  "tr": "Özel Wear OS uygulaması"
+ },
+ "d766ee2c": {
+  "it": "Accesso rapido dal quadrante e complication",
+  "tr": "Kadrandan ve komplikasyonlardan hızlı erişim"
+ },
+ "a1a75106": {
+  "it": "Comandi vocali su smartwatch",
+  "tr": "Akıllı saatte sesli komutlar"
+ },
+ "31b8ea4d": {
+  "it": "Modifica impostazioni ad app avviata",
+  "tr": "Uygulama çalışırken ayarları değiştirme"
+ },
+ "83e86049": {
+  "it": "Guida integrata passo passo e PDF",
+  "tr": "Adım adım yerleşik rehber ve PDF"
+ },
+ "853624cf": {
+  "it": "Nessun account, login o cloud proprietario",
+  "tr": "Hesap, oturum açma veya özel bulut yok"
+ },
+ "1ffbed10": {
+  "it": "¹ Senza abbonamento il tasto Avvia/Start è inattivo; si usano i tasti di emergenza rapida.",
+  "tr": "¹ Abonelik olmadan Avvia/Start düğmesi etkin değildir; hızlı acil durum düğmeleri kullanılır."
+ },
+ "1715bdd9": {
+  "it": "² In Android Free, solo mentre è attiva un'emergenza rapida.",
+  "tr": "² Android Free’de yalnızca hızlı acil durum etkinken."
+ },
+ "e576e548": {
+  "it": "³ La presentazione indica fino a 24 ore nelle versioni abilitate: AI help You da 1 minuto a 24 ore, Proteggimi Android fino a 30 minuti, AIuto SOS watch4help™ fino a 60 minuti. Le 12 lingue riguardano le app multilingue; Proteggimi Android è in italiano.",
+  "tr": "³ Sunum, etkin sürümlerde 24 saate kadar süre belirtir: AI help You 1 dakikadan 24 saate, Proteggimi Android 30 dakikaya, AIuto SOS watch4help™ 60 dakikaya kadar. 12 dil çok dilli uygulamalar içindir; Proteggimi Android İtalyancadır."
+ },
+ "4adb6e82": {
+  "it": "Domande su costi e funzioni",
+  "tr": "Maliyetler ve işlevlerle ilgili sorular"
+ },
+ "8d73b6f2": {
+  "it": "no pAIn™ — Come funziona",
+  "tr": "no pAIn™ — Nasıl çalışır"
+ },
+ "664fdb6b": {
+  "it": "Come si attivano le app no pAIn™, quali azioni partono, come funziona watch4help™ e come preparare la prima configurazione.",
+  "tr": "no pAIn™ uygulamaları nasıl etkinleştirilir, hangi eylemler başlar, watch4help™ nasıl çalışır ve ilk kurulum nasıl hazırlanır."
+ },
+ "b232a9df": {
+  "it": "Scegli come attivare. <span class=\"hl\">Decidi chi avvisare.</span>",
+  "tr": "Nasıl etkinleştireceğinizi seçin. <span class=\"hl\">Kimi uyaracağınıza karar verin.</span>"
+ },
+ "fd903e09": {
+  "it": "Il progetto offre diverse modalità di attivazione. Le funzioni disponibili dipendono dall'app, dal dispositivo e dalla configurazione.",
+  "tr": "Proje birkaç etkinleştirme yöntemi sunar. Kullanılabilen işlevler uygulamaya, cihaza ve kuruluma bağlıdır."
+ },
+ "cbc5208b": {
+  "it": "Scegli l'app adatta al tuo dispositivo, configura i due contatti di emergenza e abilita le azioni che desideri utilizzare. Se usi il pulsante, completa l'abbinamento.",
+  "tr": "Cihazınıza uygun uygulamayı seçin, iki acil durum kişisini ayarlayın ve kullanmak istediğiniz eylemleri etkinleştirin. Düğmeyi kullanıyorsanız eşleştirmeyi tamamlayın."
+ },
+ "3b1a1e2f": {
+  "it": "Le modalità di attivazione",
+  "tr": "Etkinleştirme yöntemleri"
+ },
+ "01906b32": {
+  "it": "Un'interfaccia diversa, secondo il dispositivo che usi.",
+  "tr": "Kullandığınız cihaza göre farklı bir arayüz."
+ },
+ "cbc9be52": {
+  "it": "Voce",
+  "tr": "Ses"
+ },
+ "f691286c": {
+  "it": "Senza toccare il telefono",
+  "tr": "Telefona dokunmadan"
+ },
+ "1c6c453d": {
+  "it": "Su Android: 4 parole chiave fisse e 3 personali, riconosciute sul dispositivo anche in background o a schermo spento, con il telefono a qualche metro. Su iOS Premium: “Ehi Siri, Proteggimi”.",
+  "tr": "Android’de: cihaz üzerinde tanınan 4 sabit ve 3 kişisel anahtar kelime; arka planda veya ekran kapalıyken, telefon birkaç metre uzaktayken bile. iOS Premium’da: “Hey Siri, Bana yardım et”."
+ },
+ "f40e4fa7": {
+  "it": "Tocco",
+  "tr": "Dokunuş"
+ },
+ "88c826af": {
+  "it": "Tasto SOS, home, notifica",
+  "tr": "SOS düğmesi, ana ekran, bildirim"
+ },
+ "e80ae12e": {
+  "it": "Usa il tasto SOS previsto dalla tua versione. Su Android i tasti rapidi della home e la notifica persistente funzionano anche con app chiusa.",
+  "tr": "Sürümünüzün sunduğu SOS düğmesini kullanın. Android’de ana ekran hızlı düğmeleri ve kalıcı bildirim, uygulama kapalıyken de çalışır."
+ },
+ "3a3521af": {
+  "it": "Dal polso",
+  "tr": "Kolunuzdan"
+ },
+ "af13bab0": {
+  "it": "Usa voce o pulsante dell'app compatibile. Distingui l'app compagna del telefono dall'app autonoma per Wear OS.",
+  "tr": "Uyumlu uygulamanın sesini veya düğmesini kullanın. Telefonun yardımcı uygulamasını Wear OS için bağımsız uygulamadan ayırt edin."
+ },
+ "77f8557d": {
+  "it": "Dalla tasca",
+  "tr": "Cebinizden"
+ },
+ "d1bbdc48": {
+  "it": "Tieni premuto per un paio di secondi il pulsante collegato al telefono: l'app esegue le azioni impostate. <a class=\"link-arrow\" href=\"button4help.html\">Scopri →</a>",
+  "tr": "Telefona bağlı düğmeyi birkaç saniye basılı tutun: uygulama ayarlanan eylemleri yürütür. <a class=\"link-arrow\" href=\"button4help.html\">Keşfedin →</a>"
+ },
+ "3e2258c0": {
+  "it": "Dopo l'attivazione",
+  "tr": "Etkinleştirmeden sonra"
+ },
+ "589eca08": {
+  "it": "Le azioni che hai scelto.",
+  "tr": "Seçtiğiniz eylemler."
+ },
+ "62ae47e4": {
+  "it": "Coordinate GPS, indirizzo e link alla mappa nei messaggi ai contatti. Su iOS richiede Premium e il Comando Rapido Apple.",
+  "tr": "Kişilere giden mesajlarda GPS koordinatları, adres ve harita bağlantısı. iOS’ta Premium ve Apple Kestirmesi gerekir."
+ },
+ "6fb4588f": {
+  "it": "tutte le app",
+  "tr": "tüm uygulamalar"
+ },
+ "339ee28c": {
+  "it": "Invio della posizione e aggiornamento live: 30 minuti su iOS Free, durata configurabile nelle versioni abilitate fino a 24 ore.",
+  "tr": "Konum gönderimi ve canlı güncelleme: iOS Free’de 30 dakika, etkin sürümlerde 24 saate kadar ayarlanabilir süre."
+ },
+ "0e0ed0f9": {
+  "it": "Chiamate",
+  "tr": "Aramalar"
+ },
+ "5009b2d7": {
+  "it": "Telefonate ai numeri impostati. Su iOS Premium si attivano tramite il Comando Rapido Apple “Proteggimi”.",
+  "tr": "Ayarlanan numaralara aramalar. iOS Premium’da “Proteggimi” Apple Kestirmesi ile başlar."
+ },
+ "12d40da3": {
+  "it": "Disponibile su iOS Premium tramite il Comando Rapido Apple. Non è previsto nelle versioni Android.",
+  "tr": "iOS Premium’da Apple Kestirmesi ile kullanılabilir. Android sürümlerinde yoktur."
+ },
+ "0755181d": {
+  "it": "<b>Importante</b> Le app avvisano i contatti configurati. Non contattano i servizi pubblici di emergenza e non li sostituiscono: i tuoi contatti, ricevuto l'allarme, possono chiamare le forze dell'ordine con tutte le informazioni e venire in tuo aiuto.",
+  "tr": "<b>Önemli</b> Uygulamalar ayarlanan kişileri uyarır. Kamu acil durum hizmetleriyle iletişime geçmez ve onların yerini tutmaz: alarmı alan kişileriniz tüm bilgilerle polisi arayabilir ve yardımınıza gelebilir."
+ },
+ "2bff3d53": {
+  "it": "watch4help™ · SOS al polso",
+  "tr": "watch4help™ · Kolunuzda SOS"
+ },
+ "164fe5ab": {
+  "it": "Collegato al telefono o autonomo.",
+  "tr": "Telefona bağlı ya da bağımsız."
+ },
+ "42226bd7": {
+  "it": "Due modalità, da distinguere",
+  "tr": "Ayırt edilmesi gereken iki mod"
+ },
+ "96d4c317": {
+  "it": "Proteggimi e AI help You hanno un'app compagna per l'orologio abbinato. AIuto SOS watch4help™ è invece la soluzione autonoma, utilizzabile senza smartphone con una connessione adatta ai canali scelti.",
+  "tr": "Proteggimi ve AI help You, eşleştirilmiş saat için bir yardımcı uygulamaya sahiptir. AIuto SOS watch4help™ ise seçilen kanallara uygun bir bağlantıyla akıllı telefon olmadan kullanılabilen bağımsız çözümdür."
+ },
+ "312fc767": {
+  "it": "Un tocco, con iPhone abbinato",
+  "tr": "Eşleştirilmiş iPhone ile tek dokunuş"
+ },
+ "98a4265e": {
+  "it": "L'app compagna può avviare Telegram e posizione anche con iPhone bloccato. Per avviare anche SMS, WhatsApp e telefonata servono Premium, il Comando Rapido configurato e l'app iPhone in primo piano.",
+  "tr": "Yardımcı uygulama, iPhone kilitliyken bile Telegram ve konumu başlatabilir. SMS, WhatsApp ve aramayı da başlatmak için Premium, ayarlanmış Kestirme ve iPhone uygulamasının ön planda olması gerekir."
+ },
+ "351a9e06": {
+  "it": "Schermate delle app tratte dalla presentazione del progetto.",
+  "tr": "Proje sunumundan alınan uygulama ekran görüntüleri."
+ },
+ "d9277110": {
+  "it": "La prima configurazione",
+  "tr": "İlk kurulum"
+ },
+ "09b2800f": {
+  "it": "Preparala prima. Provala insieme.",
+  "tr": "Önceden hazırlayın. Birlikte deneyin."
+ },
+ "5ec3efac": {
+  "it": "Una configurazione corretta è parte del funzionamento. Segui sempre il manuale della tua app.",
+  "tr": "Doğru kurulum işleyişin bir parçasıdır. Her zaman uygulamanızın kılavuzunu izleyin."
+ },
+ "1968ce31": {
+  "it": "Scegli chi avvisare",
+  "tr": "Kimi uyaracağınızı seçin"
+ },
+ "9c6f6baa": {
+  "it": "Accetta i termini nell'app, inserisci i numeri di telefono e i chat ID Telegram. Concorda con i contatti come gestire una richiesta.",
+  "tr": "Uygulamada koşulları kabul edin, telefon numaralarını ve Telegram chat ID’lerini girin. Bir talebin nasıl karşılanacağını kişilerinizle konuşun."
+ },
+ "5129551e": {
+  "it": "Abilita ciò che serve",
+  "tr": "Gerekenleri etkinleştirin"
+ },
+ "4401a646": {
+  "it": "Scegli i canali di invio, le parole chiave personali e i permessi necessari. Su iOS configura il Comando Rapido “Proteggimi” per le funzioni Premium.",
+  "tr": "Gönderim kanallarını, kişisel anahtar kelimeleri ve gerekli izinleri seçin. iOS’ta Premium işlevleri için “Proteggimi” Kestirmesini ayarlayın."
+ },
+ "d5dd5c2c": {
+  "it": "Verifica il dispositivo",
+  "tr": "Cihazı kontrol edin"
+ },
+ "1be4d1eb": {
+  "it": "Controlla batteria, connessione, attività in background e abbinamento degli accessori.",
+  "tr": "Pil, bağlantı, arka plan etkinliği ve aksesuar eşleştirmesini kontrol edin."
+ },
+ "3e41f499": {
+  "it": "Fai una prova concordata",
+  "tr": "Kararlaştırılmış bir deneme yapın"
+ },
+ "bbf6ae89": {
+  "it": "Avvisa prima i tuoi contatti, esegui il test e verifica che messaggio e posizione siano arrivati.",
+  "tr": "Önce kişilerinize haber verin, denemeyi yapın ve mesajla konumun ulaştığını kontrol edin."
+ },
+ "bc636f46": {
+  "it": "Connessione e privacy: cosa sapere →",
+  "tr": "Bağlantı ve gizlilik: bilmeniz gerekenler →"
+ },
+ "1989a681": {
+  "it": "no pAIn™ — Tecnologia e ricerca",
+  "tr": "no pAIn™ — Teknoloji ve araştırma"
+ },
+ "07d0d552": {
+  "it": "La tecnologia e le pubblicazioni scientifiche del progetto no pAIn™ del Prof. Ing. Agostino Giorgio, Politecnico di Bari.",
+  "tr": "Politecnico di Bari’den Prof. Müh. Agostino Giorgio’nun no pAIn™ projesinin teknolojisi ve bilimsel yayınları."
+ },
+ "8dec5249": {
+  "it": "Dalla ricerca <span class=\"hl\">alla richiesta di aiuto.</span>",
+  "tr": "Araştırmadan <span class=\"hl\">yardım talebine.</span>"
+ },
+ "3a7ea31a": {
+  "it": "no pAIn™ significa <em>never oppressed protected by Artificial Intelligence Non violence system</em>. Il progetto del Prof. Ing. Agostino Giorgio, docente del Politecnico di Bari, applica intelligenza artificiale, riconoscimento vocale e geolocalizzazione alla richiesta di aiuto verso contatti fidati.",
+  "tr": "no pAIn™, <em>never oppressed protected by Artificial Intelligence Non violence system</em> anlamına gelir. Politecnico di Bari öğretim üyesi Prof. Müh. Agostino Giorgio’nun projesi, güvenilir kişilere yönelik yardım talebinde yapay zekâ, ses tanıma ve konum belirlemeyi kullanır."
+ },
+ "7a4c0b9b": {
+  "it": "Architettura",
+  "tr": "Mimari"
+ },
+ "f2934e70": {
+  "it": "Dal tuo dispositivo ai tuoi contatti",
+  "tr": "Cihazınızdan kişilerinize"
+ },
+ "216dd7c5": {
+  "it": "Il progetto descrive un'architettura senza account, login o cloud proprietario. Lo sviluppatore dichiara di non raccogliere dati personali; impostazioni e contatti rimangono sul dispositivo. Per recapitare gli avvisi e ricavare l'indirizzo vengono comunque usati i servizi esterni previsti dall'app.",
+  "tr": "Proje hesap, oturum açma veya özel bulut içermeyen bir mimari tanımlar. Geliştirici kişisel veri toplamadığını beyan eder; ayarlar ve kişiler cihazda kalır. Uyarıları iletmek ve adresi belirlemek için yine de uygulamanın öngördüğü harici hizmetler kullanılır."
+ },
+ "f9c98298": {
+  "it": "Riconoscimento vocale sul dispositivo",
+  "tr": "Cihaz üzerinde ses tanıma"
+ },
+ "c6703e52": {
+  "it": "Nelle versioni Android e nelle lingue abilitate, il riconoscimento delle parole chiave funziona anche offline. L'invio degli avvisi richiede invece le connessioni necessarie al canale scelto: rete dati, SMS o telefonia.",
+  "tr": "Android sürümlerinde ve etkin dillerde anahtar kelime tanıma çevrimdışı da çalışır. Uyarıların gönderilmesi ise seçilen kanal için gerekli bağlantıları gerektirir: mobil veri, SMS veya telefon."
+ },
+ "d86ad526": {
+  "it": "Affidabilità",
+  "tr": "Güvenilirlik"
+ },
+ "45ca0fbe": {
+  "it": "Continuità e ripristino",
+  "tr": "Süreklilik ve kurtarma"
+ },
+ "26c3887c": {
+  "it": "La presentazione descrive ritrasmissione degli avvisi al ritorno della rete, ripresa della posizione live dopo interruzioni e riattivazione guidata dopo riavvii o aggiornamenti, con test su smartphone e smartwatch reali. L'effettivo funzionamento dipende da versione, permessi, rete e dispositivo.",
+  "tr": "Sunum; şebeke geri geldiğinde uyarıların yeniden gönderilmesini, kesintilerden sonra canlı konumun sürdürülmesini ve yeniden başlatma veya güncellemelerden sonra rehberli yeniden etkinleştirmeyi, gerçek akıllı telefon ve akıllı saatlerde yapılan testlerle anlatır. Gerçek işleyiş sürüme, izinlere, şebekeye ve cihaza bağlıdır."
+ },
+ "22266a9c": {
+  "it": "Pubblicazioni",
+  "tr": "Yayınlar"
+ },
+ "7cc8a78c": {
+  "it": "Pubblicato su rivista scientifica.",
+  "tr": "Bilimsel bir dergide yayımlandı."
+ },
+ "4de95746": {
+  "it": "Il dispositivo e l'app sono descritti in due articoli sulla rivista internazionale <em>Electronics</em> (MDPI), ad accesso aperto.",
+  "tr": "Cihaz ve uygulama, uluslararası <em>Electronics</em> (MDPI) dergisinde açık erişimli iki makalede anlatılmaktadır."
+ },
+ "3f10489d": {
+  "it": "Approfondisci il progetto",
+  "tr": "Proje hakkında daha fazlası"
+ },
+ "e449099c": {
+  "it": "La presentazione completa.",
+  "tr": "Tam sunum."
+ },
+ "33b96627": {
+  "it": "Funzionamento, versioni, schermate e riferimenti scientifici. PDF in italiano, 23 pagine.",
+  "tr": "İşleyiş, sürümler, ekran görüntüleri ve bilimsel kaynaklar. İtalyanca PDF, 23 sayfa."
+ },
+ "1329fef9": {
+  "it": "Apri la presentazione PDF <span class=\"arr\">↗</span>",
+  "tr": "PDF sunumunu açın <span class=\"arr\">↗</span>"
+ },
+ "89c663d7": {
+  "it": "Materiale promozionale del progetto",
+  "tr": "Projenin tanıtım materyali"
+ },
+ "8797ba72": {
+  "it": "Locandina del progetto no pAIn by Agostino Giorgio, Politecnico di Bari: digital4help, protezione digitale, una nuova era per la tutela delle donne",
+  "tr": "Politecnico di Bari’den Agostino Giorgio’nun no pAIn projesinin afişi: digital4help, dijital koruma, kadınların korunmasında yeni bir dönem"
+ },
+ "3a0eca35": {
+  "it": "no pAIn™ — Collabora",
+  "tr": "no pAIn™ — İş birliği"
+ },
+ "2f329875": {
+  "it": "Porta no pAIn™ nella tua organizzazione: enti pubblici, associazioni, aziende e sponsor.",
+  "tr": "no pAIn™ projesini kuruluşunuza getirin: kamu kurumları, dernekler, şirketler ve sponsorlar."
+ },
+ "0f218826": {
+  "it": "Porta no pAIn™ <span class=\"hl\">nella tua organizzazione.</span>",
+  "tr": "no pAIn™ projesini <span class=\"hl\">kuruluşunuza getirin.</span>"
+ },
+ "00d835f5": {
+  "it": "Mettere uno strumento a disposizione è il primo passo. Farlo conoscere, spiegarne l'uso e inserirlo in un contesto di supporto è altrettanto importante.",
+  "tr": "Bir aracı kullanıma sunmak ilk adımdır. Onu tanıtmak, kullanımını anlatmak ve bir destek ağına yerleştirmek de aynı derecede önemlidir."
+ },
+ "ed20cf20": {
+  "it": "Richiedi una dimostrazione <span class=\"arr\">↗</span>",
+  "tr": "Tanıtım talep edin <span class=\"arr\">↗</span>"
+ },
+ "dfc78647": {
+  "it": "Enti pubblici",
+  "tr": "Kamu kurumları"
+ },
+ "2bd94dc1": {
+  "it": "Iniziative locali e progetti pilota",
+  "tr": "Yerel girişimler ve pilot projeler"
+ },
+ "203f6364": {
+  "it": "Valutiamo iniziative sul territorio e progetti pilota, a partire da una dimostrazione e da obiettivi condivisi.",
+  "tr": "Bir tanıtımdan ve ortak hedeflerden yola çıkarak yerel girişimleri ve pilot projeleri değerlendiriyoruz."
+ },
+ "f3584485": {
+  "it": "Associazioni",
+  "tr": "Dernekler"
+ },
+ "2c4ff7c9": {
+  "it": "Accanto a chi conosce i bisogni",
+  "tr": "İhtiyaçları bilenlerin yanında"
+ },
+ "97d70b91": {
+  "it": "Un confronto con chi lavora ogni giorno con le persone, per capire utilità, modalità d'uso e limiti dello strumento.",
+  "tr": "Aracın yararını, kullanım biçimlerini ve sınırlarını anlamak için her gün insanlarla çalışanlarla bir görüş alışverişi."
+ },
+ "0ab434b0": {
+  "it": "Aziende e sponsor",
+  "tr": "Şirketler ve sponsorlar"
+ },
+ "51348394": {
+  "it": "Sensibilizzazione e sostegno",
+  "tr": "Farkındalık ve destek"
+ },
+ "f4d66b9e": {
+  "it": "Approfondiamo proposte per gruppi di utenti, iniziative di sensibilizzazione e sostegno a progetti sul territorio.",
+  "tr": "Kullanıcı grupları, farkındalık girişimleri ve yerel projelere destek için önerileri birlikte inceliyoruz."
+ },
+ "c0b7455c": {
+  "it": "Cosa portiamo",
+  "tr": "Neler sunuyoruz"
+ },
+ "d5c89ab3": {
+  "it": "Una tecnologia nata in università, pronta da usare.",
+  "tr": "Üniversitede doğmuş, kullanıma hazır bir teknoloji."
+ },
+ "907fb86c": {
+  "it": "App gratuite da scaricare per Android, iPhone e smartwatch, un pulsante acquistabile da chiunque, nessun account e nessun cloud da gestire. E un progetto descritto in pubblicazioni scientifiche.",
+  "tr": "Android, iPhone ve akıllı saatler için ücretsiz uygulamalar, herkesin satın alabileceği bir düğme, yönetilecek hesap veya bulut yok. Ve bilimsel yayınlarda anlatılan bir proje."
+ },
+ "9544f0cf": {
+  "it": "Una dimostrazione è il modo migliore per iniziare <span class=\"arr\">↗</span>",
+  "tr": "Başlamanın en iyi yolu bir tanıtım <span class=\"arr\">↗</span>"
+ },
+ "851d2b68": {
+  "it": "Presentazione PDF <span class=\"arr\">↗</span>",
+  "tr": "PDF sunumu <span class=\"arr\">↗</span>"
+ },
+ "6878e072": {
+  "it": "Locandina: Proteggimi (no pAIn), l'app diversa e intelligente. Aiuto immediato anche senza toccare lo smartphone.",
+  "tr": "Afiş: Proteggimi (no pAIn), farklı ve akıllı uygulama. Akıllı telefona dokunmadan bile anında yardım."
+ },
+ "cb27864b": {
+  "it": "no pAIn™ — Domande frequenti",
+  "tr": "no pAIn™ — Sık sorulan sorular"
+ },
+ "3b6519ae": {
+  "it": "Risposte chiare sulle app no pAIn™, su button4help™, sulla connessione, sulla privacy e sui costi.",
+  "tr": "no pAIn™ uygulamaları, button4help™, bağlantı, gizlilik ve maliyetler hakkında net yanıtlar."
+ },
+ "d18377be": {
+  "it": "Domande semplici. <span class=\"hl\">Risposte chiare.</span>",
+  "tr": "Basit sorular. <span class=\"hl\">Net yanıtlar.</span>"
+ },
+ "44dbf7c0": {
+  "it": "Prima di scegliere, conosci il funzionamento e le condizioni d'uso.",
+  "tr": "Seçmeden önce işleyişi ve kullanım koşullarını öğrenin."
+ },
+ "a943bf49": {
+  "it": "Perché non chiamare direttamente il 112?",
+  "tr": "Neden doğrudan 112 aranmıyor?"
+ },
+ "5879ca74": {
+  "it": "Il 112 resta fondamentale e, se puoi, chiamalo. Ma in pericolo spesso non si può parlare con un operatore, spiegare la situazione e dire dove ci si trova. Le app no pAIn™ servono proprio a questo: con una parola o un tocco discreto avvisano due persone di fiducia con la tua posizione, e saranno loro a chiamare le forze dell'ordine.",
+  "tr": "112 hâlâ çok önemlidir ve arayabiliyorsanız arayın. Ancak tehlike anında bir operatörle konuşmak, durumu anlatmak ve nerede olduğunuzu söylemek çoğu zaman mümkün değildir. no pAIn™ uygulamaları tam da bunun için vardır: bir kelime veya fark edilmeyen bir dokunuşla güvendiğiniz iki kişiyi konumunuzla uyarır ve polisi onlar arar."
+ },
+ "bba383c4": {
+  "it": "Chi riceve la richiesta di aiuto?",
+  "tr": "Yardım talebini kim alır?"
+ },
+ "677457a0": {
+  "it": "I due contatti di emergenza impostati da te nell'app, parenti o amici. A seconda dell'app puoi abilitare SMS, WhatsApp (iPhone), Telegram e telefonate. Le app non contattano i servizi pubblici di emergenza.",
+  "tr": "Uygulamada belirlediğiniz iki acil durum kişisi, yakınlarınız veya arkadaşlarınız. Uygulamaya göre SMS, WhatsApp (iPhone), Telegram ve aramaları etkinleştirebilirsiniz. Uygulamalar kamu acil durum hizmetleriyle iletişime geçmez."
+ },
+ "c585af6a": {
+  "it": "Posso usarle con un iPhone?",
+  "tr": "iPhone ile kullanabilir miyim?"
+ },
+ "837d55d5": {
+  "it": "Sì: no pAIn™ (Proteggimi) è disponibile sull'App Store, in 12 lingue e con app compagna per Apple Watch. La versione gratuita include SOS e Telegram; Premium aggiunge Siri, SMS, WhatsApp e chiamate tramite i Comandi Rapidi. <a href=\"versioni.html\">Vedi il confronto</a>.",
+  "tr": "Evet: no pAIn™ (Proteggimi) App Store’da, 12 dilde ve Apple Watch yardımcı uygulamasıyla mevcuttur. Ücretsiz sürüm SOS ve Telegram içerir; Premium, Kestirmeler aracılığıyla Siri, SMS, WhatsApp ve aramaları ekler. <a href=\"versioni.html\">Karşılaştırmaya bakın</a>."
+ },
+ "5e269703": {
+  "it": "Quanto costano?",
+  "tr": "Ne kadar tutar?"
+ },
+ "264bfcce": {
+  "it": "Su iOS il download e le funzioni Free sono gratuiti; Premium richiede un acquisto una tantum, senza abbonamento. Su Android restano gratuiti i tasti di emergenza rapida, con le limitazioni illustrate nel <a href=\"versioni.html\">confronto</a>. Consulta gli store per i prezzi delle app.",
+  "tr": "iOS’ta indirme ve Free işlevleri ücretsizdir; Premium tek seferlik bir satın alma gerektirir, abonelik yoktur. Android’de hızlı acil durum düğmeleri, <a href=\"versioni.html\">karşılaştırmada</a> gösterilen sınırlamalarla ücretsiz kalır. Uygulama fiyatları için mağazalara bakın."
+ },
+ "98931ccd": {
+  "it": "La posizione resta visibile per 24 ore in ogni app?",
+  "tr": "Konum her uygulamada 24 saat görünür kalır mı?"
+ },
+ "73d74e51": {
+  "it": "La durata dipende dall'app e dalla versione. Su iOS Free è di 30 minuti; su iOS Premium va da 1 minuto a 24 ore. AI help You arriva fino a 24 ore; Proteggimi Android e AIuto SOS watch4help™ riportano rispettivamente 30 e 60 minuti. Controlla le opzioni dell'app installata.",
+  "tr": "Süre uygulamaya ve sürüme bağlıdır. iOS Free’de 30 dakikadır; iOS Premium’da 1 dakikadan 24 saate kadar. AI help You 24 saate kadar çıkar; Proteggimi Android ve AIuto SOS watch4help™ sırasıyla 30 ve 60 dakika belirtir. Yüklü uygulamanın seçeneklerini kontrol edin."
+ },
+ "22510adf": {
+  "it": "Lo smartwatch deve essere sempre vicino al telefono?",
+  "tr": "Akıllı saat her zaman telefonun yakınında mı olmalı?"
+ },
+ "28dd55f0": {
+  "it": "Per Wear OS puoi scegliere fra l'app compagna del telefono e AIuto SOS watch4help™, autonoma, che usa la connessione dell'orologio. L'app compagna per Apple Watch lavora con l'iPhone abbinato: Telegram e posizione possono partire anche con iPhone bloccato; per le altre azioni Premium serve l'app iPhone in primo piano. Un'app dedicata AIutoSOS per Apple Watch è in programma.",
+  "tr": "Wear OS’ta telefonun yardımcı uygulaması ile saatin bağlantısını kullanan bağımsız AIuto SOS watch4help™ arasında seçim yapabilirsiniz. Apple Watch yardımcı uygulaması eşleştirilmiş iPhone ile çalışır: Telegram ve konum iPhone kilitliyken bile gönderilebilir; diğer Premium eylemler için iPhone uygulamasının ön planda olması gerekir. Apple Watch’a özel bir AIutoSOS uygulaması planlanıyor."
+ },
+ "5f1834e5": {
+  "it": "Il pulsante funziona senza smartphone?",
+  "tr": "Düğme akıllı telefon olmadan çalışır mı?"
+ },
+ "b93269ec": {
+  "it": "No. button4help™ è il comando di un'app sullo smartphone associato: il telefono deve essere acceso e raggiungibile via Bluetooth. Se ti serve una soluzione senza telefono, c'è l'app autonoma <a href=\"prodotti.html#aiuto-sos\">AIuto SOS watch4help™</a> per Wear OS, le cui funzioni dipendono dalla connettività dell'orologio.",
+  "tr": "Hayır. button4help™, eşleştirilmiş akıllı telefondaki bir uygulamayı kontrol eder: telefon açık ve Bluetooth ile erişilebilir olmalıdır. Telefonsuz bir çözüme ihtiyacınız varsa, işlevleri saatin bağlantısına bağlı olan Wear OS için bağımsız <a href=\"prodotti.html#aiuto-sos\">AIuto SOS watch4help™</a> uygulaması vardır."
+ },
+ "b702e7a0": {
+  "it": "In cosa è diverso da un AirTag o da un tracker?",
+  "tr": "AirTag’den veya bir takip cihazından farkı nedir?"
+ },
+ "ee37e011": {
+  "it": "I tracker GPS o Bluetooth servono a ritrovare oggetti e animali tramite la rete AirTag di Apple o quella di Android. button4help™ non si fa localizzare: è un pulsante che, premuto per un paio di secondi, fa scattare l'emergenza nell'app. Contiene solo un modulo Bluetooth Low Energy e una batteria a bottone, per questo è così piccolo. È diverso anche dai classici pulsanti SOS per anziani.",
+  "tr": "GPS veya Bluetooth takip cihazları, Apple’ın AirTag ağı veya Android ağı üzerinden eşya ve evcil hayvan bulmaya yarar. button4help™ konumlandırılamaz: birkaç saniye basıldığında uygulamada acil durumu başlatan bir düğmedir. Yalnızca bir Bluetooth Low Energy modülü ve bir düğme pil içerir, bu yüzden bu kadar küçüktür. Yaşlılar için klasik SOS düğmelerinden de farklıdır."
+ },
+ "404d40e9": {
+  "it": "Dove lo compro e con quali app funziona?",
+  "tr": "Nereden alırım ve hangi uygulamalarla çalışır?"
+ },
+ "eb01d77f": {
+  "it": "Si acquista su <a href=\"https://it.aliexpress.com/item/1005008509583971.html\" target=\"_blank\" rel=\"noopener\">AliExpress</a>, da un venditore terzo: no pAIn™ non lo vende. Funziona con AI help You su Android e con no pAIn™ su iPhone. Per dubbi sulla compatibilità con il tuo telefono, <a href=\"mailto:agostino.giorgio@poliba.it\" data-mail=\"private\">scrivi al progettista</a>.",
+  "tr": "<a href=\"https://it.aliexpress.com/item/1005008509583971.html\" target=\"_blank\" rel=\"noopener\">AliExpress</a>’te üçüncü taraf bir satıcıdan alınır: no pAIn™ satmaz. Android’de AI help You ile, iPhone’da no pAIn™ ile çalışır. Telefonunuzla uyumluluğundan emin değilseniz <a href=\"mailto:agostino.giorgio@poliba.it\" data-mail=\"private\">tasarımcıya yazın</a>."
+ },
+ "3a4698fd": {
+  "it": "Le foto del pulsante mostrano il dispositivo attuale. Le immagini promozionali con pendenti a cuore o altri gioielli illustrano possibilità di design: disponibilità e caratteristiche di questi accessori vanno confermate con il progettista.",
+  "tr": "Düğmenin fotoğrafları mevcut cihazı gösterir. Kalp kolyeli veya başka takılı tanıtım görselleri tasarım olanaklarını gösterir: bu aksesuarların bulunabilirliği ve özellikleri tasarımcıyla teyit edilmelidir."
+ },
+ "688cc56a": {
+  "it": "Connessione e privacy",
+  "tr": "Bağlantı ve gizlilik"
+ },
+ "ae12ac09": {
+  "it": "“IA offline” significa che non serve connessione?",
+  "tr": "“Çevrimdışı yapay zekâ” bağlantı gerekmediği anlamına mı gelir?"
+ },
+ "73f2db19": {
+  "it": "Il riconoscimento locale delle parole chiave non invia l'audio a un servizio cloud. L'invio degli avvisi è un passaggio diverso: Telegram e WhatsApp richiedono internet; SMS e telefonate dipendono dalla rete e dal piano dell'operatore. Anche il collegamento fra accessorio e telefono deve essere disponibile.",
+  "tr": "Anahtar kelimelerin yerel olarak tanınması sesi bir bulut hizmetine göndermez. Uyarıların gönderilmesi ayrı bir adımdır: Telegram ve WhatsApp internet gerektirir; SMS ve aramalar şebekeye ve operatör tarifesine bağlıdır. Aksesuar ile telefon arasındaki bağlantının da mevcut olması gerekir."
+ },
+ "1198a78d": {
+  "it": "Vengono registrate le conversazioni?",
+  "tr": "Konuşmalar kaydediliyor mu?"
+ },
+ "66ecb0b4": {
+  "it": "Lo sviluppatore dichiara che il microfono serve al riconoscimento locale delle parole chiave, senza registrare l'audio, e che contatti e impostazioni restano sul dispositivo. Gli avvisi usano comunque servizi esterni, come operatori telefonici e Telegram, con le rispettive informative. Consulta l'<a href=\"https://poliba.wixsite.com/no_pain_privacy\" target=\"_blank\" rel=\"noopener\">informativa della singola app</a>.",
+  "tr": "Geliştirici, mikrofonun ses kaydedilmeden anahtar kelimelerin yerel olarak tanınması için kullanıldığını ve kişilerle ayarların cihazda kaldığını beyan eder. Uyarılar yine de telefon operatörleri ve Telegram gibi, kendi gizlilik politikaları olan harici hizmetleri kullanır. <a href=\"https://poliba.wixsite.com/no_pain_privacy\" target=\"_blank\" rel=\"noopener\">İlgili uygulamanın gizlilik politikasına</a> bakın."
+ },
+ "ed1d4c77": {
+  "it": "Serve creare un account?",
+  "tr": "Hesap oluşturmak gerekir mi?"
+ },
+ "92ae487c": {
+  "it": "No. Le app non richiedono account, login o cloud proprietario: impostazioni e contatti restano sul tuo telefono.",
+  "tr": "Hayır. Uygulamalar hesap, oturum açma veya özel bulut gerektirmez: ayarlar ve kişiler telefonunuzda kalır."
+ },
+ "_ui": {
+  "menu": "Menü",
+  "close": "Kapat",
+  "closeImage": "Kapat"
+ },
+ "_mail": {
+  "privateSubject": "button4help™ — bilgi talebi",
+  "privateBody": "Merhaba,\nbutton4help™ hakkında fiyat, bulunabilirlik ve telefonumla uyumluluk konusunda bilgi almak istiyorum.\n\nTelefon modeli: \n\nSaygılarımla",
+  "partnerSubject": "no pAIn™ — iş birliği talebi",
+  "partnerBody": "Merhaba,\nno pAIn™ projesi hakkında daha fazla bilgi almak ve olası bir iş birliğini veya tanıtımı değerlendirmek istiyorum.\n\nKurum veya şirket: \nİlgili kişi: \n\nSaygılarımla"
+ }
+}

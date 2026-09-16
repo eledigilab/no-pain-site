@@ -1,0 +1,1817 @@
+{
+ "f140bfd5": {
+  "it": "no pAIn™: la tutela digitale contro la violenza di genere. App e dispositivi che chiedono aiuto con la voce o con un gesto, senza dover parlare con nessuno.",
+  "tr": "no pAIn™: protecția digitală împotriva violenței de gen. Aplicații și dispozitive care cer ajutor cu vocea sau cu un gest, fără să fie nevoie să vorbești cu cineva."
+ },
+ "7485a5cc": {
+  "it": "Il progetto",
+  "tr": "Proiectul"
+ },
+ "3c3edab5": {
+  "it": "Le app",
+  "tr": "Aplicațiile"
+ },
+ "2405dae5": {
+  "it": "Free e Premium",
+  "tr": "Free și Premium"
+ },
+ "304ad423": {
+  "it": "Come funziona",
+  "tr": "Cum funcționează"
+ },
+ "3b2a74ba": {
+  "it": "Ricerca",
+  "tr": "Cercetare"
+ },
+ "cef2e389": {
+  "it": "Per enti e aziende",
+  "tr": "Organizații"
+ },
+ "b0987c4b": {
+  "it": "Domande",
+  "tr": "Întrebări"
+ },
+ "9c6a2f5f": {
+  "it": "Contatti",
+  "tr": "Contact"
+ },
+ "bc47d777": {
+  "it": "Tutela digitale · digital4help™",
+  "tr": "Protecție digitală · digital4help™"
+ },
+ "3351a7a0": {
+  "it": "Chiedere aiuto <span class=\"hl\">senza dover parlare.</span>",
+  "tr": "Să ceri ajutor <span class=\"hl\">fără să fie nevoie să vorbești.</span>"
+ },
+ "e662d766": {
+  "it": "no pAIn™ è un ecosistema di app e dispositivi per la prevenzione della violenza di genere. Con una parola, un tocco o un pulsante, avvisa subito due persone di fiducia con la tua posizione: messaggi e telefonate partono da soli.",
+  "tr": "no pAIn™ este un ecosistem de aplicații și dispozitive pentru prevenirea violenței de gen. Cu un cuvânt, o atingere sau un buton, anunță imediat două persoane de încredere împreună cu locația ta: mesajele și apelurile pleacă singure."
+ },
+ "14ea42b7": {
+  "it": "Scegli la tua app <span class=\"arr\">→</span>",
+  "tr": "Alege-ți aplicația <span class=\"arr\">→</span>"
+ },
+ "82d6a819": {
+  "it": "Scopri button4help™ <span class=\"arr\">→</span>",
+  "tr": "Descoperă button4help™ <span class=\"arr\">→</span>"
+ },
+ "c1aca8f1": {
+  "it": "Progetto ideato dal <strong>Prof. Ing. Agostino Giorgio</strong><br>Docente del Politecnico di Bari",
+  "tr": "Proiect creat de <strong>Prof. Ing. Agostino Giorgio</strong><br>Cadru didactic la Politecnico di Bari"
+ },
+ "ef8c5976": {
+  "it": "Giulia<small>contatto di emergenza</small>",
+  "tr": "Giulia<small>contact de urgență</small>"
+ },
+ "fd908409": {
+  "it": "<span class=\"sos\">RICHIESTA DI AIUTO</span><br>Ho bisogno di aiuto. Questa è la mia posizione.",
+  "tr": "<span class=\"sos\">CERERE DE AJUTOR</span><br>Am nevoie de ajutor. Aceasta este locația mea."
+ },
+ "f09882f7": {
+  "it": "41.1087° N, 16.8784° E<br><span class=\"live\">● posizione live attiva</span>",
+  "tr": "41.1087° N, 16.8784° E<br><span class=\"live\">● locație în timp real activă</span>"
+ },
+ "a3e96f0f": {
+  "it": "Esempio illustrativo di ciò che riceve un contatto",
+  "tr": "Exemplu ilustrativ a ceea ce primește un contact"
+ },
+ "ce0132df": {
+  "it": "L'idea",
+  "tr": "Ideea"
+ },
+ "f36541c1": {
+  "it": "Da signal4help a <span class=\"hl\">digital4help™</span>",
+  "tr": "De la signal4help la <span class=\"hl\">digital4help™</span>"
+ },
+ "ed14bbed": {
+  "it": "Il segnale con la mano, signal4help, è diventato il gesto universale con cui chi è in pericolo chiede aiuto in silenzio. Ma funziona solo se qualcuno lo vede. no pAIn™ ne ha fatto una versione elettronica: il “signal for help” arriva alle persone giuste, ovunque siano, insieme alla posizione.",
+  "tr": "Semnalul cu mâna, signal4help, a devenit gestul universal prin care cine e în pericol cere ajutor în tăcere. Dar funcționează doar dacă îl vede cineva. no pAIn™ a creat o versiune electronică: „signal for help” ajunge la oamenii potriviți, oriunde s-ar afla, împreună cu locația."
+ },
+ "923665b8": {
+  "it": "GESTO 1",
+  "tr": "GESTUL 1"
+ },
+ "1d140d31": {
+  "it": "Palmo aperto",
+  "tr": "Palma deschisă"
+ },
+ "95366a71": {
+  "it": "GESTO 2",
+  "tr": "GESTUL 2"
+ },
+ "c4b876c9": {
+  "it": "Pollice piegato sul palmo",
+  "tr": "Degetul mare îndoit în palmă"
+ },
+ "943668de": {
+  "it": "GESTO 3",
+  "tr": "GESTUL 3"
+ },
+ "0a28e822": {
+  "it": "Dita chiuse sul pollice",
+  "tr": "Degetele strânse peste degetul mare"
+ },
+ "cbb74791": {
+  "it": "Lo stesso messaggio, senza bisogno di essere vista",
+  "tr": "Același mesaj, fără să fie nevoie să fii văzută"
+ },
+ "915f0e78": {
+  "it": "Una parola chiave detta ad alta voce, un tocco sullo schermo, sull'orologio o su un pulsante in tasca. L'app fa il resto e avvisa i tuoi contatti di emergenza.",
+  "tr": "Un cuvânt-cheie rostit cu voce tare, o atingere pe ecran, pe ceas sau pe un buton din buzunar. Aplicația face restul și îți anunță contactele de urgență."
+ },
+ "a192d5c1": {
+  "it": "Perché serve",
+  "tr": "De ce este nevoie"
+ },
+ "6c714dba": {
+  "it": "Nel pericolo non sempre si può parlare.",
+  "tr": "În pericol nu poți vorbi întotdeauna."
+ },
+ "51447e50": {
+  "it": "Il 112 e app come YouPol restano strumenti fondamentali. Però chiedono di parlare con un operatore, spiegare cosa sta succedendo e dire dove ci si trova. Con un aggressore accanto, spesso è impossibile.",
+  "tr": "112 și aplicații ca YouPol rămân instrumente esențiale. Dar îți cer să vorbești cu un operator, să explici ce se întâmplă și să spui unde te afli. Cu un agresor alături, de multe ori este imposibil."
+ },
+ "deb6e2a4": {
+  "it": "Chiamata o app di segnalazione",
+  "tr": "Apel sau aplicație de semnalare"
+ },
+ "921dd1f7": {
+  "it": "Bisogna prendere in mano il telefono e sbloccarlo",
+  "tr": "Trebuie să iei telefonul în mână și să-l deblochezi"
+ },
+ "eed236ef": {
+  "it": "Bisogna parlare o scrivere, spiegando la situazione",
+  "tr": "Trebuie să vorbești sau să scrii, explicând situația"
+ },
+ "15656b20": {
+  "it": "Bisogna descrivere dove ci si trova",
+  "tr": "Trebuie să descrii unde te afli"
+ },
+ "9124957b": {
+  "it": "Chi aggredisce può accorgersene",
+  "tr": "Agresorul poate observa"
+ },
+ "49795334": {
+  "it": "Un'app con tecnologia no pAIn™",
+  "tr": "O aplicație cu tehnologie no pAIn™"
+ },
+ "d0047c0e": {
+  "it": "Basta una parola chiave, anche con il telefono a qualche metro",
+  "tr": "Ajunge un cuvânt-cheie, chiar și cu telefonul la câțiva metri"
+ },
+ "479e4c85": {
+  "it": "Oppure un tocco discreto: su una notifica, sull'orologio, su un pulsante",
+  "tr": "Sau o atingere discretă: pe o notificare, pe ceas, pe un buton"
+ },
+ "026026d4": {
+  "it": "La posizione viene inviata in automatico",
+  "tr": "Locația este trimisă automat"
+ },
+ "202def39": {
+  "it": "Due persone di fiducia sono avvisate subito e possono chiamare le forze dell'ordine",
+  "tr": "Două persoane de încredere sunt anunțate imediat și pot chema poliția"
+ },
+ "89c8cdba": {
+  "it": "Come si attiva",
+  "tr": "Cum se activează"
+ },
+ "9d32cd40": {
+  "it": "Sei modi rapidissimi per lanciare l'allarme.",
+  "tr": "Șase moduri foarte rapide de a da alarma."
+ },
+ "855eb6d8": {
+  "it": "Ogni situazione è diversa: per questo le app no pAIn™ offrono più punti di innesco. Scegli quelli che puoi usare senza farti notare. Le funzioni disponibili dipendono dall'app e dal dispositivo.",
+  "tr": "Fiecare situație este diferită: de aceea aplicațiile no pAIn™ oferă mai multe declanșatoare. Alege-le pe cele pe care le poți folosi fără să atragi atenția. Funcțiile disponibile depind de aplicație și de dispozitiv."
+ },
+ "5c8c7520": {
+  "it": "IA offline",
+  "tr": "IA offline"
+ },
+ "b382d344": {
+  "it": "Comando vocale",
+  "tr": "Comandă vocală"
+ },
+ "530af9ef": {
+  "it": "Pronunci una parola chiave e le azioni di emergenza partono, senza toccare il telefono. Su Android il riconoscimento vocale è sul dispositivo, con 4 parole chiave fisse e 3 personali: funziona con app aperta, in background o chiusa, anche a schermo spento e con il telefono a qualche metro. Su iPhone basta dire “Ehi Siri, Proteggimi”.",
+  "tr": "Rostești un cuvânt-cheie și acțiunile de urgență pornesc, fără să atingi telefonul. Pe Android recunoașterea vocală rulează pe dispozitiv, cu 4 cuvinte-cheie fixe și 3 personale: funcționează cu aplicația deschisă, în fundal sau închisă, chiar și cu ecranul stins și telefonul la câțiva metri. Pe iPhone e suficient să spui „Hey Siri, Ajută-mă”."
+ },
+ "faf9e1fd": {
+  "it": "app aperta",
+  "tr": "aplicație deschisă"
+ },
+ "8ef8f4f2": {
+  "it": "Tasto di emergenza nell'app",
+  "tr": "Buton de urgență în aplicație"
+ },
+ "ae23781b": {
+  "it": "Il grande tasto SOS nella schermata principale. È il metodo più semplice e richiede che l'app sia in primo piano.",
+  "tr": "Marele buton SOS de pe ecranul principal. Este metoda cea mai simplă și necesită ca aplicația să fie în prim-plan."
+ },
+ "0bed2b9f": {
+  "it": "Android · app chiusa",
+  "tr": "Android · aplicație închisă"
+ },
+ "57946f7b": {
+  "it": "Tasto rapido in home",
+  "tr": "Buton rapid pe ecranul de pornire"
+ },
+ "dc947037": {
+  "it": "Un tasto sulla schermata home del telefono risveglia l'app anche quando è chiusa e dormiente, e avvia subito l'emergenza.",
+  "tr": "Un buton pe ecranul de pornire al telefonului trezește aplicația chiar și când este închisă și inactivă și pornește imediat urgența."
+ },
+ "910bbdb2": {
+  "it": "Android · discreto",
+  "tr": "Android · discret"
+ },
+ "ac44bb94": {
+  "it": "Notifica persistente",
+  "tr": "Notificare permanentă"
+ },
+ "e247de3d": {
+  "it": "Un tocco sulla notifica sempre presente. Chi ti guarda pensa che tu stia solo scorrendo le notifiche: in realtà stai chiedendo aiuto.",
+  "tr": "O atingere pe notificarea mereu prezentă. Cine te privește crede că doar derulezi notificările: de fapt ceri ajutor."
+ },
+ "49bb1439": {
+  "it": "Smartwatch",
+  "tr": "Ceas inteligent"
+ },
+ "c582733c": {
+  "it": "Voce o tasto sul quadrante di uno smartwatch Wear OS, oppure tocco su Apple Watch. Le app per smartphone hanno la loro app compagna per l'orologio; AIuto SOS funziona addirittura senza smartphone.",
+  "tr": "Voce sau buton pe cadranul unui ceas Wear OS ori o atingere pe Apple Watch. Aplicațiile pentru smartphone au propria aplicație însoțitoare pentru ceas; AIuto SOS funcționează chiar și fără smartphone."
+ },
+ "afc4bb5a": {
+  "it": "Pulsante button4help™",
+  "tr": "Butonul button4help™"
+ },
+ "27245e1d": {
+  "it": "Tieni premuto per un paio di secondi il piccolo pulsante che porti con te: l'app sullo smartphone, a diversi metri di distanza, avvia l'emergenza. <a class=\"link-arrow\" href=\"button4help.html\">Scopri →</a>",
+  "tr": "Ține apăsat câteva secunde micul buton pe care îl porți cu tine: aplicația de pe smartphone, aflat la câțiva metri, pornește urgența. <a class=\"link-arrow\" href=\"button4help.html\">Descoperă →</a>"
+ },
+ "72179135": {
+  "it": "Cosa succede",
+  "tr": "Ce se întâmplă"
+ },
+ "4a208c02": {
+  "it": "Tutto parte da solo, verso due persone di fiducia.",
+  "tr": "Totul pornește singur, către două persoane de încredere."
+ },
+ "c9d56318": {
+  "it": "Nell'app imposti due contatti di emergenza, parenti o amici. Appena l'allarme scatta, ricevono la tua richiesta di aiuto e la tua posizione.",
+  "tr": "În aplicație setezi două contacte de urgență, rude sau prieteni. Imediat ce se declanșează alarma, primesc cererea ta de ajutor și locația ta."
+ },
+ "4d2b859a": {
+  "it": "SMS con posizione",
+  "tr": "SMS cu locație"
+ },
+ "d4224bde": {
+  "it": "Coordinate GPS, indirizzo e link alla mappa. Viaggia sulla rete telefonica, senza bisogno di internet.",
+  "tr": "Coordonate GPS, adresă și link către hartă. Circulă prin rețeaua telefonică, fără internet."
+ },
+ "dd629a23": {
+  "it": "WhatsApp con posizione",
+  "tr": "WhatsApp cu locație"
+ },
+ "64664831": {
+  "it": "Su iPhone il messaggio con la posizione arriva anche su WhatsApp.",
+  "tr": "Pe iPhone mesajul cu locația ajunge și pe WhatsApp."
+ },
+ "5fd172ca": {
+  "it": "live fino a 24 ore",
+  "tr": "în timp real până la 24 de ore"
+ },
+ "5187e248": {
+  "it": "Telegram con posizione live",
+  "tr": "Telegram cu locație în timp real"
+ },
+ "d89f380c": {
+  "it": "La posizione si aggiorna in tempo reale, così i contatti possono seguirti. La durata dipende dall'app e dalla versione.",
+  "tr": "Locația se actualizează în timp real, astfel încât contactele te pot urmări. Durata depinde de aplicație și de versiune."
+ },
+ "ee006bf8": {
+  "it": "Telefonata",
+  "tr": "Apel telefonic"
+ },
+ "32339987": {
+  "it": "L'app avvia la chiamata ai contatti di emergenza, senza che tu debba comporre nulla.",
+  "tr": "Aplicația pornește apelul către contactele de urgență, fără să fie nevoie să formezi ceva."
+ },
+ "4bf5a602": {
+  "it": "Tu",
+  "tr": "Tu"
+ },
+ "d57530db": {
+  "it": "voce, tocco o pulsante",
+  "tr": "voce, atingere sau buton"
+ },
+ "7acbe219": {
+  "it": "App no pAIn™",
+  "tr": "Aplicația no pAIn™"
+ },
+ "dbd95aa2": {
+  "it": "posizione + messaggi",
+  "tr": "locație + mesaje"
+ },
+ "ee660409": {
+  "it": "2 contatti di fiducia",
+  "tr": "2 contacte de încredere"
+ },
+ "9f0c43e0": {
+  "it": "SMS · WhatsApp · Telegram · chiamata",
+  "tr": "SMS · WhatsApp · Telegram · apel"
+ },
+ "61957ddc": {
+  "it": "Aiuto concreto",
+  "tr": "Ajutor concret"
+ },
+ "1145e6b6": {
+  "it": "chiamano le forze dell'ordine o vengono da te",
+  "tr": "sună la poliție sau vin la tine"
+ },
+ "ccff734a": {
+  "it": "<b>Importante</b> Le app avvisano i contatti che hai scelto: non chiamano direttamente il 112 e non lo sostituiscono. Accordati prima con i tuoi contatti su cosa fare quando ricevono un allarme, e fate insieme una prova.",
+  "tr": "<b>Important</b> Aplicațiile anunță contactele pe care le-ai ales: nu sună direct la 112 și nu îl înlocuiesc. Stabilește dinainte cu contactele tale ce să facă atunci când primesc o alarmă și faceți împreună un test."
+ },
+ "ffa6706d": {
+  "it": "Materiale promozionale del progetto. I gioielli nelle illustrazioni sono concept di design.",
+  "tr": "Material promoțional al proiectului. Bijuteriile din ilustrații sunt concepte de design."
+ },
+ "968d258f": {
+  "it": "L'ecosistema",
+  "tr": "Ecosistemul"
+ },
+ "58ed31c8": {
+  "it": "Il tuo dispositivo. La tua app no pAIn™.",
+  "tr": "Dispozitivul tău. Aplicația ta no pAIn™."
+ },
+ "0e5790b5": {
+  "it": "Smartphone Android, iPhone, smartwatch e un pulsante da tenere in tasca. Lingue, connessioni e funzioni cambiano da un'app all'altra: scegli la soluzione adatta a te.",
+  "tr": "Smartphone-uri Android, iPhone, ceasuri inteligente și un buton de ținut în buzunar. Limbile, conexiunile și funcțiile diferă de la o aplicație la alta: alege soluția potrivită pentru tine."
+ },
+ "937cc276": {
+  "it": "ANDROID · 12 LINGUE",
+  "tr": "ANDROID · 12 LIMBI"
+ },
+ "bc873aca": {
+  "it": "La versione multilingue per Android, compatibile con button4help™.",
+  "tr": "Versiunea multilingvă pentru Android, compatibilă cu button4help™."
+ },
+ "02bb91db": {
+  "it": "Scopri →",
+  "tr": "Descoperă →"
+ },
+ "da94c32a": {
+  "it": "ANDROID · ITALIANO",
+  "tr": "ANDROID · ITALIANĂ"
+ },
+ "560d580a": {
+  "it": "Proteggimi (no pAIn™)",
+  "tr": "Proteggimi (no pAIn™)"
+ },
+ "c9dc4660": {
+  "it": "L'app no pAIn™ per Android in lingua italiana.",
+  "tr": "Aplicația no pAIn™ pentru Android în limba italiană."
+ },
+ "7c9000fa": {
+  "it": "IPHONE · 12 LINGUE",
+  "tr": "IPHONE · 12 LIMBI"
+ },
+ "53a6ca86": {
+  "it": "no pAIn™ (Proteggimi)",
+  "tr": "no pAIn™ (Proteggimi)"
+ },
+ "20efe117": {
+  "it": "La versione per iPhone e Apple Watch.",
+  "tr": "Versiunea pentru iPhone și Apple Watch."
+ },
+ "646c8658": {
+  "it": "WEAR OS · SOLO SMARTWATCH",
+  "tr": "WEAR OS · DOAR CEAS"
+ },
+ "ae8e4f36": {
+  "it": "Funziona sull'orologio da solo, senza smartphone.",
+  "tr": "Funcționează singur pe ceas, fără smartphone."
+ },
+ "fe4f6e94": {
+  "it": "DISPOSITIVO BLUETOOTH",
+  "tr": "DISPOZITIV BLUETOOTH"
+ },
+ "f3871ce8": {
+  "it": "Il pulsante che fa scattare l'allarme a distanza. Si acquista da un rivenditore esterno.",
+  "tr": "Butonul care declanșează alarma de la distanță. Se cumpără de la un vânzător extern."
+ },
+ "cd6f44e7": {
+  "it": "Confronta le versioni Free e Premium →",
+  "tr": "Compară versiunile Free și Premium →"
+ },
+ "c9e1e158": {
+  "it": "Come iniziare",
+  "tr": "Cum începi"
+ },
+ "461fee95": {
+  "it": "Scegli come attivare. Decidi chi avvisare.",
+  "tr": "Alege cum activezi. Decide pe cine anunți."
+ },
+ "f18a1185": {
+  "it": "Prepara la tua rete",
+  "tr": "Pregătește-ți rețeaua"
+ },
+ "ec84f4d8": {
+  "it": "Scegli l'app adatta al tuo dispositivo, configura i contatti e abilita le azioni che desideri utilizzare. Se usi il pulsante, completa l'abbinamento.",
+  "tr": "Alege aplicația potrivită dispozitivului tău, configurează contactele și activează acțiunile pe care vrei să le folosești. Dacă folosești butonul, finalizează asocierea."
+ },
+ "fb1634e8": {
+  "it": "Prima dell'utilizzo",
+  "tr": "Înainte de utilizare"
+ },
+ "a408696f": {
+  "it": "Attiva la richiesta",
+  "tr": "Activează cererea"
+ },
+ "b729dfea": {
+  "it": "Usa la modalità prevista dalla tua app: comando vocale, tocco sullo schermo, smartwatch compatibile o pulsante fisico associato.",
+  "tr": "Folosește modul prevăzut de aplicația ta: comandă vocală, atingere pe ecran, ceas compatibil sau buton fizic asociat."
+ },
+ "4dac2a4a": {
+  "it": "Quando serve",
+  "tr": "Când e nevoie"
+ },
+ "7baeebcb": {
+  "it": "Avvisa chi hai scelto",
+  "tr": "Anunță pe cine ai ales"
+ },
+ "2e3538da": {
+  "it": "Partono le azioni abilitate: messaggi con posizione, condivisione live tramite Telegram e telefonate ai contatti configurati.",
+  "tr": "Pornesc acțiunile activate: mesaje cu locație, partajare în timp real prin Telegram și apeluri către contactele configurate."
+ },
+ "bcbad548": {
+  "it": "Verso i tuoi contatti",
+  "tr": "Către contactele tale"
+ },
+ "c1def374": {
+  "it": "Tutti i dettagli su come funziona →",
+  "tr": "Toate detaliile despre cum funcționează →"
+ },
+ "9e32c6aa": {
+  "it": "Tecnologia e ricerca",
+  "tr": "Tehnologie și cercetare"
+ },
+ "d06791de": {
+  "it": "Nato in università, pubblicato su rivista scientifica.",
+  "tr": "Născut la universitate, publicat într-o revistă științifică."
+ },
+ "1d2d739f": {
+  "it": "no pAIn™ sta per <em>never oppressed protected by Artificial Intelligence Non violence system</em>. Il progetto è descritto in due articoli sulla rivista <em>Electronics</em> (2024 e 2026) e in una presentazione completa di 23 pagine.",
+  "tr": "no pAIn™ înseamnă <em>never oppressed protected by Artificial Intelligence Non violence system</em>. Proiectul este descris în două articole din revista <em>Electronics</em> (2024 și 2026) și într-o prezentare completă de 23 de pagini."
+ },
+ "933b9302": {
+  "it": "Tecnologia e pubblicazioni →",
+  "tr": "Tehnologie și publicații →"
+ },
+ "271da2d3": {
+  "it": "Collaboriamo",
+  "tr": "Să colaborăm"
+ },
+ "2021fdec": {
+  "it": "Porta no pAIn™ nella tua organizzazione.",
+  "tr": "Adu no pAIn™ în organizația ta."
+ },
+ "fece8668": {
+  "it": "Enti pubblici, associazioni, aziende e sponsor: far conoscere lo strumento e inserirlo in un contesto di supporto è importante quanto metterlo a disposizione.",
+  "tr": "Instituții publice, asociații, companii și sponsori: să faci cunoscut instrumentul și să-l integrezi într-o rețea de sprijin este la fel de important ca a-l pune la dispoziție."
+ },
+ "2922d011": {
+  "it": "Proposte per enti e aziende →",
+  "tr": "Propuneri pentru instituții și companii →"
+ },
+ "408bf598": {
+  "it": "Prezzi, disponibilità e collaborazioni",
+  "tr": "Prețuri, disponibilitate și colaborări"
+ },
+ "04d28f92": {
+  "it": "Troviamo la soluzione adatta a te.",
+  "tr": "Să găsim soluția potrivită pentru tine."
+ },
+ "f7164594": {
+  "it": "Dipartimento di Ingegneria Elettrica e dell'Informazione",
+  "tr": "Departamentul de Inginerie Electrică și a Informației"
+ },
+ "19232904": {
+  "it": "Tel. ufficio: 080 596 3239/579",
+  "tr": "Tel. birou: 080 596 3239/579"
+ },
+ "063197de": {
+  "it": "Informazioni per privati",
+  "tr": "Informații pentru persoane fizice"
+ },
+ "d5d3839c": {
+  "it": "App, button4help™ e compatibilità con il tuo telefono",
+  "tr": "Aplicații, button4help™ și compatibilitatea cu telefonul tău"
+ },
+ "1de7ac43": {
+  "it": "Proposte per enti e aziende",
+  "tr": "Propuneri pentru instituții și companii"
+ },
+ "38aa4552": {
+  "it": "Dimostrazioni e collaborazioni",
+  "tr": "Demonstrații și colaborări"
+ },
+ "e611274e": {
+  "it": "Si aprirà la tua app di posta. Puoi scrivere anche direttamente a <a href=\"mailto:agostino.giorgio@poliba.it\">agostino.giorgio@poliba.it</a>",
+  "tr": "Se va deschide aplicația ta de e-mail. Poți scrie și direct la <a href=\"mailto:agostino.giorgio@poliba.it\">agostino.giorgio@poliba.it</a>"
+ },
+ "30c5dd7a": {
+  "it": "Progetto del Prof. Ing. Agostino Giorgio<br>Docente del Politecnico di Bari",
+  "tr": "Proiect al Prof. Ing. Agostino Giorgio<br>Cadru didactic la Politecnico di Bari"
+ },
+ "376980d1": {
+  "it": "Il sito",
+  "tr": "Site-ul"
+ },
+ "02e617b0": {
+  "it": "Risorse",
+  "tr": "Resurse"
+ },
+ "d2c43509": {
+  "it": "Manuali e privacy delle app ↗",
+  "tr": "Manuale și confidențialitatea aplicațiilor ↗"
+ },
+ "3de40ce7": {
+  "it": "Presentazione del progetto (PDF, in italiano) ↗",
+  "tr": "Prezentarea proiectului (PDF, în italiană) ↗"
+ },
+ "fa6502e1": {
+  "it": "In caso di pericolo immediato chiama il 112. Le app no pAIn™ avvisano i contatti di emergenza scelti da te e non sostituiscono i servizi pubblici di emergenza.",
+  "tr": "În caz de pericol imediat sună la 112. Aplicațiile no pAIn™ anunță contactele de urgență alese de tine și nu înlocuiesc serviciile publice de urgență."
+ },
+ "84beb5f4": {
+  "it": "Informati. Configura. Prova.",
+  "tr": "Informează-te. Configurează. Testează."
+ },
+ "e1eb3d77": {
+  "it": "Navigazione principale",
+  "tr": "Navigare principală"
+ },
+ "8ada5d6f": {
+  "it": "Esempio di messaggio di emergenza ricevuto da un contatto, con mappa e posizione live",
+  "tr": "Exemplu de mesaj de urgență primit de un contact, cu hartă și locație în timp real"
+ },
+ "faf87077": {
+  "it": "Percorso della richiesta di aiuto",
+  "tr": "Traseul cererii de ajutor"
+ },
+ "0c5818c5": {
+  "it": "Locandina del progetto no pAIn: digital4help, protezione digitale. Elenca Proteggimi per Android in italiano, AI help You per Android in 12 lingue, AIuto SOS watch4help per smartwatch Wear OS e no pAIn per iOS.",
+  "tr": "Afișul proiectului no pAIn: digital4help, protecție digitală. Enumeră Proteggimi pentru Android în italiană, AI help You pentru Android în 12 limbi, AIuto SOS watch4help pentru ceasuri Wear OS și no pAIn pentru iOS."
+ },
+ "2d84f182": {
+  "it": "no pAIn™ — Le app",
+  "tr": "no pAIn™ — Aplicațiile"
+ },
+ "4cb80780": {
+  "it": "Le app del progetto no pAIn™: AI help You, Proteggimi, no pAIn™ per iPhone, AIuto SOS watch4help™ per Wear OS, AI help App.",
+  "tr": "Aplicațiile proiectului no pAIn™: AI help You, Proteggimi, no pAIn™ pentru iPhone, AIuto SOS watch4help™ pentru Wear OS, AI help App."
+ },
+ "4798db56": {
+  "it": "Scegli la tua app",
+  "tr": "Alege-ți aplicația"
+ },
+ "3844a828": {
+  "it": "Scegli come <span class=\"hl\">farti sentire.</span>",
+  "tr": "Alege cum <span class=\"hl\">să te faci auzită.</span>"
+ },
+ "1fe8fc5f": {
+  "it": "no pAIn™ porta su smartphone un “signal for help” elettronico, attivabile con la voce o con un tocco. watch4help™ è la stessa tecnologia per smartwatch. Lingue, connessioni e funzioni cambiano da un'app all'altra.",
+  "tr": "no pAIn™ aduce pe smartphone un „signal for help” electronic, care se activează cu vocea sau cu o atingere. watch4help™ este aceeași tehnologie pentru ceasuri inteligente. Limbile, conexiunile și funcțiile diferă de la o aplicație la alta."
+ },
+ "2d8cc3bc": {
+  "it": "AI help App · AIutoSOS Apple Watch",
+  "tr": "AI help App · AIutoSOS Apple Watch"
+ },
+ "eb84c3fe": {
+  "it": "Materiale promozionale del progetto · concept illustrativo",
+  "tr": "Material promoțional al proiectului · concept ilustrativ"
+ },
+ "9f217028": {
+  "it": "12 lingue",
+  "tr": "12 limbi"
+ },
+ "c3d2a0e3": {
+  "it": "La versione Android in 12 lingue, con parole chiave personalizzabili, riconoscimento vocale offline e app compagna per smartwatch Wear OS. Offre tutti i punti di innesco della tecnologia no pAIn™, compreso il pulsante button4help™.",
+  "tr": "Versiunea Android în 12 limbi, cu cuvinte-cheie personalizabile, recunoaștere vocală offline și aplicație însoțitoare pentru ceasuri Wear OS. Oferă toate declanșatoarele tehnologiei no pAIn™, inclusiv butonul button4help™."
+ },
+ "2d194a50": {
+  "it": "Posizione live su Telegram",
+  "tr": "Locație în timp real pe Telegram"
+ },
+ "79136d29": {
+  "it": "Da 1 minuto a 24 ore, impostabili",
+  "tr": "De la 1 minut la 24 de ore, reglabil"
+ },
+ "3f0060e7": {
+  "it": "Scarica da Google Play <span class=\"arr\">↗</span>",
+  "tr": "Descarcă din Google Play <span class=\"arr\">↗</span>"
+ },
+ "234e8230": {
+  "it": "Comandi vocali: 4 parole chiave fisse e 3 personali, anche a schermo spento e con telefono a qualche metro",
+  "tr": "Comenzi vocale: 4 cuvinte-cheie fixe și 3 personale, chiar și cu ecranul stins și telefonul la câțiva metri"
+ },
+ "9c27cbb0": {
+  "it": "Attivazione con l'assistente Google",
+  "tr": "Activare cu Asistentul Google"
+ },
+ "b3dffb7e": {
+  "it": "Tasto di emergenza nella schermata principale",
+  "tr": "Buton de urgență pe ecranul principal"
+ },
+ "6b9d4770": {
+  "it": "Tasto rapido in home che risveglia l'app chiusa",
+  "tr": "Buton rapid pe ecranul de pornire care trezește aplicația închisă"
+ },
+ "04d63739": {
+  "it": "Voce o tasto dall'app compagna per smartwatch Wear OS",
+  "tr": "Voce sau buton din aplicația însoțitoare pentru ceasuri Wear OS"
+ },
+ "beac9291": {
+  "it": "Pressione di un paio di secondi su button4help™",
+  "tr": "Apăsare de câteva secunde pe button4help™"
+ },
+ "413559c6": {
+  "it": "Cosa invia",
+  "tr": "Ce trimite"
+ },
+ "98aa1b82": {
+  "it": "SMS con coordinate GPS, indirizzo e link alla mappa",
+  "tr": "SMS cu coordonate GPS, adresă și link către hartă"
+ },
+ "d4c9d532": {
+  "it": "Telefonata automatica ai contatti",
+  "tr": "Apel automat către contacte"
+ },
+ "2de0c79b": {
+  "it": "WhatsApp non previsto su Android",
+  "tr": "WhatsApp nu este disponibil pe Android"
+ },
+ "db678d25": {
+  "it": "AI help You avvisa i contatti configurati. Non contatta i servizi pubblici di emergenza e non li sostituisce. Senza abbonamento funziona in modalità emergenza rapida: <a class=\"link-arrow\" href=\"versioni.html\">vedi Free e Premium</a>.",
+  "tr": "AI help You anunță contactele configurate. Nu contactează serviciile publice de urgență și nu le înlocuiește. Fără abonament funcționează în modul urgență rapidă: <a class=\"link-arrow\" href=\"versioni.html\">vezi Free și Premium</a>."
+ },
+ "6ea5fa0c": {
+  "it": "Italiano",
+  "tr": "Italiană"
+ },
+ "20c7a5d2": {
+  "it": "Proteggimi <span class=\"hl\">(no pAIn™)</span>",
+  "tr": "Proteggimi <span class=\"hl\">(no pAIn™)</span>"
+ },
+ "eed3fce0": {
+  "it": "La versione Android in italiano, con attivazione vocale o manuale. Ascolta le tue parole chiave anche con app chiusa e schermo spento, e ha un'app compagna per smartwatch Wear OS.",
+  "tr": "Versiunea Android în italiană, cu activare vocală sau manuală. Ascultă cuvintele-cheie chiar și cu aplicația închisă și ecranul stins și are o aplicație însoțitoare pentru ceasuri Wear OS."
+ },
+ "8ea55c3d": {
+  "it": "Fino a 30 minuti",
+  "tr": "Până la 30 de minute"
+ },
+ "6c64d7dd": {
+  "it": "Comandi vocali con parole chiave personalizzate, riconoscimento vocale offline",
+  "tr": "Comenzi vocale cu cuvinte-cheie personalizate, recunoaștere vocală offline"
+ },
+ "ce25e0f3": {
+  "it": "SMS con geolocalizzazione",
+  "tr": "SMS cu geolocalizare"
+ },
+ "248290f9": {
+  "it": "Telegram con posizione, anche live",
+  "tr": "Telegram cu locație, inclusiv în timp real"
+ },
+ "3cc7cd1e": {
+  "it": "no pAIn™ <span class=\"hl\">(Proteggimi)</span>",
+  "tr": "no pAIn™ <span class=\"hl\">(Proteggimi)</span>"
+ },
+ "1a03fdfe": {
+  "it": "La versione per iPhone, con le stesse funzioni sostanziali di AI help You: 12 lingue, app compagna per Apple Watch e compatibilità con button4help™. In più, invia l'allarme anche su WhatsApp.",
+  "tr": "Versiunea pentru iPhone, cu aceleași funcții esențiale ca AI help You: 12 limbi, aplicație însoțitoare pentru Apple Watch și compatibilitate cu button4help™. În plus, trimite alarma și pe WhatsApp."
+ },
+ "ea1a0de1": {
+  "it": "Free: 30 minuti · Premium: da 1 minuto a 24 ore",
+  "tr": "Free: 30 de minute · Premium: de la 1 minut la 24 de ore"
+ },
+ "60d31c99": {
+  "it": "Scarica dall'App Store <span class=\"arr\">↗</span>",
+  "tr": "Descarcă din App Store <span class=\"arr\">↗</span>"
+ },
+ "139feebd": {
+  "it": "L'app compagna su Apple Watch: un tocco su EMERGENZA",
+  "tr": "Aplicația însoțitoare pe Apple Watch: o atingere pe EMERGENZA"
+ },
+ "12c0a0fa": {
+  "it": "Tasto SOS nella schermata principale",
+  "tr": "Buton SOS pe ecranul principal"
+ },
+ "4dd7f245": {
+  "it": "Comando vocale “Ehi Siri, Proteggimi” (Premium)",
+  "tr": "Comandă vocală „Hey Siri, Ajută-mă” (Premium)"
+ },
+ "046e3411": {
+  "it": "Tocco sul quadrante di Apple Watch, anche con iPhone bloccato",
+  "tr": "Atingere pe cadranul Apple Watch, chiar și cu iPhone-ul blocat"
+ },
+ "cb8e543a": {
+  "it": "Telegram con posizione e link alla mappa",
+  "tr": "Telegram cu locație și link către hartă"
+ },
+ "a4ad6467": {
+  "it": "SMS con geolocalizzazione (Premium)",
+  "tr": "SMS cu geolocalizare (Premium)"
+ },
+ "c1adc012": {
+  "it": "WhatsApp con geolocalizzazione (Premium)",
+  "tr": "WhatsApp cu geolocalizare (Premium)"
+ },
+ "9aa46536": {
+  "it": "Telefonata automatica ai contatti (Premium)",
+  "tr": "Apel automat către contacte (Premium)"
+ },
+ "55055aa6": {
+  "it": "Il download è gratuito e comprende tasto SOS, Telegram con posizione, posizione live per 30 minuti e app per Apple Watch. Premium aggiunge Siri, SMS, WhatsApp, telefonata e posizione live da 1 minuto a 24 ore, con un acquisto una tantum e senza abbonamento.",
+  "tr": "Descărcarea este gratuită și include butonul SOS, Telegram cu locație, locație în timp real timp de 30 de minute și aplicația pentru Apple Watch. Premium adaugă Siri, SMS, WhatsApp, apel și locație în timp real de la 1 minut la 24 de ore, cu o singură plată și fără abonament."
+ },
+ "046c9709": {
+  "it": "SMS, WhatsApp e telefonata passano dal Comando Rapido Apple “Proteggimi”, che si installa dall'app. Da Apple Watch partono Telegram e posizione anche con iPhone bloccato; per le altre azioni serve l'app iPhone in primo piano.",
+  "tr": "SMS-ul, WhatsApp și apelul trec prin Scurtătura Apple „Proteggimi”, care se instalează din aplicație. De pe Apple Watch, Telegram și locația pleacă chiar și cu iPhone-ul blocat; pentru celelalte acțiuni, aplicația de pe iPhone trebuie să fie în prim-plan."
+ },
+ "5a57807b": {
+  "it": "Senza smartphone",
+  "tr": "Fără smartphone"
+ },
+ "968d7a54": {
+  "it": "Un'app solo per smartwatch Wear OS che non ha bisogno dello smartphone. È la tecnologia no pAIn™ in versione indossabile, chiamata watch4help™: l'allarme parte direttamente dal polso.",
+  "tr": "O aplicație doar pentru ceasuri Wear OS care nu are nevoie de smartphone. Este tehnologia no pAIn™ în versiune purtabilă, numită watch4help™: alarma pornește direct de la încheietură."
+ },
+ "e1c60fd6": {
+  "it": "Fino a 60 minuti",
+  "tr": "Până la 60 de minute"
+ },
+ "f0dec499": {
+  "it": "Comando vocale sull'orologio",
+  "tr": "Comandă vocală pe ceas"
+ },
+ "fff8e9ce": {
+  "it": "Tasto di emergenza sul quadrante",
+  "tr": "Buton de urgență pe cadran"
+ },
+ "e44b4962": {
+  "it": "Accesso rapido dal quadrante e dalle complication",
+  "tr": "Acces rapid de pe cadran și din complicații"
+ },
+ "128ac670": {
+  "it": "Da sapere",
+  "tr": "De știut"
+ },
+ "fad03b25": {
+  "it": "Funziona in autonomia, anche con lo smartphone lontano o spento",
+  "tr": "Funcționează autonom, chiar și cu smartphone-ul departe sau stins"
+ },
+ "b9fef944": {
+  "it": "I canali disponibili dipendono dalla connessione dell'orologio: LTE con SIM oppure Wi-Fi/Bluetooth",
+  "tr": "Canalele disponibile depind de conexiunea ceasului: LTE cu SIM sau Wi-Fi/Bluetooth"
+ },
+ "8e57ca44": {
+  "it": "Da non confondere con le app compagne di Proteggimi e AI help You, che invece lavorano insieme al telefono abbinato.",
+  "tr": "A nu se confunda cu aplicațiile însoțitoare ale Proteggimi și AI help You, care funcționează împreună cu telefonul asociat."
+ },
+ "0b973f5f": {
+  "it": "In immagini e video",
+  "tr": "În imagini și videoclipuri"
+ },
+ "e24ab608": {
+  "it": "Com'è e come funziona al polso.",
+  "tr": "Cum arată și cum funcționează la încheietură."
+ },
+ "4a976c92": {
+  "it": "Un tocco sul grande tasto rosso o un comando vocale: l'orologio invia la posizione e l'allerta ai tuoi contatti con Telegram, SMS e telefonata, anche con lo smartphone lontano.",
+  "tr": "O atingere pe marele buton roșu sau o comandă vocală: ceasul trimite locația și alerta contactelor tale prin Telegram, SMS și apel, chiar și cu smartphone-ul departe."
+ },
+ "361f7a8e": {
+  "it": "Tocca un'immagine per ingrandirla. Scorri di lato per vedere le altre.",
+  "tr": "Atinge o imagine pentru a o mări. Derulează lateral pentru a le vedea pe celelalte."
+ },
+ "1383b500": {
+  "it": "Locandina",
+  "tr": "Afiș"
+ },
+ "a360f8b3": {
+  "it": "<strong>SOS dal tuo smartwatch</strong>Voce o tocco: invia posizione e allerta. Posizione live, Telegram, SMS, chiamata.",
+  "tr": "<strong>SOS de pe ceasul tău</strong>Voce sau atingere: trimite locația și alerta. Locație în timp real, Telegram, SMS, apel."
+ },
+ "77c73a5b": {
+  "it": "Schermata",
+  "tr": "Captură de ecran"
+ },
+ "a90bbea3": {
+  "it": "<strong>L'app sull'orologio</strong>Il tasto INVIO e l'ascolto dei comandi vocali, attivabile e sospendibile.",
+  "tr": "<strong>Aplicația pe ceas</strong>Butonul INVIO (trimite) și ascultarea comenzilor vocale, care poate fi pornită și pusă pe pauză."
+ },
+ "50485b89": {
+  "it": "Altre soluzioni",
+  "tr": "Alte soluții"
+ },
+ "9d65d888": {
+  "it": "Anche queste fanno parte del progetto.",
+  "tr": "Și acestea fac parte din proiect."
+ },
+ "ac36c51e": {
+  "it": "Un'altra soluzione multilingue per Android: 12 lingue, di cui 3 con riconoscimento vocale anche offline. Si attiva con comandi vocali o con la richiesta manuale di aiuto.",
+  "tr": "O altă soluție multilingvă pentru Android: 12 limbi, dintre care 3 cu recunoaștere vocală și offline. Se activează prin comenzi vocale sau prin cererea manuală de ajutor."
+ },
+ "ab397262": {
+  "it": "Apri Google Play <span class=\"arr\">↗</span>",
+  "tr": "Deschide Google Play <span class=\"arr\">↗</span>"
+ },
+ "f129d3cc": {
+  "it": "In programma",
+  "tr": "În curând"
+ },
+ "d957da8e": {
+  "it": "AIutoSOS per Apple Watch",
+  "tr": "AIutoSOS pentru Apple Watch"
+ },
+ "0766bfc1": {
+  "it": "Un'app dedicata ad Apple Watch, di prossima pubblicazione. È diversa dall'app compagna già inclusa in no pAIn™ per iPhone.",
+  "tr": "O aplicație dedicată pentru Apple Watch, care va fi publicată în curând. Este diferită de aplicația însoțitoare deja inclusă în no pAIn™ pentru iPhone."
+ },
+ "4928453f": {
+  "it": "Per usare oggi Apple Watch, installa <a class=\"link-arrow\" href=\"#no-pain-ios\">no pAIn™ per iPhone</a>.",
+  "tr": "Pentru a folosi Apple Watch de azi, instalează <a class=\"link-arrow\" href=\"#no-pain-ios\">no pAIn™ pentru iPhone</a>."
+ },
+ "9e63a7c6": {
+  "it": "Il pulsante da tenere in tasca che fa scattare l'allarme di AI help You e di no pAIn™ per iPhone. Cos'è, cosa non è e dove acquistarlo.",
+  "tr": "Butonul de ținut în buzunar care declanșează alarma AI help You și no pAIn™ pentru iPhone. Ce este, ce nu este și de unde îl cumperi."
+ },
+ "f97a981e": {
+  "it": "Scopri button4help™ →",
+  "tr": "Descoperă button4help™ →"
+ },
+ "e5646562": {
+  "it": "Configurazione",
+  "tr": "Configurare"
+ },
+ "81fff1af": {
+  "it": "Segui il manuale della tua app.",
+  "tr": "Urmează manualul aplicației tale."
+ },
+ "a32614bb": {
+  "it": "La durata della posizione live cambia da un'app all'altra: controlla le opzioni dell'app installata.",
+  "tr": "Durata locației în timp real diferă de la o aplicație la alta: verifică opțiunile aplicației instalate."
+ },
+ "e67b051b": {
+  "it": "Manuale Android <span class=\"arr\">↗</span>",
+  "tr": "Manual Android <span class=\"arr\">↗</span>"
+ },
+ "174ef965": {
+  "it": "Manuale iOS <span class=\"arr\">↗</span>",
+  "tr": "Manual iOS <span class=\"arr\">↗</span>"
+ },
+ "e5928a22": {
+  "it": "Guida Telegram <span class=\"arr\">↗</span>",
+  "tr": "Ghid Telegram <span class=\"arr\">↗</span>"
+ },
+ "3819a10a": {
+  "it": "App",
+  "tr": "Aplicații"
+ },
+ "2492782e": {
+  "it": "Locandina: Proteggimi (no pAIn), l'app diversa e intelligente. Aiuto immediato anche senza toccare lo smartphone. Elenco delle versioni per Android, Wear OS e iOS.",
+  "tr": "Afiș: Proteggimi (no pAIn), aplicația diferită și inteligentă. Ajutor imediat chiar și fără să atingi smartphone-ul. Lista versiunilor pentru Android, Wear OS și iOS."
+ },
+ "33c5d0b2": {
+  "it": "Apple Watch con il grande tasto rosso EMERGENZA e la conferma Inviato",
+  "tr": "Apple Watch cu marele buton roșu EMERGENZA și confirmarea Inviato (trimis)"
+ },
+ "edc36c25": {
+  "it": "Locandina di AIuto SOS watch4help: una donna di notte, sotto la pioggia, seguita da un uomo incappucciato, preme il tasto HELP sul suo smartwatch",
+  "tr": "Afișul AIuto SOS watch4help: o femeie, noaptea, în ploaie, urmărită de un bărbat cu glugă, apasă butonul HELP de pe ceasul ei"
+ },
+ "dd4113e6": {
+  "it": "Smartwatch Wear OS con l'app AIuto SOS: tasto rosso INVIO e pulsante FERMA ASCOLTO",
+  "tr": "Ceas Wear OS cu aplicația AIuto SOS: buton roșu INVIO (trimite) și butonul FERMA ASCOLTO (oprește ascultarea)"
+ },
+ "f0186c7d": {
+  "it": "button4help™ — no pAIn™",
+  "tr": "button4help™ — no pAIn™"
+ },
+ "7dd822ac": {
+  "it": "button4help™, il pulsante Bluetooth che fa scattare l'allarme delle app no pAIn™ a distanza. Cos'è, cosa non è, dove acquistarlo.",
+  "tr": "button4help™, butonul Bluetooth care declanșează de la distanță alarma aplicațiilor no pAIn™. Ce este, ce nu este, de unde îl cumperi."
+ },
+ "958757ce": {
+  "it": "Il pulsante fisico no pAIn™",
+  "tr": "Butonul fizic no pAIn™"
+ },
+ "60bbacf0": {
+  "it": "Piccolo da portare, semplice da attivare. È il “pulsante magico” del progetto: lo tieni in tasca, in borsa o al portachiavi e, quando lo tieni premuto per un paio di secondi, l'app sul tuo smartphone avvia l'emergenza, anche a diversi metri di distanza.",
+  "tr": "Mic de purtat, simplu de activat. Este „butonul magic” al proiectului: îl ții în buzunar, în geantă sau la breloc și, când îl ții apăsat câteva secunde, aplicația de pe smartphone pornește urgența, chiar și de la câțiva metri distanță."
+ },
+ "341e5940": {
+  "it": "Acquista su AliExpress <span class=\"arr\">↗</span>",
+  "tr": "Cumpără pe AliExpress <span class=\"arr\">↗</span>"
+ },
+ "8297e0a4": {
+  "it": "Come si usa",
+  "tr": "Cum se folosește"
+ },
+ "d9c74914": {
+  "it": "Il pulsante non è venduto da no pAIn™: si compra da un rivenditore esterno e si abbina all'app.",
+  "tr": "Butonul nu este vândut de no pAIn™: se cumpără de la un vânzător extern și se asociază cu aplicația."
+ },
+ "4a879621": {
+  "it": "Fotografia reale di button4help™ accanto a una moneta da 50 centesimi",
+  "tr": "Fotografie reală a button4help™ lângă o monedă de 50 de cenți"
+ },
+ "5a008d55": {
+  "it": "Com'è e come si usa.",
+  "tr": "Cum arată și cum se folosește."
+ },
+ "6a615a7a": {
+  "it": "Lo tieni al portachiavi o in tasca. Quando serve, lo premi: l'app sul telefono avvia in automatico le richieste di aiuto e la posizione live verso i tuoi contatti.",
+  "tr": "Ține-l la breloc sau în buzunar. Când e nevoie, apasă-l: aplicația de pe telefon pornește automat cererile de ajutor și locația în timp real către contactele tale."
+ },
+ "de29e55f": {
+  "it": "<strong>Una pressione, l'allarme parte</strong>Con AI help You: richieste di aiuto e posizione live fino a 24 ore. Locandina in inglese.",
+  "tr": "<strong>O apăsare și alarma pornește</strong>Cu AI help You: cereri de ajutor și locație în timp real până la 24 de ore. Afiș în engleză."
+ },
+ "67062c98": {
+  "it": "Foto reale",
+  "tr": "Fotografie reală"
+ },
+ "7a16e76b": {
+  "it": "<strong>Le dimensioni reali</strong>Poco più grande di una moneta da 50 centesimi.",
+  "tr": "<strong>Dimensiunea reală</strong>Puțin mai mare decât o monedă de 50 de cenți."
+ },
+ "2070cd4b": {
+  "it": "Cos'è",
+  "tr": "Ce este"
+ },
+ "9890b2ce": {
+  "it": "Un comando a distanza per il tuo telefono.",
+  "tr": "O telecomandă pentru telefonul tău."
+ },
+ "9b251b4d": {
+  "it": "button4help™ è un pulsante che attiva procedure sullo smartphone entro la portata del Bluetooth. È miniaturizzato perché contiene solo un modulo Bluetooth Low Energy e una batteria a bottone: niente GPS, niente Wi-Fi. La posizione la ricava l'app sul telefono.",
+  "tr": "button4help™ este un buton care declanșează proceduri pe smartphone în raza Bluetooth. Este miniaturizat pentru că are doar un modul Bluetooth Low Energy și o baterie tip monedă: fără GPS, fără Wi-Fi. Locația o determină aplicația de pe telefon."
+ },
+ "6787efb8": {
+  "it": "Attivazione fisica senza impugnare il telefono",
+  "tr": "Activare fizică fără să ții telefonul în mână"
+ },
+ "d736ee12": {
+  "it": "Collegamento allo smartphone tramite Bluetooth",
+  "tr": "Conectare la smartphone prin Bluetooth"
+ },
+ "8403c8dd": {
+  "it": "Invio secondo le azioni configurate nell'app: messaggi, posizione, telefonate",
+  "tr": "Trimitere conform acțiunilor configurate în aplicație: mesaje, locație, apeluri"
+ },
+ "365bf985": {
+  "it": "Attivazione",
+  "tr": "Activare"
+ },
+ "c835e44b": {
+  "it": "Pressione di circa 2 secondi",
+  "tr": "Apăsare de circa 2 secunde"
+ },
+ "7908249d": {
+  "it": "Connessione",
+  "tr": "Conexiune"
+ },
+ "bd72a591": {
+  "it": "Solo Bluetooth BLE",
+  "tr": "Doar Bluetooth BLE"
+ },
+ "af6b2b86": {
+  "it": "Portata",
+  "tr": "Rază"
+ },
+ "f107edef": {
+  "it": "Diversi metri, quella del Bluetooth",
+  "tr": "Câțiva metri, raza Bluetooth"
+ },
+ "388e50c9": {
+  "it": "Alimentazione",
+  "tr": "Alimentare"
+ },
+ "65a3fe13": {
+  "it": "Batteria a bottone",
+  "tr": "Baterie tip monedă"
+ },
+ "5597c45e": {
+  "it": "Dimensioni",
+  "tr": "Dimensiuni"
+ },
+ "bc64b029": {
+  "it": "Poco più di una moneta",
+  "tr": "Puțin mai mare decât o monedă"
+ },
+ "3b616f99": {
+  "it": "Funziona con",
+  "tr": "Funcționează cu"
+ },
+ "fca3fc97": {
+  "it": "AI help You (Android) e no pAIn™ (iPhone)",
+  "tr": "AI help You (Android) și no pAIn™ (iPhone)"
+ },
+ "8aab18f4": {
+  "it": "Cosa non è",
+  "tr": "Ce nu este"
+ },
+ "4f1cb28f": {
+  "it": "Non è un localizzatore. Non è un pulsante per anziani.",
+  "tr": "Nu este un localizator. Nu este un buton pentru vârstnici."
+ },
+ "a548c8ad": {
+  "it": "In commercio si trovano tracker GPS o Bluetooth che si collegano alla rete degli AirTag di Apple o a quella di Android, usati per ritrovare oggetti e animali. button4help™ è tutt'altra cosa.",
+  "tr": "În comerț există localizatoare GPS sau Bluetooth care se conectează la rețeaua AirTag a Apple sau la cea Android, folosite pentru a găsi obiecte și animale. button4help™ este cu totul altceva."
+ },
+ "6db059c6": {
+  "it": "Dispositivo",
+  "tr": "Dispozitiv"
+ },
+ "f54e2369": {
+  "it": "A cosa serve",
+  "tr": "La ce folosește"
+ },
+ "bc3ce023": {
+  "it": "Tracker GPS o BLE",
+  "tr": "Localizator GPS sau BLE"
+ },
+ "2f4967a6": {
+  "it": "Ritrovare oggetti e animali",
+  "tr": "Găsirea obiectelor și animalelor"
+ },
+ "2e515267": {
+  "it": "Si fa localizzare tramite la rete AirTag di Apple o quella di Android",
+  "tr": "Este localizat prin rețeaua AirTag a Apple sau prin cea Android"
+ },
+ "33730eab": {
+  "it": "Pulsante SOS per anziani",
+  "tr": "Buton SOS pentru vârstnici"
+ },
+ "5aaa5107": {
+  "it": "Chiamare un centro di assistenza",
+  "tr": "Apelarea unui centru de asistență"
+ },
+ "4397cb12": {
+  "it": "Dispositivo dedicato, spesso con SIM o base propria",
+  "tr": "Dispozitiv dedicat, adesea cu SIM sau bază proprie"
+ },
+ "aee3bb1e": {
+  "it": "Far scattare l'allarme dell'app no pAIn™",
+  "tr": "Declanșarea alarmei aplicației no pAIn™"
+ },
+ "20709993": {
+  "it": "Comando a distanza verso lo smartphone: parte l'emergenza con messaggi, posizione e chiamate ai tuoi contatti",
+  "tr": "Comandă de la distanță către smartphone: urgența pornește cu mesaje, locație și apeluri către contactele tale"
+ },
+ "83bc9dd4": {
+  "it": "Tre passaggi, poi è sempre con te.",
+  "tr": "Trei pași, apoi e mereu cu tine."
+ },
+ "2ad3bbd9": {
+  "it": "Acquistalo",
+  "tr": "Cumpără-l"
+ },
+ "2a235caf": {
+  "it": "Compra il pulsante dal rivenditore indicato qui sotto. Prezzo, spedizione e disponibilità dipendono dal venditore.",
+  "tr": "Cumpără butonul de la vânzătorul indicat mai jos. Prețul, livrarea și disponibilitatea depind de vânzător."
+ },
+ "4f37e640": {
+  "it": "Abbinalo all'app",
+  "tr": "Asociază-l cu aplicația"
+ },
+ "be135ba9": {
+  "it": "In AI help You o in no pAIn™ per iPhone, segui la procedura di abbinamento del manuale. Poi fai una prova concordata con i tuoi contatti.",
+  "tr": "În AI help You sau în no pAIn™ pentru iPhone, urmează procedura de asociere din manual. Apoi fă un test stabilit împreună cu contactele tale."
+ },
+ "bfafd6eb": {
+  "it": "Tienilo premuto",
+  "tr": "Ține-l apăsat"
+ },
+ "0cce84c0": {
+  "it": "Quando serve, premi il pulsante per un paio di secondi: l'app avvia le azioni di emergenza che hai impostato.",
+  "tr": "Când e nevoie, apasă butonul câteva secunde: aplicația pornește acțiunile de urgență pe care le-ai setat."
+ },
+ "95d857fd": {
+  "it": "Il pulsante comanda l'app sullo smartphone: il telefono deve essere acceso, entro la portata Bluetooth, con l'app configurata. Se ti serve un dispositivo che funzioni senza telefono, guarda <a class=\"link-arrow\" href=\"prodotti.html#aiuto-sos\">AIuto SOS per Wear OS</a>.",
+  "tr": "Butonul comandă aplicația de pe smartphone: telefonul trebuie să fie pornit, în raza Bluetooth și cu aplicația configurată. Dacă ai nevoie de un dispozitiv care funcționează fără telefon, vezi <a class=\"link-arrow\" href=\"prodotti.html#aiuto-sos\">AIuto SOS pentru Wear OS</a>."
+ },
+ "65c77e5d": {
+  "it": "Dove acquistarlo",
+  "tr": "De unde îl cumperi"
+ },
+ "ea0e770f": {
+  "it": "button4help™ si acquista su AliExpress, da un venditore terzo. no pAIn™ non vende il dispositivo e non gestisce ordini, spedizioni o resi.",
+  "tr": "button4help™ se cumpără de pe AliExpress, de la un vânzător terț. no pAIn™ nu vinde dispozitivul și nu gestionează comenzi, livrări sau retururi."
+ },
+ "92b67a03": {
+  "it": "Hai dubbi sulla compatibilità con il tuo telefono? <a class=\"link-arrow\" href=\"mailto:agostino.giorgio@poliba.it\" data-mail=\"private\">Scrivici prima di acquistare</a>.",
+  "tr": "Ai dubii privind compatibilitatea cu telefonul tău? <a class=\"link-arrow\" href=\"mailto:agostino.giorgio@poliba.it\" data-mail=\"private\">Scrie-ne înainte să cumperi</a>."
+ },
+ "b2f18c7a": {
+  "it": "La versione gioiello è già disponibile?",
+  "tr": "Versiunea bijuterie este deja disponibilă?"
+ },
+ "7644c8e2": {
+  "it": "Le foto di questa pagina mostrano il dispositivo attuale. Le immagini promozionali con pendenti a cuore o altri gioielli illustrano possibilità di design: disponibilità e caratteristiche vanno confermate con il progettista.",
+  "tr": "Fotografiile de pe această pagină arată dispozitivul actual. Imaginile promoționale cu pandantive în formă de inimă sau alte bijuterii ilustrează posibilități de design: disponibilitatea și caracteristicile trebuie confirmate cu proiectantul."
+ },
+ "ee681b0a": {
+  "it": "Altre domande frequenti →",
+  "tr": "Alte întrebări frecvente →"
+ },
+ "2d09c535": {
+  "it": "Fotografia reale di button4help, un pulsante nero rotondo con anello per portachiavi, accanto a una moneta da 50 centesimi di euro per confrontarne le dimensioni",
+  "tr": "Fotografie reală a button4help, un buton negru rotund cu inel de breloc, lângă o monedă de 50 de eurocenți pentru a compara dimensiunea"
+ },
+ "35ddd6d7": {
+  "it": "Locandina di button4help con AI help You: di notte, sotto la pioggia, una donna seguita da un uomo stringe il pulsante al portachiavi; nel riquadro l'amica riceve SMS e posizione su Telegram",
+  "tr": "Afișul button4help cu AI help You: noaptea, în ploaie, o femeie urmărită de un bărbat strânge butonul de la breloc; în chenar, o prietenă primește un SMS și locația pe Telegram"
+ },
+ "65f3becd": {
+  "it": "Fotografia reale di button4help accanto a una moneta da 50 centesimi di euro",
+  "tr": "Fotografie reală a button4help lângă o monedă de 50 de eurocenți"
+ },
+ "4124ebae": {
+  "it": "no pAIn™ — Free e Premium",
+  "tr": "no pAIn™ — Free și Premium"
+ },
+ "99d0f5ce": {
+  "it": "Cosa è incluso nelle versioni gratuite e Premium delle app no pAIn™ per Android e iPhone, con il confronto completo delle funzioni.",
+  "tr": "Ce includ versiunile gratuite și Premium ale aplicațiilor no pAIn™ pentru Android și iPhone, cu comparația completă a funcțiilor."
+ },
+ "45b5ed65": {
+  "it": "Scegli sapendo <span class=\"hl\">cosa è incluso.</span>",
+  "tr": "Alege știind <span class=\"hl\">ce este inclus.</span>"
+ },
+ "35b66deb": {
+  "it": "Le funzioni di emergenza gratuite sono diverse su Android e iPhone. I tasti rapidi Android e il tasto SOS di iOS restano utilizzabili gratuitamente, secondo la configurazione prevista.",
+  "tr": "Funcțiile de urgență gratuite diferă între Android și iPhone. Butoanele rapide Android și butonul SOS din iOS rămân gratuite, conform configurației prevăzute."
+ },
+ "1a22bf91": {
+  "it": "Emergenza rapida, anche gratis",
+  "tr": "Urgență rapidă, chiar și gratuit"
+ },
+ "f1a3cc18": {
+  "it": "Senza abbonamento l'app usa la modalità emergenza rapida: l'attivazione parte dai tasti della home o dalla notifica persistente. Il pulsante Avvia/Start è inattivo; voce e modifica delle impostazioni sono disponibili durante un'emergenza rapida attiva.",
+  "tr": "Fără abonament, aplicația folosește modul urgență rapidă: activarea pornește de la butoanele de pe ecranul de pornire sau de la notificarea permanentă. Butonul Avvia/Start este inactiv; vocea și modificarea setărilor sunt disponibile în timpul unei urgențe rapide active."
+ },
+ "e430c6e7": {
+  "it": "Premium abilita l'uso completo descritto nel confronto. Condizioni e prezzo sono indicati nella scheda della singola app su Google Play.",
+  "tr": "Premium permite utilizarea completă descrisă în comparație. Condițiile și prețul sunt indicate pe pagina fiecărei aplicații din Google Play."
+ },
+ "35c98e53": {
+  "it": "SOS e Apple Watch inclusi",
+  "tr": "SOS și Apple Watch incluse"
+ },
+ "4ee39e7e": {
+  "it": "Tasto SOS al tocco",
+  "tr": "Buton SOS la atingere"
+ },
+ "b6e03f67": {
+  "it": "Telegram con geolocalizzazione",
+  "tr": "Telegram cu geolocalizare"
+ },
+ "80ac734d": {
+  "it": "Posizione live per 30 minuti",
+  "tr": "Locație în timp real timp de 30 de minute"
+ },
+ "f21a5e8e": {
+  "it": "App compagna per Apple Watch",
+  "tr": "Aplicație însoțitoare pentru Apple Watch"
+ },
+ "88029d5e": {
+  "it": "Download gratuito. Le funzioni di emergenza incluse restano gratuite.",
+  "tr": "Descărcare gratuită. Funcțiile de urgență incluse rămân gratuite."
+ },
+ "99a170b7": {
+  "it": "Un acquisto, più funzioni",
+  "tr": "O singură plată, mai multe funcții"
+ },
+ "c5f3092c": {
+  "it": "“Ehi Siri, Proteggimi” in 12 lingue",
+  "tr": "„Hey Siri, Ajută-mă” în 12 limbi"
+ },
+ "1190dac0": {
+  "it": "SMS, WhatsApp e telefonata ai contatti",
+  "tr": "SMS, WhatsApp și apel către contacte"
+ },
+ "60c62804": {
+  "it": "Posizione live da 1 minuto a 24 ore",
+  "tr": "Locație în timp real de la 1 minut la 24 de ore"
+ },
+ "90f33f8e": {
+  "it": "Acquisto una tantum, senza abbonamento. Il prezzo è riportato sull'App Store.",
+  "tr": "Plată unică, fără abonament. Prețul este afișat în App Store."
+ },
+ "d7ed525c": {
+  "it": "Confronto completo",
+  "tr": "Comparație completă"
+ },
+ "4adba7f9": {
+  "it": "Tutte le funzioni, Android e iOS.",
+  "tr": "Toate funcțiile, Android și iOS."
+ },
+ "af6cdad7": {
+  "it": "Confronto tratto dalla presentazione del progetto. Per Android è una sintesi della famiglia di app: consulta la <a class=\"link-arrow\" href=\"prodotti.html\">scheda della singola app</a> per lingue, accessori e durata della posizione. Su telefono puoi scorrere la tabella in orizzontale.",
+  "tr": "Comparație preluată din prezentarea proiectului. Pentru Android este o sinteză a familiei de aplicații: consultă <a class=\"link-arrow\" href=\"prodotti.html\">pagina fiecărei aplicații</a> pentru limbi, accesorii și durata locației. Pe telefon poți derula tabelul pe orizontală."
+ },
+ "e8d295dc": {
+  "it": "Funzioni secondo piattaforma e versione",
+  "tr": "Funcții în funcție de platformă și versiune"
+ },
+ "22f0be8d": {
+  "it": "Funzione",
+  "tr": "Funcție"
+ },
+ "b92553c3": {
+  "it": "SOS nella pagina principale",
+  "tr": "SOS pe pagina principală"
+ },
+ "c13e1a99": {
+  "it": "No¹",
+  "tr": "Nu¹"
+ },
+ "c3032d4a": {
+  "it": "Sì",
+  "tr": "Da"
+ },
+ "d8ab62a6": {
+  "it": "Tasti rapidi home / notifica, anche ad app chiusa",
+  "tr": "Butoane rapide ecran de pornire / notificare, chiar și cu aplicația închisă"
+ },
+ "61e6be1a": {
+  "it": "No",
+  "tr": "Nu"
+ },
+ "38303040": {
+  "it": "Voce: 4 parole chiave fisse + 3 personali",
+  "tr": "Voce: 4 cuvinte-cheie fixe + 3 personale"
+ },
+ "f6015d68": {
+  "it": "Sì²",
+  "tr": "Da²"
+ },
+ "c19e53d2": {
+  "it": "Attivazione con Google / Siri",
+  "tr": "Activare cu Google / Siri"
+ },
+ "217cae5d": {
+  "it": "Riconoscimento vocale offline, nelle lingue supportate",
+  "tr": "Recunoaștere vocală offline, în limbile acceptate"
+ },
+ "d2449840": {
+  "it": "Telegram con GPS, indirizzo e link alla mappa",
+  "tr": "Telegram cu GPS, adresă și link către hartă"
+ },
+ "c98e49e4": {
+  "it": "Messaggio WhatsApp",
+  "tr": "Mesaj WhatsApp"
+ },
+ "e7e5c556": {
+  "it": "Telefonata al contatto configurato",
+  "tr": "Apel către contactul configurat"
+ },
+ "6a9becb3": {
+  "it": "Secondo l'app³",
+  "tr": "În funcție de aplicație³"
+ },
+ "1ecf177a": {
+  "it": "30 minuti",
+  "tr": "30 de minute"
+ },
+ "30acb109": {
+  "it": "1 min – 24 ore",
+  "tr": "1 min – 24 de ore"
+ },
+ "d25e8013": {
+  "it": "App compagna Wear OS / Apple Watch",
+  "tr": "Aplicație însoțitoare Wear OS / Apple Watch"
+ },
+ "936c1b05": {
+  "it": "Smartwatch senza smartphone",
+  "tr": "Ceas fără smartphone"
+ },
+ "590c7126": {
+  "it": "App Wear OS dedicata",
+  "tr": "Aplicație Wear OS dedicată"
+ },
+ "d766ee2c": {
+  "it": "Accesso rapido dal quadrante e complication",
+  "tr": "Acces rapid de pe cadran și complicații"
+ },
+ "a1a75106": {
+  "it": "Comandi vocali su smartwatch",
+  "tr": "Comenzi vocale pe ceas"
+ },
+ "31b8ea4d": {
+  "it": "Modifica impostazioni ad app avviata",
+  "tr": "Modificarea setărilor cu aplicația pornită"
+ },
+ "83e86049": {
+  "it": "Guida integrata passo passo e PDF",
+  "tr": "Ghid integrat pas cu pas și PDF"
+ },
+ "853624cf": {
+  "it": "Nessun account, login o cloud proprietario",
+  "tr": "Fără cont, autentificare sau cloud propriu"
+ },
+ "1ffbed10": {
+  "it": "¹ Senza abbonamento il tasto Avvia/Start è inattivo; si usano i tasti di emergenza rapida.",
+  "tr": "¹ Fără abonament butonul Avvia/Start este inactiv; se folosesc butoanele de urgență rapidă."
+ },
+ "1715bdd9": {
+  "it": "² In Android Free, solo mentre è attiva un'emergenza rapida.",
+  "tr": "² În Android Free, doar cât timp este activă o urgență rapidă."
+ },
+ "e576e548": {
+  "it": "³ La presentazione indica fino a 24 ore nelle versioni abilitate: AI help You da 1 minuto a 24 ore, Proteggimi Android fino a 30 minuti, AIuto SOS watch4help™ fino a 60 minuti. Le 12 lingue riguardano le app multilingue; Proteggimi Android è in italiano.",
+  "tr": "³ Prezentarea indică până la 24 de ore în versiunile activate: AI help You de la 1 minut la 24 de ore, Proteggimi Android până la 30 de minute, AIuto SOS watch4help™ până la 60 de minute. Cele 12 limbi se referă la aplicațiile multilingve; Proteggimi Android este în italiană."
+ },
+ "4adb6e82": {
+  "it": "Domande su costi e funzioni",
+  "tr": "Întrebări despre costuri și funcții"
+ },
+ "8d73b6f2": {
+  "it": "no pAIn™ — Come funziona",
+  "tr": "no pAIn™ — Cum funcționează"
+ },
+ "664fdb6b": {
+  "it": "Come si attivano le app no pAIn™, quali azioni partono, come funziona watch4help™ e come preparare la prima configurazione.",
+  "tr": "Cum se activează aplicațiile no pAIn™, ce acțiuni pornesc, cum funcționează watch4help™ și cum pregătești prima configurare."
+ },
+ "b232a9df": {
+  "it": "Scegli come attivare. <span class=\"hl\">Decidi chi avvisare.</span>",
+  "tr": "Alege cum activezi. <span class=\"hl\">Decide pe cine anunți.</span>"
+ },
+ "fd903e09": {
+  "it": "Il progetto offre diverse modalità di attivazione. Le funzioni disponibili dipendono dall'app, dal dispositivo e dalla configurazione.",
+  "tr": "Proiectul oferă mai multe moduri de activare. Funcțiile disponibile depind de aplicație, de dispozitiv și de configurare."
+ },
+ "cbc5208b": {
+  "it": "Scegli l'app adatta al tuo dispositivo, configura i due contatti di emergenza e abilita le azioni che desideri utilizzare. Se usi il pulsante, completa l'abbinamento.",
+  "tr": "Alege aplicația potrivită dispozitivului tău, configurează cele două contacte de urgență și activează acțiunile pe care vrei să le folosești. Dacă folosești butonul, finalizează asocierea."
+ },
+ "3b1a1e2f": {
+  "it": "Le modalità di attivazione",
+  "tr": "Modurile de activare"
+ },
+ "01906b32": {
+  "it": "Un'interfaccia diversa, secondo il dispositivo che usi.",
+  "tr": "O interfață diferită, în funcție de dispozitivul pe care îl folosești."
+ },
+ "cbc9be52": {
+  "it": "Voce",
+  "tr": "Voce"
+ },
+ "f691286c": {
+  "it": "Senza toccare il telefono",
+  "tr": "Fără să atingi telefonul"
+ },
+ "1c6c453d": {
+  "it": "Su Android: 4 parole chiave fisse e 3 personali, riconosciute sul dispositivo anche in background o a schermo spento, con il telefono a qualche metro. Su iOS Premium: “Ehi Siri, Proteggimi”.",
+  "tr": "Pe Android: 4 cuvinte-cheie fixe și 3 personale, recunoscute pe dispozitiv chiar și în fundal sau cu ecranul stins, cu telefonul la câțiva metri. Pe iOS Premium: „Hey Siri, Ajută-mă”."
+ },
+ "f40e4fa7": {
+  "it": "Tocco",
+  "tr": "Atingere"
+ },
+ "88c826af": {
+  "it": "Tasto SOS, home, notifica",
+  "tr": "Buton SOS, ecran de pornire, notificare"
+ },
+ "e80ae12e": {
+  "it": "Usa il tasto SOS previsto dalla tua versione. Su Android i tasti rapidi della home e la notifica persistente funzionano anche con app chiusa.",
+  "tr": "Folosește butonul SOS prevăzut de versiunea ta. Pe Android butoanele rapide de pe ecranul de pornire și notificarea permanentă funcționează și cu aplicația închisă."
+ },
+ "3a3521af": {
+  "it": "Dal polso",
+  "tr": "De la încheietură"
+ },
+ "af13bab0": {
+  "it": "Usa voce o pulsante dell'app compatibile. Distingui l'app compagna del telefono dall'app autonoma per Wear OS.",
+  "tr": "Folosește vocea sau butonul aplicației compatibile. Deosebește aplicația însoțitoare a telefonului de aplicația autonomă pentru Wear OS."
+ },
+ "77f8557d": {
+  "it": "Dalla tasca",
+  "tr": "Din buzunar"
+ },
+ "d1bbdc48": {
+  "it": "Tieni premuto per un paio di secondi il pulsante collegato al telefono: l'app esegue le azioni impostate. <a class=\"link-arrow\" href=\"button4help.html\">Scopri →</a>",
+  "tr": "Ține apăsat câteva secunde butonul conectat la telefon: aplicația execută acțiunile setate. <a class=\"link-arrow\" href=\"button4help.html\">Descoperă →</a>"
+ },
+ "3e2258c0": {
+  "it": "Dopo l'attivazione",
+  "tr": "După activare"
+ },
+ "589eca08": {
+  "it": "Le azioni che hai scelto.",
+  "tr": "Acțiunile pe care le-ai ales."
+ },
+ "62ae47e4": {
+  "it": "Coordinate GPS, indirizzo e link alla mappa nei messaggi ai contatti. Su iOS richiede Premium e il Comando Rapido Apple.",
+  "tr": "Coordonate GPS, adresă și link către hartă în mesajele către contacte. Pe iOS necesită Premium și Scurtătura Apple."
+ },
+ "6fb4588f": {
+  "it": "tutte le app",
+  "tr": "toate aplicațiile"
+ },
+ "339ee28c": {
+  "it": "Invio della posizione e aggiornamento live: 30 minuti su iOS Free, durata configurabile nelle versioni abilitate fino a 24 ore.",
+  "tr": "Trimiterea locației și actualizare în timp real: 30 de minute pe iOS Free, durată configurabilă până la 24 de ore în versiunile activate."
+ },
+ "0e0ed0f9": {
+  "it": "Chiamate",
+  "tr": "Apeluri"
+ },
+ "5009b2d7": {
+  "it": "Telefonate ai numeri impostati. Su iOS Premium si attivano tramite il Comando Rapido Apple “Proteggimi”.",
+  "tr": "Apeluri către numerele setate. Pe iOS Premium pornesc prin Scurtătura Apple „Proteggimi”."
+ },
+ "12d40da3": {
+  "it": "Disponibile su iOS Premium tramite il Comando Rapido Apple. Non è previsto nelle versioni Android.",
+  "tr": "Disponibil pe iOS Premium prin Scurtătura Apple. Nu este prevăzut în versiunile Android."
+ },
+ "0755181d": {
+  "it": "<b>Importante</b> Le app avvisano i contatti configurati. Non contattano i servizi pubblici di emergenza e non li sostituiscono: i tuoi contatti, ricevuto l'allarme, possono chiamare le forze dell'ordine con tutte le informazioni e venire in tuo aiuto.",
+  "tr": "<b>Important</b> Aplicațiile anunță contactele configurate. Nu contactează serviciile publice de urgență și nu le înlocuiesc: după ce primesc alarma, contactele tale pot suna la poliție cu toate informațiile și pot veni în ajutorul tău."
+ },
+ "2bff3d53": {
+  "it": "watch4help™ · SOS al polso",
+  "tr": "watch4help™ · SOS la încheietură"
+ },
+ "164fe5ab": {
+  "it": "Collegato al telefono o autonomo.",
+  "tr": "Conectat la telefon sau autonom."
+ },
+ "42226bd7": {
+  "it": "Due modalità, da distinguere",
+  "tr": "Două moduri de deosebit"
+ },
+ "96d4c317": {
+  "it": "Proteggimi e AI help You hanno un'app compagna per l'orologio abbinato. AIuto SOS watch4help™ è invece la soluzione autonoma, utilizzabile senza smartphone con una connessione adatta ai canali scelti.",
+  "tr": "Proteggimi și AI help You au o aplicație însoțitoare pentru ceasul asociat. AIuto SOS watch4help™, în schimb, este soluția autonomă, utilizabilă fără smartphone, cu o conexiune potrivită canalelor alese."
+ },
+ "312fc767": {
+  "it": "Un tocco, con iPhone abbinato",
+  "tr": "O atingere, cu iPhone-ul asociat"
+ },
+ "98a4265e": {
+  "it": "L'app compagna può avviare Telegram e posizione anche con iPhone bloccato. Per avviare anche SMS, WhatsApp e telefonata servono Premium, il Comando Rapido configurato e l'app iPhone in primo piano.",
+  "tr": "Aplicația însoțitoare poate porni Telegram și locația chiar și cu iPhone-ul blocat. Pentru a porni și SMS, WhatsApp și apel, e nevoie de Premium, de Scurtătura configurată și de aplicația de pe iPhone în prim-plan."
+ },
+ "351a9e06": {
+  "it": "Schermate delle app tratte dalla presentazione del progetto.",
+  "tr": "Capturi ale aplicațiilor preluate din prezentarea proiectului."
+ },
+ "d9277110": {
+  "it": "La prima configurazione",
+  "tr": "Prima configurare"
+ },
+ "09b2800f": {
+  "it": "Preparala prima. Provala insieme.",
+  "tr": "Pregătește-o dinainte. Testați-o împreună."
+ },
+ "5ec3efac": {
+  "it": "Una configurazione corretta è parte del funzionamento. Segui sempre il manuale della tua app.",
+  "tr": "O configurare corectă face parte din funcționare. Urmează întotdeauna manualul aplicației tale."
+ },
+ "1968ce31": {
+  "it": "Scegli chi avvisare",
+  "tr": "Alege pe cine anunți"
+ },
+ "9c6f6baa": {
+  "it": "Accetta i termini nell'app, inserisci i numeri di telefono e i chat ID Telegram. Concorda con i contatti come gestire una richiesta.",
+  "tr": "Acceptă termenii în aplicație, introdu numerele de telefon și chat ID-urile Telegram. Stabilește cu contactele cum gestionați o cerere."
+ },
+ "5129551e": {
+  "it": "Abilita ciò che serve",
+  "tr": "Activează ce îți trebuie"
+ },
+ "4401a646": {
+  "it": "Scegli i canali di invio, le parole chiave personali e i permessi necessari. Su iOS configura il Comando Rapido “Proteggimi” per le funzioni Premium.",
+  "tr": "Alege canalele de trimitere, cuvintele-cheie personale și permisiunile necesare. Pe iOS configurează Scurtătura „Proteggimi” pentru funcțiile Premium."
+ },
+ "d5dd5c2c": {
+  "it": "Verifica il dispositivo",
+  "tr": "Verifică dispozitivul"
+ },
+ "1be4d1eb": {
+  "it": "Controlla batteria, connessione, attività in background e abbinamento degli accessori.",
+  "tr": "Verifică bateria, conexiunea, activitatea în fundal și asocierea accesoriilor."
+ },
+ "3e41f499": {
+  "it": "Fai una prova concordata",
+  "tr": "Fă un test stabilit împreună"
+ },
+ "bbf6ae89": {
+  "it": "Avvisa prima i tuoi contatti, esegui il test e verifica che messaggio e posizione siano arrivati.",
+  "tr": "Anunță întâi contactele, fă testul și verifică dacă mesajul și locația au ajuns."
+ },
+ "bc636f46": {
+  "it": "Connessione e privacy: cosa sapere →",
+  "tr": "Conexiune și confidențialitate: ce trebuie să știi →"
+ },
+ "1989a681": {
+  "it": "no pAIn™ — Tecnologia e ricerca",
+  "tr": "no pAIn™ — Tehnologie și cercetare"
+ },
+ "07d0d552": {
+  "it": "La tecnologia e le pubblicazioni scientifiche del progetto no pAIn™ del Prof. Ing. Agostino Giorgio, Politecnico di Bari.",
+  "tr": "Tehnologia și publicațiile științifice ale proiectului no pAIn™ al Prof. Ing. Agostino Giorgio, Politecnico di Bari."
+ },
+ "8dec5249": {
+  "it": "Dalla ricerca <span class=\"hl\">alla richiesta di aiuto.</span>",
+  "tr": "De la cercetare <span class=\"hl\">la cererea de ajutor.</span>"
+ },
+ "3a7ea31a": {
+  "it": "no pAIn™ significa <em>never oppressed protected by Artificial Intelligence Non violence system</em>. Il progetto del Prof. Ing. Agostino Giorgio, docente del Politecnico di Bari, applica intelligenza artificiale, riconoscimento vocale e geolocalizzazione alla richiesta di aiuto verso contatti fidati.",
+  "tr": "no pAIn™ înseamnă <em>never oppressed protected by Artificial Intelligence Non violence system</em>. Proiectul Prof. Ing. Agostino Giorgio, cadru didactic la Politecnico di Bari, aplică inteligența artificială, recunoașterea vocală și geolocalizarea la cererea de ajutor către contacte de încredere."
+ },
+ "7a4c0b9b": {
+  "it": "Architettura",
+  "tr": "Arhitectură"
+ },
+ "f2934e70": {
+  "it": "Dal tuo dispositivo ai tuoi contatti",
+  "tr": "De la dispozitivul tău la contactele tale"
+ },
+ "216dd7c5": {
+  "it": "Il progetto descrive un'architettura senza account, login o cloud proprietario. Lo sviluppatore dichiara di non raccogliere dati personali; impostazioni e contatti rimangono sul dispositivo. Per recapitare gli avvisi e ricavare l'indirizzo vengono comunque usati i servizi esterni previsti dall'app.",
+  "tr": "Proiectul descrie o arhitectură fără cont, autentificare sau cloud propriu. Dezvoltatorul declară că nu colectează date personale; setările și contactele rămân pe dispozitiv. Pentru livrarea alertelor și determinarea adresei se folosesc totuși serviciile externe prevăzute de aplicație."
+ },
+ "f9c98298": {
+  "it": "Riconoscimento vocale sul dispositivo",
+  "tr": "Recunoaștere vocală pe dispozitiv"
+ },
+ "c6703e52": {
+  "it": "Nelle versioni Android e nelle lingue abilitate, il riconoscimento delle parole chiave funziona anche offline. L'invio degli avvisi richiede invece le connessioni necessarie al canale scelto: rete dati, SMS o telefonia.",
+  "tr": "În versiunile Android și în limbile activate, recunoașterea cuvintelor-cheie funcționează și offline. Trimiterea alertelor necesită în schimb conexiunile cerute de canalul ales: date mobile, SMS sau telefonie."
+ },
+ "d86ad526": {
+  "it": "Affidabilità",
+  "tr": "Fiabilitate"
+ },
+ "45ca0fbe": {
+  "it": "Continuità e ripristino",
+  "tr": "Continuitate și recuperare"
+ },
+ "26c3887c": {
+  "it": "La presentazione descrive ritrasmissione degli avvisi al ritorno della rete, ripresa della posizione live dopo interruzioni e riattivazione guidata dopo riavvii o aggiornamenti, con test su smartphone e smartwatch reali. L'effettivo funzionamento dipende da versione, permessi, rete e dispositivo.",
+  "tr": "Prezentarea descrie retrimiterea alertelor la revenirea rețelei, reluarea locației în timp real după întreruperi și reactivarea ghidată după reporniri sau actualizări, cu teste pe smartphone-uri și ceasuri reale. Funcționarea efectivă depinde de versiune, permisiuni, rețea și dispozitiv."
+ },
+ "22266a9c": {
+  "it": "Pubblicazioni",
+  "tr": "Publicații"
+ },
+ "7cc8a78c": {
+  "it": "Pubblicato su rivista scientifica.",
+  "tr": "Publicat într-o revistă științifică."
+ },
+ "4de95746": {
+  "it": "Il dispositivo e l'app sono descritti in due articoli sulla rivista internazionale <em>Electronics</em> (MDPI), ad accesso aperto.",
+  "tr": "Dispozitivul și aplicația sunt descrise în două articole cu acces liber din revista internațională <em>Electronics</em> (MDPI)."
+ },
+ "3f10489d": {
+  "it": "Approfondisci il progetto",
+  "tr": "Află mai multe despre proiect"
+ },
+ "e449099c": {
+  "it": "La presentazione completa.",
+  "tr": "Prezentarea completă."
+ },
+ "33b96627": {
+  "it": "Funzionamento, versioni, schermate e riferimenti scientifici. PDF in italiano, 23 pagine.",
+  "tr": "Funcționare, versiuni, capturi de ecran și referințe științifice. PDF în italiană, 23 de pagini."
+ },
+ "1329fef9": {
+  "it": "Apri la presentazione PDF <span class=\"arr\">↗</span>",
+  "tr": "Deschide prezentarea PDF <span class=\"arr\">↗</span>"
+ },
+ "89c663d7": {
+  "it": "Materiale promozionale del progetto",
+  "tr": "Material promoțional al proiectului"
+ },
+ "8797ba72": {
+  "it": "Locandina del progetto no pAIn by Agostino Giorgio, Politecnico di Bari: digital4help, protezione digitale, una nuova era per la tutela delle donne",
+  "tr": "Afișul proiectului no pAIn al lui Agostino Giorgio, Politecnico di Bari: digital4help, protecție digitală, o nouă eră pentru protecția femeilor"
+ },
+ "3a0eca35": {
+  "it": "no pAIn™ — Collabora",
+  "tr": "no pAIn™ — Colaborează"
+ },
+ "2f329875": {
+  "it": "Porta no pAIn™ nella tua organizzazione: enti pubblici, associazioni, aziende e sponsor.",
+  "tr": "Adu no pAIn™ în organizația ta: instituții publice, asociații, companii și sponsori."
+ },
+ "0f218826": {
+  "it": "Porta no pAIn™ <span class=\"hl\">nella tua organizzazione.</span>",
+  "tr": "Adu no pAIn™ <span class=\"hl\">în organizația ta.</span>"
+ },
+ "00d835f5": {
+  "it": "Mettere uno strumento a disposizione è il primo passo. Farlo conoscere, spiegarne l'uso e inserirlo in un contesto di supporto è altrettanto importante.",
+  "tr": "Punerea la dispoziție a unui instrument este primul pas. Să-l faci cunoscut, să-i explici utilizarea și să-l integrezi într-o rețea de sprijin este la fel de important."
+ },
+ "ed20cf20": {
+  "it": "Richiedi una dimostrazione <span class=\"arr\">↗</span>",
+  "tr": "Solicită o demonstrație <span class=\"arr\">↗</span>"
+ },
+ "dfc78647": {
+  "it": "Enti pubblici",
+  "tr": "Instituții publice"
+ },
+ "2bd94dc1": {
+  "it": "Iniziative locali e progetti pilota",
+  "tr": "Inițiative locale și proiecte-pilot"
+ },
+ "203f6364": {
+  "it": "Valutiamo iniziative sul territorio e progetti pilota, a partire da una dimostrazione e da obiettivi condivisi.",
+  "tr": "Evaluăm inițiative locale și proiecte-pilot, pornind de la o demonstrație și de la obiective comune."
+ },
+ "f3584485": {
+  "it": "Associazioni",
+  "tr": "Asociații"
+ },
+ "2c4ff7c9": {
+  "it": "Accanto a chi conosce i bisogni",
+  "tr": "Alături de cei care cunosc nevoile"
+ },
+ "97d70b91": {
+  "it": "Un confronto con chi lavora ogni giorno con le persone, per capire utilità, modalità d'uso e limiti dello strumento.",
+  "tr": "Un dialog cu cei care lucrează zilnic cu oamenii, pentru a înțelege utilitatea, modurile de utilizare și limitele instrumentului."
+ },
+ "0ab434b0": {
+  "it": "Aziende e sponsor",
+  "tr": "Companii și sponsori"
+ },
+ "51348394": {
+  "it": "Sensibilizzazione e sostegno",
+  "tr": "Conștientizare și sprijin"
+ },
+ "f4d66b9e": {
+  "it": "Approfondiamo proposte per gruppi di utenti, iniziative di sensibilizzazione e sostegno a progetti sul territorio.",
+  "tr": "Analizăm propuneri pentru grupuri de utilizatori, inițiative de conștientizare și sprijin pentru proiecte locale."
+ },
+ "c0b7455c": {
+  "it": "Cosa portiamo",
+  "tr": "Ce aducem"
+ },
+ "d5c89ab3": {
+  "it": "Una tecnologia nata in università, pronta da usare.",
+  "tr": "O tehnologie născută la universitate, gata de folosit."
+ },
+ "907fb86c": {
+  "it": "App gratuite da scaricare per Android, iPhone e smartwatch, un pulsante acquistabile da chiunque, nessun account e nessun cloud da gestire. E un progetto descritto in pubblicazioni scientifiche.",
+  "tr": "Aplicații gratuite pentru Android, iPhone și ceasuri inteligente, un buton pe care îl poate cumpăra oricine, fără cont și fără cloud de gestionat. Și un proiect descris în publicații științifice."
+ },
+ "9544f0cf": {
+  "it": "Una dimostrazione è il modo migliore per iniziare <span class=\"arr\">↗</span>",
+  "tr": "O demonstrație este cel mai bun mod de a începe <span class=\"arr\">↗</span>"
+ },
+ "851d2b68": {
+  "it": "Presentazione PDF <span class=\"arr\">↗</span>",
+  "tr": "Prezentare PDF <span class=\"arr\">↗</span>"
+ },
+ "6878e072": {
+  "it": "Locandina: Proteggimi (no pAIn), l'app diversa e intelligente. Aiuto immediato anche senza toccare lo smartphone.",
+  "tr": "Afiș: Proteggimi (no pAIn), aplicația diferită și inteligentă. Ajutor imediat chiar și fără să atingi smartphone-ul."
+ },
+ "cb27864b": {
+  "it": "no pAIn™ — Domande frequenti",
+  "tr": "no pAIn™ — Întrebări frecvente"
+ },
+ "3b6519ae": {
+  "it": "Risposte chiare sulle app no pAIn™, su button4help™, sulla connessione, sulla privacy e sui costi.",
+  "tr": "Răspunsuri clare despre aplicațiile no pAIn™, button4help™, conexiune, confidențialitate și costuri."
+ },
+ "d18377be": {
+  "it": "Domande semplici. <span class=\"hl\">Risposte chiare.</span>",
+  "tr": "Întrebări simple. <span class=\"hl\">Răspunsuri clare.</span>"
+ },
+ "44dbf7c0": {
+  "it": "Prima di scegliere, conosci il funzionamento e le condizioni d'uso.",
+  "tr": "Înainte să alegi, află cum funcționează și care sunt condițiile de utilizare."
+ },
+ "a943bf49": {
+  "it": "Perché non chiamare direttamente il 112?",
+  "tr": "De ce să nu suni direct la 112?"
+ },
+ "5879ca74": {
+  "it": "Il 112 resta fondamentale e, se puoi, chiamalo. Ma in pericolo spesso non si può parlare con un operatore, spiegare la situazione e dire dove ci si trova. Le app no pAIn™ servono proprio a questo: con una parola o un tocco discreto avvisano due persone di fiducia con la tua posizione, e saranno loro a chiamare le forze dell'ordine.",
+  "tr": "112 rămâne esențial și, dacă poți, sună. Dar în pericol de multe ori nu poți vorbi cu un operator, explica situația și spune unde te afli. Exact pentru asta există aplicațiile no pAIn™: cu un cuvânt sau o atingere discretă anunță două persoane de încredere împreună cu locația ta, iar ele vor chema poliția."
+ },
+ "bba383c4": {
+  "it": "Chi riceve la richiesta di aiuto?",
+  "tr": "Cine primește cererea de ajutor?"
+ },
+ "677457a0": {
+  "it": "I due contatti di emergenza impostati da te nell'app, parenti o amici. A seconda dell'app puoi abilitare SMS, WhatsApp (iPhone), Telegram e telefonate. Le app non contattano i servizi pubblici di emergenza.",
+  "tr": "Cele două contacte de urgență setate de tine în aplicație, rude sau prieteni. În funcție de aplicație poți activa SMS, WhatsApp (iPhone), Telegram și apeluri. Aplicațiile nu contactează serviciile publice de urgență."
+ },
+ "c585af6a": {
+  "it": "Posso usarle con un iPhone?",
+  "tr": "Le pot folosi cu un iPhone?"
+ },
+ "837d55d5": {
+  "it": "Sì: no pAIn™ (Proteggimi) è disponibile sull'App Store, in 12 lingue e con app compagna per Apple Watch. La versione gratuita include SOS e Telegram; Premium aggiunge Siri, SMS, WhatsApp e chiamate tramite i Comandi Rapidi. <a href=\"versioni.html\">Vedi il confronto</a>.",
+  "tr": "Da: no pAIn™ (Proteggimi) este disponibilă în App Store, în 12 limbi și cu aplicație însoțitoare pentru Apple Watch. Versiunea gratuită include SOS și Telegram; Premium adaugă Siri, SMS, WhatsApp și apeluri prin Scurtături. <a href=\"versioni.html\">Vezi comparația</a>."
+ },
+ "5e269703": {
+  "it": "Quanto costano?",
+  "tr": "Cât costă?"
+ },
+ "264bfcce": {
+  "it": "Su iOS il download e le funzioni Free sono gratuiti; Premium richiede un acquisto una tantum, senza abbonamento. Su Android restano gratuiti i tasti di emergenza rapida, con le limitazioni illustrate nel <a href=\"versioni.html\">confronto</a>. Consulta gli store per i prezzi delle app.",
+  "tr": "Pe iOS descărcarea și funcțiile Free sunt gratuite; Premium necesită o plată unică, fără abonament. Pe Android butoanele de urgență rapidă rămân gratuite, cu limitările prezentate în <a href=\"versioni.html\">comparație</a>. Consultă magazinele pentru prețurile aplicațiilor."
+ },
+ "98931ccd": {
+  "it": "La posizione resta visibile per 24 ore in ogni app?",
+  "tr": "Locația rămâne vizibilă 24 de ore în orice aplicație?"
+ },
+ "73d74e51": {
+  "it": "La durata dipende dall'app e dalla versione. Su iOS Free è di 30 minuti; su iOS Premium va da 1 minuto a 24 ore. AI help You arriva fino a 24 ore; Proteggimi Android e AIuto SOS watch4help™ riportano rispettivamente 30 e 60 minuti. Controlla le opzioni dell'app installata.",
+  "tr": "Durata depinde de aplicație și de versiune. Pe iOS Free este de 30 de minute; pe iOS Premium variază de la 1 minut la 24 de ore. AI help You ajunge până la 24 de ore; Proteggimi Android și AIuto SOS watch4help™ indică 30, respectiv 60 de minute. Verifică opțiunile aplicației instalate."
+ },
+ "22510adf": {
+  "it": "Lo smartwatch deve essere sempre vicino al telefono?",
+  "tr": "Ceasul trebuie să fie mereu aproape de telefon?"
+ },
+ "28dd55f0": {
+  "it": "Per Wear OS puoi scegliere fra l'app compagna del telefono e AIuto SOS watch4help™, autonoma, che usa la connessione dell'orologio. L'app compagna per Apple Watch lavora con l'iPhone abbinato: Telegram e posizione possono partire anche con iPhone bloccato; per le altre azioni Premium serve l'app iPhone in primo piano. Un'app dedicata AIutoSOS per Apple Watch è in programma.",
+  "tr": "Pe Wear OS poți alege între aplicația însoțitoare a telefonului și AIuto SOS watch4help™, autonomă, care folosește conexiunea ceasului. Aplicația însoțitoare pentru Apple Watch funcționează cu iPhone-ul asociat: Telegram și locația pot pleca chiar și cu iPhone-ul blocat; pentru celelalte acțiuni Premium, aplicația de pe iPhone trebuie să fie în prim-plan. O aplicație AIutoSOS dedicată pentru Apple Watch este în pregătire."
+ },
+ "5f1834e5": {
+  "it": "Il pulsante funziona senza smartphone?",
+  "tr": "Butonul funcționează fără smartphone?"
+ },
+ "b93269ec": {
+  "it": "No. button4help™ è il comando di un'app sullo smartphone associato: il telefono deve essere acceso e raggiungibile via Bluetooth. Se ti serve una soluzione senza telefono, c'è l'app autonoma <a href=\"prodotti.html#aiuto-sos\">AIuto SOS watch4help™</a> per Wear OS, le cui funzioni dipendono dalla connettività dell'orologio.",
+  "tr": "Nu. button4help™ comandă o aplicație de pe smartphone-ul asociat: telefonul trebuie să fie pornit și accesibil prin Bluetooth. Dacă ai nevoie de o soluție fără telefon, există aplicația autonomă <a href=\"prodotti.html#aiuto-sos\">AIuto SOS watch4help™</a> pentru Wear OS, ale cărei funcții depind de conectivitatea ceasului."
+ },
+ "b702e7a0": {
+  "it": "In cosa è diverso da un AirTag o da un tracker?",
+  "tr": "Prin ce diferă de un AirTag sau de un localizator?"
+ },
+ "ee37e011": {
+  "it": "I tracker GPS o Bluetooth servono a ritrovare oggetti e animali tramite la rete AirTag di Apple o quella di Android. button4help™ non si fa localizzare: è un pulsante che, premuto per un paio di secondi, fa scattare l'emergenza nell'app. Contiene solo un modulo Bluetooth Low Energy e una batteria a bottone, per questo è così piccolo. È diverso anche dai classici pulsanti SOS per anziani.",
+  "tr": "Localizatoarele GPS sau Bluetooth servesc la găsirea obiectelor și animalelor prin rețeaua AirTag a Apple sau prin cea Android. button4help™ nu poate fi localizat: este un buton care, apăsat câteva secunde, declanșează urgența în aplicație. Conține doar un modul Bluetooth Low Energy și o baterie tip monedă, de aceea este atât de mic. Este diferit și de clasicele butoane SOS pentru vârstnici."
+ },
+ "404d40e9": {
+  "it": "Dove lo compro e con quali app funziona?",
+  "tr": "De unde îl cumpăr și cu ce aplicații funcționează?"
+ },
+ "eb01d77f": {
+  "it": "Si acquista su <a href=\"https://it.aliexpress.com/item/1005008509583971.html\" target=\"_blank\" rel=\"noopener\">AliExpress</a>, da un venditore terzo: no pAIn™ non lo vende. Funziona con AI help You su Android e con no pAIn™ su iPhone. Per dubbi sulla compatibilità con il tuo telefono, <a href=\"mailto:agostino.giorgio@poliba.it\" data-mail=\"private\">scrivi al progettista</a>.",
+  "tr": "Se cumpără de pe <a href=\"https://it.aliexpress.com/item/1005008509583971.html\" target=\"_blank\" rel=\"noopener\">AliExpress</a>, de la un vânzător terț: no pAIn™ nu îl vinde. Funcționează cu AI help You pe Android și cu no pAIn™ pe iPhone. Dacă ai dubii privind compatibilitatea cu telefonul tău, <a href=\"mailto:agostino.giorgio@poliba.it\" data-mail=\"private\">scrie-i proiectantului</a>."
+ },
+ "3a4698fd": {
+  "it": "Le foto del pulsante mostrano il dispositivo attuale. Le immagini promozionali con pendenti a cuore o altri gioielli illustrano possibilità di design: disponibilità e caratteristiche di questi accessori vanno confermate con il progettista.",
+  "tr": "Fotografiile butonului arată dispozitivul actual. Imaginile promoționale cu pandantive în formă de inimă sau alte bijuterii ilustrează posibilități de design: disponibilitatea și caracteristicile acestor accesorii trebuie confirmate cu proiectantul."
+ },
+ "688cc56a": {
+  "it": "Connessione e privacy",
+  "tr": "Conexiune și confidențialitate"
+ },
+ "ae12ac09": {
+  "it": "“IA offline” significa che non serve connessione?",
+  "tr": "„IA offline” înseamnă că nu e nevoie de conexiune?"
+ },
+ "73f2db19": {
+  "it": "Il riconoscimento locale delle parole chiave non invia l'audio a un servizio cloud. L'invio degli avvisi è un passaggio diverso: Telegram e WhatsApp richiedono internet; SMS e telefonate dipendono dalla rete e dal piano dell'operatore. Anche il collegamento fra accessorio e telefono deve essere disponibile.",
+  "tr": "Recunoașterea locală a cuvintelor-cheie nu trimite sunetul către un serviciu cloud. Trimiterea alertelor este un pas diferit: Telegram și WhatsApp necesită internet; SMS-urile și apelurile depind de rețea și de abonamentul operatorului. Trebuie să fie disponibilă și conexiunea dintre accesoriu și telefon."
+ },
+ "1198a78d": {
+  "it": "Vengono registrate le conversazioni?",
+  "tr": "Sunt înregistrate conversațiile?"
+ },
+ "66ecb0b4": {
+  "it": "Lo sviluppatore dichiara che il microfono serve al riconoscimento locale delle parole chiave, senza registrare l'audio, e che contatti e impostazioni restano sul dispositivo. Gli avvisi usano comunque servizi esterni, come operatori telefonici e Telegram, con le rispettive informative. Consulta l'<a href=\"https://poliba.wixsite.com/no_pain_privacy\" target=\"_blank\" rel=\"noopener\">informativa della singola app</a>.",
+  "tr": "Dezvoltatorul declară că microfonul servește la recunoașterea locală a cuvintelor-cheie, fără a înregistra sunetul, și că contactele și setările rămân pe dispozitiv. Alertele folosesc totuși servicii externe, precum operatorii de telefonie și Telegram, cu propriile politici de confidențialitate. Consultă <a href=\"https://poliba.wixsite.com/no_pain_privacy\" target=\"_blank\" rel=\"noopener\">politica de confidențialitate a fiecărei aplicații</a>."
+ },
+ "ed1d4c77": {
+  "it": "Serve creare un account?",
+  "tr": "Trebuie să-mi creez un cont?"
+ },
+ "92ae487c": {
+  "it": "No. Le app non richiedono account, login o cloud proprietario: impostazioni e contatti restano sul tuo telefono.",
+  "tr": "Nu. Aplicațiile nu cer cont, autentificare sau cloud propriu: setările și contactele rămân pe telefonul tău."
+ },
+ "_ui": {
+  "menu": "Meniu",
+  "close": "Închide",
+  "closeImage": "Închide"
+ },
+ "_mail": {
+  "privateSubject": "button4help™ — cerere de informații",
+  "privateBody": "Bună ziua,\naș dori să primesc informații despre button4help™: preț, disponibilitate și compatibilitate cu telefonul meu.\n\nModelul telefonului: \n\nCu stimă",
+  "partnerSubject": "no pAIn™ — cerere de colaborare",
+  "partnerBody": "Bună ziua,\naș dori să aflu mai multe despre proiectul no pAIn™ și să discutăm o posibilă colaborare sau demonstrație.\n\nInstituție sau companie: \nPersoană de contact: \n\nCu stimă"
+ }
+}

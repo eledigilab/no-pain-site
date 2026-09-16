@@ -1,0 +1,459 @@
+ui.menu|Meny
+ui.close|Stäng
+ui.closeImage|Stäng
+mail.privateSubject|button4help™ — förfrågan om information
+mail.privateBody|Hej,\njag vill gärna ha information om button4help™: pris, tillgänglighet och kompatibilitet med min telefon.\n\nTelefonmodell: \n\nVänliga hälsningar
+mail.partnerSubject|no pAIn™ — förfrågan om samarbete
+mail.partnerBody|Hej,\njag vill gärna veta mer om projektet no pAIn™ och diskutera ett möjligt samarbete eller en demonstration.\n\nOrganisation eller företag: \nKontaktperson: \n\nVänliga hälsningar
+002|no pAIn™: digitalt skydd mot könsrelaterat våld. Appar och enheter som ber om hjälp med rösten eller en gest, utan att du behöver prata med någon.
+003|Projektet
+004|Apparna
+006|Free och Premium
+007|Så fungerar det
+008|Forskning
+009|Organisationer
+010|Frågor
+011|Kontakt
+012|Digitalt skydd · digital4help™
+013|Be om hjälp <span class="hl">utan att behöva prata.</span>
+014|no pAIn™ är ett ekosystem av appar och enheter för att förebygga könsrelaterat våld. Med ett ord, en beröring eller en knapp varnar det direkt två personer du litar på och skickar din position: meddelanden och samtal går iväg av sig själva.
+015|Välj din app <span class="arr">→</span>
+016|Upptäck button4help™ <span class="arr">→</span>
+017|Ett projekt av <strong>professor, civilingenjör Agostino Giorgio</strong><br>Lärare vid Politecnico di Bari
+019|Giulia<small>nödkontakt</small>
+020|<span class="sos">HJÄLPBEGÄRAN</span><br>Jag behöver hjälp. Här är min position.
+021|41.1087° N, 16.8784° E<br><span class="live">● liveposition aktiv</span>
+022|Exempel på vad en kontakt får
+023|Idén
+024|Från signal4help till <span class="hl">digital4help™</span>
+025|Handsignalen signal4help har blivit den universella gest med vilken den som är i fara tyst ber om hjälp. Men den fungerar bara om någon ser den. no pAIn™ har skapat en elektronisk version: ”signal for help” når rätt personer, var de än är, tillsammans med positionen.
+026|GEST 1
+027|Öppen handflata
+028|GEST 2
+029|Tummen vikt in i handflatan
+030|GEST 3
+031|Fingrarna slutna över tummen
+033|Samma budskap, utan att behöva synas
+034|Ett nyckelord sagt högt, en beröring på skärmen, på klockan eller på en knapp i fickan. Appen gör resten och varnar dina nödkontakter.
+035|Varför det behövs
+036|I fara kan man inte alltid prata.
+037|112 och appar som YouPol är fortfarande viktiga verktyg. Men de kräver att du pratar med en operatör, förklarar vad som händer och säger var du är. Med en angripare bredvid dig är det ofta omöjligt.
+038|Samtal eller anmälningsapp
+039|Du måste ta upp telefonen och låsa upp den
+040|Du måste prata eller skriva och förklara situationen
+041|Du måste beskriva var du är
+042|Angriparen kan märka det
+043|En app med no pAIn™-teknik
+044|Det räcker med ett nyckelord, även när telefonen ligger några meter bort
+045|Eller en diskret beröring: på en avisering, på klockan, på en knapp
+046|Positionen skickas automatiskt
+047|Två personer du litar på varnas direkt och kan ringa polisen
+048|Så aktiverar du det
+049|Sex blixtsnabba sätt att slå larm.
+050|Varje situation är olika: därför erbjuder no pAIn™-apparna flera sätt att utlösa larmet. Välj de sätt du kan använda utan att märkas. Vilka funktioner som finns beror på appen och enheten.
+051|Offline-AI
+052|Röstkommando
+053|Du säger ett nyckelord och nödåtgärderna startar, utan att du rör telefonen. På Android sker röstigenkänningen på enheten, med 4 fasta och 3 personliga nyckelord: den fungerar med appen öppen, i bakgrunden eller stängd, även med skärmen avstängd och telefonen några meter bort. På iPhone räcker det att säga ”Hej Siri, Hjälp mig”.
+054|appen öppen
+055|Nödknapp i appen
+056|Den stora SOS-knappen på huvudskärmen. Det enklaste sättet, men appen måste vara i förgrunden.
+057|Android · appen stängd
+058|Snabbknapp på hemskärmen
+059|En knapp på telefonens hemskärm väcker appen även när den är stängd och vilande, och startar nödläget direkt.
+060|Android · diskret
+061|Beständig avisering
+062|Ett tryck på aviseringen som alltid finns där. Den som tittar tror att du bara bläddrar bland aviseringar: i själva verket ber du om hjälp.
+064|Smartklocka
+065|Röst eller knapp på urtavlan på en Wear OS-klocka, eller ett tryck på Apple Watch. Mobilapparna har en egen följeslagarapp för klockan; AIuto SOS fungerar till och med utan mobil.
+066|Knappen button4help™
+067|Håll in den lilla knappen du bär med dig i ett par sekunder: appen i mobilen, flera meter bort, startar nödläget. <a class="link-arrow" href="button4help.html">Läs mer →</a>
+068|Vad som händer
+069|Allt startar av sig självt, till två personer du litar på.
+070|I appen anger du två nödkontakter, släktingar eller vänner. Så fort larmet går får de din hjälpbegäran och din position.
+072|Sms med position
+073|GPS-koordinater, adress och kartlänk. Skickas via telefonnätet, utan internet.
+075|WhatsApp med position
+076|På iPhone kommer meddelandet med positionen även via WhatsApp.
+077|live i upp till 24 timmar
+078|Telegram med liveposition
+079|Positionen uppdateras i realtid så att dina kontakter kan följa dig. Hur länge beror på appen och versionen.
+080|Telefonsamtal
+081|Appen ringer dina nödkontakter utan att du behöver slå något nummer.
+082|Du
+083|röst, beröring eller knapp
+084|no pAIn™-appen
+085|position + meddelanden
+086|2 kontakter du litar på
+087|Sms · WhatsApp · Telegram · samtal
+088|Verklig hjälp
+089|de ringer polisen eller kommer till dig
+090|<b>Viktigt</b> Apparna varnar de kontakter du har valt: de ringer inte 112 direkt och ersätter inte heller numret. Kom överens med dina kontakter i förväg om vad de ska göra när de får ett larm, och testa tillsammans.
+091|Projektets marknadsföringsmaterial. Smyckena på illustrationerna är designkoncept.
+092|Ekosystemet
+093|Din enhet. Din no pAIn™-app.
+094|Android-mobiler, iPhone, smartklockor och en knapp att ha i fickan. Språk, anslutningar och funktioner skiljer sig mellan apparna: välj den lösning som passar dig.
+095|ANDROID · 12 SPRÅK
+097|Den flerspråkiga versionen för Android, kompatibel med button4help™.
+098|Läs mer →
+099|ANDROID · ITALIENSKA
+100|Proteggimi (no pAIn™)
+101|no pAIn™-appen för Android på italienska.
+102|IPHONE · 12 SPRÅK
+103|no pAIn™ (Proteggimi)
+104|Versionen för iPhone och Apple Watch.
+105|WEAR OS · ENDAST SMARTKLOCKA
+107|Fungerar på klockan ensam, utan mobil.
+108|BLUETOOTH-ENHET
+109|Knappen som slår larm på avstånd. Köps hos en extern återförsäljare.
+110|Jämför Free och Premium →
+111|Kom igång
+112|Välj hur du aktiverar. Bestäm vem du varnar.
+113|Förbered ditt nätverk
+114|Välj appen som passar din enhet, ställ in kontakterna och aktivera de åtgärder du vill använda. Om du använder knappen, slutför parkopplingen.
+115|Före användning
+116|Skicka begäran
+117|Använd det sätt din app erbjuder: röstkommando, tryck på skärmen, kompatibel smartklocka eller parkopplad fysisk knapp.
+118|När det behövs
+119|Varna dem du har valt
+120|De aktiverade åtgärderna startar: meddelanden med position, livedelning via Telegram och samtal till de inställda kontakterna.
+121|Till dina kontakter
+122|Alla detaljer om hur det fungerar →
+123|Teknik och forskning
+124|Född på universitetet, publicerad i en vetenskaplig tidskrift.
+125|no pAIn™ står för <em>never oppressed protected by Artificial Intelligence Non violence system</em>. Projektet beskrivs i två artiklar i tidskriften <em>Electronics</em> (2024 och 2026) och i en fullständig presentation på 23 sidor.
+126|Teknik och publikationer →
+127|Låt oss samarbeta
+128|Ta med no pAIn™ till din organisation.
+129|Offentliga aktörer, föreningar, företag och sponsorer: att göra verktyget känt och bygga in det i ett stödnätverk är lika viktigt som att tillhandahålla det.
+130|Förslag för organisationer och företag →
+131|Priser, tillgänglighet och samarbeten
+132|Låt oss hitta rätt lösning för dig.
+133|Professor, civilingenjör Agostino Giorgio
+134|Institutionen för elektroteknik och informationsteknik
+136|Tfn kontor: 080 596 3239/579
+137|Information för privatpersoner
+138|Appar, button4help™ och kompatibilitet med din telefon
+139|Förslag för organisationer och företag
+140|Demonstrationer och samarbeten
+141|Din e-postapp öppnas. Du kan också skriva direkt till <a href="mailto:agostino.giorgio@poliba.it">agostino.giorgio@poliba.it</a>
+142|Ett projekt av professor, civilingenjör Agostino Giorgio<br>Lärare vid Politecnico di Bari
+143|Webbplatsen
+144|Resurser
+145|Appmanualer och integritet ↗
+146|Projektpresentation (pdf, på italienska) ↗
+148|Ring 112 vid akut fara. no pAIn™-apparna varnar de nödkontakter du har valt och ersätter inte samhällets räddningstjänster.
+149|Informera dig. Ställ in. Testa.
+150|Huvudnavigering
+151|Exempel på ett nödmeddelande som en kontakt får, med karta och liveposition
+152|Hjälpbegärans väg
+153|Affisch för projektet no pAIn: digital4help, digitalt skydd. Den listar Proteggimi för Android på italienska, AI help You för Android på 12 språk, AIuto SOS watch4help för Wear OS-klockor och no pAIn för iOS.
+154|no pAIn™ — Apparna
+155|Apparna i projektet no pAIn™: AI help You, Proteggimi, no pAIn™ för iPhone, AIuto SOS watch4help™ för Wear OS, AI help App.
+156|Välj din app
+157|Välj hur du <span class="hl">gör dig hörd.</span>
+158|no pAIn™ ger mobilen en elektronisk ”signal for help” som aktiveras med rösten eller en beröring. watch4help™ är samma teknik för smartklockor. Språk, anslutningar och funktioner skiljer sig mellan apparna.
+163|AI help App · AIutoSOS Apple Watch
+165|Projektets marknadsföringsmaterial · illustrativt koncept
+167|12 språk
+170|Android-versionen på 12 språk, med anpassningsbara nyckelord, offline röstigenkänning och följeslagarapp för Wear OS-klockor. Den erbjuder alla sätt att utlösa larm med no pAIn™-tekniken, inklusive knappen button4help™.
+171|Liveposition via Telegram
+172|Från 1 minut till 24 timmar, inställbart
+173|Ladda ned på Google Play <span class="arr">↗</span>
+174|Röstkommandon: 4 fasta och 3 personliga nyckelord, även med skärmen avstängd och telefonen några meter bort
+175|Aktivering med Google Assistent
+176|Nödknapp på huvudskärmen
+177|Snabbknapp på hemskärmen som väcker den stängda appen
+178|Röst eller knapp från följeslagarappen för Wear OS-klockor
+179|Tryck i ett par sekunder på button4help™
+180|Vad den skickar
+181|Sms med GPS-koordinater, adress och kartlänk
+182|Automatiskt samtal till kontakterna
+183|WhatsApp finns inte på Android
+184|AI help You varnar de inställda kontakterna. Appen kontaktar inte samhällets räddningstjänster och ersätter dem inte. Utan prenumeration fungerar den i snabbt nödläge: <a class="link-arrow" href="versioni.html">se Free och Premium</a>.
+185|Italienska
+186|Proteggimi <span class="hl">(no pAIn™)</span>
+187|Android-versionen på italienska, med aktivering via röst eller manuellt. Den lyssnar efter dina nyckelord även med appen stängd och skärmen avstängd, och har en följeslagarapp för Wear OS-klockor.
+188|Upp till 30 minuter
+189|Röstkommandon med egna nyckelord, offline röstigenkänning
+190|Sms med geolokalisering
+191|Telegram med position, även live
+194|no pAIn™ <span class="hl">(Proteggimi)</span>
+195|iPhone-versionen, med samma grundfunktioner som AI help You: 12 språk, följeslagarapp för Apple Watch och kompatibilitet med button4help™. Dessutom skickar den larmet även via WhatsApp.
+196|Free: 30 minuter · Premium: från 1 minut till 24 timmar
+197|Ladda ned i App Store <span class="arr">↗</span>
+198|Följeslagarappen på Apple Watch: ett tryck på EMERGENZA
+199|SOS-knapp på huvudskärmen
+200|Röstkommandot ”Hej Siri, Hjälp mig” (Premium)
+201|Tryck på Apple Watch-urtavlan, även med iPhone låst
+202|Telegram med position och kartlänk
+203|Sms med geolokalisering (Premium)
+204|WhatsApp med geolokalisering (Premium)
+205|Automatiskt samtal till kontakterna (Premium)
+206|Nedladdningen är gratis och omfattar SOS-knapp, Telegram med position, liveposition i 30 minuter och appen för Apple Watch. Premium lägger till Siri, sms, WhatsApp, samtal och liveposition från 1 minut till 24 timmar, med ett engångsköp och utan prenumeration.
+207|Sms, WhatsApp och samtal går via Apples genväg ”Proteggimi”, som installeras från appen. Från Apple Watch skickas Telegram och position även med iPhone låst; för övriga åtgärder måste iPhone-appen vara i förgrunden.
+209|Utan mobil
+211|En app enbart för Wear OS-klockor som inte behöver någon mobil. Det är no pAIn™-tekniken i bärbar form, kallad watch4help™: larmet startar direkt från handleden.
+212|Upp till 60 minuter
+213|Röstkommando på klockan
+214|Nödknapp på urtavlan
+215|Snabbåtkomst från urtavlan och komplikationer
+216|Bra att veta
+217|Fungerar självständigt, även när mobilen är långt bort eller avstängd
+218|Vilka kanaler som finns beror på klockans anslutning: LTE med SIM eller wifi/Bluetooth
+219|Ska inte förväxlas med följeslagarapparna till Proteggimi och AI help You, som fungerar tillsammans med den parkopplade telefonen.
+220|I bilder och video
+221|Så ser den ut och så fungerar den på handleden.
+222|Ett tryck på den stora röda knappen eller ett röstkommando: klockan skickar positionen och larmet till dina kontakter via Telegram, sms och samtal, även när mobilen är långt bort.
+223|Tryck på en bild för att förstora den. Svep i sidled för att se de andra.
+224|Affisch
+225|<strong>SOS från din smartklocka</strong>Röst eller beröring: skickar position och larm. Liveposition, Telegram, sms, samtal.
+226|Skärmbild
+227|<strong>Appen på klockan</strong>Knappen INVIO (skicka) och lyssnandet efter röstkommandon, som kan slås på och pausas.
+228|Andra lösningar
+229|Även dessa är en del av projektet.
+231|Ytterligare en flerspråkig lösning för Android: 12 språk, varav 3 med röstigenkänning även offline. Aktiveras med röstkommandon eller en manuell hjälpbegäran.
+232|Öppna Google Play <span class="arr">↗</span>
+234|Planerad
+235|AIutoSOS för Apple Watch
+236|En app särskilt för Apple Watch, som snart publiceras. Den skiljer sig från följeslagarappen som redan ingår i no pAIn™ för iPhone.
+237|Vill du använda Apple Watch redan i dag, installera <a class="link-arrow" href="#no-pain-ios">no pAIn™ för iPhone</a>.
+238|Knappen att ha i fickan som utlöser larmet i AI help You och no pAIn™ för iPhone. Vad den är, vad den inte är och var du köper den.
+239|Upptäck button4help™ →
+240|Inställning
+241|Följ manualen för din app.
+242|Livepositionens längd skiljer sig mellan apparna: kontrollera alternativen i den installerade appen.
+243|Manual Android <span class="arr">↗</span>
+244|Manual iOS <span class="arr">↗</span>
+245|Guide till Telegram <span class="arr">↗</span>
+246|Appar
+247|Affisch: Proteggimi (no pAIn), den annorlunda, smarta appen. Omedelbar hjälp även utan att röra mobilen. Lista över versioner för Android, Wear OS och iOS.
+248|Apple Watch med den stora röda knappen EMERGENZA och bekräftelsen Inviato (skickat)
+249|Affisch för AIuto SOS watch4help: en kvinna förföljs en regnig natt av en man i luva och trycker på HELP-knappen på sin smartklocka
+250|Wear OS-klocka med appen AIuto SOS: röd knapp INVIO (skicka) och knappen FERMA ASCOLTO (sluta lyssna)
+251|button4help™ — no pAIn™
+252|button4help™, Bluetooth-knappen som på avstånd utlöser larmet i no pAIn™-apparna. Vad den är, vad den inte är, var du köper den.
+253|no pAIn™:s fysiska knapp
+255|Liten att bära, enkel att aktivera. Det är projektets ”magiska knapp”: du har den i fickan, i väskan eller på nyckelringen, och när du håller in den i ett par sekunder startar appen i din mobil nödläget, även flera meter bort.
+256|Köp på AliExpress <span class="arr">↗</span>
+257|Så använder du den
+258|Knappen säljs inte av no pAIn™: du köper den hos en extern återförsäljare och parkopplar den med appen.
+259|Riktigt foto av button4help™ bredvid ett 50-centsmynt
+260|Så ser den ut och så använder du den.
+261|Ha den på nyckelringen eller i fickan. När det behövs trycker du: appen i telefonen startar automatiskt hjälpbegäran och livepositionen till dina kontakter.
+262|<strong>Ett tryck och larmet går</strong>Med AI help You: hjälpbegäran och liveposition i upp till 24 timmar. Affisch på engelska.
+263|Riktigt foto
+264|<strong>Den verkliga storleken</strong>Bara lite större än ett 50-centsmynt.
+265|Vad den är
+266|En fjärrkontroll för din telefon.
+267|button4help™ är en knapp som startar åtgärder i mobilen inom Bluetooth-räckvidd. Den är så liten eftersom den bara innehåller en Bluetooth Low Energy-modul och ett knappcellsbatteri: ingen GPS, inget wifi. Positionen tas fram av appen i telefonen.
+268|Fysisk aktivering utan att ta fram telefonen
+269|Anslutning till mobilen via Bluetooth
+270|Skickar enligt åtgärderna som ställts in i appen: meddelanden, position, samtal
+271|Aktivering
+272|Tryck i cirka 2 sekunder
+273|Anslutning
+274|Endast Bluetooth BLE
+275|Räckvidd
+276|Flera meter, Bluetooth-räckvidd
+277|Strömförsörjning
+278|Knappcellsbatteri
+279|Storlek
+280|Bara lite större än ett mynt
+281|Fungerar med
+282|AI help You (Android) och no pAIn™ (iPhone)
+283|Vad den inte är
+284|Ingen spårare. Ingen larmknapp för äldre.
+285|I handeln finns GPS- eller Bluetooth-spårare som ansluter till Apples AirTag-nätverk eller Androids nätverk och används för att hitta föremål och djur. button4help™ är något helt annat.
+286|Enhet
+287|Vad den används till
+288|GPS- eller BLE-spårare
+289|Hitta föremål och djur
+290|Lokaliseras via Apples AirTag-nätverk eller Androids nätverk
+291|SOS-knapp för äldre
+292|Ringa en larmcentral
+293|Egen enhet, ofta med eget SIM-kort eller egen basstation
+294|Utlösa larmet i no pAIn™-appen
+295|Fjärrkommando till mobilen: nödläget startar med meddelanden, position och samtal till dina kontakter
+296|Tre steg, sedan är den alltid med dig.
+297|Köp den
+298|Köp knappen hos återförsäljaren nedan. Pris, frakt och tillgänglighet beror på säljaren.
+299|Parkoppla den med appen
+300|I AI help You eller i no pAIn™ för iPhone följer du parkopplingen i manualen. Gör sedan ett test som du kommit överens om med dina kontakter.
+301|Håll in den
+302|När det behövs trycker du på knappen i ett par sekunder: appen startar de nödåtgärder du har ställt in.
+303|Knappen styr appen i mobilen: telefonen måste vara påslagen, inom Bluetooth-räckvidd och ha appen inställd. Om du behöver en enhet som fungerar utan telefon, se <a class="link-arrow" href="prodotti.html#aiuto-sos">AIuto SOS för Wear OS</a>.
+304|Var du köper den
+305|button4help™ köps på AliExpress, av en extern säljare. no pAIn™ säljer inte enheten och hanterar inte beställningar, frakt eller returer.
+306|Osäker på om den fungerar med din telefon? <a class="link-arrow" href="mailto:agostino.giorgio@poliba.it" data-mail="private">Skriv till oss innan du köper</a>.
+307|Finns smyckesversionen redan?
+308|Bilderna på den här sidan visar den nuvarande enheten. Marknadsföringsbilderna med hjärthängen eller andra smycken visar designmöjligheter: tillgänglighet och egenskaper måste bekräftas med formgivaren.
+309|Fler vanliga frågor →
+310|Riktigt foto av button4help, en rund svart knapp med ögla för nyckelring, bredvid ett 50-euroscentsmynt för att jämföra storleken
+311|Affisch för button4help med AI help You: en regnig natt håller en kvinna som förföljs av en man knappen på sin nyckelring; i den lilla bilden får en vän ett sms och positionen via Telegram
+312|Riktigt foto av button4help bredvid ett 50-euroscentsmynt
+313|no pAIn™ — Free och Premium
+314|Vad som ingår i gratis- och Premium-versionerna av no pAIn™-apparna för Android och iPhone, med en fullständig funktionsjämförelse.
+315|Välj med vetskap om <span class="hl">vad som ingår.</span>
+316|De kostnadsfria nödfunktionerna skiljer sig mellan Android och iPhone. Androids snabbknappar och SOS-knappen i iOS kan fortsatt användas gratis, enligt den avsedda inställningen.
+317|Snabbt nödläge, även gratis
+318|Utan prenumeration använder appen snabbt nödläge: aktiveringen sker från knapparna på hemskärmen eller den beständiga aviseringen. Knappen Avvia/Start är inaktiv; röst och ändring av inställningar är tillgängliga under ett aktivt snabbt nödläge.
+319|Premium ger den fullständiga användning som beskrivs i jämförelsen. Villkor och pris står på respektive apps sida i Google Play.
+321|SOS och Apple Watch ingår
+322|SOS-knapp med ett tryck
+323|Telegram med geolokalisering
+324|Liveposition i 30 minuter
+325|Följeslagarapp för Apple Watch
+326|Gratis nedladdning. De inkluderade nödfunktionerna förblir gratis.
+327|Ett köp, fler funktioner
+328|”Hej Siri, Hjälp mig” på 12 språk
+329|Sms, WhatsApp och samtal till kontakterna
+330|Liveposition från 1 minut till 24 timmar
+331|Engångsköp, ingen prenumeration. Priset visas i App Store.
+332|Fullständig jämförelse
+333|Alla funktioner, Android och iOS.
+334|Jämförelse hämtad från projektpresentationen. För Android är det en sammanfattning av appfamiljen: se <a class="link-arrow" href="prodotti.html">sidan för respektive app</a> för språk, tillbehör och positionens längd. På mobilen kan du rulla tabellen i sidled.
+335|Funktioner per plattform och version
+336|Funktion
+339|SOS på huvudsidan
+340|Nej¹
+341|Ja
+342|Snabbknappar på hemskärm / avisering, även med appen stängd
+343|Nej
+344|Röst: 4 fasta + 3 personliga nyckelord
+345|Ja²
+346|Aktivering med Google / Siri
+347|Offline röstigenkänning, på de språk som stöds
+348|Telegram med GPS, adress och kartlänk
+349|WhatsApp-meddelande
+350|Samtal till den inställda kontakten
+351|Beror på appen³
+352|30 minuter
+353|1 min – 24 tim
+354|Följeslagarapp Wear OS / Apple Watch
+355|Smartklocka utan mobil
+356|Egen Wear OS-app
+357|Snabbåtkomst från urtavlan och komplikationer
+358|Röstkommandon på smartklockan
+359|Ändra inställningar medan appen körs
+360|Inbyggd steg-för-steg-guide och pdf
+361|Inget konto, ingen inloggning, inget eget moln
+362|¹ Utan prenumeration är knappen Avvia/Start inaktiv; snabbknapparna för nödläge används.
+363|² I Android Free endast medan ett snabbt nödläge är aktivt.
+364|³ Presentationen anger upp till 24 timmar i de upplåsta versionerna: AI help You från 1 minut till 24 timmar, Proteggimi Android upp till 30 minuter, AIuto SOS watch4help™ upp till 60 minuter. De 12 språken gäller de flerspråkiga apparna; Proteggimi Android är på italienska.
+365|Frågor om kostnader och funktioner
+366|no pAIn™ — Så fungerar det
+367|Hur no pAIn™-apparna aktiveras, vilka åtgärder som startar, hur watch4help™ fungerar och hur du förbereder den första inställningen.
+368|Välj hur du aktiverar. <span class="hl">Bestäm vem du varnar.</span>
+369|Projektet erbjuder flera sätt att aktivera. Vilka funktioner som finns beror på appen, enheten och inställningarna.
+370|Välj appen som passar din enhet, ställ in de två nödkontakterna och aktivera de åtgärder du vill använda. Om du använder knappen, slutför parkopplingen.
+371|Sätten att aktivera
+372|Ett annat gränssnitt beroende på enheten du använder.
+373|Röst
+374|Utan att röra telefonen
+375|På Android: 4 fasta och 3 personliga nyckelord, som känns igen på enheten även i bakgrunden eller med skärmen avstängd, med telefonen några meter bort. På iOS Premium: ”Hej Siri, Hjälp mig”.
+376|Beröring
+377|SOS-knapp, hemskärm, avisering
+378|Använd SOS-knappen i din version. På Android fungerar snabbknapparna på hemskärmen och den beständiga aviseringen även med appen stängd.
+379|Från handleden
+380|Använd rösten eller knappen i den kompatibla appen. Skilj mellan telefonens följeslagarapp och den fristående Wear OS-appen.
+381|Från fickan
+382|Håll in knappen som är ansluten till telefonen i ett par sekunder: appen utför de inställda åtgärderna. <a class="link-arrow" href="button4help.html">Läs mer →</a>
+383|Efter aktiveringen
+384|De åtgärder du har valt.
+386|GPS-koordinater, adress och kartlänk i meddelandena till kontakterna. På iOS krävs Premium och Apples genväg.
+387|alla appar
+388|Positionen skickas och uppdateras live: 30 minuter på iOS Free, inställbar längd upp till 24 timmar i de upplåsta versionerna.
+389|Samtal
+390|Samtal till de nummer du angett. På iOS Premium startar de via Apples genväg ”Proteggimi”.
+392|Tillgängligt på iOS Premium via Apples genväg. Finns inte i Android-versionerna.
+393|<b>Viktigt</b> Apparna varnar de inställda kontakterna. De kontaktar inte samhällets räddningstjänster och ersätter dem inte: när dina kontakter fått larmet kan de ringa polisen med all information och komma till din hjälp.
+394|watch4help™ · SOS på handleden
+395|Ansluten till telefonen eller fristående.
+396|Två lägen att hålla isär
+397|Proteggimi och AI help You har en följeslagarapp för den parkopplade klockan. AIuto SOS watch4help™ är i stället den fristående lösningen, som kan användas utan mobil med en anslutning som passar de valda kanalerna.
+398|Ett tryck, med parkopplad iPhone
+399|Följeslagarappen kan starta Telegram och position även med iPhone låst. För att också starta sms, WhatsApp och samtal krävs Premium, en inställd genväg och iPhone-appen i förgrunden.
+400|Skärmbilder av apparna från projektpresentationen.
+401|Den första inställningen
+402|Förbered i förväg. Testa tillsammans.
+403|En korrekt inställning är en del av funktionen. Följ alltid manualen för din app.
+404|Välj vem du varnar
+405|Godkänn villkoren i appen, ange telefonnumren och chatt-ID:n i Telegram. Kom överens med kontakterna om hur en begäran ska hanteras.
+406|Aktivera det som behövs
+407|Välj kanaler, personliga nyckelord och nödvändiga behörigheter. På iOS ställer du in genvägen ”Proteggimi” för Premium-funktionerna.
+408|Kontrollera enheten
+409|Kontrollera batteri, anslutning, bakgrundsaktivitet och parkoppling av tillbehör.
+410|Gör ett överenskommet test
+411|Informera kontakterna först, testa och kontrollera att meddelande och position kommit fram.
+412|Anslutning och integritet: bra att veta →
+413|no pAIn™ — Teknik och forskning
+414|Tekniken och de vetenskapliga publikationerna i projektet no pAIn™ av professor Agostino Giorgio, Politecnico di Bari.
+415|Från forskning <span class="hl">till hjälpbegäran.</span>
+416|no pAIn™ betyder <em>never oppressed protected by Artificial Intelligence Non violence system</em>. Projektet av professor Agostino Giorgio, lärare vid Politecnico di Bari, använder artificiell intelligens, röstigenkänning och geolokalisering för hjälpbegäran till personer du litar på.
+417|Arkitektur
+418|Från din enhet till dina kontakter
+419|Projektet beskriver en arkitektur utan konto, inloggning eller eget moln. Utvecklaren uppger att inga personuppgifter samlas in; inställningar och kontakter stannar på enheten. För att leverera larm och ta fram adressen används ändå de externa tjänster som appen förutsätter.
+420|Röstigenkänning på enheten
+421|I Android-versionerna och på de upplåsta språken fungerar igenkänningen av nyckelord även offline. För att skicka larm krävs däremot de anslutningar som den valda kanalen behöver: mobildata, sms eller telefoni.
+422|Tillförlitlighet
+423|Kontinuitet och återställning
+424|Presentationen beskriver att larm skickas igen när nätet kommer tillbaka, att livepositionen återupptas efter avbrott och guidad återaktivering efter omstarter eller uppdateringar, med tester på riktiga mobiler och smartklockor. Den faktiska funktionen beror på version, behörigheter, nät och enhet.
+425|Publikationer
+426|Publicerad i en vetenskaplig tidskrift.
+427|Enheten och appen beskrivs i två fritt tillgängliga artiklar i den internationella tidskriften <em>Electronics</em> (MDPI).
+430|Fördjupa dig i projektet
+431|Den fullständiga presentationen.
+432|Funktion, versioner, skärmbilder och vetenskapliga referenser. Pdf på italienska, 23 sidor.
+433|Öppna pdf-presentationen <span class="arr">↗</span>
+434|Projektets marknadsföringsmaterial
+435|Affisch för projektet no pAIn av Agostino Giorgio, Politecnico di Bari: digital4help, digitalt skydd, en ny era för skyddet av kvinnor
+436|no pAIn™ — Samarbeta
+437|Ta med no pAIn™ till din organisation: offentliga aktörer, föreningar, företag och sponsorer.
+438|Ta med no pAIn™ <span class="hl">till din organisation.</span>
+439|Att tillhandahålla ett verktyg är första steget. Att göra det känt, förklara hur det används och bygga in det i ett stödnätverk är lika viktigt.
+440|Be om en demonstration <span class="arr">↗</span>
+441|Offentliga aktörer
+442|Lokala initiativ och pilotprojekt
+443|Vi utvärderar lokala initiativ och pilotprojekt, med en demonstration och gemensamma mål som utgångspunkt.
+444|Föreningar
+445|Bredvid dem som känner behoven
+446|En dialog med dem som varje dag arbetar med människor, för att förstå verktygets nytta, användningssätt och begränsningar.
+447|Företag och sponsorer
+448|Medvetenhet och stöd
+449|Vi går igenom förslag för användargrupper, informationsinsatser och stöd till lokala projekt.
+450|Vad vi bidrar med
+451|En teknik född på universitetet, redo att använda.
+452|Gratis appar för Android, iPhone och smartklockor, en knapp som vem som helst kan köpa, inga konton och inget moln att hantera. Och ett projekt som beskrivs i vetenskapliga publikationer.
+453|En demonstration är det bästa sättet att börja <span class="arr">↗</span>
+454|Pdf-presentation <span class="arr">↗</span>
+455|Affisch: Proteggimi (no pAIn), den annorlunda, smarta appen. Omedelbar hjälp även utan att röra mobilen.
+456|no pAIn™ — Vanliga frågor
+457|Tydliga svar om no pAIn™-apparna, button4help™, anslutning, integritet och kostnader.
+458|Enkla frågor. <span class="hl">Tydliga svar.</span>
+459|Innan du väljer, lär dig hur det fungerar och vilka villkor som gäller.
+460|Varför inte ringa 112 direkt?
+461|112 är fortfarande viktigt, och ring om du kan. Men i fara går det ofta inte att prata med en operatör, förklara situationen och säga var du är. Det är just därför no pAIn™-apparna finns: med ett ord eller en diskret beröring varnar de två personer du litar på och skickar din position, och det är de som ringer polisen.
+462|Vem får hjälpbegäran?
+463|De två nödkontakter du angett i appen, släktingar eller vänner. Beroende på appen kan du aktivera sms, WhatsApp (iPhone), Telegram och samtal. Apparna kontaktar inte samhällets räddningstjänster.
+464|Kan jag använda dem med iPhone?
+465|Ja: no pAIn™ (Proteggimi) finns i App Store, på 12 språk och med följeslagarapp för Apple Watch. Gratisversionen innehåller SOS och Telegram; Premium lägger till Siri, sms, WhatsApp och samtal via Genvägar. <a href="versioni.html">Se jämförelsen</a>.
+466|Vad kostar de?
+467|På iOS är nedladdningen och Free-funktionerna gratis; Premium kräver ett engångsköp, ingen prenumeration. På Android förblir snabbknapparna för nödläge gratis, med de begränsningar som visas i <a href="versioni.html">jämförelsen</a>. Se butikerna för apparnas priser.
+468|Syns positionen i 24 timmar i alla appar?
+469|Längden beror på appen och versionen. På iOS Free är den 30 minuter; på iOS Premium från 1 minut till 24 timmar. AI help You går upp till 24 timmar; Proteggimi Android och AIuto SOS watch4help™ anger 30 respektive 60 minuter. Kontrollera alternativen i den installerade appen.
+470|Måste smartklockan alltid vara nära telefonen?
+471|På Wear OS kan du välja mellan telefonens följeslagarapp och den fristående AIuto SOS watch4help™, som använder klockans anslutning. Följeslagarappen för Apple Watch fungerar med den parkopplade iPhonen: Telegram och position kan skickas även med iPhone låst; för övriga Premium-åtgärder måste iPhone-appen vara i förgrunden. En egen AIutoSOS-app för Apple Watch är planerad.
+472|Fungerar knappen utan mobil?
+473|Nej. button4help™ styr en app i den parkopplade mobilen: telefonen måste vara påslagen och nåbar via Bluetooth. Behöver du en lösning utan telefon finns den fristående appen <a href="prodotti.html#aiuto-sos">AIuto SOS watch4help™</a> för Wear OS, vars funktioner beror på klockans anslutning.
+474|Hur skiljer den sig från en AirTag eller en spårare?
+475|GPS- eller Bluetooth-spårare används för att hitta föremål och djur via Apples AirTag-nätverk eller Androids nätverk. button4help™ går inte att lokalisera: det är en knapp som, intryckt i ett par sekunder, utlöser nödläget i appen. Den innehåller bara en Bluetooth Low Energy-modul och ett knappcellsbatteri, därför är den så liten. Den skiljer sig också från klassiska SOS-knappar för äldre.
+476|Var köper jag den och vilka appar fungerar den med?
+477|Den köps på <a href="https://it.aliexpress.com/item/1005008509583971.html" target="_blank" rel="noopener">AliExpress</a>, av en extern säljare: no pAIn™ säljer den inte. Den fungerar med AI help You på Android och med no pAIn™ på iPhone. Om du är osäker på kompatibiliteten med din telefon, <a href="mailto:agostino.giorgio@poliba.it" data-mail="private">skriv till formgivaren</a>.
+478|Bilderna på knappen visar den nuvarande enheten. Marknadsföringsbilderna med hjärthängen eller andra smycken visar designmöjligheter: tillgänglighet och egenskaper för dessa tillbehör måste bekräftas med formgivaren.
+479|Anslutning och integritet
+480|Betyder ”offline-AI” att ingen anslutning behövs?
+481|Den lokala igenkänningen av nyckelord skickar inte ljud till en molntjänst. Att skicka larm är ett separat steg: Telegram och WhatsApp kräver internet; sms och samtal beror på nätet och operatörsabonnemanget. Anslutningen mellan tillbehör och telefon måste också finnas.
+482|Spelas samtal in?
+483|Utvecklaren uppger att mikrofonen används för lokal igenkänning av nyckelord, utan att ljud spelas in, och att kontakter och inställningar stannar på enheten. Larmen använder ändå externa tjänster, som teleoperatörer och Telegram, med egna integritetspolicyer. Läs <a href="https://poliba.wixsite.com/no_pain_privacy" target="_blank" rel="noopener">integritetspolicyn för respektive app</a>.
+484|Behöver jag skapa ett konto?
+485|Nej. Apparna kräver inget konto, ingen inloggning och inget eget moln: inställningar och kontakter stannar i din telefon.

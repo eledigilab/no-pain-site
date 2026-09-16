@@ -1,0 +1,458 @@
+ui.menu|Menü
+ui.close|Schließen
+ui.closeImage|Schließen
+mail.privateSubject|button4help™ — Informationsanfrage
+mail.privateBody|Guten Tag,\nich möchte Informationen zu button4help™ erhalten: Preis, Verfügbarkeit und Kompatibilität mit meinem Telefon.\n\nTelefonmodell: \n\nMit freundlichen Grüßen
+mail.partnerSubject|no pAIn™ — Anfrage zur Zusammenarbeit
+mail.partnerBody|Guten Tag,\nich möchte mehr über das Projekt no pAIn™ erfahren und eine mögliche Zusammenarbeit oder Vorführung besprechen.\n\nEinrichtung oder Unternehmen: \nAnsprechperson: \n\nMit freundlichen Grüßen
+002|no pAIn™: digitaler Schutz vor geschlechtsspezifischer Gewalt. Apps und Geräte, die per Stimme oder Geste Hilfe rufen, ohne mit jemandem sprechen zu müssen.
+003|Das Projekt
+004|Die Apps
+006|Free & Premium
+007|So funktioniert’s
+008|Forschung
+009|Organisationen
+010|Fragen
+011|Kontakt
+012|Digitaler Schutz · digital4help™
+013|Hilfe rufen, <span class="hl">ohne sprechen zu müssen.</span>
+014|no pAIn™ ist ein Ökosystem aus Apps und Geräten zur Prävention geschlechtsspezifischer Gewalt. Mit einem Wort, einer Berührung oder einem Knopfdruck benachrichtigt es sofort zwei Vertrauenspersonen mit Ihrem Standort: Nachrichten und Anrufe gehen automatisch hinaus.
+015|Wählen Sie Ihre App <span class="arr">→</span>
+016|button4help™ entdecken <span class="arr">→</span>
+017|Ein Projekt von <strong>Prof. Ing. Agostino Giorgio</strong><br>Dozent am Politecnico di Bari
+019|Giulia<small>Notfallkontakt</small>
+020|<span class="sos">HILFERUF</span><br>Ich brauche Hilfe. Das ist mein Standort.
+021|41.1087° N, 16.8784° E<br><span class="live">● Live-Standort aktiv</span>
+022|Beispiel dafür, was ein Kontakt erhält
+023|Die Idee
+024|Von signal4help zu <span class="hl">digital4help™</span>
+025|Das Handzeichen signal4help ist zur weltweit bekannten Geste geworden, mit der Menschen in Gefahr lautlos um Hilfe bitten. Doch es wirkt nur, wenn jemand es sieht. no pAIn™ hat daraus eine elektronische Version gemacht: Das „signal for help“ erreicht die richtigen Menschen, wo immer sie sind, zusammen mit dem Standort.
+026|GESTE 1
+027|Offene Handfläche
+028|GESTE 2
+029|Daumen in die Handfläche gelegt
+030|GESTE 3
+031|Finger über dem Daumen geschlossen
+033|Dieselbe Botschaft, ohne gesehen werden zu müssen
+034|Ein laut gesprochenes Schlüsselwort, eine Berührung auf dem Bildschirm, auf der Uhr oder auf einem Knopf in der Tasche. Die App erledigt den Rest und benachrichtigt Ihre Notfallkontakte.
+035|Warum es wichtig ist
+036|In Gefahr kann man nicht immer sprechen.
+037|Die 112 und Apps wie YouPol bleiben unverzichtbar. Sie verlangen jedoch, mit einer Leitstelle zu sprechen, die Lage zu erklären und den eigenen Aufenthaltsort zu nennen. Mit einem Angreifer daneben ist das oft unmöglich.
+038|Anruf oder Melde-App
+039|Man muss das Telefon in die Hand nehmen und entsperren
+040|Man muss sprechen oder schreiben und die Lage erklären
+041|Man muss beschreiben, wo man ist
+042|Der Angreifer kann es bemerken
+043|Eine App mit no pAIn™-Technologie
+044|Ein Schlüsselwort genügt, auch wenn das Telefon einige Meter entfernt ist
+045|Oder eine unauffällige Berührung: auf einer Benachrichtigung, auf der Uhr, auf einem Knopf
+046|Der Standort wird automatisch gesendet
+047|Zwei Vertrauenspersonen werden sofort benachrichtigt und können die Polizei rufen
+048|So aktivieren Sie es
+049|Sechs blitzschnelle Wege, Alarm auszulösen.
+050|Jede Situation ist anders: Deshalb bieten die no pAIn™-Apps mehrere Auslöser. Wählen Sie die, die Sie unbemerkt nutzen können. Die verfügbaren Funktionen hängen von App und Gerät ab.
+051|Offline-KI
+052|Sprachbefehl
+053|Sie sprechen ein Schlüsselwort aus und die Notfallaktionen starten, ohne das Telefon zu berühren. Unter Android läuft die Spracherkennung auf dem Gerät, mit 4 festen und 3 persönlichen Schlüsselwörtern: Sie funktioniert bei geöffneter, im Hintergrund laufender oder geschlossener App, auch bei ausgeschaltetem Bildschirm und mit dem Telefon einige Meter entfernt. Auf dem iPhone genügt „Hey Siri, Hilf mir“.
+054|App geöffnet
+055|Notfallknopf in der App
+056|Der große SOS-Knopf auf dem Hauptbildschirm. Die einfachste Methode; die App muss dafür im Vordergrund sein.
+057|Android · App geschlossen
+058|Schnellknopf auf dem Startbildschirm
+059|Ein Knopf auf dem Startbildschirm weckt die App auch dann, wenn sie geschlossen ist und ruht, und startet sofort den Notfall.
+060|Android · unauffällig
+061|Dauerhafte Benachrichtigung
+062|Eine Berührung der Benachrichtigung, die immer da ist. Wer Sie beobachtet, denkt, Sie scrollen nur durch Ihre Benachrichtigungen: In Wirklichkeit rufen Sie um Hilfe.
+064|Smartwatch
+065|Stimme oder Knopf auf dem Zifferblatt einer Wear-OS-Smartwatch oder eine Berührung auf der Apple Watch. Die Smartphone-Apps haben eine eigene Begleit-App für die Uhr; AIuto SOS funktioniert sogar ohne Smartphone.
+066|Knopf button4help™
+067|Halten Sie den kleinen Knopf, den Sie bei sich tragen, ein paar Sekunden gedrückt: Die App auf dem mehrere Meter entfernten Smartphone startet den Notfall. <a class="link-arrow" href="button4help.html">Entdecken →</a>
+068|Was passiert
+069|Alles startet von selbst, an zwei Vertrauenspersonen.
+070|In der App legen Sie zwei Notfallkontakte fest, Angehörige oder Freunde. Sobald der Alarm ausgelöst wird, erhalten sie Ihren Hilferuf und Ihren Standort.
+072|SMS mit Standort
+073|GPS-Koordinaten, Adresse und Kartenlink. Wird über das Telefonnetz gesendet, ohne Internet.
+075|WhatsApp mit Standort
+076|Auf dem iPhone kommt die Nachricht mit dem Standort auch per WhatsApp an.
+077|live bis zu 24 Stunden
+078|Telegram mit Live-Standort
+079|Der Standort wird in Echtzeit aktualisiert, damit Ihre Kontakte Ihnen folgen können. Die Dauer hängt von App und Version ab.
+080|Anruf
+081|Die App ruft Ihre Notfallkontakte an, ohne dass Sie eine Nummer wählen müssen.
+082|Sie
+083|Stimme, Berührung oder Knopf
+084|no pAIn™-App
+085|Standort + Nachrichten
+086|2 Vertrauenskontakte
+087|SMS · WhatsApp · Telegram · Anruf
+088|Konkrete Hilfe
+089|sie rufen die Polizei oder kommen zu Ihnen
+090|<b>Wichtig</b> Die Apps benachrichtigen die von Ihnen gewählten Kontakte: Sie rufen nicht direkt die 112 an und ersetzen sie nicht. Vereinbaren Sie vorher mit Ihren Kontakten, was bei einem Alarm zu tun ist, und machen Sie gemeinsam einen Test.
+091|Werbematerial des Projekts. Der Schmuck in den Illustrationen ist ein Designkonzept.
+092|Das Ökosystem
+093|Ihr Gerät. Ihre no pAIn™-App.
+094|Android-Smartphones, iPhone, Smartwatches und ein Knopf für die Tasche. Sprachen, Verbindungen und Funktionen unterscheiden sich von App zu App: Wählen Sie die passende Lösung.
+095|ANDROID · 12 SPRACHEN
+097|Die mehrsprachige Version für Android, kompatibel mit button4help™.
+098|Entdecken →
+099|ANDROID · ITALIENISCH
+100|Proteggimi (no pAIn™)
+101|Die no pAIn™-App für Android auf Italienisch.
+102|IPHONE · 12 SPRACHEN
+103|no pAIn™ (Proteggimi)
+104|Die Version für iPhone und Apple Watch.
+105|WEAR OS · NUR SMARTWATCH
+107|Funktioniert allein auf der Uhr, ohne Smartphone.
+108|BLUETOOTH-GERÄT
+109|Der Knopf, der aus der Ferne Alarm auslöst. Erhältlich bei einem externen Händler.
+110|Free- und Premium-Version vergleichen →
+111|Erste Schritte
+112|Wählen Sie, wie Sie auslösen. Entscheiden Sie, wen Sie benachrichtigen.
+113|Ihr Netzwerk vorbereiten
+114|Wählen Sie die App für Ihr Gerät, richten Sie die Kontakte ein und aktivieren Sie die gewünschten Aktionen. Wenn Sie den Knopf nutzen, schließen Sie die Kopplung ab.
+115|Vor der Nutzung
+116|Hilferuf auslösen
+117|Nutzen Sie die Methode Ihrer App: Sprachbefehl, Berührung des Bildschirms, kompatible Smartwatch oder gekoppelter physischer Knopf.
+118|Im Ernstfall
+119|Ihre Kontakte benachrichtigen
+120|Die aktivierten Aktionen starten: Nachrichten mit Standort, Live-Freigabe über Telegram und Anrufe an die eingerichteten Kontakte.
+121|An Ihre Kontakte
+122|Alle Details zur Funktionsweise →
+123|Technologie und Forschung
+124|An der Universität entstanden, in einer Fachzeitschrift veröffentlicht.
+125|no pAIn™ steht für <em>never oppressed protected by Artificial Intelligence Non violence system</em>. Das Projekt ist in zwei Artikeln der Zeitschrift <em>Electronics</em> (2024 und 2026) und in einer vollständigen Präsentation mit 23 Seiten beschrieben.
+126|Technologie und Veröffentlichungen →
+127|Zusammenarbeit
+128|Bringen Sie no pAIn™ in Ihre Organisation.
+129|Behörden, Vereine, Unternehmen und Sponsoren: Das Werkzeug bekannt zu machen und in ein Unterstützungsnetz einzubinden, ist genauso wichtig, wie es bereitzustellen.
+130|Angebote für Organisationen und Unternehmen →
+131|Preise, Verfügbarkeit und Zusammenarbeit
+132|Finden wir die passende Lösung für Sie.
+134|Fachbereich Elektrotechnik und Informationstechnik
+136|Tel. Büro: 080 596 3239/579
+137|Informationen für Privatpersonen
+138|Apps, button4help™ und Kompatibilität mit Ihrem Telefon
+139|Angebote für Organisationen und Unternehmen
+140|Vorführungen und Zusammenarbeit
+141|Ihr E-Mail-Programm öffnet sich. Sie können auch direkt schreiben an <a href="mailto:agostino.giorgio@poliba.it">agostino.giorgio@poliba.it</a>
+142|Ein Projekt von Prof. Ing. Agostino Giorgio<br>Dozent am Politecnico di Bari
+143|Die Website
+144|Ressourcen
+145|Handbücher und Datenschutz der Apps ↗
+146|Projektpräsentation (PDF, auf Italienisch) ↗
+148|Bei unmittelbarer Gefahr rufen Sie die 112 an. Die no pAIn™-Apps benachrichtigen die von Ihnen gewählten Notfallkontakte und ersetzen keine öffentlichen Notdienste.
+149|Informieren. Einrichten. Testen.
+150|Hauptnavigation
+151|Beispiel einer Notfallnachricht, die ein Kontakt erhält, mit Karte und Live-Standort
+152|Weg des Hilferufs
+153|Plakat des Projekts no pAIn: digital4help, digitaler Schutz. Es nennt Proteggimi für Android auf Italienisch, AI help You für Android in 12 Sprachen, AIuto SOS watch4help für Wear-OS-Smartwatches und no pAIn für iOS.
+154|no pAIn™ — Die Apps
+155|Die Apps des Projekts no pAIn™: AI help You, Proteggimi, no pAIn™ für iPhone, AIuto SOS watch4help™ für Wear OS, AI help App.
+156|Wählen Sie Ihre App
+157|Wählen Sie, wie Sie <span class="hl">sich Gehör verschaffen.</span>
+158|no pAIn™ bringt ein elektronisches „signal for help“ auf das Smartphone, auslösbar per Stimme oder Berührung. watch4help™ ist dieselbe Technologie für Smartwatches. Sprachen, Verbindungen und Funktionen unterscheiden sich von App zu App.
+163|AI help App · AIutoSOS Apple Watch
+165|Werbematerial des Projekts · illustratives Konzept
+167|12 Sprachen
+170|Die Android-Version in 12 Sprachen, mit anpassbaren Schlüsselwörtern, Offline-Spracherkennung und Begleit-App für Wear-OS-Smartwatches. Sie bietet alle Auslöser der no pAIn™-Technologie, einschließlich des Knopfs button4help™.
+171|Live-Standort über Telegram
+172|Von 1 Minute bis 24 Stunden, einstellbar
+173|Bei Google Play laden <span class="arr">↗</span>
+174|Sprachbefehle: 4 feste und 3 persönliche Schlüsselwörter, auch bei ausgeschaltetem Bildschirm und mit dem Telefon einige Meter entfernt
+175|Aktivierung mit Google Assistant
+176|Notfallknopf auf dem Hauptbildschirm
+177|Schnellknopf auf dem Startbildschirm, der die geschlossene App weckt
+178|Stimme oder Knopf in der Begleit-App für Wear-OS-Smartwatches
+179|Einige Sekunden Druck auf button4help™
+180|Was gesendet wird
+181|SMS mit GPS-Koordinaten, Adresse und Kartenlink
+182|Automatischer Anruf an die Kontakte
+183|WhatsApp unter Android nicht vorgesehen
+184|AI help You benachrichtigt die eingerichteten Kontakte. Die App kontaktiert keine öffentlichen Notdienste und ersetzt sie nicht. Ohne Abo funktioniert sie im Schnellnotfall-Modus: <a class="link-arrow" href="versioni.html">siehe Free und Premium</a>.
+185|Italienisch
+186|Proteggimi <span class="hl">(no pAIn™)</span>
+187|Die Android-Version auf Italienisch, auslösbar per Stimme oder manuell. Sie hört Ihre Schlüsselwörter auch bei geschlossener App und ausgeschaltetem Bildschirm und hat eine Begleit-App für Wear-OS-Smartwatches.
+188|Bis zu 30 Minuten
+189|Sprachbefehle mit eigenen Schlüsselwörtern, Offline-Spracherkennung
+190|SMS mit Standortangabe
+191|Telegram mit Standort, auch live
+194|no pAIn™ <span class="hl">(Proteggimi)</span>
+195|Die iPhone-Version mit denselben Kernfunktionen wie AI help You: 12 Sprachen, Begleit-App für Apple Watch und Kompatibilität mit button4help™. Zusätzlich sendet sie den Alarm auch über WhatsApp.
+196|Free: 30 Minuten · Premium: von 1 Minute bis 24 Stunden
+197|Im App Store laden <span class="arr">↗</span>
+198|Die Begleit-App auf der Apple Watch: eine Berührung auf EMERGENZA
+199|SOS-Knopf auf dem Hauptbildschirm
+200|Sprachbefehl „Hey Siri, Hilf mir“ (Premium)
+201|Berührung auf dem Zifferblatt der Apple Watch, auch bei gesperrtem iPhone
+202|Telegram mit Standort und Kartenlink
+203|SMS mit Standortangabe (Premium)
+204|WhatsApp mit Standortangabe (Premium)
+205|Automatischer Anruf an die Kontakte (Premium)
+206|Der Download ist kostenlos und umfasst SOS-Knopf, Telegram mit Standort, 30 Minuten Live-Standort und die Apple-Watch-App. Premium ergänzt Siri, SMS, WhatsApp, Anruf und Live-Standort von 1 Minute bis 24 Stunden – mit einem einmaligen Kauf, ohne Abo.
+207|SMS, WhatsApp und Anruf laufen über den Apple-Kurzbefehl „Proteggimi“, der aus der App installiert wird. Von der Apple Watch starten Telegram und Standort auch bei gesperrtem iPhone; für die übrigen Aktionen muss die iPhone-App im Vordergrund sein.
+209|Ohne Smartphone
+211|Eine App nur für Wear-OS-Smartwatches, die kein Smartphone braucht. Es ist die no pAIn™-Technologie zum Tragen, watch4help™ genannt: Der Alarm startet direkt am Handgelenk.
+212|Bis zu 60 Minuten
+213|Sprachbefehl auf der Uhr
+214|Notfallknopf auf dem Zifferblatt
+215|Schnellzugriff über Zifferblatt und Komplikationen
+216|Gut zu wissen
+217|Funktioniert eigenständig, auch wenn das Smartphone weit weg oder ausgeschaltet ist
+218|Die verfügbaren Kanäle hängen von der Verbindung der Uhr ab: LTE mit SIM oder WLAN/Bluetooth
+219|Nicht zu verwechseln mit den Begleit-Apps von Proteggimi und AI help You, die mit dem gekoppelten Telefon zusammenarbeiten.
+220|In Bildern und Videos
+221|So sieht es aus und so funktioniert es am Handgelenk.
+222|Eine Berührung des großen roten Knopfs oder ein Sprachbefehl: Die Uhr sendet Standort und Alarm per Telegram, SMS und Anruf an Ihre Kontakte, auch wenn das Smartphone weit weg ist.
+223|Tippen Sie auf ein Bild, um es zu vergrößern. Wischen Sie seitlich, um die weiteren zu sehen.
+224|Plakat
+225|<strong>SOS von Ihrer Smartwatch</strong>Stimme oder Berührung: sendet Standort und Alarm. Live-Standort, Telegram, SMS, Anruf.
+226|Bildschirmfoto
+227|<strong>Die App auf der Uhr</strong>Der Knopf INVIO (Senden) und das Zuhören auf Sprachbefehle, ein- und ausschaltbar.
+228|Weitere Lösungen
+229|Auch diese gehören zum Projekt.
+231|Eine weitere mehrsprachige Lösung für Android: 12 Sprachen, davon 3 mit Spracherkennung auch offline. Sie wird per Sprachbefehl oder manuellem Hilferuf ausgelöst.
+232|Google Play öffnen <span class="arr">↗</span>
+234|Geplant
+235|AIutoSOS für Apple Watch
+236|Eine eigene App für die Apple Watch, die bald erscheint. Sie unterscheidet sich von der Begleit-App, die bereits in no pAIn™ für iPhone enthalten ist.
+237|Um die Apple Watch schon heute zu nutzen, installieren Sie <a class="link-arrow" href="#no-pain-ios">no pAIn™ für iPhone</a>.
+238|Der Knopf für die Tasche, der den Alarm von AI help You und no pAIn™ für iPhone auslöst. Was er ist, was er nicht ist und wo man ihn kauft.
+239|button4help™ entdecken →
+240|Einrichtung
+241|Folgen Sie dem Handbuch Ihrer App.
+242|Die Dauer des Live-Standorts ist je nach App verschieden: Prüfen Sie die Optionen der installierten App.
+243|Handbuch Android <span class="arr">↗</span>
+244|Handbuch iOS <span class="arr">↗</span>
+245|Telegram-Anleitung <span class="arr">↗</span>
+246|Apps
+247|Plakat: Proteggimi (no pAIn), die andere, intelligente App. Sofortige Hilfe, auch ohne das Smartphone zu berühren. Liste der Versionen für Android, Wear OS und iOS.
+248|Apple Watch mit dem großen roten Knopf EMERGENZA und der Bestätigung Inviato (gesendet)
+249|Plakat von AIuto SOS watch4help: Eine Frau wird nachts im Regen von einem Mann mit Kapuze verfolgt und drückt den HELP-Knopf auf ihrer Smartwatch
+250|Wear-OS-Smartwatch mit der App AIuto SOS: roter Knopf INVIO (Senden) und Knopf FERMA ASCOLTO (Zuhören beenden)
+251|button4help™ — no pAIn™
+252|button4help™, der Bluetooth-Knopf, der den Alarm der no pAIn™-Apps aus der Ferne auslöst. Was er ist, was er nicht ist, wo man ihn kauft.
+253|Der physische Knopf von no pAIn™
+255|Klein zum Mitnehmen, einfach auszulösen. Der „Zauberknopf“ des Projekts: Sie tragen ihn in der Tasche, in der Handtasche oder am Schlüsselbund, und wenn Sie ihn ein paar Sekunden gedrückt halten, startet die App auf Ihrem Smartphone den Notfall – auch aus mehreren Metern Entfernung.
+256|Bei AliExpress kaufen <span class="arr">↗</span>
+257|So wird er benutzt
+258|Der Knopf wird nicht von no pAIn™ verkauft: Sie kaufen ihn bei einem externen Händler und koppeln ihn mit der App.
+259|Echtes Foto von button4help™ neben einer 50-Cent-Münze
+260|So sieht er aus und so wird er benutzt.
+261|Tragen Sie ihn am Schlüsselbund oder in der Tasche. Im Ernstfall drücken Sie ihn: Die App auf dem Telefon startet automatisch die Hilferufe und den Live-Standort an Ihre Kontakte.
+262|<strong>Ein Druck, der Alarm geht los</strong>Mit AI help You: Hilferufe und Live-Standort bis zu 24 Stunden. Plakat auf Englisch.
+263|Echtes Foto
+264|<strong>Die echte Größe</strong>Nur wenig größer als eine 50-Cent-Münze.
+265|Was er ist
+266|Eine Fernbedienung für Ihr Telefon.
+267|button4help™ ist ein Knopf, der innerhalb der Bluetooth-Reichweite Abläufe auf dem Smartphone startet. Er ist so klein, weil er nur ein Bluetooth-Low-Energy-Modul und eine Knopfzelle enthält: kein GPS, kein WLAN. Den Standort ermittelt die App auf dem Telefon.
+268|Physisches Auslösen, ohne das Telefon in die Hand zu nehmen
+269|Verbindung zum Smartphone über Bluetooth
+270|Senden gemäß den in der App eingestellten Aktionen: Nachrichten, Standort, Anrufe
+271|Auslösen
+272|Etwa 2 Sekunden drücken
+273|Verbindung
+274|Nur Bluetooth BLE
+275|Reichweite
+276|Mehrere Meter, Bluetooth-Reichweite
+277|Stromversorgung
+278|Knopfzelle
+279|Größe
+280|Kaum größer als eine Münze
+281|Funktioniert mit
+282|AI help You (Android) und no pAIn™ (iPhone)
+283|Was er nicht ist
+284|Kein Ortungsgerät. Kein Seniorennotrufknopf.
+285|Im Handel gibt es GPS- oder Bluetooth-Tracker, die sich mit Apples AirTag-Netzwerk oder dem Android-Netzwerk verbinden und zum Wiederfinden von Gegenständen und Haustieren dienen. button4help™ ist etwas völlig anderes.
+286|Gerät
+287|Wofür es dient
+288|GPS- oder BLE-Tracker
+289|Gegenstände und Haustiere wiederfinden
+290|Wird über Apples AirTag-Netzwerk oder das Android-Netzwerk geortet
+291|SOS-Knopf für Senioren
+292|Eine Notrufzentrale anrufen
+293|Eigenes Gerät, oft mit eigener SIM oder Basisstation
+294|Den Alarm der no pAIn™-App auslösen
+295|Fernbedienung für das Smartphone: Der Notfall startet mit Nachrichten, Standort und Anrufen an Ihre Kontakte
+296|Drei Schritte, dann ist er immer dabei.
+297|Kaufen
+298|Kaufen Sie den Knopf beim unten angegebenen Händler. Preis, Versand und Verfügbarkeit hängen vom Verkäufer ab.
+299|Mit der App koppeln
+300|Folgen Sie in AI help You oder in no pAIn™ für iPhone der Kopplungsanleitung im Handbuch. Machen Sie danach einen mit Ihren Kontakten vereinbarten Test.
+301|Gedrückt halten
+302|Im Ernstfall drücken Sie den Knopf ein paar Sekunden: Die App startet die eingestellten Notfallaktionen.
+303|Der Knopf steuert die App auf dem Smartphone: Das Telefon muss eingeschaltet, in Bluetooth-Reichweite und die App eingerichtet sein. Wenn Sie ein Gerät brauchen, das ohne Telefon funktioniert, sehen Sie sich <a class="link-arrow" href="prodotti.html#aiuto-sos">AIuto SOS für Wear OS</a> an.
+304|Wo man ihn kauft
+305|button4help™ ist bei AliExpress von einem Drittanbieter erhältlich. no pAIn™ verkauft das Gerät nicht und kümmert sich nicht um Bestellungen, Versand oder Rücksendungen.
+306|Unsicher, ob er mit Ihrem Telefon kompatibel ist? <a class="link-arrow" href="mailto:agostino.giorgio@poliba.it" data-mail="private">Schreiben Sie uns vor dem Kauf</a>.
+307|Gibt es die Schmuckversion schon?
+308|Die Fotos auf dieser Seite zeigen das aktuelle Gerät. Die Werbebilder mit Herzanhängern oder anderem Schmuck zeigen Designmöglichkeiten: Verfügbarkeit und Eigenschaften sind mit dem Entwickler abzuklären.
+309|Weitere häufige Fragen →
+310|Echtes Foto von button4help, einem runden schwarzen Knopf mit Schlüsselring-Öse, neben einer 50-Euro-Cent-Münze zum Größenvergleich
+311|Plakat von button4help mit AI help You: Nachts im Regen hält eine von einem Mann verfolgte Frau den Knopf an ihrem Schlüsselbund; im kleinen Bild erhält eine Freundin eine SMS und den Standort über Telegram
+312|Echtes Foto von button4help neben einer 50-Euro-Cent-Münze
+313|no pAIn™ — Free & Premium
+314|Was in den kostenlosen und Premium-Versionen der no pAIn™-Apps für Android und iPhone enthalten ist, mit vollständigem Funktionsvergleich.
+315|Wählen Sie mit Wissen, <span class="hl">was enthalten ist.</span>
+316|Die kostenlosen Notfallfunktionen unterscheiden sich zwischen Android und iPhone. Die Android-Schnellknöpfe und der SOS-Knopf unter iOS bleiben gemäß der vorgesehenen Konfiguration kostenlos nutzbar.
+317|Schnellnotfall, auch kostenlos
+318|Ohne Abo nutzt die App den Schnellnotfall-Modus: Ausgelöst wird über die Knöpfe auf dem Startbildschirm oder die dauerhafte Benachrichtigung. Der Knopf Avvia/Start ist inaktiv; Stimme und Einstellungsänderungen sind während eines aktiven Schnellnotfalls verfügbar.
+319|Premium ermöglicht die im Vergleich beschriebene volle Nutzung. Bedingungen und Preis stehen auf der Google-Play-Seite der jeweiligen App.
+321|SOS und Apple Watch inklusive
+322|SOS-Knopf per Berührung
+323|Telegram mit Standortangabe
+324|Live-Standort für 30 Minuten
+325|Begleit-App für Apple Watch
+326|Kostenloser Download. Die enthaltenen Notfallfunktionen bleiben kostenlos.
+327|Ein Kauf, mehr Funktionen
+328|„Hey Siri, Hilf mir“ in 12 Sprachen
+329|SMS, WhatsApp und Anruf an die Kontakte
+330|Live-Standort von 1 Minute bis 24 Stunden
+331|Einmaliger Kauf, ohne Abo. Der Preis steht im App Store.
+332|Vollständiger Vergleich
+333|Alle Funktionen, Android und iOS.
+334|Vergleich aus der Projektpräsentation. Für Android ist es eine Zusammenfassung der App-Familie: Sehen Sie auf der <a class="link-arrow" href="prodotti.html">Seite der jeweiligen App</a> nach Sprachen, Zubehör und Standortdauer. Auf dem Telefon können Sie die Tabelle seitlich scrollen.
+335|Funktionen nach Plattform und Version
+336|Funktion
+339|SOS auf dem Hauptbildschirm
+340|Nein¹
+341|Ja
+342|Schnellknöpfe Startbildschirm / Benachrichtigung, auch bei geschlossener App
+343|Nein
+344|Stimme: 4 feste + 3 persönliche Schlüsselwörter
+345|Ja²
+346|Aktivierung mit Google / Siri
+347|Offline-Spracherkennung in den unterstützten Sprachen
+348|Telegram mit GPS, Adresse und Kartenlink
+349|WhatsApp-Nachricht
+350|Anruf an den eingerichteten Kontakt
+351|Je nach App³
+352|30 Minuten
+353|1 Min. – 24 Std.
+354|Begleit-App Wear OS / Apple Watch
+355|Smartwatch ohne Smartphone
+356|Eigene Wear-OS-App
+357|Schnellzugriff über Zifferblatt und Komplikationen
+358|Sprachbefehle auf der Smartwatch
+359|Einstellungen bei laufender App ändern
+360|Integrierte Schritt-für-Schritt-Anleitung und PDF
+361|Kein Konto, kein Login, keine eigene Cloud
+362|¹ Ohne Abo ist der Knopf Avvia/Start inaktiv; es werden die Schnellnotfall-Knöpfe genutzt.
+363|² In Android Free nur während eines aktiven Schnellnotfalls.
+364|³ Die Präsentation nennt bis zu 24 Stunden in den freigeschalteten Versionen: AI help You von 1 Minute bis 24 Stunden, Proteggimi Android bis zu 30 Minuten, AIuto SOS watch4help™ bis zu 60 Minuten. Die 12 Sprachen betreffen die mehrsprachigen Apps; Proteggimi Android ist auf Italienisch.
+365|Fragen zu Kosten und Funktionen
+366|no pAIn™ — So funktioniert’s
+367|Wie die no pAIn™-Apps ausgelöst werden, welche Aktionen starten, wie watch4help™ funktioniert und wie man die Ersteinrichtung vorbereitet.
+368|Wählen Sie, wie Sie auslösen. <span class="hl">Entscheiden Sie, wen Sie benachrichtigen.</span>
+369|Das Projekt bietet mehrere Auslösemethoden. Die verfügbaren Funktionen hängen von App, Gerät und Einrichtung ab.
+370|Wählen Sie die App für Ihr Gerät, richten Sie die zwei Notfallkontakte ein und aktivieren Sie die gewünschten Aktionen. Wenn Sie den Knopf nutzen, schließen Sie die Kopplung ab.
+371|Die Auslösemethoden
+372|Eine andere Bedienung, je nach Gerät.
+373|Stimme
+374|Ohne das Telefon zu berühren
+375|Unter Android: 4 feste und 3 persönliche Schlüsselwörter, auf dem Gerät erkannt, auch im Hintergrund oder bei ausgeschaltetem Bildschirm, mit dem Telefon einige Meter entfernt. Unter iOS Premium: „Hey Siri, Hilf mir“.
+376|Berührung
+377|SOS-Knopf, Startbildschirm, Benachrichtigung
+378|Nutzen Sie den SOS-Knopf Ihrer Version. Unter Android funktionieren die Schnellknöpfe auf dem Startbildschirm und die dauerhafte Benachrichtigung auch bei geschlossener App.
+379|Vom Handgelenk
+380|Nutzen Sie Stimme oder Knopf der kompatiblen App. Unterscheiden Sie die Begleit-App des Telefons von der eigenständigen Wear-OS-App.
+381|Aus der Tasche
+382|Halten Sie den mit dem Telefon verbundenen Knopf ein paar Sekunden gedrückt: Die App führt die eingestellten Aktionen aus. <a class="link-arrow" href="button4help.html">Entdecken →</a>
+383|Nach dem Auslösen
+384|Die Aktionen, die Sie gewählt haben.
+386|GPS-Koordinaten, Adresse und Kartenlink in den Nachrichten an die Kontakte. Unter iOS sind Premium und der Apple-Kurzbefehl nötig.
+387|alle Apps
+388|Standortversand und Live-Aktualisierung: 30 Minuten unter iOS Free, in den freigeschalteten Versionen einstellbar bis zu 24 Stunden.
+389|Anrufe
+390|Anrufe an die eingestellten Nummern. Unter iOS Premium werden sie über den Apple-Kurzbefehl „Proteggimi“ gestartet.
+392|Unter iOS Premium über den Apple-Kurzbefehl verfügbar. In den Android-Versionen nicht vorgesehen.
+393|<b>Wichtig</b> Die Apps benachrichtigen die eingerichteten Kontakte. Sie kontaktieren keine öffentlichen Notdienste und ersetzen sie nicht: Nach dem Alarm können Ihre Kontakte mit allen Informationen die Polizei rufen und Ihnen zu Hilfe kommen.
+394|watch4help™ · SOS am Handgelenk
+395|Mit dem Telefon verbunden oder eigenständig.
+396|Zwei Modi, die man unterscheiden sollte
+397|Proteggimi und AI help You haben eine Begleit-App für die gekoppelte Uhr. AIuto SOS watch4help™ ist dagegen die eigenständige Lösung, ohne Smartphone nutzbar, mit einer für die gewählten Kanäle geeigneten Verbindung.
+398|Eine Berührung, mit gekoppeltem iPhone
+399|Die Begleit-App kann Telegram und Standort auch bei gesperrtem iPhone starten. Um auch SMS, WhatsApp und Anruf zu starten, sind Premium, der eingerichtete Kurzbefehl und die iPhone-App im Vordergrund nötig.
+400|App-Bildschirmfotos aus der Projektpräsentation.
+401|Die Ersteinrichtung
+402|Vorher vorbereiten. Gemeinsam testen.
+403|Eine korrekte Einrichtung gehört zur Funktion. Folgen Sie immer dem Handbuch Ihrer App.
+404|Wählen, wen Sie benachrichtigen
+405|Akzeptieren Sie die Bedingungen in der App, geben Sie die Telefonnummern und Telegram-Chat-IDs ein. Vereinbaren Sie mit den Kontakten, wie ein Hilferuf behandelt wird.
+406|Aktivieren, was nötig ist
+407|Wählen Sie Sendekanäle, persönliche Schlüsselwörter und nötige Berechtigungen. Unter iOS richten Sie den Kurzbefehl „Proteggimi“ für die Premium-Funktionen ein.
+408|Gerät prüfen
+409|Prüfen Sie Akku, Verbindung, Hintergrundaktivität und Kopplung des Zubehörs.
+410|Vereinbarten Test machen
+411|Informieren Sie Ihre Kontakte vorher, führen Sie den Test durch und prüfen Sie, ob Nachricht und Standort angekommen sind.
+412|Verbindung und Datenschutz: Was Sie wissen sollten →
+413|no pAIn™ — Technologie und Forschung
+414|Technologie und wissenschaftliche Veröffentlichungen des Projekts no pAIn™ von Prof. Ing. Agostino Giorgio, Politecnico di Bari.
+415|Von der Forschung <span class="hl">zum Hilferuf.</span>
+416|no pAIn™ bedeutet <em>never oppressed protected by Artificial Intelligence Non violence system</em>. Das Projekt von Prof. Ing. Agostino Giorgio, Dozent am Politecnico di Bari, nutzt künstliche Intelligenz, Spracherkennung und Standortbestimmung für Hilferufe an Vertrauenskontakte.
+417|Architektur
+418|Von Ihrem Gerät zu Ihren Kontakten
+419|Das Projekt beschreibt eine Architektur ohne Konto, Login oder eigene Cloud. Der Entwickler erklärt, keine personenbezogenen Daten zu erheben; Einstellungen und Kontakte bleiben auf dem Gerät. Für die Zustellung der Alarme und die Ermittlung der Adresse werden dennoch die in der App vorgesehenen externen Dienste genutzt.
+420|Spracherkennung auf dem Gerät
+421|In den Android-Versionen und in den freigeschalteten Sprachen funktioniert die Erkennung der Schlüsselwörter auch offline. Das Senden der Alarme erfordert dagegen die für den gewählten Kanal nötigen Verbindungen: mobile Daten, SMS oder Telefonie.
+422|Zuverlässigkeit
+423|Kontinuität und Wiederherstellung
+424|Die Präsentation beschreibt das erneute Senden von Alarmen bei Rückkehr des Netzes, die Wiederaufnahme des Live-Standorts nach Unterbrechungen und die geführte Reaktivierung nach Neustarts oder Updates, mit Tests auf echten Smartphones und Smartwatches. Die tatsächliche Funktion hängt von Version, Berechtigungen, Netz und Gerät ab.
+425|Veröffentlichungen
+426|In einer Fachzeitschrift veröffentlicht.
+427|Gerät und App sind in zwei frei zugänglichen Artikeln der internationalen Zeitschrift <em>Electronics</em> (MDPI) beschrieben.
+430|Mehr über das Projekt
+431|Die vollständige Präsentation.
+432|Funktionsweise, Versionen, Bildschirmfotos und wissenschaftliche Quellen. PDF auf Italienisch, 23 Seiten.
+433|PDF-Präsentation öffnen <span class="arr">↗</span>
+434|Werbematerial des Projekts
+435|Plakat des Projekts no pAIn von Agostino Giorgio, Politecnico di Bari: digital4help, digitaler Schutz, eine neue Ära für den Schutz von Frauen
+436|no pAIn™ — Zusammenarbeit
+437|Bringen Sie no pAIn™ in Ihre Organisation: Behörden, Vereine, Unternehmen und Sponsoren.
+438|Bringen Sie no pAIn™ <span class="hl">in Ihre Organisation.</span>
+439|Ein Werkzeug bereitzustellen ist der erste Schritt. Es bekannt zu machen, seine Nutzung zu erklären und es in ein Unterstützungsnetz einzubinden, ist ebenso wichtig.
+440|Vorführung anfragen <span class="arr">↗</span>
+441|Behörden
+442|Lokale Initiativen und Pilotprojekte
+443|Wir prüfen lokale Initiativen und Pilotprojekte, ausgehend von einer Vorführung und gemeinsamen Zielen.
+444|Vereine
+445|An der Seite derer, die die Bedürfnisse kennen
+446|Ein Austausch mit Menschen, die täglich mit Betroffenen arbeiten, um Nutzen, Einsatzweisen und Grenzen des Werkzeugs zu verstehen.
+447|Unternehmen und Sponsoren
+448|Sensibilisierung und Unterstützung
+449|Wir besprechen Angebote für Nutzergruppen, Sensibilisierungsaktionen und die Unterstützung lokaler Projekte.
+450|Was wir mitbringen
+451|Eine an der Universität entwickelte Technologie, sofort einsatzbereit.
+452|Kostenlose Apps für Android, iPhone und Smartwatches, ein Knopf, den jeder kaufen kann, kein Konto und keine Cloud zu verwalten. Und ein in wissenschaftlichen Veröffentlichungen beschriebenes Projekt.
+453|Eine Vorführung ist der beste Einstieg <span class="arr">↗</span>
+454|PDF-Präsentation <span class="arr">↗</span>
+455|Plakat: Proteggimi (no pAIn), die andere, intelligente App. Sofortige Hilfe, auch ohne das Smartphone zu berühren.
+456|no pAIn™ — Häufige Fragen
+457|Klare Antworten zu den no pAIn™-Apps, zu button4help™, zu Verbindung, Datenschutz und Kosten.
+458|Einfache Fragen. <span class="hl">Klare Antworten.</span>
+459|Lernen Sie vor der Wahl Funktionsweise und Nutzungsbedingungen kennen.
+460|Warum nicht direkt die 112 anrufen?
+461|Die 112 bleibt unverzichtbar – wenn Sie können, rufen Sie sie an. Doch in Gefahr ist es oft unmöglich, mit einer Leitstelle zu sprechen, die Lage zu erklären und zu sagen, wo man ist. Genau dafür gibt es die no pAIn™-Apps: Mit einem Wort oder einer unauffälligen Berührung benachrichtigen sie zwei Vertrauenspersonen mit Ihrem Standort, und diese rufen die Polizei.
+462|Wer erhält den Hilferuf?
+463|Die zwei Notfallkontakte, die Sie in der App festgelegt haben, Angehörige oder Freunde. Je nach App können Sie SMS, WhatsApp (iPhone), Telegram und Anrufe aktivieren. Die Apps kontaktieren keine öffentlichen Notdienste.
+464|Kann ich sie mit einem iPhone nutzen?
+465|Ja: no pAIn™ (Proteggimi) ist im App Store erhältlich, in 12 Sprachen und mit Begleit-App für die Apple Watch. Die kostenlose Version umfasst SOS und Telegram; Premium ergänzt Siri, SMS, WhatsApp und Anrufe über Kurzbefehle. <a href="versioni.html">Zum Vergleich</a>.
+466|Was kosten sie?
+467|Unter iOS sind Download und Free-Funktionen kostenlos; Premium erfordert einen einmaligen Kauf, ohne Abo. Unter Android bleiben die Schnellnotfall-Knöpfe kostenlos, mit den im <a href="versioni.html">Vergleich</a> gezeigten Einschränkungen. Die Preise der Apps finden Sie in den Stores.
+468|Bleibt der Standort in jeder App 24 Stunden sichtbar?
+469|Die Dauer hängt von App und Version ab. Unter iOS Free sind es 30 Minuten; unter iOS Premium 1 Minute bis 24 Stunden. AI help You reicht bis zu 24 Stunden; Proteggimi Android und AIuto SOS watch4help™ nennen 30 bzw. 60 Minuten. Prüfen Sie die Optionen der installierten App.
+470|Muss die Smartwatch immer in der Nähe des Telefons sein?
+471|Unter Wear OS können Sie zwischen der Begleit-App des Telefons und der eigenständigen App AIuto SOS watch4help™ wählen, die die Verbindung der Uhr nutzt. Die Begleit-App für die Apple Watch arbeitet mit dem gekoppelten iPhone: Telegram und Standort können auch bei gesperrtem iPhone starten; für die übrigen Premium-Aktionen muss die iPhone-App im Vordergrund sein. Eine eigene App AIutoSOS für die Apple Watch ist geplant.
+472|Funktioniert der Knopf ohne Smartphone?
+473|Nein. button4help™ steuert eine App auf dem gekoppelten Smartphone: Das Telefon muss eingeschaltet und per Bluetooth erreichbar sein. Wenn Sie eine Lösung ohne Telefon brauchen, gibt es die eigenständige App <a href="prodotti.html#aiuto-sos">AIuto SOS watch4help™</a> für Wear OS, deren Funktionen von der Verbindung der Uhr abhängen.
+474|Worin unterscheidet er sich von einem AirTag oder Tracker?
+475|GPS- oder Bluetooth-Tracker dienen dazu, Gegenstände und Haustiere über Apples AirTag-Netzwerk oder das Android-Netzwerk wiederzufinden. button4help™ lässt sich nicht orten: Es ist ein Knopf, der nach einigen Sekunden Druck den Notfall in der App auslöst. Er enthält nur ein Bluetooth-Low-Energy-Modul und eine Knopfzelle, deshalb ist er so klein. Er unterscheidet sich auch von klassischen SOS-Knöpfen für Senioren.
+476|Wo kaufe ich ihn und mit welchen Apps funktioniert er?
+477|Er ist bei <a href="https://it.aliexpress.com/item/1005008509583971.html" target="_blank" rel="noopener">AliExpress</a> von einem Drittanbieter erhältlich: no pAIn™ verkauft ihn nicht. Er funktioniert mit AI help You unter Android und mit no pAIn™ auf dem iPhone. Bei Fragen zur Kompatibilität mit Ihrem Telefon <a href="mailto:agostino.giorgio@poliba.it" data-mail="private">schreiben Sie dem Entwickler</a>.
+478|Die Fotos des Knopfs zeigen das aktuelle Gerät. Die Werbebilder mit Herzanhängern oder anderem Schmuck zeigen Designmöglichkeiten: Verfügbarkeit und Eigenschaften dieses Zubehörs sind mit dem Entwickler abzuklären.
+479|Verbindung und Datenschutz
+480|Bedeutet „Offline-KI“, dass keine Verbindung nötig ist?
+481|Die lokale Erkennung der Schlüsselwörter sendet kein Audio an einen Cloud-Dienst. Das Senden der Alarme ist ein anderer Schritt: Telegram und WhatsApp brauchen Internet; SMS und Anrufe hängen vom Netz und vom Mobilfunktarif ab. Auch die Verbindung zwischen Zubehör und Telefon muss bestehen.
+482|Werden Gespräche aufgezeichnet?
+483|Der Entwickler erklärt, dass das Mikrofon der lokalen Erkennung der Schlüsselwörter dient, ohne Audio aufzuzeichnen, und dass Kontakte und Einstellungen auf dem Gerät bleiben. Die Alarme nutzen dennoch externe Dienste wie Mobilfunkanbieter und Telegram, mit deren eigenen Datenschutzhinweisen. Lesen Sie die <a href="https://poliba.wixsite.com/no_pain_privacy" target="_blank" rel="noopener">Datenschutzerklärung der jeweiligen App</a>.
+484|Muss ich ein Konto anlegen?
+485|Nein. Die Apps benötigen kein Konto, keinen Login und keine eigene Cloud: Einstellungen und Kontakte bleiben auf Ihrem Telefon.

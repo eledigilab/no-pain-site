@@ -1,0 +1,459 @@
+ui.menu|Menü
+ui.close|Kapat
+ui.closeImage|Kapat
+mail.privateSubject|button4help™ — bilgi talebi
+mail.privateBody|Merhaba,\nbutton4help™ hakkında fiyat, bulunabilirlik ve telefonumla uyumluluk konusunda bilgi almak istiyorum.\n\nTelefon modeli: \n\nSaygılarımla
+mail.partnerSubject|no pAIn™ — iş birliği talebi
+mail.partnerBody|Merhaba,\nno pAIn™ projesi hakkında daha fazla bilgi almak ve olası bir iş birliğini veya tanıtımı değerlendirmek istiyorum.\n\nKurum veya şirket: \nİlgili kişi: \n\nSaygılarımla
+002|no pAIn™: toplumsal cinsiyete dayalı şiddete karşı dijital koruma. Kimseyle konuşmak zorunda kalmadan sesle ya da bir hareketle yardım isteyen uygulamalar ve cihazlar.
+003|Proje
+004|Uygulamalar
+006|Free ve Premium
+007|Nasıl çalışır
+008|Araştırma
+009|Kuruluşlar
+010|Sorular
+011|İletişim
+012|Dijital koruma · digital4help™
+013|Konuşmak zorunda kalmadan <span class="hl">yardım isteyin.</span>
+014|no pAIn™, toplumsal cinsiyete dayalı şiddetin önlenmesi için uygulama ve cihazlardan oluşan bir ekosistemdir. Bir kelime, bir dokunuş ya da bir düğmeyle güvendiğiniz iki kişiyi konumunuzla birlikte hemen uyarır: mesajlar ve aramalar kendiliğinden gönderilir.
+015|Uygulamanızı seçin <span class="arr">→</span>
+016|button4help™ ürününü keşfedin <span class="arr">→</span>
+017|Projeyi geliştiren: <strong>Prof. Müh. Agostino Giorgio</strong><br>Politecnico di Bari öğretim üyesi
+019|Giulia<small>acil durum kişisi</small>
+020|<span class="sos">YARDIM TALEBİ</span><br>Yardıma ihtiyacım var. Konumum bu.
+021|41.1087° N, 16.8784° E<br><span class="live">● canlı konum açık</span>
+022|Bir kişinin aldığı mesaja örnek
+023|Fikir
+024|signal4help’ten <span class="hl">digital4help™</span>
+025|El işareti signal4help, tehlikedeki kişinin sessizce yardım istediği evrensel hareket hâline geldi. Ancak yalnızca biri görürse işe yarar. no pAIn™ bunun elektronik bir sürümünü geliştirdi: “signal for help”, konumla birlikte, nerede olurlarsa olsunlar doğru kişilere ulaşır.
+026|HAREKET 1
+027|Açık avuç
+028|HAREKET 2
+029|Başparmak avuç içine kıvrılır
+030|HAREKET 3
+031|Parmaklar başparmağın üzerine kapanır
+033|Görülmeye gerek kalmadan aynı mesaj
+034|Yüksek sesle söylenen bir anahtar kelime, ekrana, saate ya da cepteki bir düğmeye bir dokunuş. Gerisini uygulama yapar ve acil durum kişilerinizi uyarır.
+035|Neden gerekli
+036|Tehlike anında her zaman konuşulamaz.
+037|112 ve YouPol gibi uygulamalar temel araçlar olmaya devam ediyor. Ancak bir operatörle konuşmayı, neler olduğunu anlatmayı ve nerede olduğunuzu söylemeyi gerektirirler. Yanınızda bir saldırgan varken bu çoğu zaman imkânsızdır.
+038|Arama veya ihbar uygulaması
+039|Telefonu elinize alıp kilidini açmanız gerekir
+040|Durumu anlatarak konuşmanız veya yazmanız gerekir
+041|Nerede olduğunuzu tarif etmeniz gerekir
+042|Saldırgan fark edebilir
+043|no pAIn™ teknolojili bir uygulama
+044|Telefon birkaç metre uzakta olsa bile bir anahtar kelime yeterlidir
+045|Ya da fark edilmeyen bir dokunuş: bir bildirime, saate, bir düğmeye
+046|Konum otomatik olarak gönderilir
+047|Güvendiğiniz iki kişi anında uyarılır ve polisi arayabilir
+048|Nasıl etkinleştirilir
+049|Alarm vermenin son derece hızlı altı yolu.
+050|Her durum farklıdır: bu yüzden no pAIn™ uygulamaları birden çok tetikleyici sunar. Fark edilmeden kullanabileceklerinizi seçin. Kullanılabilen işlevler uygulamaya ve cihaza bağlıdır.
+051|Çevrimdışı yapay zekâ
+052|Sesli komut
+053|Bir anahtar kelime söylersiniz ve telefona dokunmadan acil durum eylemleri başlar. Android’de ses tanıma cihaz üzerinde çalışır; 4 sabit ve 3 kişisel anahtar kelimeyle uygulama açıkken, arka plandayken veya kapalıyken, ekran kapalıyken ve telefon birkaç metre uzaktayken bile çalışır. iPhone’da “Hey Siri, Bana yardım et” demeniz yeterlidir.
+054|uygulama açık
+055|Uygulamadaki acil durum düğmesi
+056|Ana ekrandaki büyük SOS düğmesi. En basit yöntemdir ve uygulamanın ön planda olmasını gerektirir.
+057|Android · uygulama kapalı
+058|Ana ekranda hızlı düğme
+059|Telefonun ana ekranındaki bir düğme, uygulama kapalı ve uykudayken bile onu uyandırır ve acil durumu hemen başlatır.
+060|Android · fark edilmeden
+061|Kalıcı bildirim
+062|Her zaman görünen bildirime bir dokunuş. Sizi izleyen kişi yalnızca bildirimlere göz gezdirdiğinizi düşünür: aslında yardım istiyorsunuzdur.
+064|Akıllı saat
+065|Wear OS akıllı saatin kadranında ses veya düğme ya da Apple Watch’ta bir dokunuş. Akıllı telefon uygulamalarının saat için yardımcı uygulaması vardır; AIuto SOS ise akıllı telefon olmadan da çalışır.
+066|button4help™ düğmesi
+067|Yanınızda taşıdığınız küçük düğmeyi birkaç saniye basılı tutun: birkaç metre uzaktaki akıllı telefondaki uygulama acil durumu başlatır. <a class="link-arrow" href="button4help.html">Keşfedin →</a>
+068|Ne olur
+069|Her şey kendiliğinden, güvendiğiniz iki kişiye gider.
+070|Uygulamada yakınlarınızdan veya arkadaşlarınızdan iki acil durum kişisi belirlersiniz. Alarm devreye girer girmez yardım talebinizi ve konumunuzu alırlar.
+072|Konumlu SMS
+073|GPS koordinatları, adres ve harita bağlantısı. İnternet gerekmeden telefon şebekesi üzerinden gider.
+075|Konumlu WhatsApp
+076|iPhone’da konumlu mesaj WhatsApp üzerinden de gönderilir.
+077|24 saate kadar canlı
+078|Canlı konumlu Telegram
+079|Konum gerçek zamanlı güncellenir, böylece kişileriniz sizi takip edebilir. Süre uygulamaya ve sürüme bağlıdır.
+080|Telefon araması
+081|Uygulama, sizin numara çevirmenize gerek kalmadan acil durum kişilerinizi arar.
+082|Siz
+083|ses, dokunuş veya düğme
+084|no pAIn™ uygulaması
+085|konum + mesajlar
+086|2 güvenilir kişi
+087|SMS · WhatsApp · Telegram · arama
+088|Somut yardım
+089|polisi ararlar ya da yanınıza gelirler
+090|<b>Önemli</b> Uygulamalar seçtiğiniz kişileri uyarır: 112’yi doğrudan aramaz ve onun yerini tutmaz. Alarm geldiğinde ne yapacaklarını kişilerinizle önceden konuşun ve birlikte bir deneme yapın.
+091|Projenin tanıtım materyali. İllüstrasyonlardaki takılar tasarım konseptidir.
+092|Ekosistem
+093|Cihazınız. no pAIn™ uygulamanız.
+094|Android akıllı telefonlar, iPhone, akıllı saatler ve cepte taşınacak bir düğme. Diller, bağlantılar ve işlevler uygulamadan uygulamaya değişir: size uygun çözümü seçin.
+095|ANDROID · 12 DİL
+097|Android için çok dilli sürüm, button4help™ ile uyumlu.
+098|Keşfedin →
+099|ANDROID · İTALYANCA
+100|Proteggimi (no pAIn™)
+101|İtalyanca Android için no pAIn™ uygulaması.
+102|IPHONE · 12 DİL
+103|no pAIn™ (Proteggimi)
+104|iPhone ve Apple Watch sürümü.
+105|WEAR OS · YALNIZCA AKILLI SAAT
+107|Akıllı telefon olmadan, yalnızca saatte çalışır.
+108|BLUETOOTH CİHAZI
+109|Alarmı uzaktan başlatan düğme. Harici bir satıcıdan satın alınır.
+110|Free ve Premium sürümlerini karşılaştırın →
+111|Başlarken
+112|Nasıl etkinleştireceğinizi seçin. Kimi uyaracağınıza karar verin.
+113|Ağınızı hazırlayın
+114|Cihazınıza uygun uygulamayı seçin, kişileri ayarlayın ve kullanmak istediğiniz eylemleri etkinleştirin. Düğmeyi kullanıyorsanız eşleştirmeyi tamamlayın.
+115|Kullanımdan önce
+116|Talebi başlatın
+117|Uygulamanızın sunduğu yöntemi kullanın: sesli komut, ekrana dokunma, uyumlu akıllı saat veya eşleştirilmiş fiziksel düğme.
+118|Gerektiğinde
+119|Seçtiğiniz kişileri uyarın
+120|Etkinleştirilen eylemler başlar: konumlu mesajlar, Telegram ile canlı konum paylaşımı ve ayarlı kişilere aramalar.
+121|Kişilerinize
+122|Nasıl çalıştığına dair tüm ayrıntılar →
+123|Teknoloji ve araştırma
+124|Üniversitede doğdu, bilimsel bir dergide yayımlandı.
+125|no pAIn™, <em>never oppressed protected by Artificial Intelligence Non violence system</em> anlamına gelir. Proje, <em>Electronics</em> dergisindeki iki makalede (2024 ve 2026) ve 23 sayfalık kapsamlı bir sunumda anlatılmaktadır.
+126|Teknoloji ve yayınlar →
+127|Birlikte çalışalım
+128|no pAIn™ projesini kuruluşunuza getirin.
+129|Kamu kurumları, dernekler, şirketler ve sponsorlar: aracı tanıtmak ve bir destek ağına yerleştirmek, onu kullanıma sunmak kadar önemlidir.
+130|Kurum ve şirketlere yönelik öneriler →
+131|Fiyatlar, bulunabilirlik ve iş birlikleri
+132|Size uygun çözümü birlikte bulalım.
+133|Prof. Müh. Agostino Giorgio
+134|Elektrik ve Bilişim Mühendisliği Bölümü
+136|Ofis tel.: 080 596 3239/579
+137|Bireyler için bilgi
+138|Uygulamalar, button4help™ ve telefonunuzla uyumluluk
+139|Kurum ve şirketlere yönelik öneriler
+140|Tanıtımlar ve iş birlikleri
+141|E-posta uygulamanız açılacak. Doğrudan şu adrese de yazabilirsiniz: <a href="mailto:agostino.giorgio@poliba.it">agostino.giorgio@poliba.it</a>
+142|Prof. Müh. Agostino Giorgio’nun projesi<br>Politecnico di Bari öğretim üyesi
+143|Site
+144|Kaynaklar
+145|Uygulama kılavuzları ve gizlilik ↗
+146|Proje sunumu (PDF, İtalyanca) ↗
+148|Acil bir tehlikede 112’yi arayın. no pAIn™ uygulamaları seçtiğiniz acil durum kişilerini uyarır ve kamu acil durum hizmetlerinin yerini tutmaz.
+149|Bilgi edinin. Ayarlayın. Deneyin.
+150|Ana gezinme
+151|Bir kişinin aldığı, haritalı ve canlı konumlu acil durum mesajı örneği
+152|Yardım talebinin izlediği yol
+153|no pAIn projesinin afişi: digital4help, dijital koruma. İtalyanca Android için Proteggimi, 12 dilde Android için AI help You, Wear OS akıllı saatler için AIuto SOS watch4help ve iOS için no pAIn listelenir.
+154|no pAIn™ — Uygulamalar
+155|no pAIn™ projesinin uygulamaları: AI help You, Proteggimi, iPhone için no pAIn™, Wear OS için AIuto SOS watch4help™, AI help App.
+156|Uygulamanızı seçin
+157|Sesinizi <span class="hl">nasıl duyuracağınızı seçin.</span>
+158|no pAIn™, akıllı telefona sesle veya dokunarak etkinleşen elektronik bir “signal for help” getirir. watch4help™ akıllı saatler için aynı teknolojidir. Diller, bağlantılar ve işlevler uygulamadan uygulamaya değişir.
+163|AI help App · AIutoSOS Apple Watch
+165|Projenin tanıtım materyali · temsili konsept
+167|12 dil
+170|12 dilde Android sürümü; özelleştirilebilir anahtar kelimeler, çevrimdışı ses tanıma ve Wear OS akıllı saatler için yardımcı uygulama içerir. button4help™ düğmesi dahil no pAIn™ teknolojisinin tüm tetikleyicilerini sunar.
+171|Telegram’da canlı konum
+172|1 dakikadan 24 saate kadar, ayarlanabilir
+173|Google Play’den indirin <span class="arr">↗</span>
+174|Sesli komutlar: 4 sabit ve 3 kişisel anahtar kelime, ekran kapalıyken ve telefon birkaç metre uzaktayken bile
+175|Google Asistan ile etkinleştirme
+176|Ana ekranda acil durum düğmesi
+177|Ana ekranda, kapalı uygulamayı uyandıran hızlı düğme
+178|Wear OS akıllı saatler için yardımcı uygulamadan ses veya düğme
+179|button4help™ düğmesine birkaç saniye basma
+180|Neler gönderir
+181|GPS koordinatları, adres ve harita bağlantısı içeren SMS
+182|Kişilere otomatik arama
+183|Android’de WhatsApp yok
+184|AI help You ayarlanan kişileri uyarır. Kamu acil durum hizmetleriyle iletişime geçmez ve onların yerini tutmaz. Abonelik olmadan hızlı acil durum modunda çalışır: <a class="link-arrow" href="versioni.html">Free ve Premium’a bakın</a>.
+185|İtalyanca
+186|Proteggimi <span class="hl">(no pAIn™)</span>
+187|İtalyanca Android sürümü; sesle veya elle etkinleştirilir. Uygulama kapalı ve ekran kapalıyken bile anahtar kelimelerinizi dinler ve Wear OS akıllı saatler için yardımcı uygulaması vardır.
+188|30 dakikaya kadar
+189|Özel anahtar kelimelerle sesli komutlar, çevrimdışı ses tanıma
+190|Konum bilgili SMS
+191|Konumlu Telegram, canlı konum dahil
+194|no pAIn™ <span class="hl">(Proteggimi)</span>
+195|AI help You ile aynı temel işlevlere sahip iPhone sürümü: 12 dil, Apple Watch için yardımcı uygulama ve button4help™ uyumluluğu. Ayrıca alarmı WhatsApp üzerinden de gönderir.
+196|Free: 30 dakika · Premium: 1 dakikadan 24 saate kadar
+197|App Store’dan indirin <span class="arr">↗</span>
+198|Apple Watch’taki yardımcı uygulama: EMERGENZA’ya tek dokunuş
+199|Ana ekranda SOS düğmesi
+200|“Hey Siri, Bana yardım et” sesli komutu (Premium)
+201|iPhone kilitliyken bile Apple Watch kadranına dokunma
+202|Konum ve harita bağlantılı Telegram
+203|Konum bilgili SMS (Premium)
+204|Konum bilgili WhatsApp (Premium)
+205|Kişilere otomatik arama (Premium)
+206|İndirme ücretsizdir ve SOS düğmesi, konumlu Telegram, 30 dakikalık canlı konum ile Apple Watch uygulamasını içerir. Premium; Siri, SMS, WhatsApp, arama ve 1 dakikadan 24 saate kadar canlı konum ekler; tek seferlik satın alma, abonelik yok.
+207|SMS, WhatsApp ve arama, uygulamadan yüklenen “Proteggimi” Apple Kestirmesi üzerinden çalışır. Apple Watch’tan Telegram ve konum, iPhone kilitliyken bile gönderilir; diğer eylemler için iPhone uygulamasının ön planda olması gerekir.
+209|Akıllı telefonsuz
+211|Akıllı telefona ihtiyaç duymayan, yalnızca Wear OS akıllı saatler için bir uygulama. watch4help™ adı verilen giyilebilir no pAIn™ teknolojisidir: alarm doğrudan kolunuzdan başlar.
+212|60 dakikaya kadar
+213|Saatte sesli komut
+214|Kadranda acil durum düğmesi
+215|Kadrandan ve komplikasyonlardan hızlı erişim
+216|Bilmeniz gerekenler
+217|Akıllı telefon uzakta veya kapalıyken bile bağımsız çalışır
+218|Kullanılabilen kanallar saatin bağlantısına bağlıdır: SIM’li LTE veya Wi-Fi/Bluetooth
+219|Eşleştirilmiş telefonla birlikte çalışan Proteggimi ve AI help You yardımcı uygulamalarıyla karıştırılmamalıdır.
+220|Görsellerle ve videolarla
+221|Kolda nasıl göründüğü ve nasıl çalıştığı.
+222|Büyük kırmızı düğmeye bir dokunuş veya bir sesli komut: saat, akıllı telefon uzakta olsa bile konumu ve uyarıyı Telegram, SMS ve arama ile kişilerinize gönderir.
+223|Büyütmek için bir görsele dokunun. Diğerlerini görmek için yana kaydırın.
+224|Afiş
+225|<strong>Akıllı saatinizden SOS</strong>Ses veya dokunuş: konum ve uyarı gönderir. Canlı konum, Telegram, SMS, arama.
+226|Ekran görüntüsü
+227|<strong>Saatteki uygulama</strong>INVIO (gönder) düğmesi ve açılıp duraklatılabilen sesli komut dinleme.
+228|Diğer çözümler
+229|Bunlar da projenin parçası.
+231|Android için başka bir çok dilli çözüm: 12 dil, bunların 3’ünde ses tanıma çevrimdışı da çalışır. Sesli komutlarla veya elle yardım talebiyle etkinleşir.
+232|Google Play’i açın <span class="arr">↗</span>
+234|Planlanıyor
+235|Apple Watch için AIutoSOS
+236|Yakında yayımlanacak, Apple Watch’a özel bir uygulama. iPhone için no pAIn™ içinde zaten bulunan yardımcı uygulamadan farklıdır.
+237|Apple Watch’ı bugün kullanmak için <a class="link-arrow" href="#no-pain-ios">iPhone için no pAIn™</a> uygulamasını yükleyin.
+238|AI help You ve iPhone için no pAIn™ alarmını tetikleyen, cepte taşınan düğme. Ne olduğu, ne olmadığı ve nereden alınacağı.
+239|button4help™ ürününü keşfedin →
+240|Kurulum
+241|Uygulamanızın kılavuzunu izleyin.
+242|Canlı konum süresi uygulamadan uygulamaya değişir: yüklü uygulamanın seçeneklerini kontrol edin.
+243|Android kılavuzu <span class="arr">↗</span>
+244|iOS kılavuzu <span class="arr">↗</span>
+245|Telegram rehberi <span class="arr">↗</span>
+246|Uygulamalar
+247|Afiş: Proteggimi (no pAIn), farklı ve akıllı uygulama. Akıllı telefona dokunmadan bile anında yardım. Android, Wear OS ve iOS sürümlerinin listesi.
+248|Büyük kırmızı EMERGENZA düğmesi ve Inviato (gönderildi) onayı olan Apple Watch
+249|AIuto SOS watch4help afişi: gece yağmurda kapüşonlu bir adam tarafından takip edilen bir kadın akıllı saatindeki HELP düğmesine basıyor
+250|AIuto SOS uygulamalı Wear OS akıllı saat: kırmızı INVIO (gönder) düğmesi ve FERMA ASCOLTO (dinlemeyi durdur) düğmesi
+251|button4help™ — no pAIn™
+252|button4help™, no pAIn™ uygulamalarının alarmını uzaktan tetikleyen Bluetooth düğmesi. Ne olduğu, ne olmadığı, nereden alınacağı.
+253|no pAIn™ fiziksel düğmesi
+255|Taşıması kolay, etkinleştirmesi basit. Projenin “sihirli düğmesi”: cebinizde, çantanızda veya anahtarlığınızda taşırsınız; birkaç saniye basılı tuttuğunuzda akıllı telefonunuzdaki uygulama, birkaç metre uzakta olsa bile acil durumu başlatır.
+256|AliExpress’ten satın alın <span class="arr">↗</span>
+257|Nasıl kullanılır
+258|Düğme no pAIn™ tarafından satılmaz: harici bir satıcıdan alınır ve uygulamayla eşleştirilir.
+259|50 sentlik bir madeni paranın yanında button4help™ düğmesinin gerçek fotoğrafı
+260|Nasıl göründüğü ve nasıl kullanıldığı.
+261|Anahtarlığınızda veya cebinizde taşıyın. Gerektiğinde basın: telefondaki uygulama yardım taleplerini ve canlı konumu kişilerinize otomatik olarak gönderir.
+262|<strong>Tek basış, alarm başlar</strong>AI help You ile: yardım talepleri ve 24 saate kadar canlı konum. Afiş İngilizcedir.
+263|Gerçek fotoğraf
+264|<strong>Gerçek boyutu</strong>50 sentlik bir madeni paradan biraz büyük.
+265|Nedir
+266|Telefonunuz için bir uzaktan kumanda.
+267|button4help™, Bluetooth menzili içinde akıllı telefonda işlemleri başlatan bir düğmedir. Yalnızca bir Bluetooth Low Energy modülü ve bir düğme pil içerdiği için minyatürdür: GPS yok, Wi-Fi yok. Konumu telefondaki uygulama belirler.
+268|Telefonu elinize almadan fiziksel etkinleştirme
+269|Akıllı telefona Bluetooth ile bağlantı
+270|Uygulamada ayarlanan eylemlere göre gönderim: mesajlar, konum, aramalar
+271|Etkinleştirme
+272|Yaklaşık 2 saniye basma
+273|Bağlantı
+274|Yalnızca Bluetooth BLE
+275|Menzil
+276|Birkaç metre, Bluetooth menzili
+277|Güç
+278|Düğme pil
+279|Boyut
+280|Bir madeni paradan biraz büyük
+281|Uyumlu olduğu uygulamalar
+282|AI help You (Android) ve no pAIn™ (iPhone)
+283|Ne değildir
+284|Konum takip cihazı değildir. Yaşlılar için bir düğme değildir.
+285|Piyasada Apple’ın AirTag ağına veya Android ağına bağlanan, eşya ve evcil hayvan bulmak için kullanılan GPS veya Bluetooth takip cihazları vardır. button4help™ bambaşka bir şeydir.
+286|Cihaz
+287|Ne işe yarar
+288|GPS veya BLE takip cihazı
+289|Eşya ve evcil hayvan bulmak
+290|Apple’ın AirTag ağı veya Android ağı üzerinden konumu bulunur
+291|Yaşlılar için SOS düğmesi
+292|Bir yardım merkezini aramak
+293|Özel cihaz, çoğu zaman kendi SIM’i veya istasyonu olan
+294|no pAIn™ uygulamasının alarmını tetiklemek
+295|Akıllı telefona uzaktan komut: acil durum, kişilerinize mesajlar, konum ve aramalarla başlar
+296|Üç adım, sonra hep yanınızda.
+297|Satın alın
+298|Düğmeyi aşağıda belirtilen satıcıdan alın. Fiyat, gönderim ve bulunabilirlik satıcıya bağlıdır.
+299|Uygulamayla eşleştirin
+300|AI help You’da veya iPhone için no pAIn™ uygulamasında kılavuzdaki eşleştirme adımlarını izleyin. Ardından kişilerinizle kararlaştırdığınız bir deneme yapın.
+301|Basılı tutun
+302|Gerektiğinde düğmeye birkaç saniye basın: uygulama ayarladığınız acil durum eylemlerini başlatır.
+303|Düğme akıllı telefondaki uygulamayı kontrol eder: telefon açık, Bluetooth menzilinde ve uygulama ayarlı olmalıdır. Telefonsuz çalışan bir cihaza ihtiyacınız varsa <a class="link-arrow" href="prodotti.html#aiuto-sos">Wear OS için AIuto SOS</a> uygulamasına bakın.
+304|Nereden alınır
+305|button4help™, AliExpress’te üçüncü taraf bir satıcıdan alınır. no pAIn™ cihazı satmaz; sipariş, gönderim veya iadelerle ilgilenmez.
+306|Telefonunuzla uyumluluğundan emin değil misiniz? <a class="link-arrow" href="mailto:agostino.giorgio@poliba.it" data-mail="private">Satın almadan önce bize yazın</a>.
+307|Takı sürümü şimdiden satışta mı?
+308|Bu sayfadaki fotoğraflar mevcut cihazı gösterir. Kalp kolyeli veya başka takılı tanıtım görselleri tasarım olanaklarını gösterir: bulunabilirlik ve özellikler tasarımcıyla teyit edilmelidir.
+309|Sık sorulan diğer sorular →
+310|button4help’in gerçek fotoğrafı: anahtarlık halkalı, yuvarlak siyah bir düğme; boyutunu karşılaştırmak için 50 euro sentlik bir madeni paranın yanında
+311|AI help You ile button4help afişi: gece yağmurda bir adam tarafından takip edilen bir kadın anahtarlığındaki düğmeyi sıkıyor; küçük resimde bir arkadaşı SMS ve Telegram’dan konum alıyor
+312|50 euro sentlik bir madeni paranın yanında button4help’in gerçek fotoğrafı
+313|no pAIn™ — Free ve Premium
+314|Android ve iPhone için no pAIn™ uygulamalarının ücretsiz ve Premium sürümlerinde neler bulunduğu, işlevlerin tam karşılaştırmasıyla.
+315|Neyin dahil olduğunu <span class="hl">bilerek seçin.</span>
+316|Ücretsiz acil durum işlevleri Android ve iPhone’da farklıdır. Android hızlı düğmeleri ve iOS SOS düğmesi, öngörülen yapılandırmaya göre ücretsiz kullanılmaya devam eder.
+317|Hızlı acil durum, ücretsiz de
+318|Abonelik olmadan uygulama hızlı acil durum modunu kullanır: etkinleştirme ana ekran düğmelerinden veya kalıcı bildirimden başlar. Avvia/Start düğmesi etkin değildir; ses ve ayar değişiklikleri, etkin bir hızlı acil durum sırasında kullanılabilir.
+319|Premium, karşılaştırmada anlatılan tam kullanımı açar. Koşullar ve fiyat her uygulamanın Google Play sayfasında yer alır.
+321|SOS ve Apple Watch dahil
+322|Dokunarak SOS düğmesi
+323|Konum bilgili Telegram
+324|30 dakika canlı konum
+325|Apple Watch için yardımcı uygulama
+326|Ücretsiz indirme. Dahil olan acil durum işlevleri ücretsiz kalır.
+327|Tek satın alma, daha fazla işlev
+328|12 dilde “Hey Siri, Bana yardım et”
+329|Kişilere SMS, WhatsApp ve arama
+330|1 dakikadan 24 saate kadar canlı konum
+331|Tek seferlik satın alma, abonelik yok. Fiyat App Store’da belirtilir.
+332|Tam karşılaştırma
+333|Tüm işlevler, Android ve iOS.
+334|Proje sunumundan alınan karşılaştırma. Android için uygulama ailesinin bir özetidir: diller, aksesuarlar ve konum süresi için <a class="link-arrow" href="prodotti.html">ilgili uygulamanın sayfasına</a> bakın. Telefonda tabloyu yatay kaydırabilirsiniz.
+335|Platforma ve sürüme göre işlevler
+336|İşlev
+339|Ana sayfada SOS
+340|Hayır¹
+341|Evet
+342|Ana ekran / bildirim hızlı düğmeleri, uygulama kapalıyken bile
+343|Hayır
+344|Ses: 4 sabit + 3 kişisel anahtar kelime
+345|Evet²
+346|Google / Siri ile etkinleştirme
+347|Desteklenen dillerde çevrimdışı ses tanıma
+348|GPS, adres ve harita bağlantılı Telegram
+349|WhatsApp mesajı
+350|Ayarlı kişiye arama
+351|Uygulamaya göre³
+352|30 dakika
+353|1 dk – 24 saat
+354|Wear OS / Apple Watch yardımcı uygulaması
+355|Akıllı telefonsuz akıllı saat
+356|Özel Wear OS uygulaması
+357|Kadrandan ve komplikasyonlardan hızlı erişim
+358|Akıllı saatte sesli komutlar
+359|Uygulama çalışırken ayarları değiştirme
+360|Adım adım yerleşik rehber ve PDF
+361|Hesap, oturum açma veya özel bulut yok
+362|¹ Abonelik olmadan Avvia/Start düğmesi etkin değildir; hızlı acil durum düğmeleri kullanılır.
+363|² Android Free’de yalnızca hızlı acil durum etkinken.
+364|³ Sunum, etkin sürümlerde 24 saate kadar süre belirtir: AI help You 1 dakikadan 24 saate, Proteggimi Android 30 dakikaya, AIuto SOS watch4help™ 60 dakikaya kadar. 12 dil çok dilli uygulamalar içindir; Proteggimi Android İtalyancadır.
+365|Maliyetler ve işlevlerle ilgili sorular
+366|no pAIn™ — Nasıl çalışır
+367|no pAIn™ uygulamaları nasıl etkinleştirilir, hangi eylemler başlar, watch4help™ nasıl çalışır ve ilk kurulum nasıl hazırlanır.
+368|Nasıl etkinleştireceğinizi seçin. <span class="hl">Kimi uyaracağınıza karar verin.</span>
+369|Proje birkaç etkinleştirme yöntemi sunar. Kullanılabilen işlevler uygulamaya, cihaza ve kuruluma bağlıdır.
+370|Cihazınıza uygun uygulamayı seçin, iki acil durum kişisini ayarlayın ve kullanmak istediğiniz eylemleri etkinleştirin. Düğmeyi kullanıyorsanız eşleştirmeyi tamamlayın.
+371|Etkinleştirme yöntemleri
+372|Kullandığınız cihaza göre farklı bir arayüz.
+373|Ses
+374|Telefona dokunmadan
+375|Android’de: cihaz üzerinde tanınan 4 sabit ve 3 kişisel anahtar kelime; arka planda veya ekran kapalıyken, telefon birkaç metre uzaktayken bile. iOS Premium’da: “Hey Siri, Bana yardım et”.
+376|Dokunuş
+377|SOS düğmesi, ana ekran, bildirim
+378|Sürümünüzün sunduğu SOS düğmesini kullanın. Android’de ana ekran hızlı düğmeleri ve kalıcı bildirim, uygulama kapalıyken de çalışır.
+379|Kolunuzdan
+380|Uyumlu uygulamanın sesini veya düğmesini kullanın. Telefonun yardımcı uygulamasını Wear OS için bağımsız uygulamadan ayırt edin.
+381|Cebinizden
+382|Telefona bağlı düğmeyi birkaç saniye basılı tutun: uygulama ayarlanan eylemleri yürütür. <a class="link-arrow" href="button4help.html">Keşfedin →</a>
+383|Etkinleştirmeden sonra
+384|Seçtiğiniz eylemler.
+386|Kişilere giden mesajlarda GPS koordinatları, adres ve harita bağlantısı. iOS’ta Premium ve Apple Kestirmesi gerekir.
+387|tüm uygulamalar
+388|Konum gönderimi ve canlı güncelleme: iOS Free’de 30 dakika, etkin sürümlerde 24 saate kadar ayarlanabilir süre.
+389|Aramalar
+390|Ayarlanan numaralara aramalar. iOS Premium’da “Proteggimi” Apple Kestirmesi ile başlar.
+392|iOS Premium’da Apple Kestirmesi ile kullanılabilir. Android sürümlerinde yoktur.
+393|<b>Önemli</b> Uygulamalar ayarlanan kişileri uyarır. Kamu acil durum hizmetleriyle iletişime geçmez ve onların yerini tutmaz: alarmı alan kişileriniz tüm bilgilerle polisi arayabilir ve yardımınıza gelebilir.
+394|watch4help™ · Kolunuzda SOS
+395|Telefona bağlı ya da bağımsız.
+396|Ayırt edilmesi gereken iki mod
+397|Proteggimi ve AI help You, eşleştirilmiş saat için bir yardımcı uygulamaya sahiptir. AIuto SOS watch4help™ ise seçilen kanallara uygun bir bağlantıyla akıllı telefon olmadan kullanılabilen bağımsız çözümdür.
+398|Eşleştirilmiş iPhone ile tek dokunuş
+399|Yardımcı uygulama, iPhone kilitliyken bile Telegram ve konumu başlatabilir. SMS, WhatsApp ve aramayı da başlatmak için Premium, ayarlanmış Kestirme ve iPhone uygulamasının ön planda olması gerekir.
+400|Proje sunumundan alınan uygulama ekran görüntüleri.
+401|İlk kurulum
+402|Önceden hazırlayın. Birlikte deneyin.
+403|Doğru kurulum işleyişin bir parçasıdır. Her zaman uygulamanızın kılavuzunu izleyin.
+404|Kimi uyaracağınızı seçin
+405|Uygulamada koşulları kabul edin, telefon numaralarını ve Telegram chat ID’lerini girin. Bir talebin nasıl karşılanacağını kişilerinizle konuşun.
+406|Gerekenleri etkinleştirin
+407|Gönderim kanallarını, kişisel anahtar kelimeleri ve gerekli izinleri seçin. iOS’ta Premium işlevleri için “Proteggimi” Kestirmesini ayarlayın.
+408|Cihazı kontrol edin
+409|Pil, bağlantı, arka plan etkinliği ve aksesuar eşleştirmesini kontrol edin.
+410|Kararlaştırılmış bir deneme yapın
+411|Önce kişilerinize haber verin, denemeyi yapın ve mesajla konumun ulaştığını kontrol edin.
+412|Bağlantı ve gizlilik: bilmeniz gerekenler →
+413|no pAIn™ — Teknoloji ve araştırma
+414|Politecnico di Bari’den Prof. Müh. Agostino Giorgio’nun no pAIn™ projesinin teknolojisi ve bilimsel yayınları.
+415|Araştırmadan <span class="hl">yardım talebine.</span>
+416|no pAIn™, <em>never oppressed protected by Artificial Intelligence Non violence system</em> anlamına gelir. Politecnico di Bari öğretim üyesi Prof. Müh. Agostino Giorgio’nun projesi, güvenilir kişilere yönelik yardım talebinde yapay zekâ, ses tanıma ve konum belirlemeyi kullanır.
+417|Mimari
+418|Cihazınızdan kişilerinize
+419|Proje hesap, oturum açma veya özel bulut içermeyen bir mimari tanımlar. Geliştirici kişisel veri toplamadığını beyan eder; ayarlar ve kişiler cihazda kalır. Uyarıları iletmek ve adresi belirlemek için yine de uygulamanın öngördüğü harici hizmetler kullanılır.
+420|Cihaz üzerinde ses tanıma
+421|Android sürümlerinde ve etkin dillerde anahtar kelime tanıma çevrimdışı da çalışır. Uyarıların gönderilmesi ise seçilen kanal için gerekli bağlantıları gerektirir: mobil veri, SMS veya telefon.
+422|Güvenilirlik
+423|Süreklilik ve kurtarma
+424|Sunum; şebeke geri geldiğinde uyarıların yeniden gönderilmesini, kesintilerden sonra canlı konumun sürdürülmesini ve yeniden başlatma veya güncellemelerden sonra rehberli yeniden etkinleştirmeyi, gerçek akıllı telefon ve akıllı saatlerde yapılan testlerle anlatır. Gerçek işleyiş sürüme, izinlere, şebekeye ve cihaza bağlıdır.
+425|Yayınlar
+426|Bilimsel bir dergide yayımlandı.
+427|Cihaz ve uygulama, uluslararası <em>Electronics</em> (MDPI) dergisinde açık erişimli iki makalede anlatılmaktadır.
+430|Proje hakkında daha fazlası
+431|Tam sunum.
+432|İşleyiş, sürümler, ekran görüntüleri ve bilimsel kaynaklar. İtalyanca PDF, 23 sayfa.
+433|PDF sunumunu açın <span class="arr">↗</span>
+434|Projenin tanıtım materyali
+435|Politecnico di Bari’den Agostino Giorgio’nun no pAIn projesinin afişi: digital4help, dijital koruma, kadınların korunmasında yeni bir dönem
+436|no pAIn™ — İş birliği
+437|no pAIn™ projesini kuruluşunuza getirin: kamu kurumları, dernekler, şirketler ve sponsorlar.
+438|no pAIn™ projesini <span class="hl">kuruluşunuza getirin.</span>
+439|Bir aracı kullanıma sunmak ilk adımdır. Onu tanıtmak, kullanımını anlatmak ve bir destek ağına yerleştirmek de aynı derecede önemlidir.
+440|Tanıtım talep edin <span class="arr">↗</span>
+441|Kamu kurumları
+442|Yerel girişimler ve pilot projeler
+443|Bir tanıtımdan ve ortak hedeflerden yola çıkarak yerel girişimleri ve pilot projeleri değerlendiriyoruz.
+444|Dernekler
+445|İhtiyaçları bilenlerin yanında
+446|Aracın yararını, kullanım biçimlerini ve sınırlarını anlamak için her gün insanlarla çalışanlarla bir görüş alışverişi.
+447|Şirketler ve sponsorlar
+448|Farkındalık ve destek
+449|Kullanıcı grupları, farkındalık girişimleri ve yerel projelere destek için önerileri birlikte inceliyoruz.
+450|Neler sunuyoruz
+451|Üniversitede doğmuş, kullanıma hazır bir teknoloji.
+452|Android, iPhone ve akıllı saatler için ücretsiz uygulamalar, herkesin satın alabileceği bir düğme, yönetilecek hesap veya bulut yok. Ve bilimsel yayınlarda anlatılan bir proje.
+453|Başlamanın en iyi yolu bir tanıtım <span class="arr">↗</span>
+454|PDF sunumu <span class="arr">↗</span>
+455|Afiş: Proteggimi (no pAIn), farklı ve akıllı uygulama. Akıllı telefona dokunmadan bile anında yardım.
+456|no pAIn™ — Sık sorulan sorular
+457|no pAIn™ uygulamaları, button4help™, bağlantı, gizlilik ve maliyetler hakkında net yanıtlar.
+458|Basit sorular. <span class="hl">Net yanıtlar.</span>
+459|Seçmeden önce işleyişi ve kullanım koşullarını öğrenin.
+460|Neden doğrudan 112 aranmıyor?
+461|112 hâlâ çok önemlidir ve arayabiliyorsanız arayın. Ancak tehlike anında bir operatörle konuşmak, durumu anlatmak ve nerede olduğunuzu söylemek çoğu zaman mümkün değildir. no pAIn™ uygulamaları tam da bunun için vardır: bir kelime veya fark edilmeyen bir dokunuşla güvendiğiniz iki kişiyi konumunuzla uyarır ve polisi onlar arar.
+462|Yardım talebini kim alır?
+463|Uygulamada belirlediğiniz iki acil durum kişisi, yakınlarınız veya arkadaşlarınız. Uygulamaya göre SMS, WhatsApp (iPhone), Telegram ve aramaları etkinleştirebilirsiniz. Uygulamalar kamu acil durum hizmetleriyle iletişime geçmez.
+464|iPhone ile kullanabilir miyim?
+465|Evet: no pAIn™ (Proteggimi) App Store’da, 12 dilde ve Apple Watch yardımcı uygulamasıyla mevcuttur. Ücretsiz sürüm SOS ve Telegram içerir; Premium, Kestirmeler aracılığıyla Siri, SMS, WhatsApp ve aramaları ekler. <a href="versioni.html">Karşılaştırmaya bakın</a>.
+466|Ne kadar tutar?
+467|iOS’ta indirme ve Free işlevleri ücretsizdir; Premium tek seferlik bir satın alma gerektirir, abonelik yoktur. Android’de hızlı acil durum düğmeleri, <a href="versioni.html">karşılaştırmada</a> gösterilen sınırlamalarla ücretsiz kalır. Uygulama fiyatları için mağazalara bakın.
+468|Konum her uygulamada 24 saat görünür kalır mı?
+469|Süre uygulamaya ve sürüme bağlıdır. iOS Free’de 30 dakikadır; iOS Premium’da 1 dakikadan 24 saate kadar. AI help You 24 saate kadar çıkar; Proteggimi Android ve AIuto SOS watch4help™ sırasıyla 30 ve 60 dakika belirtir. Yüklü uygulamanın seçeneklerini kontrol edin.
+470|Akıllı saat her zaman telefonun yakınında mı olmalı?
+471|Wear OS’ta telefonun yardımcı uygulaması ile saatin bağlantısını kullanan bağımsız AIuto SOS watch4help™ arasında seçim yapabilirsiniz. Apple Watch yardımcı uygulaması eşleştirilmiş iPhone ile çalışır: Telegram ve konum iPhone kilitliyken bile gönderilebilir; diğer Premium eylemler için iPhone uygulamasının ön planda olması gerekir. Apple Watch’a özel bir AIutoSOS uygulaması planlanıyor.
+472|Düğme akıllı telefon olmadan çalışır mı?
+473|Hayır. button4help™, eşleştirilmiş akıllı telefondaki bir uygulamayı kontrol eder: telefon açık ve Bluetooth ile erişilebilir olmalıdır. Telefonsuz bir çözüme ihtiyacınız varsa, işlevleri saatin bağlantısına bağlı olan Wear OS için bağımsız <a href="prodotti.html#aiuto-sos">AIuto SOS watch4help™</a> uygulaması vardır.
+474|AirTag’den veya bir takip cihazından farkı nedir?
+475|GPS veya Bluetooth takip cihazları, Apple’ın AirTag ağı veya Android ağı üzerinden eşya ve evcil hayvan bulmaya yarar. button4help™ konumlandırılamaz: birkaç saniye basıldığında uygulamada acil durumu başlatan bir düğmedir. Yalnızca bir Bluetooth Low Energy modülü ve bir düğme pil içerir, bu yüzden bu kadar küçüktür. Yaşlılar için klasik SOS düğmelerinden de farklıdır.
+476|Nereden alırım ve hangi uygulamalarla çalışır?
+477|<a href="https://it.aliexpress.com/item/1005008509583971.html" target="_blank" rel="noopener">AliExpress</a>’te üçüncü taraf bir satıcıdan alınır: no pAIn™ satmaz. Android’de AI help You ile, iPhone’da no pAIn™ ile çalışır. Telefonunuzla uyumluluğundan emin değilseniz <a href="mailto:agostino.giorgio@poliba.it" data-mail="private">tasarımcıya yazın</a>.
+478|Düğmenin fotoğrafları mevcut cihazı gösterir. Kalp kolyeli veya başka takılı tanıtım görselleri tasarım olanaklarını gösterir: bu aksesuarların bulunabilirliği ve özellikleri tasarımcıyla teyit edilmelidir.
+479|Bağlantı ve gizlilik
+480|“Çevrimdışı yapay zekâ” bağlantı gerekmediği anlamına mı gelir?
+481|Anahtar kelimelerin yerel olarak tanınması sesi bir bulut hizmetine göndermez. Uyarıların gönderilmesi ayrı bir adımdır: Telegram ve WhatsApp internet gerektirir; SMS ve aramalar şebekeye ve operatör tarifesine bağlıdır. Aksesuar ile telefon arasındaki bağlantının da mevcut olması gerekir.
+482|Konuşmalar kaydediliyor mu?
+483|Geliştirici, mikrofonun ses kaydedilmeden anahtar kelimelerin yerel olarak tanınması için kullanıldığını ve kişilerle ayarların cihazda kaldığını beyan eder. Uyarılar yine de telefon operatörleri ve Telegram gibi, kendi gizlilik politikaları olan harici hizmetleri kullanır. <a href="https://poliba.wixsite.com/no_pain_privacy" target="_blank" rel="noopener">İlgili uygulamanın gizlilik politikasına</a> bakın.
+484|Hesap oluşturmak gerekir mi?
+485|Hayır. Uygulamalar hesap, oturum açma veya özel bulut gerektirmez: ayarlar ve kişiler telefonunuzda kalır.
