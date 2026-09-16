@@ -36,6 +36,7 @@ ritradotta: il sito non mostra mai una traduzione vecchia di un testo cambiato.
 
 In `prodotti.html` (sezione AIuto SOS) e in `button4help.html` c'è una galleria in formato verticale.
 Per aggiungere un'immagine copia un blocco `<figure class="media">…</figure>` e cambia file e testi.
+I video orizzontali stanno nei riquadri `figure class="media cinema"` (16:9) sotto le gallerie.
 Dentro la galleria c'è un commento con i modelli pronti per **video .mp4** (da mettere in `assets/video/`)
 e per **reel di Instagram**.
 
@@ -51,6 +52,8 @@ e per **reel di Instagram**.
 ## Strumenti (per chi rigenera il sito)
 
 ```bash
+python3 _strumenti/anteprima.py                  # anteprima locale su http://127.0.0.1:8765
+swift _strumenti/video.swift IN.mp4 assets/video/OUT.mp4 INIZIO FINE COPERTINA  # video per il web + copertina
 python3 _strumenti/build.py                      # rigenera le 8 pagine da _strumenti/pagine/
 python3 _strumenti/traduzioni.py CARTELLA en fr  # converte le traduzioni in lang/*.js e le controlla
 ```

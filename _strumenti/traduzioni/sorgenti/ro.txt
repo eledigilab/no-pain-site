@@ -456,3 +456,26 @@ mail.partnerBody|Bună ziua,\naș dori să aflu mai multe despre proiectul no pA
 483|Dezvoltatorul declară că microfonul servește la recunoașterea locală a cuvintelor-cheie, fără a înregistra sunetul, și că contactele și setările rămân pe dispozitiv. Alertele folosesc totuși servicii externe, precum operatorii de telefonie și Telegram, cu propriile politici de confidențialitate. Consultă <a href="https://poliba.wixsite.com/no_pain_privacy" target="_blank" rel="noopener">politica de confidențialitate a fiecărei aplicații</a>.
 484|Trebuie să-mi creez un cont?
 485|Nu. Aplicațiile nu cer cont, autentificare sau cloud propriu: setările și contactele rămân pe telefonul tău.
+
+486|Proiectul pe scurt
+487|Inteligența artificială împotriva violenței de gen.
+488|Acest afiș rezumă proiectul no pAIn™: inteligența artificială în slujba prevenirii, instrumente digitale discrete care te protejează oriunde te-ai afla și o aplicație pentru fiecare dispozitiv, cu aplicații însoțitoare pentru ceasuri inteligente.
+489|<a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.aibutton" target="_blank" rel="noopener">AIuto SOS — watch4help™ ↗</a> pentru ceasuri Wear OS
+490|<a class="link-arrow" href="https://apps.apple.com/it/app/no-pain/id6756390159" target="_blank" rel="noopener">no pAIn™ ↗</a> pentru iPhone, în 12 limbi
+491|<a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.nopain" target="_blank" rel="noopener">Proteggimi ↗</a> pentru Android, în italiană
+492|<a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.helpyou" target="_blank" rel="noopener">AI help You ↗</a> pentru Android, în 12 limbi
+493|Atinge afișul pentru a-l mări. Pentru a descărca aplicațiile, folosește linkurile de mai sus.
+494|<strong>Protect Your Freedom: AI Against Gender Violence</strong>Afișul proiectului, în engleză.
+495|Afișul proiectului no pAIn: Protect Your Freedom, AI Against Gender Violence. Prezintă aplicațiile AIuto SOS pentru ceasuri inteligente, no pAIn pentru iPhone, Proteggimi și AI help You pentru Android.
+496|<strong>digital4help™: Digital protection against gender-based violence</strong>Afișul proiectului, în engleză.
+497|Afiș digital4help: Digital protection against gender-based violence. A new era has just begun. Un scut cu o siluetă feminină în centrul unor circuite luminoase, deasupra unui smartphone cu aplicația no pAIn și a unui ceas inteligent cu semnalul mâinii pentru ajutor; în jur, cuvintele IA Offline, Safe Zone, No Trace, SOS Wearable.
+498|Video demonstrativ
+499|Proteggimi în acțiune.
+500|Telefonul e pe jos, departe de mâini, și totuși mesajele de ajutor pleacă. Prietenii primesc alarma cu locația: unul sună la poliție, care ajunge la timp.
+501|Scene de ficțiune, în scop demonstrativ. Videoclipul are sunet.
+502|Video
+503|<strong>Să ceri ajutor fără să fie nevoie să vorbești</strong>De la momentul pericolului până la sosirea ajutorului, în 37 de secunde.
+504|<strong>SOS de la încheietură, chiar și cu cadranul stins</strong>O atingere pe butonul INVIO (trimite) al ceasului sau o comandă vocală fără să atingi cadranul: prietenii primesc alarma, cheamă ajutor și ajutorul sosește. Textele din video în italiană; scene de ficțiune, în scop demonstrativ.
+505|<strong>O apăsare, ajutorul sosește la timp</strong>Butonul pornește AI help You: locația în timp real ajunge la o prietenă, care sună la poliție. Textele din video în engleză.
+506|<strong>În mașină, când nu poți lua telefonul</strong>Lângă un bărbat agresiv, orice gest spre smartphone ar fi observat: este momentul în care o apăsare discretă pe button4help™ trimite cererea de ajutor. Scenă de ficțiune, în scop demonstrativ.
+507|Politica de confidențialitate <span class="arr">↗</span>

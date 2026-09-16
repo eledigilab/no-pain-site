@@ -1807,6 +1807,94 @@
   "it": "No. Le app non richiedono account, login o cloud proprietario: impostazioni e contatti restano sul tuo telefono.",
   "tr": "Nee. De apps vragen geen account, login of eigen cloud: instellingen en contacten blijven op je telefoon."
  },
+ "e93d73c2": {
+  "it": "Il progetto in sintesi",
+  "tr": "Het project in het kort"
+ },
+ "a76d0406": {
+  "it": "L'intelligenza artificiale contro la violenza di genere.",
+  "tr": "Kunstmatige intelligentie tegen gendergerelateerd geweld."
+ },
+ "fd64f97a": {
+  "it": "Questa locandina riassume il progetto no pAIn™: l'intelligenza artificiale al servizio della prevenzione, strumenti digitali discreti che ti proteggono ovunque tu sia e un'app per ogni dispositivo, con le app compagne per smartwatch.",
+  "tr": "Deze affiche vat het project no pAIn™ samen: kunstmatige intelligentie in dienst van preventie, onopvallende digitale hulpmiddelen die je beschermen waar je ook bent, en een app voor elk apparaat, met begeleidende apps voor smartwatches."
+ },
+ "e30a1811": {
+  "it": "<a class=\"link-arrow\" href=\"https://play.google.com/store/apps/details?id=com.agiotech.aibutton\" target=\"_blank\" rel=\"noopener\">AIuto SOS — watch4help™ ↗</a> per smartwatch Wear OS",
+  "tr": "<a class=\"link-arrow\" href=\"https://play.google.com/store/apps/details?id=com.agiotech.aibutton\" target=\"_blank\" rel=\"noopener\">AIuto SOS — watch4help™ ↗</a> voor Wear OS-smartwatches"
+ },
+ "4f1e0878": {
+  "it": "<a class=\"link-arrow\" href=\"https://apps.apple.com/it/app/no-pain/id6756390159\" target=\"_blank\" rel=\"noopener\">no pAIn™ ↗</a> per iPhone, in 12 lingue",
+  "tr": "<a class=\"link-arrow\" href=\"https://apps.apple.com/it/app/no-pain/id6756390159\" target=\"_blank\" rel=\"noopener\">no pAIn™ ↗</a> voor iPhone, in 12 talen"
+ },
+ "aa5f7d48": {
+  "it": "<a class=\"link-arrow\" href=\"https://play.google.com/store/apps/details?id=com.agiotech.nopain\" target=\"_blank\" rel=\"noopener\">Proteggimi ↗</a> per Android, in italiano",
+  "tr": "<a class=\"link-arrow\" href=\"https://play.google.com/store/apps/details?id=com.agiotech.nopain\" target=\"_blank\" rel=\"noopener\">Proteggimi ↗</a> voor Android, in het Italiaans"
+ },
+ "462a3bb0": {
+  "it": "<a class=\"link-arrow\" href=\"https://play.google.com/store/apps/details?id=com.agiotech.helpyou\" target=\"_blank\" rel=\"noopener\">AI help You ↗</a> per Android, in 12 lingue",
+  "tr": "<a class=\"link-arrow\" href=\"https://play.google.com/store/apps/details?id=com.agiotech.helpyou\" target=\"_blank\" rel=\"noopener\">AI help You ↗</a> voor Android, in 12 talen"
+ },
+ "caba9e67": {
+  "it": "Tocca la locandina per ingrandirla. Per scaricare le app usa i link qui sopra.",
+  "tr": "Tik op de affiche om te vergroten. Gebruik de links hierboven om de apps te downloaden."
+ },
+ "27746dda": {
+  "it": "<strong>Protect Your Freedom: AI Against Gender Violence</strong>La locandina del progetto, in inglese.",
+  "tr": "<strong>Protect Your Freedom: AI Against Gender Violence</strong>De projectaffiche, in het Engels."
+ },
+ "c761130a": {
+  "it": "Locandina del progetto no pAIn: Protect Your Freedom, AI Against Gender Violence. Presenta le app AIuto SOS per smartwatch, no pAIn per iPhone, Proteggimi e AI help You per Android.",
+  "tr": "Affiche van het project no pAIn: Protect Your Freedom, AI Against Gender Violence. Toont de apps AIuto SOS voor smartwatches, no pAIn voor iPhone, Proteggimi en AI help You voor Android."
+ },
+ "29122c2a": {
+  "it": "<strong>digital4help™: Digital protection against gender-based violence</strong>La locandina del progetto, in inglese.",
+  "tr": "<strong>digital4help™: Digital protection against gender-based violence</strong>De projectaffiche, in het Engels."
+ },
+ "2888566a": {
+  "it": "Locandina digital4help: Digital protection against gender-based violence. A new era has just begun. Uno scudo con una figura femminile al centro di circuiti luminosi, sopra uno smartphone con l'app no pAIn e uno smartwatch con il segnale della mano per chiedere aiuto; intorno le scritte IA Offline, Safe Zone, No Trace, SOS Wearable.",
+  "tr": "Affiche digital4help: Digital protection against gender-based violence. A new era has just begun. Een schild met een vrouwenfiguur in het midden van oplichtende circuits, boven een smartphone met de app no pAIn en een smartwatch met het handgebaar om hulp te vragen; eromheen de woorden IA Offline, Safe Zone, No Trace, SOS Wearable."
+ },
+ "5df0bebd": {
+  "it": "Video dimostrativo",
+  "tr": "Demovideo"
+ },
+ "9b5dee09": {
+  "it": "Proteggimi in azione.",
+  "tr": "Proteggimi in actie."
+ },
+ "58ae6a1e": {
+  "it": "Il telefono è a terra, lontano dalle mani, eppure i messaggi di aiuto partono. Gli amici ricevono l'allarme con la posizione: uno chiama le forze dell'ordine, che arrivano in tempo.",
+  "tr": "De telefoon ligt op de grond, buiten bereik, en toch gaan de hulpberichten de deur uit. Vrienden ontvangen het alarm met de locatie: een van hen belt de politie, die op tijd arriveert."
+ },
+ "59f5d3fc": {
+  "it": "Scene di finzione, a scopo dimostrativo. Il video ha l'audio.",
+  "tr": "Gespeelde scènes, ter demonstratie. De video heeft geluid."
+ },
+ "5b67c80c": {
+  "it": "Video",
+  "tr": "Video"
+ },
+ "4f535166": {
+  "it": "<strong>Chiedere aiuto senza dover parlare</strong>Dalla situazione di pericolo all'arrivo dei soccorsi, in 37 secondi.",
+  "tr": "<strong>Hulp vragen zonder te hoeven praten</strong>Van het moment van gevaar tot de komst van hulp, in 37 seconden."
+ },
+ "8299c92a": {
+  "it": "<strong>SOS dal polso, anche a quadrante spento</strong>Un tocco sul tasto INVIO dell'orologio, oppure un comando vocale senza toccare il quadrante: gli amici ricevono l'allarme, chiamano i soccorsi e l'aiuto arriva. Testi del video in italiano; scene di finzione, a scopo dimostrativo.",
+  "tr": "<strong>SOS vanaf je pols, ook met de wijzerplaat uit</strong>Een tik op de knop INVIO (versturen) van het horloge, of een spraakopdracht zonder de wijzerplaat aan te raken: vrienden ontvangen het alarm, roepen hulp in en de hulp komt. Teksten in de video in het Italiaans; gespeelde scènes, ter demonstratie."
+ },
+ "bb59c059": {
+  "it": "<strong>Una pressione, l'aiuto arriva in tempo</strong>Il pulsante avvia AI help You: la posizione live arriva a un'amica, che chiama la polizia. Testi del video in inglese.",
+  "tr": "<strong>Eén druk, de hulp komt op tijd</strong>De knop start AI help You: de live locatie bereikt een vriendin, die de politie belt. Teksten in de video in het Engels."
+ },
+ "f2e1493b": {
+  "it": "<strong>In auto, quando prendere il telefono non è possibile</strong>Accanto a un uomo aggressivo, ogni gesto verso lo smartphone verrebbe notato: è il momento in cui una pressione discreta su button4help™ fa partire la richiesta di aiuto. Scena di finzione, a scopo dimostrativo.",
+  "tr": "<strong>In de auto, als je de telefoon niet kunt pakken</strong>Naast een agressieve man zou elke beweging naar de smartphone opvallen: dit is het moment waarop een onopvallende druk op button4help™ het hulpverzoek verstuurt. Gespeelde scène, ter demonstratie."
+ },
+ "570a2376": {
+  "it": "Informativa sulla privacy <span class=\"arr\">↗</span>",
+  "tr": "Privacybeleid <span class=\"arr\">↗</span>"
+ },
  "_ui": {
   "menu": "Menu",
   "close": "Sluiten",

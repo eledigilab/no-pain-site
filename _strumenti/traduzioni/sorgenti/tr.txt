@@ -457,3 +457,26 @@ mail.partnerBody|Merhaba,\nno pAIn™ projesi hakkında daha fazla bilgi almak v
 483|Geliştirici, mikrofonun ses kaydedilmeden anahtar kelimelerin yerel olarak tanınması için kullanıldığını ve kişilerle ayarların cihazda kaldığını beyan eder. Uyarılar yine de telefon operatörleri ve Telegram gibi, kendi gizlilik politikaları olan harici hizmetleri kullanır. <a href="https://poliba.wixsite.com/no_pain_privacy" target="_blank" rel="noopener">İlgili uygulamanın gizlilik politikasına</a> bakın.
 484|Hesap oluşturmak gerekir mi?
 485|Hayır. Uygulamalar hesap, oturum açma veya özel bulut gerektirmez: ayarlar ve kişiler telefonunuzda kalır.
+
+486|Bir bakışta proje
+487|Toplumsal cinsiyete dayalı şiddete karşı yapay zekâ.
+488|Bu afiş no pAIn™ projesini özetliyor: önlemenin hizmetinde yapay zekâ, nerede olursanız olun sizi koruyan fark edilmeyen dijital araçlar ve akıllı saatler için yardımcı uygulamalarla her cihaza bir uygulama.
+489|Wear OS akıllı saatler için <a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.aibutton" target="_blank" rel="noopener">AIuto SOS — watch4help™ ↗</a>
+490|iPhone için <a class="link-arrow" href="https://apps.apple.com/it/app/no-pain/id6756390159" target="_blank" rel="noopener">no pAIn™ ↗</a>, 12 dilde
+491|Android için <a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.nopain" target="_blank" rel="noopener">Proteggimi ↗</a>, İtalyanca
+492|Android için <a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.helpyou" target="_blank" rel="noopener">AI help You ↗</a>, 12 dilde
+493|Büyütmek için afişe dokunun. Uygulamaları indirmek için yukarıdaki bağlantıları kullanın.
+494|<strong>Protect Your Freedom: AI Against Gender Violence</strong>Projenin afişi, İngilizce.
+495|no pAIn projesinin afişi: Protect Your Freedom, AI Against Gender Violence. Akıllı saatler için AIuto SOS, iPhone için no pAIn, Android için Proteggimi ve AI help You uygulamalarını tanıtır.
+496|<strong>digital4help™: Digital protection against gender-based violence</strong>Projenin afişi, İngilizce.
+497|digital4help afişi: Digital protection against gender-based violence. A new era has just begun. Parlayan devrelerin ortasında kadın figürlü bir kalkan; altında no pAIn uygulamalı bir akıllı telefon ve yardım isteme el işaretini gösteren bir akıllı saat; çevrelerinde IA Offline, Safe Zone, No Trace, SOS Wearable yazıları.
+498|Tanıtım videosu
+499|Proteggimi iş başında.
+500|Telefon yerde, elden uzakta; yine de yardım mesajları gönderiliyor. Arkadaşlar alarmı konumla birlikte alıyor: biri polisi arıyor ve polis zamanında geliyor.
+501|Kurgusal sahneler, tanıtım amaçlıdır. Videoda ses vardır.
+502|Video
+503|<strong>Konuşmak zorunda kalmadan yardım istemek</strong>Tehlike anından yardımın gelişine, 37 saniyede.
+504|<strong>Kadran kapalıyken bile kolunuzdan SOS</strong>Saatteki INVIO (gönder) düğmesine bir dokunuş ya da kadrana dokunmadan bir sesli komut: arkadaşlar alarmı alır, yardım çağırır ve yardım gelir. Videodaki yazılar İtalyanca; kurgusal sahneler, tanıtım amaçlıdır.
+505|<strong>Tek basış, yardım zamanında gelir</strong>Düğme AI help You uygulamasını başlatır: canlı konum bir arkadaşa ulaşır, o da polisi arar. Videodaki yazılar İngilizce.
+506|<strong>Arabada, telefonu almak imkânsızken</strong>Saldırgan bir adamın yanında akıllı telefona yönelik her hareket fark edilir: işte bu an button4help™ düğmesine fark edilmeden basmak yardım talebini gönderir. Kurgusal sahne, tanıtım amaçlıdır.
+507|Gizlilik politikası <span class="arr">↗</span>

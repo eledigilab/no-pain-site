@@ -567,3 +567,38 @@ section[id], [id].media-wall { scroll-margin-top: 80px; }
 @media (prefers-reduced-motion: reduce) {
   body::after, .logo .shield::after { animation: none; }
 }
+
+/* home: locandina del progetto con testo accanto */
+.poster-feature { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, .85fr); gap: 56px; align-items: center; }
+.poster-feature .intro { display: grid; gap: 20px; align-content: start; }
+.poster-feature .media { width: 100%; max-width: 380px; justify-self: center; }
+.poster-feature .checks li { display: block; position: relative; padding-left: 30px; color: var(--muted); }
+.poster-feature .checks li::before { position: absolute; left: 0; top: 0; }
+@media (max-width: 900px) { .poster-feature { grid-template-columns: 1fr; gap: 40px; } }
+/* la locandina della home ha le proporzioni originali (832×1270), non il formato reel */
+.poster-feature .media .frame-media { aspect-ratio: 832 / 1270; }
+
+/* ==========================================================
+   Video dimostrativi orizzontali (formato cinema 16:9)
+   ========================================================== */
+.cinema { max-width: 960px; width: 100%; }
+.cinema .cinema-frame {
+  position: relative; border-radius: var(--r); border: 1px solid var(--line); background: #000;
+  box-shadow: 0 30px 80px -30px rgba(0, 0, 0, .85), 0 0 70px rgba(183, 38, 207, .28);
+}
+.cinema video { display: block; width: 100%; height: auto; border-radius: var(--r); background: #000; }
+.media .frame-media video { background: #000; }
+.cinema-wide { margin-top: 56px; display: grid; justify-items: center; }
+.cinema-block { margin-top: 64px; display: grid; grid-template-columns: minmax(0, .75fr) minmax(0, 1.25fr); gap: 40px; align-items: center; }
+.cinema-block .intro { display: grid; gap: 16px; align-content: start; }
+@media (max-width: 900px) { .cinema-block { grid-template-columns: 1fr; } }
+/* nelle sezioni "rovesciate" della pagina app, i blocchi video e galleria tengono il testo a sinistra */
+.product.flip .wrap.cinema-block > :first-child,
+.product.flip .wrap.media-wall > :first-child { order: 0; }
+/* dentro le sezioni della pagina app lo stile a due colonne delle schede non deve valere per gallerie e video */
+.product .wrap.media-wall { grid-template-columns: minmax(0, .8fr) minmax(0, 1.2fr); }
+.product .wrap.cinema-block { grid-template-columns: minmax(0, .75fr) minmax(0, 1.25fr); }
+.product .wrap.cinema-wide { grid-template-columns: 1fr; }
+@media (max-width: 900px) {
+  .product .wrap.media-wall, .product .wrap.cinema-block { grid-template-columns: 1fr; }
+}

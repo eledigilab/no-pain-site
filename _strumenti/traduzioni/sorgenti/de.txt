@@ -456,3 +456,26 @@ mail.partnerBody|Guten Tag,\nich möchte mehr über das Projekt no pAIn™ erfah
 483|Der Entwickler erklärt, dass das Mikrofon der lokalen Erkennung der Schlüsselwörter dient, ohne Audio aufzuzeichnen, und dass Kontakte und Einstellungen auf dem Gerät bleiben. Die Alarme nutzen dennoch externe Dienste wie Mobilfunkanbieter und Telegram, mit deren eigenen Datenschutzhinweisen. Lesen Sie die <a href="https://poliba.wixsite.com/no_pain_privacy" target="_blank" rel="noopener">Datenschutzerklärung der jeweiligen App</a>.
 484|Muss ich ein Konto anlegen?
 485|Nein. Die Apps benötigen kein Konto, keinen Login und keine eigene Cloud: Einstellungen und Kontakte bleiben auf Ihrem Telefon.
+
+486|Das Projekt auf einen Blick
+487|Künstliche Intelligenz gegen geschlechtsspezifische Gewalt.
+488|Dieses Plakat fasst das Projekt no pAIn™ zusammen: künstliche Intelligenz im Dienst der Prävention, unauffällige digitale Werkzeuge, die Sie überall schützen, und eine App für jedes Gerät, mit Begleit-Apps für Smartwatches.
+489|<a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.aibutton" target="_blank" rel="noopener">AIuto SOS — watch4help™ ↗</a> für Wear-OS-Smartwatches
+490|<a class="link-arrow" href="https://apps.apple.com/it/app/no-pain/id6756390159" target="_blank" rel="noopener">no pAIn™ ↗</a> für iPhone, in 12 Sprachen
+491|<a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.nopain" target="_blank" rel="noopener">Proteggimi ↗</a> für Android, auf Italienisch
+492|<a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.helpyou" target="_blank" rel="noopener">AI help You ↗</a> für Android, in 12 Sprachen
+493|Tippen Sie auf das Plakat, um es zu vergrößern. Die Apps laden Sie über die Links oben.
+494|<strong>Protect Your Freedom: AI Against Gender Violence</strong>Das Projektplakat, auf Englisch.
+495|Plakat des Projekts no pAIn: Protect Your Freedom, AI Against Gender Violence. Es stellt die Apps AIuto SOS für Smartwatches, no pAIn für iPhone, Proteggimi und AI help You für Android vor.
+496|<strong>digital4help™: Digital protection against gender-based violence</strong>Das Projektplakat, auf Englisch.
+497|Plakat digital4help: Digital protection against gender-based violence. A new era has just begun. Ein Schild mit einer Frauenfigur inmitten leuchtender Schaltkreise, darunter ein Smartphone mit der App no pAIn und eine Smartwatch mit dem Handzeichen für Hilfe; ringsum die Wörter IA Offline, Safe Zone, No Trace, SOS Wearable.
+498|Demovideo
+499|Proteggimi im Einsatz.
+500|Das Telefon liegt auf dem Boden, außer Reichweite, und trotzdem gehen die Hilferufe hinaus. Freunde erhalten den Alarm mit dem Standort: Einer ruft die Polizei, die rechtzeitig eintrifft.
+501|Gestellte Szenen zu Demonstrationszwecken. Das Video hat Ton.
+502|Video
+503|<strong>Hilfe rufen, ohne sprechen zu müssen</strong>Von der Gefahr bis zum Eintreffen der Hilfe, in 37 Sekunden.
+504|<strong>SOS vom Handgelenk, auch bei ausgeschaltetem Zifferblatt</strong>Eine Berührung des Knopfs INVIO (Senden) auf der Uhr oder ein Sprachbefehl, ohne das Zifferblatt zu berühren: Freunde erhalten den Alarm, rufen Hilfe und die Hilfe kommt. Texte im Video auf Italienisch; gestellte Szenen zu Demonstrationszwecken.
+505|<strong>Ein Druck, die Hilfe kommt rechtzeitig</strong>Der Knopf startet AI help You: Der Live-Standort erreicht eine Freundin, die die Polizei ruft. Texte im Video auf Englisch.
+506|<strong>Im Auto, wenn man nicht zum Telefon greifen kann</strong>Neben einem aggressiven Mann würde jede Bewegung zum Smartphone bemerkt: In diesem Moment sendet ein unauffälliger Druck auf button4help™ den Hilferuf. Gestellte Szene zu Demonstrationszwecken.
+507|Datenschutzerklärung <span class="arr">↗</span>
