@@ -2191,6 +2191,350 @@
   "it": "<strong>no pAIn™ project: Technology that protects life</strong>Il progetto e le sue app in una locandina, in inglese.",
   "tr": "<strong>no pAIn™ project: Technology that protects life</strong>Proje ve uygulamaları tek bir afişte, İngilizce."
  },
+ "0640498c": {
+  "it": "Gratis quando serve",
+  "tr": "Gerektiğinde ücretsiz"
+ },
+ "31a398fe": {
+  "it": "Nel momento del pericolo, <span class=\"hl\">chiedere aiuto è gratis.</span>",
+  "tr": "Tehlike anında <span class=\"hl\">yardım istemek ücretsizdir.</span>"
+ },
+ "dc60208c": {
+  "it": "Tutte le app si scaricano gratuitamente e in ognuna almeno un modo per lanciare l'allarme con la tua posizione resta sempre gratuito, anche senza abbonamento.",
+  "tr": "Tüm uygulamalar ücretsiz indirilir ve her birinde konumunuzla alarm vermenin en az bir yolu, abonelik olmadan da her zaman ücretsiz kalır."
+ },
+ "015b7ce6": {
+  "it": "Smartwatch Wear OS",
+  "tr": "Wear OS akıllı saat"
+ },
+ "31fee404": {
+  "it": "gratis, tutte le funzioni",
+  "tr": "ücretsiz, tüm işlevler"
+ },
+ "c88cf07b": {
+  "it": "Completamente gratuita: nessuna prova a tempo, nessun abbonamento e nessun acquisto in app. L'allarme parte dal polso, anche senza smartphone.",
+  "tr": "Tamamen ücretsiz: süreli deneme yok, abonelik yok, uygulama içi satın alma yok. Alarm, akıllı telefon olmadan da kolunuzdan başlar."
+ },
+ "8b8ce645": {
+  "it": "Scarica ora →",
+  "tr": "Şimdi indirin →"
+ },
+ "e876cc0a": {
+  "it": "3 giorni",
+  "tr": "3 gün"
+ },
+ "cbc354a9": {
+  "it": "di prova completa, poi l'emergenza resta gratis",
+  "tr": "tam deneme, sonra acil durum ücretsiz kalır"
+ },
+ "b6cabd47": {
+  "it": "Proteggimi e AI help You",
+  "tr": "Proteggimi ve AI help You"
+ },
+ "4df660e7": {
+  "it": "Dopo la prova scade solo l'avvio dal tasto Avvia di Proteggimi o Start di AI help You. L'emergenza parte gratis dalla notifica persistente, dal tasto rapido sulla schermata home, dallo smartwatch e, con AI help You, da button4help™. Una volta avviata, l'app ascolta anche i tuoi comandi vocali.",
+  "tr": "Denemeden sonra yalnızca Proteggimi'deki Avvia ya da AI help You'daki Start düğmesiyle başlatma sona erer. Acil durum kalıcı bildirimden, ana ekrandaki hızlı düğmeden, akıllı saatten ve AI help You ile button4help™ üzerinden ücretsiz başlar. Başlatıldıktan sonra uygulama sesli komutlarınızı da dinler."
+ },
+ "15463424": {
+  "it": "Scarica Proteggimi →",
+  "tr": "Proteggimi'yi indirin →"
+ },
+ "b3a6f093": {
+  "it": "Scarica AI help You →",
+  "tr": "AI help You'yu indirin →"
+ },
+ "79cbaba8": {
+  "it": "iPhone e Apple Watch",
+  "tr": "iPhone ve Apple Watch"
+ },
+ "d1b5c8e1": {
+  "it": "Sempre",
+  "tr": "Her zaman"
+ },
+ "2bb779db": {
+  "it": "gratis l'allarme con la posizione",
+  "tr": "ücretsiz: konumlu alarm"
+ },
+ "f8b6d6ab": {
+  "it": "Il messaggio di allerta su Telegram con la posizione del momento e la posizione live è sempre gratuito, e parte anche da Apple Watch. Comando vocale, SMS, WhatsApp e telefonata si aggiungono con un unico acquisto in app, senza abbonamento.",
+  "tr": "O anki konumunuz ve canlı konumunuzla Telegram uyarı mesajı her zaman ücretsizdir ve Apple Watch'tan da başlar. Sesli komut, SMS, WhatsApp ve arama, abonelik olmadan tek bir uygulama içi satın almayla eklenir."
+ },
+ "d6f1361a": {
+  "it": "Tutti i dettagli su cosa è gratis →",
+  "tr": "Neyin ücretsiz olduğuna dair tüm ayrıntılar →"
+ },
+ "8a74e3f1": {
+  "it": "<a class=\"link-arrow\" href=\"https://apps.apple.com/app/id6756390159\" target=\"_blank\" rel=\"noopener\">no pAIn™ ↗</a> per iPhone, in 12 lingue",
+  "tr": "iPhone için <a class=\"link-arrow\" href=\"https://apps.apple.com/app/id6756390159\" target=\"_blank\" rel=\"noopener\">no pAIn™ ↗</a>, 12 dilde"
+ },
+ "4601fdce": {
+  "it": "<strong>Si scaricano tutte gratis</strong> e in ognuna chiedere aiuto con la tua posizione resta gratuito. <a class=\"link-arrow\" href=\"versioni.html\">Cosa è gratis in ogni app →</a>",
+  "tr": "<strong>Hepsi ücretsiz indirilir</strong> ve her birinde konumunuzla yardım istemek ücretsiz kalır. <a class=\"link-arrow\" href=\"versioni.html\">Her uygulamada ücretsiz olanlar →</a>"
+ },
+ "17e87901": {
+  "it": "Emergenza gratis",
+  "tr": "Ücretsiz acil durum"
+ },
+ "05c17157": {
+  "it": "Scarica ora",
+  "tr": "Şimdi indirin"
+ },
+ "474ceccd": {
+  "it": "Inquadra il codice con la fotocamera del telefono oppure tocca il banner.",
+  "tr": "Kodu telefonunuzun kamerasıyla okutun ya da rozete dokunun."
+ },
+ "fce5c8c1": {
+  "it": "Gratis nell'emergenza",
+  "tr": "Acil durumda ücretsiz"
+ },
+ "76508b70": {
+  "it": "<strong>3 giorni di prova con tutte le funzioni.</strong> Poi le funzioni di emergenza restano gratuite: scade solo l'avvio dal tasto Start dell'app.",
+  "tr": "<strong>Tüm işlevlerle 3 gün deneme.</strong> Ardından acil durum işlevleri ücretsiz kalır: yalnızca uygulamanın Start düğmesiyle başlatma sona erer."
+ },
+ "a87ceb47": {
+  "it": "L'emergenza parte gratis dalla notifica persistente, dal tasto rapido sulla schermata home, dallo smartwatch e da button4help™",
+  "tr": "Acil durum kalıcı bildirimden, ana ekrandaki hızlı düğmeden, akıllı saatten ve button4help™ üzerinden ücretsiz başlar"
+ },
+ "45986d57": {
+  "it": "Una volta avviata così, si attiva anche l'ascolto dei comandi vocali",
+  "tr": "Bu şekilde başlatıldığında sesli komutları dinleme de açılır"
+ },
+ "983c5bb9": {
+  "it": "AI help You avvisa i contatti configurati. Non contatta i servizi pubblici di emergenza e non li sostituisce. Dopo i 3 giorni di prova funziona gratis in modalità emergenza rapida: <a class=\"link-arrow\" href=\"versioni.html\">vedi Free e Premium</a>.",
+  "tr": "AI help You ayarlanan kişileri uyarır. Resmî acil durum servisleriyle iletişim kurmaz ve onların yerini tutmaz. 3 günlük denemeden sonra hızlı acil durum modunda ücretsiz çalışır: <a class=\"link-arrow\" href=\"versioni.html\">Free ve Premium'a bakın</a>."
+ },
+ "9f204105": {
+  "it": "<strong>3 giorni di prova con tutte le funzioni.</strong> Poi le funzioni di emergenza restano gratuite: scade solo l'avvio dal tasto Avvia dell'app.",
+  "tr": "<strong>Tüm işlevlerle 3 gün deneme.</strong> Ardından acil durum işlevleri ücretsiz kalır: yalnızca uygulamanın Avvia düğmesiyle başlatma sona erer."
+ },
+ "b05555ab": {
+  "it": "L'emergenza parte gratis dalla notifica persistente, dal tasto rapido sulla schermata home e dallo smartwatch",
+  "tr": "Acil durum kalıcı bildirimden, ana ekrandaki hızlı düğmeden ve akıllı saatten ücretsiz başlar"
+ },
+ "db8190d3": {
+  "it": "Allarme gratis",
+  "tr": "Ücretsiz alarm"
+ },
+ "c4d5c24d": {
+  "it": "<strong>Sempre gratis: l'allarme con la tua posizione.</strong> Il messaggio di allerta su Telegram parte con la posizione del momento e con la posizione live per 30 minuti, anche da Apple Watch.",
+  "tr": "<strong>Her zaman ücretsiz: konumunuzla alarm.</strong> Telegram uyarı mesajı o anki konumunuzla ve 30 dakika canlı konumla gider, Apple Watch'tan da."
+ },
+ "7f38c9e5": {
+  "it": "Con un unico acquisto in app, senza abbonamento, aggiungi il comando vocale “Ehi Siri, Proteggimi”, SMS, WhatsApp, telefonata e la posizione live fino a 24 ore.",
+  "tr": "Abonelik olmadan tek bir uygulama içi satın almayla “Hey Siri, Bana yardım et” sesli komutunu, SMS, WhatsApp, aramayı ve 24 saate kadar canlı konumu eklersiniz."
+ },
+ "c98d6519": {
+  "it": "Tutto gratis",
+  "tr": "Tamamen ücretsiz"
+ },
+ "868d275e": {
+  "it": "Completamente gratuita",
+  "tr": "Tamamen ücretsiz"
+ },
+ "864ded48": {
+  "it": "<strong>Tutte le funzioni sono gratuite.</strong> Nessuna prova a tempo, nessun abbonamento e nessun acquisto in app.",
+  "tr": "<strong>Tüm işlevler ücretsizdir.</strong> Süreli deneme yok, abonelik yok, uygulama içi satın alma yok."
+ },
+ "c0f981d7": {
+  "it": "Codice QR per scaricare AI help You da Google Play",
+  "tr": "AI help You'yu Google Play'den indirmek için QR kodu"
+ },
+ "a22501a2": {
+  "it": "Disponibile su Google Play",
+  "tr": "Google Play'den indirin"
+ },
+ "707ca3b2": {
+  "it": "Codice QR per scaricare Proteggimi da Google Play",
+  "tr": "Proteggimi'yi Google Play'den indirmek için QR kodu"
+ },
+ "9117921f": {
+  "it": "Codice QR per scaricare no pAIn da App Store",
+  "tr": "no pAIn'i App Store'dan indirmek için QR kodu"
+ },
+ "a5fcd301": {
+  "it": "Scarica su App Store",
+  "tr": "App Store'dan indirin"
+ },
+ "cb5efe2c": {
+  "it": "Codice QR per scaricare AIuto SOS da Google Play",
+  "tr": "AIuto SOS'u Google Play'den indirmek için QR kodu"
+ },
+ "76e85ca3": {
+  "it": "Codice QR per scaricare AI help App da Google Play",
+  "tr": "AI help App'i Google Play'den indirmek için QR kodu"
+ },
+ "d9f8ca20": {
+  "it": "Chiedere aiuto <span class=\"hl\">è sempre gratis.</span>",
+  "tr": "Yardım istemek <span class=\"hl\">her zaman ücretsizdir.</span>"
+ },
+ "af8944e2": {
+  "it": "Tutte le app si scaricano gratuitamente e in ognuna almeno un modo per lanciare l'allarme con la tua posizione resta gratuito. AIuto SOS per Wear OS è tutta gratuita; le app Android hanno 3 giorni di prova completa e poi le funzioni di emergenza restano gratuite; su iPhone l'allarme su Telegram con la posizione è sempre gratis.",
+  "tr": "Tüm uygulamalar ücretsiz indirilir ve her birinde konumunuzla alarm vermenin en az bir yolu ücretsiz kalır. Wear OS için AIuto SOS tamamen ücretsizdir; Android uygulamalarında 3 gün tam deneme vardır, ardından acil durum işlevleri ücretsiz kalır; iPhone'da konumunuzla Telegram alarmı her zaman ücretsizdir."
+ },
+ "8405503a": {
+  "it": "Wear OS · AIuto SOS",
+  "tr": "Wear OS · AIuto SOS"
+ },
+ "be445a37": {
+  "it": "Tutte le funzioni incluse",
+  "tr": "Tüm işlevler dahil"
+ },
+ "dc9383fa": {
+  "it": "Nessuna prova a tempo",
+  "tr": "Süreli deneme yok"
+ },
+ "9d07b3e5": {
+  "it": "Nessun abbonamento e nessun acquisto in app",
+  "tr": "Abonelik ve uygulama içi satın alma yok"
+ },
+ "c940bedf": {
+  "it": "App autonoma per smartwatch Wear OS, funziona anche senza smartphone.",
+  "tr": "Wear OS akıllı saatler için bağımsız uygulama: akıllı telefon olmadan da çalışır."
+ },
+ "0d5f70d1": {
+  "it": "Android · Proteggimi e AI help You",
+  "tr": "Android · Proteggimi ve AI help You"
+ },
+ "7764ae47": {
+  "it": "3 giorni di prova, poi emergenza gratis",
+  "tr": "3 gün deneme, sonra ücretsiz acil durum"
+ },
+ "bd7d94ff": {
+  "it": "Per 3 giorni l'app è completa. Dopo, le funzioni di emergenza restano gratuite: scade solo l'avvio dal tasto Avvia di Proteggimi o Start di AI help You.",
+  "tr": "Uygulama 3 gün boyunca eksiksizdir. Ardından acil durum işlevleri ücretsiz kalır: yalnızca Proteggimi'deki Avvia ya da AI help You'daki Start düğmesiyle başlatma sona erer."
+ },
+ "4b5e65be": {
+  "it": "Avvio gratuito dalla notifica persistente e dal tasto rapido sulla schermata home",
+  "tr": "Kalıcı bildirimden ve ana ekrandaki hızlı düğmeden ücretsiz başlatma"
+ },
+ "43a5044a": {
+  "it": "Avvio gratuito dallo smartwatch e, con AI help You, da button4help™",
+  "tr": "Akıllı saatten ve AI help You ile button4help™ üzerinden ücretsiz başlatma"
+ },
+ "1e9acc4e": {
+  "it": "Una volta avviata, ascolto dei comandi vocali attivo",
+  "tr": "Başlatıldıktan sonra sesli komut dinleme etkin"
+ },
+ "6c5e3e1d": {
+  "it": "Con Premium torna anche l'avvio dal tasto Avvia/Start. Condizioni e prezzo sono indicati nella scheda della singola app su Google Play.",
+  "tr": "Premium ile Avvia/Start düğmesiyle başlatma da geri gelir. Koşullar ve fiyat her uygulamanın Google Play sayfasında yer alır."
+ },
+ "60ce1a1f": {
+  "it": "Allarme con posizione, sempre gratis",
+  "tr": "Konumlu alarm, her zaman ücretsiz"
+ },
+ "b96d28d9": {
+  "it": "Telegram con la posizione del momento",
+  "tr": "O anki konumunuzla Telegram"
+ },
+ "fdeddce1": {
+  "it": "Avvio anche da Apple Watch",
+  "tr": "Apple Watch'tan da başlatma"
+ },
+ "ac2b4ea2": {
+  "it": "Un solo acquisto in app, più funzioni",
+  "tr": "Tek bir uygulama içi satın alma, daha fazla işlev"
+ },
+ "0d3abb9b": {
+  "it": "App Wear OS dedicata, gratuita",
+  "tr": "Özel Wear OS uygulaması, ücretsiz"
+ },
+ "8b63c166": {
+  "it": "¹ Dopo i 3 giorni di prova, senza Premium il tasto Avvia (Proteggimi) o Start (AI help You) è inattivo; l'emergenza si avvia gratis dai tasti di emergenza rapida.",
+  "tr": "¹ 3 günlük denemeden sonra Premium olmadan Avvia (Proteggimi) ya da Start (AI help You) düğmesi etkin değildir; acil durum hızlı acil durum düğmelerinden ücretsiz başlar."
+ },
+ "7a76f686": {
+  "it": "² In Android Free, dopo l'avvio da un tasto di emergenza rapida.",
+  "tr": "² Android Free'de, bir hızlı acil durum düğmesiyle başlatıldıktan sonra."
+ },
+ "aab72ff5": {
+  "it": "Scaricarle è gratis e in ogni app chiedere aiuto con la posizione resta gratuito. AIuto SOS watch4help™ per Wear OS è completamente gratuita. Proteggimi e AI help You per Android offrono 3 giorni di prova completa; poi le funzioni di emergenza restano gratuite e scade solo l'avvio dal tasto Avvia o Start. Su iPhone l'allarme su Telegram con la posizione, anche live e da Apple Watch, è sempre gratis; Siri, SMS, WhatsApp e telefonata richiedono un acquisto una tantum, senza abbonamento. <a href=\"versioni.html\">Vedi il confronto</a>.",
+  "tr": "İndirmek ücretsizdir ve her uygulamada konumunuzla yardım istemek ücretsiz kalır. Wear OS için AIuto SOS watch4help™ tamamen ücretsizdir. Android için Proteggimi ve AI help You 3 gün tam deneme sunar; ardından acil durum işlevleri ücretsiz kalır ve yalnızca Avvia ya da Start düğmesiyle başlatma sona erer. iPhone'da konumunuzla Telegram alarmı, canlı konum ve Apple Watch dahil, her zaman ücretsizdir; Siri, SMS, WhatsApp ve arama abonelik olmadan tek seferlik bir satın alma gerektirir. <a href=\"versioni.html\">Karşılaştırmaya bakın</a>."
+ },
+ "66ad5f65": {
+  "it": "Visite al sito",
+  "tr": "Site ziyaretleri"
+ },
+ "e1cefdd8": {
+  "it": "<strong>Un tocco sullo smartwatch, anche con il telefono a terra</strong>Durante un'aggressione basta toccare l'orologio: Proteggimi avvisa gli amici con la posizione, loro chiamano le forze dell'ordine e l'aiuto arriva in tempo. Scene di finzione, a scopo dimostrativo; il video ha l'audio.",
+  "tr": "<strong>Telefon yerdeyken bile akıllı saate tek dokunuş</strong>Bir saldırı sırasında saate dokunmak yeterlidir: Proteggimi arkadaşları konumla uyarır, onlar polisi arar ve yardım zamanında gelir. Kurgusal sahneler, tanıtım amaçlıdır; videoda ses vardır."
+ },
+ "ca916169": {
+  "it": "AI help You in due locandine.",
+  "tr": "İki afişte AI help You."
+ },
+ "eedf355b": {
+  "it": "In immagini",
+  "tr": "Görsellerle"
+ },
+ "e89334d1": {
+  "it": "Dodici lingue, il pulsante button4help™ e l'allarme che parte con una semplice pressione: le locandine riassumono cosa fa l'app e come si scarica.",
+  "tr": "On iki dil, button4help™ düğmesi ve basit bir basışla başlayan alarm: afişler uygulamanın ne yaptığını ve nasıl indirileceğini özetler."
+ },
+ "c5d03275": {
+  "it": "<strong>AI help You</strong>La locandina in inglese: il codice QR porta all'app su Google Play.",
+  "tr": "<strong>AI help You</strong>İngilizce afiş: QR kodu Google Play'deki uygulamaya götürür."
+ },
+ "07ce0afe": {
+  "it": "<strong>AI help You e button4help™</strong>Non un localizzatore GPS, ma un pulsante di emergenza intelligente. Infografica in inglese.",
+  "tr": "<strong>AI help You ve button4help™</strong>Bir GPS takip cihazı değil, akıllı bir acil durum düğmesi. İngilizce infografik."
+ },
+ "f4a26fd8": {
+  "it": "Locandina AI help You by Agostino Giorgio, Politecnico di Bari: lo scudo con la figura femminile, il codice QR per scaricare l'app da Google Play e, in basso, uno smartwatch con il tasto SOS, lo smartphone con l'app e il pulsante button4help al collo.",
+  "tr": "Agostino Giorgio, Politecnico di Bari imzalı AI help You afişi: kadın figürlü kalkan, uygulamayı Google Play'den indirmek için QR kodu ve altta SOS tuşlu bir akıllı saat, uygulamanın açık olduğu akıllı telefon ve boyuna takılan button4help düğmesi."
+ },
+ "2c9204fd": {
+  "it": "Infografica AI help You e button4help: app per la prevenzione della violenza di genere in 12 lingue; non un localizzatore GPS ma un pulsante di emergenza intelligente; una mano preme il pulsante; le fasi allerta inviata, l'amica riceve la notifica, azione immediata; innovativo, discreto, leggero, indossabile, facile da usare, sempre con te.",
+  "tr": "AI help You ve button4help infografiği: 12 dilde toplumsal cinsiyete dayalı şiddeti önleme uygulaması; GPS takip cihazı değil, akıllı bir acil durum düğmesi; bir el düğmeye basıyor; adımlar: uyarı gönderildi, arkadaş bildirimi alıyor, anında müdahale; yenilikçi, gizli, hafif, giyilebilir, kullanımı kolay, her zaman yanınızda."
+ },
+ "b94a1a9c": {
+  "it": "<strong>Dall'allerta all'aiuto</strong>button4help™ con AI help You in un'infografica, in inglese.",
+  "tr": "<strong>Uyarıdan yardıma</strong>AI help You ile button4help™ bir infografikte, İngilizce."
+ },
+ "b2f0bbbb": {
+  "it": "Infografica verticale button4help con AI help You: non un localizzatore GPS ma un pulsante di emergenza intelligente; una mano preme il pulsante vicino alla borsa; le fasi dall'allerta all'aiuto; innovativo, discreto, leggero, indossabile, facile da usare, sempre con te.",
+  "tr": "AI help You ile dikey button4help infografiği: GPS takip cihazı değil, akıllı bir acil durum düğmesi; bir el çantanın yanında düğmeye basıyor; uyarıdan yardıma adımlar; yenilikçi, gizli, hafif, giyilebilir, kullanımı kolay, her zaman yanınızda."
+ },
+ "2c52c669": {
+  "it": "L'immagine simbolo del progetto · illustrazione",
+  "tr": "Projenin simge görseli · illüstrasyon"
+ },
+ "65f6f4f3": {
+  "it": "no pAIn: never oppressed protected by Artificial Intelligence nonviolence system, con le iniziali evidenziate a colori.",
+  "tr": "no pAIn: never oppressed protected by Artificial Intelligence nonviolence system, baş harfleri renkli olarak vurgulanmış."
+ },
+ "b8ae2378": {
+  "it": "Illustrazione: una donna dall'aspetto tecnologico alza la mano aperta con la scritta NO PAIN, tra circuiti luminosi.",
+  "tr": "İllüstrasyon: fütüristik görünümlü bir kadın, ışıklı devreler arasında üzerinde NO PAIN yazan açık elini kaldırıyor."
+ },
+ "2456cdbb": {
+  "it": "Frontespizio dell'articolo No Pain Device sulla rivista Electronics (MDPI), 2024, volume 13, numero 9, 1766.",
+  "tr": "Electronics (MDPI) dergisindeki No Pain Device makalesinin kapak sayfası, 2024, cilt 13, sayı 9, 1766."
+ },
+ "18480a89": {
+  "it": "Frontespizio dell'articolo A Smart App for the Prevention of Gender-Based Violence sulla rivista Electronics (MDPI), 2026, volume 15, numero 1, 197.",
+  "tr": "Electronics (MDPI) dergisindeki A Smart App for the Prevention of Gender-Based Violence makalesinin kapak sayfası, 2026, cilt 15, sayı 1, 197."
+ },
+ "f55f8cc8": {
+  "it": "Le tecnologie del progetto, disponibili per enti e aziende",
+  "tr": "Projenin teknolojileri, kurum ve şirketlerin kullanımına açık"
+ },
+ "6d3e7f6a": {
+  "it": "Tecnologia contro la violenza di genere · progetto no pAIn™ dal Politecnico di Bari",
+  "tr": "Toplumsal cinsiyete dayalı şiddete karşı teknoloji · Politecnico di Bari'nin no pAIn™ projesi"
+ },
+ "eaebb123": {
+  "it": "Marchio: scudo con una figura femminile e la scritta no pAIn & watch4help technologies, by no pAIn project engineering.",
+  "tr": "Marka: kadın figürlü bir kalkan ve no pAIn & watch4help technologies, by no pAIn project engineering yazısı."
+ },
+ "4ca7d853": {
+  "it": "Locandina Tecnologia contro la violenza di genere, progetto no pAIn dal Poliba: due mani reggono uno smartphone con lo scudo dell'app; in basso privacy totale peer-to-peer, IA offline senza cloud e attivazione rapida con voce, tocco o smartwatch.",
+  "tr": "“Tecnologia contro la violenza di genere” (Toplumsal cinsiyete dayalı şiddete karşı teknoloji) afişi, Politecnico di Bari'nin no pAIn projesi: iki el, uygulamanın kalkanını gösteren bir akıllı telefonu tutuyor; altta eşler arası tam gizlilik, bulutsuz çevrim dışı yapay zekâ ve ses, dokunma ya da akıllı saatle hızlı etkinleştirme."
+ },
+ "26d9b9f8": {
+  "it": "<strong>Chiedere aiuto con la voce, senza farsi scoprire</strong>Il telefono le è stato scaraventato a terra, ma la donna dice “non farlo”, una parola chiave personalizzata: Proteggimi riconosce il comando vocale e invia la richiesta di soccorso. Quelle parole non fanno capire all'aggressore che è partito l'allarme, tanto che lui resta lì e viene arrestato.",
+  "tr": "<strong>Fark ettirmeden sesle yardım istemek</strong>Telefonu yere fırlatılmıştır ama kadın kişisel bir anahtar sözcük olan “non farlo” (“yapma”) der: Proteggimi sesli komutu tanır ve yardım talebini gönderir. Bu sözler saldırgana alarm verildiğini anlatmaz; o kadar ki saldırgan olay yerinde kalır ve tutuklanır."
+ },
  "_ui": {
   "menu": "Menü",
   "close": "Kapat",

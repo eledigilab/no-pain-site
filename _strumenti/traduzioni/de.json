@@ -2187,6 +2187,350 @@
   "it": "<strong>no pAIn™ project: Technology that protects life</strong>Il progetto e le sue app in una locandina, in inglese.",
   "tr": "<strong>no pAIn™ project: Technology that protects life</strong>Das Projekt und seine Apps auf einem Plakat, auf Englisch."
  },
+ "0640498c": {
+  "it": "Gratis quando serve",
+  "tr": "Kostenlos, wenn es darauf ankommt"
+ },
+ "31a398fe": {
+  "it": "Nel momento del pericolo, <span class=\"hl\">chiedere aiuto è gratis.</span>",
+  "tr": "In der Gefahr gilt: <span class=\"hl\">Hilfe rufen ist kostenlos.</span>"
+ },
+ "dc60208c": {
+  "it": "Tutte le app si scaricano gratuitamente e in ognuna almeno un modo per lanciare l'allarme con la tua posizione resta sempre gratuito, anche senza abbonamento.",
+  "tr": "Alle Apps lassen sich kostenlos herunterladen, und in jeder bleibt mindestens ein Weg, mit Ihrem Standort Alarm auszulösen, immer kostenlos, auch ohne Abo."
+ },
+ "015b7ce6": {
+  "it": "Smartwatch Wear OS",
+  "tr": "Wear-OS-Smartwatch"
+ },
+ "31fee404": {
+  "it": "gratis, tutte le funzioni",
+  "tr": "kostenlos, alle Funktionen"
+ },
+ "c88cf07b": {
+  "it": "Completamente gratuita: nessuna prova a tempo, nessun abbonamento e nessun acquisto in app. L'allarme parte dal polso, anche senza smartphone.",
+  "tr": "Komplett kostenlos: keine zeitlich begrenzte Testphase, kein Abo und keine In-App-Käufe. Der Alarm startet am Handgelenk, auch ohne Smartphone."
+ },
+ "8b8ce645": {
+  "it": "Scarica ora →",
+  "tr": "Jetzt herunterladen →"
+ },
+ "e876cc0a": {
+  "it": "3 giorni",
+  "tr": "3 Tage"
+ },
+ "cbc354a9": {
+  "it": "di prova completa, poi l'emergenza resta gratis",
+  "tr": "volle Testphase, danach bleibt der Notfall kostenlos"
+ },
+ "b6cabd47": {
+  "it": "Proteggimi e AI help You",
+  "tr": "Proteggimi und AI help You"
+ },
+ "4df660e7": {
+  "it": "Dopo la prova scade solo l'avvio dal tasto Avvia di Proteggimi o Start di AI help You. L'emergenza parte gratis dalla notifica persistente, dal tasto rapido sulla schermata home, dallo smartwatch e, con AI help You, da button4help™. Una volta avviata, l'app ascolta anche i tuoi comandi vocali.",
+  "tr": "Nach der Testphase läuft nur der Start über den Knopf Avvia in Proteggimi bzw. Start in AI help You ab. Der Notfall startet kostenlos über die dauerhafte Benachrichtigung, den Schnellknopf auf dem Startbildschirm, die Smartwatch und, bei AI help You, über button4help™. Einmal gestartet, hört die App auch auf Ihre Sprachbefehle."
+ },
+ "15463424": {
+  "it": "Scarica Proteggimi →",
+  "tr": "Proteggimi herunterladen →"
+ },
+ "b3a6f093": {
+  "it": "Scarica AI help You →",
+  "tr": "AI help You herunterladen →"
+ },
+ "79cbaba8": {
+  "it": "iPhone e Apple Watch",
+  "tr": "iPhone und Apple Watch"
+ },
+ "d1b5c8e1": {
+  "it": "Sempre",
+  "tr": "Immer"
+ },
+ "2bb779db": {
+  "it": "gratis l'allarme con la posizione",
+  "tr": "kostenlos: der Alarm mit Standort"
+ },
+ "f8b6d6ab": {
+  "it": "Il messaggio di allerta su Telegram con la posizione del momento e la posizione live è sempre gratuito, e parte anche da Apple Watch. Comando vocale, SMS, WhatsApp e telefonata si aggiungono con un unico acquisto in app, senza abbonamento.",
+  "tr": "Die Alarmnachricht über Telegram mit Ihrem aktuellen Standort und dem Live-Standort ist immer kostenlos und startet auch von der Apple Watch. Sprachbefehl, SMS, WhatsApp und Anruf kommen mit einem einmaligen In-App-Kauf hinzu, ohne Abo."
+ },
+ "d6f1361a": {
+  "it": "Tutti i dettagli su cosa è gratis →",
+  "tr": "Alle Details, was kostenlos ist →"
+ },
+ "8a74e3f1": {
+  "it": "<a class=\"link-arrow\" href=\"https://apps.apple.com/app/id6756390159\" target=\"_blank\" rel=\"noopener\">no pAIn™ ↗</a> per iPhone, in 12 lingue",
+  "tr": "<a class=\"link-arrow\" href=\"https://apps.apple.com/app/id6756390159\" target=\"_blank\" rel=\"noopener\">no pAIn™ ↗</a> für iPhone, in 12 Sprachen"
+ },
+ "4601fdce": {
+  "it": "<strong>Si scaricano tutte gratis</strong> e in ognuna chiedere aiuto con la tua posizione resta gratuito. <a class=\"link-arrow\" href=\"versioni.html\">Cosa è gratis in ogni app →</a>",
+  "tr": "<strong>Alle lassen sich kostenlos herunterladen</strong>, und in jeder bleibt Hilfe rufen mit Ihrem Standort kostenlos. <a class=\"link-arrow\" href=\"versioni.html\">Was in jeder App kostenlos ist →</a>"
+ },
+ "17e87901": {
+  "it": "Emergenza gratis",
+  "tr": "Notfall kostenlos"
+ },
+ "05c17157": {
+  "it": "Scarica ora",
+  "tr": "Jetzt herunterladen"
+ },
+ "474ceccd": {
+  "it": "Inquadra il codice con la fotocamera del telefono oppure tocca il banner.",
+  "tr": "Scannen Sie den Code mit der Kamera Ihres Telefons oder tippen Sie auf das Banner."
+ },
+ "fce5c8c1": {
+  "it": "Gratis nell'emergenza",
+  "tr": "Kostenlos im Notfall"
+ },
+ "76508b70": {
+  "it": "<strong>3 giorni di prova con tutte le funzioni.</strong> Poi le funzioni di emergenza restano gratuite: scade solo l'avvio dal tasto Start dell'app.",
+  "tr": "<strong>3 Tage Testphase mit allen Funktionen.</strong> Danach bleiben die Notfallfunktionen kostenlos: Nur der Start über den Knopf Start der App läuft ab."
+ },
+ "a87ceb47": {
+  "it": "L'emergenza parte gratis dalla notifica persistente, dal tasto rapido sulla schermata home, dallo smartwatch e da button4help™",
+  "tr": "Der Notfall startet kostenlos über die dauerhafte Benachrichtigung, den Schnellknopf auf dem Startbildschirm, die Smartwatch und button4help™"
+ },
+ "45986d57": {
+  "it": "Una volta avviata così, si attiva anche l'ascolto dei comandi vocali",
+  "tr": "Einmal so gestartet, wird auch das Zuhören auf Sprachbefehle aktiviert"
+ },
+ "983c5bb9": {
+  "it": "AI help You avvisa i contatti configurati. Non contatta i servizi pubblici di emergenza e non li sostituisce. Dopo i 3 giorni di prova funziona gratis in modalità emergenza rapida: <a class=\"link-arrow\" href=\"versioni.html\">vedi Free e Premium</a>.",
+  "tr": "AI help You benachrichtigt die eingerichteten Kontakte. Sie kontaktiert keine öffentlichen Notdienste und ersetzt sie nicht. Nach den 3 Tagen Testphase funktioniert sie kostenlos im Schnellnotfall-Modus: <a class=\"link-arrow\" href=\"versioni.html\">siehe Free und Premium</a>."
+ },
+ "9f204105": {
+  "it": "<strong>3 giorni di prova con tutte le funzioni.</strong> Poi le funzioni di emergenza restano gratuite: scade solo l'avvio dal tasto Avvia dell'app.",
+  "tr": "<strong>3 Tage Testphase mit allen Funktionen.</strong> Danach bleiben die Notfallfunktionen kostenlos: Nur der Start über den Knopf Avvia der App läuft ab."
+ },
+ "b05555ab": {
+  "it": "L'emergenza parte gratis dalla notifica persistente, dal tasto rapido sulla schermata home e dallo smartwatch",
+  "tr": "Der Notfall startet kostenlos über die dauerhafte Benachrichtigung, den Schnellknopf auf dem Startbildschirm und die Smartwatch"
+ },
+ "db8190d3": {
+  "it": "Allarme gratis",
+  "tr": "Alarm kostenlos"
+ },
+ "c4d5c24d": {
+  "it": "<strong>Sempre gratis: l'allarme con la tua posizione.</strong> Il messaggio di allerta su Telegram parte con la posizione del momento e con la posizione live per 30 minuti, anche da Apple Watch.",
+  "tr": "<strong>Immer kostenlos: der Alarm mit Ihrem Standort.</strong> Die Alarmnachricht über Telegram geht mit Ihrem aktuellen Standort und 30 Minuten Live-Standort hinaus, auch von der Apple Watch."
+ },
+ "7f38c9e5": {
+  "it": "Con un unico acquisto in app, senza abbonamento, aggiungi il comando vocale “Ehi Siri, Proteggimi”, SMS, WhatsApp, telefonata e la posizione live fino a 24 ore.",
+  "tr": "Mit einem einmaligen In-App-Kauf ohne Abo kommen der Sprachbefehl „Hey Siri, Hilf mir“, SMS, WhatsApp, Anruf und der Live-Standort bis zu 24 Stunden hinzu."
+ },
+ "c98d6519": {
+  "it": "Tutto gratis",
+  "tr": "Alles kostenlos"
+ },
+ "868d275e": {
+  "it": "Completamente gratuita",
+  "tr": "Komplett kostenlos"
+ },
+ "864ded48": {
+  "it": "<strong>Tutte le funzioni sono gratuite.</strong> Nessuna prova a tempo, nessun abbonamento e nessun acquisto in app.",
+  "tr": "<strong>Alle Funktionen sind kostenlos.</strong> Keine zeitlich begrenzte Testphase, kein Abo und keine In-App-Käufe."
+ },
+ "c0f981d7": {
+  "it": "Codice QR per scaricare AI help You da Google Play",
+  "tr": "QR-Code zum Herunterladen von AI help You bei Google Play"
+ },
+ "a22501a2": {
+  "it": "Disponibile su Google Play",
+  "tr": "Jetzt bei Google Play"
+ },
+ "707ca3b2": {
+  "it": "Codice QR per scaricare Proteggimi da Google Play",
+  "tr": "QR-Code zum Herunterladen von Proteggimi bei Google Play"
+ },
+ "9117921f": {
+  "it": "Codice QR per scaricare no pAIn da App Store",
+  "tr": "QR-Code zum Herunterladen von no pAIn im App Store"
+ },
+ "a5fcd301": {
+  "it": "Scarica su App Store",
+  "tr": "Laden im App Store"
+ },
+ "cb5efe2c": {
+  "it": "Codice QR per scaricare AIuto SOS da Google Play",
+  "tr": "QR-Code zum Herunterladen von AIuto SOS bei Google Play"
+ },
+ "76e85ca3": {
+  "it": "Codice QR per scaricare AI help App da Google Play",
+  "tr": "QR-Code zum Herunterladen von AI help App bei Google Play"
+ },
+ "d9f8ca20": {
+  "it": "Chiedere aiuto <span class=\"hl\">è sempre gratis.</span>",
+  "tr": "Hilfe rufen <span class=\"hl\">ist immer kostenlos.</span>"
+ },
+ "af8944e2": {
+  "it": "Tutte le app si scaricano gratuitamente e in ognuna almeno un modo per lanciare l'allarme con la tua posizione resta gratuito. AIuto SOS per Wear OS è tutta gratuita; le app Android hanno 3 giorni di prova completa e poi le funzioni di emergenza restano gratuite; su iPhone l'allarme su Telegram con la posizione è sempre gratis.",
+  "tr": "Alle Apps lassen sich kostenlos herunterladen, und in jeder bleibt mindestens ein Weg, mit Ihrem Standort Alarm auszulösen, kostenlos. AIuto SOS für Wear OS ist ganz kostenlos; die Android-Apps haben 3 Tage volle Testphase, danach bleiben die Notfallfunktionen kostenlos; auf dem iPhone ist der Telegram-Alarm mit Ihrem Standort immer kostenlos."
+ },
+ "8405503a": {
+  "it": "Wear OS · AIuto SOS",
+  "tr": "Wear OS · AIuto SOS"
+ },
+ "be445a37": {
+  "it": "Tutte le funzioni incluse",
+  "tr": "Alle Funktionen inklusive"
+ },
+ "dc9383fa": {
+  "it": "Nessuna prova a tempo",
+  "tr": "Keine zeitlich begrenzte Testphase"
+ },
+ "9d07b3e5": {
+  "it": "Nessun abbonamento e nessun acquisto in app",
+  "tr": "Kein Abo und keine In-App-Käufe"
+ },
+ "c940bedf": {
+  "it": "App autonoma per smartwatch Wear OS, funziona anche senza smartphone.",
+  "tr": "Eigenständige App für Wear-OS-Smartwatches: Sie funktioniert auch ohne Smartphone."
+ },
+ "0d5f70d1": {
+  "it": "Android · Proteggimi e AI help You",
+  "tr": "Android · Proteggimi und AI help You"
+ },
+ "7764ae47": {
+  "it": "3 giorni di prova, poi emergenza gratis",
+  "tr": "3 Tage Testphase, danach Notfall kostenlos"
+ },
+ "bd7d94ff": {
+  "it": "Per 3 giorni l'app è completa. Dopo, le funzioni di emergenza restano gratuite: scade solo l'avvio dal tasto Avvia di Proteggimi o Start di AI help You.",
+  "tr": "3 Tage lang ist die App vollständig. Danach bleiben die Notfallfunktionen kostenlos: Nur der Start über den Knopf Avvia in Proteggimi bzw. Start in AI help You läuft ab."
+ },
+ "4b5e65be": {
+  "it": "Avvio gratuito dalla notifica persistente e dal tasto rapido sulla schermata home",
+  "tr": "Kostenloser Start über die dauerhafte Benachrichtigung und den Schnellknopf auf dem Startbildschirm"
+ },
+ "43a5044a": {
+  "it": "Avvio gratuito dallo smartwatch e, con AI help You, da button4help™",
+  "tr": "Kostenloser Start über die Smartwatch und, bei AI help You, über button4help™"
+ },
+ "1e9acc4e": {
+  "it": "Una volta avviata, ascolto dei comandi vocali attivo",
+  "tr": "Einmal gestartet, ist das Zuhören auf Sprachbefehle aktiv"
+ },
+ "6c5e3e1d": {
+  "it": "Con Premium torna anche l'avvio dal tasto Avvia/Start. Condizioni e prezzo sono indicati nella scheda della singola app su Google Play.",
+  "tr": "Mit Premium ist auch der Start über den Knopf Avvia/Start wieder möglich. Bedingungen und Preis stehen auf der Google-Play-Seite der jeweiligen App."
+ },
+ "60ce1a1f": {
+  "it": "Allarme con posizione, sempre gratis",
+  "tr": "Alarm mit Standort, immer kostenlos"
+ },
+ "b96d28d9": {
+  "it": "Telegram con la posizione del momento",
+  "tr": "Telegram mit Ihrem aktuellen Standort"
+ },
+ "fdeddce1": {
+  "it": "Avvio anche da Apple Watch",
+  "tr": "Start auch von der Apple Watch"
+ },
+ "ac2b4ea2": {
+  "it": "Un solo acquisto in app, più funzioni",
+  "tr": "Ein einziger In-App-Kauf, mehr Funktionen"
+ },
+ "0d3abb9b": {
+  "it": "App Wear OS dedicata, gratuita",
+  "tr": "Eigene Wear-OS-App, kostenlos"
+ },
+ "8b63c166": {
+  "it": "¹ Dopo i 3 giorni di prova, senza Premium il tasto Avvia (Proteggimi) o Start (AI help You) è inattivo; l'emergenza si avvia gratis dai tasti di emergenza rapida.",
+  "tr": "¹ Nach den 3 Tagen Testphase ist ohne Premium der Knopf Avvia (Proteggimi) bzw. Start (AI help You) inaktiv; der Notfall startet kostenlos über die Schnellnotfall-Knöpfe."
+ },
+ "7a76f686": {
+  "it": "² In Android Free, dopo l'avvio da un tasto di emergenza rapida.",
+  "tr": "² In Android Free nach dem Start über einen Schnellnotfall-Knopf."
+ },
+ "aab72ff5": {
+  "it": "Scaricarle è gratis e in ogni app chiedere aiuto con la posizione resta gratuito. AIuto SOS watch4help™ per Wear OS è completamente gratuita. Proteggimi e AI help You per Android offrono 3 giorni di prova completa; poi le funzioni di emergenza restano gratuite e scade solo l'avvio dal tasto Avvia o Start. Su iPhone l'allarme su Telegram con la posizione, anche live e da Apple Watch, è sempre gratis; Siri, SMS, WhatsApp e telefonata richiedono un acquisto una tantum, senza abbonamento. <a href=\"versioni.html\">Vedi il confronto</a>.",
+  "tr": "Das Herunterladen ist kostenlos, und in jeder App bleibt Hilfe rufen mit Ihrem Standort kostenlos. AIuto SOS watch4help™ für Wear OS ist komplett kostenlos. Proteggimi und AI help You für Android bieten 3 Tage volle Testphase; danach bleiben die Notfallfunktionen kostenlos, und nur der Start über den Knopf Avvia bzw. Start läuft ab. Auf dem iPhone ist der Telegram-Alarm mit Ihrem Standort, auch live und von der Apple Watch, immer kostenlos; Siri, SMS, WhatsApp und Anruf erfordern einen einmaligen Kauf, ohne Abo. <a href=\"versioni.html\">Zum Vergleich</a>."
+ },
+ "66ad5f65": {
+  "it": "Visite al sito",
+  "tr": "Besuche der Website"
+ },
+ "e1cefdd8": {
+  "it": "<strong>Un tocco sullo smartwatch, anche con il telefono a terra</strong>Durante un'aggressione basta toccare l'orologio: Proteggimi avvisa gli amici con la posizione, loro chiamano le forze dell'ordine e l'aiuto arriva in tempo. Scene di finzione, a scopo dimostrativo; il video ha l'audio.",
+  "tr": "<strong>Ein Tippen auf die Smartwatch, auch wenn das Telefon am Boden liegt</strong>Bei einem Angriff genügt ein Tippen auf die Uhr: Proteggimi benachrichtigt die Freunde mit dem Standort, sie rufen die Polizei und die Hilfe kommt rechtzeitig. Gestellte Szenen zu Demonstrationszwecken; das Video hat Ton."
+ },
+ "ca916169": {
+  "it": "AI help You in due locandine.",
+  "tr": "AI help You auf zwei Plakaten."
+ },
+ "eedf355b": {
+  "it": "In immagini",
+  "tr": "In Bildern"
+ },
+ "e89334d1": {
+  "it": "Dodici lingue, il pulsante button4help™ e l'allarme che parte con una semplice pressione: le locandine riassumono cosa fa l'app e come si scarica.",
+  "tr": "Zwölf Sprachen, der Knopf button4help™ und ein Alarm, der mit einem einfachen Druck startet: Die Plakate fassen zusammen, was die App kann und wie man sie herunterlädt."
+ },
+ "c5d03275": {
+  "it": "<strong>AI help You</strong>La locandina in inglese: il codice QR porta all'app su Google Play.",
+  "tr": "<strong>AI help You</strong>Das Plakat auf Englisch: Der QR-Code führt zur App bei Google Play."
+ },
+ "07ce0afe": {
+  "it": "<strong>AI help You e button4help™</strong>Non un localizzatore GPS, ma un pulsante di emergenza intelligente. Infografica in inglese.",
+  "tr": "<strong>AI help You und button4help™</strong>Kein GPS-Tracker, sondern ein intelligenter Notfallknopf. Infografik auf Englisch."
+ },
+ "f4a26fd8": {
+  "it": "Locandina AI help You by Agostino Giorgio, Politecnico di Bari: lo scudo con la figura femminile, il codice QR per scaricare l'app da Google Play e, in basso, uno smartwatch con il tasto SOS, lo smartphone con l'app e il pulsante button4help al collo.",
+  "tr": "Plakat AI help You von Agostino Giorgio, Politecnico di Bari: das Schild mit der weiblichen Figur, der QR-Code zum Herunterladen der App bei Google Play und unten eine Smartwatch mit SOS-Taste, das Smartphone mit der App und der button4help-Knopf als Anhänger um den Hals."
+ },
+ "2c9204fd": {
+  "it": "Infografica AI help You e button4help: app per la prevenzione della violenza di genere in 12 lingue; non un localizzatore GPS ma un pulsante di emergenza intelligente; una mano preme il pulsante; le fasi allerta inviata, l'amica riceve la notifica, azione immediata; innovativo, discreto, leggero, indossabile, facile da usare, sempre con te.",
+  "tr": "Infografik AI help You und button4help: App zur Prävention geschlechtsspezifischer Gewalt in 12 Sprachen; kein GPS-Tracker, sondern ein intelligenter Notfallknopf; eine Hand drückt den Knopf; die Schritte Alarm gesendet, die Freundin erhält die Benachrichtigung, sofortiges Handeln; innovativ, diskret, leicht, tragbar, einfach zu bedienen, immer dabei."
+ },
+ "b94a1a9c": {
+  "it": "<strong>Dall'allerta all'aiuto</strong>button4help™ con AI help You in un'infografica, in inglese.",
+  "tr": "<strong>Vom Alarm zur Hilfe</strong>button4help™ mit AI help You in einer Infografik, auf Englisch."
+ },
+ "b2f0bbbb": {
+  "it": "Infografica verticale button4help con AI help You: non un localizzatore GPS ma un pulsante di emergenza intelligente; una mano preme il pulsante vicino alla borsa; le fasi dall'allerta all'aiuto; innovativo, discreto, leggero, indossabile, facile da usare, sempre con te.",
+  "tr": "Hochformatige Infografik button4help mit AI help You: kein GPS-Tracker, sondern ein intelligenter Notfallknopf; eine Hand drückt den Knopf neben einer Handtasche; die Schritte vom Alarm zur Hilfe; innovativ, diskret, leicht, tragbar, einfach zu bedienen, immer dabei."
+ },
+ "2c52c669": {
+  "it": "L'immagine simbolo del progetto · illustrazione",
+  "tr": "Das Symbolbild des Projekts · Illustration"
+ },
+ "65f6f4f3": {
+  "it": "no pAIn: never oppressed protected by Artificial Intelligence nonviolence system, con le iniziali evidenziate a colori.",
+  "tr": "no pAIn: never oppressed protected by Artificial Intelligence nonviolence system, mit farbig hervorgehobenen Anfangsbuchstaben."
+ },
+ "b8ae2378": {
+  "it": "Illustrazione: una donna dall'aspetto tecnologico alza la mano aperta con la scritta NO PAIN, tra circuiti luminosi.",
+  "tr": "Illustration: Eine futuristisch wirkende Frau hebt die offene Hand mit der Aufschrift NO PAIN, umgeben von leuchtenden Schaltkreisen."
+ },
+ "2456cdbb": {
+  "it": "Frontespizio dell'articolo No Pain Device sulla rivista Electronics (MDPI), 2024, volume 13, numero 9, 1766.",
+  "tr": "Titelseite des Artikels No Pain Device in der Zeitschrift Electronics (MDPI), 2024, Band 13, Heft 9, 1766."
+ },
+ "18480a89": {
+  "it": "Frontespizio dell'articolo A Smart App for the Prevention of Gender-Based Violence sulla rivista Electronics (MDPI), 2026, volume 15, numero 1, 197.",
+  "tr": "Titelseite des Artikels A Smart App for the Prevention of Gender-Based Violence in der Zeitschrift Electronics (MDPI), 2026, Band 15, Heft 1, 197."
+ },
+ "f55f8cc8": {
+  "it": "Le tecnologie del progetto, disponibili per enti e aziende",
+  "tr": "Die Technologien des Projekts, verfügbar für Organisationen und Unternehmen"
+ },
+ "6d3e7f6a": {
+  "it": "Tecnologia contro la violenza di genere · progetto no pAIn™ dal Politecnico di Bari",
+  "tr": "Technologie gegen geschlechtsspezifische Gewalt · das Projekt no pAIn™ des Politecnico di Bari"
+ },
+ "eaebb123": {
+  "it": "Marchio: scudo con una figura femminile e la scritta no pAIn & watch4help technologies, by no pAIn project engineering.",
+  "tr": "Markenzeichen: ein Schild mit einer weiblichen Figur und der Aufschrift no pAIn & watch4help technologies, by no pAIn project engineering."
+ },
+ "4ca7d853": {
+  "it": "Locandina Tecnologia contro la violenza di genere, progetto no pAIn dal Poliba: due mani reggono uno smartphone con lo scudo dell'app; in basso privacy totale peer-to-peer, IA offline senza cloud e attivazione rapida con voce, tocco o smartwatch.",
+  "tr": "Plakat „Tecnologia contro la violenza di genere“ (Technologie gegen geschlechtsspezifische Gewalt), Projekt no pAIn des Politecnico di Bari: Zwei Hände halten ein Smartphone mit dem Schild der App; unten vollständige Privatsphäre per Peer-to-Peer, Offline-KI ohne Cloud und schnelle Aktivierung per Stimme, Berührung oder Smartwatch."
+ },
+ "26d9b9f8": {
+  "it": "<strong>Chiedere aiuto con la voce, senza farsi scoprire</strong>Il telefono le è stato scaraventato a terra, ma la donna dice “non farlo”, una parola chiave personalizzata: Proteggimi riconosce il comando vocale e invia la richiesta di soccorso. Quelle parole non fanno capire all'aggressore che è partito l'allarme, tanto che lui resta lì e viene arrestato.",
+  "tr": "<strong>Hilfe per Stimme rufen, ohne entdeckt zu werden</strong>Ihr Telefon wurde zu Boden geschleudert, doch die Frau sagt „non farlo“ („tu es nicht“), ein persönliches Schlüsselwort: Proteggimi erkennt den Sprachbefehl und sendet den Hilferuf. Diese Worte verraten dem Angreifer nicht, dass Alarm ausgelöst wurde, sodass er bleibt und festgenommen wird."
+ },
  "_ui": {
   "menu": "Menü",
   "close": "Schließen",

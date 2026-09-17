@@ -659,3 +659,58 @@ a.press-thumb:hover img { transform: scale(1.03); }
 .sintesi-poster { width: 100%; max-width: 440px; justify-self: center; }
 .sintesi-poster .frame-media { aspect-ratio: 928 / 1152; box-shadow: 0 30px 80px -30px rgba(0, 0, 0, .8), 0 0 70px rgba(183, 38, 207, .3); }
 @media (max-width: 900px) { .sintesi-poster { max-width: 400px; } }
+
+/* scarica ora: codice QR + banner ufficiale dello store (il banner cambia con la lingua, vedi site.js) */
+.get-app { display: flex; align-items: center; gap: 20px; padding: 18px; border-radius: var(--r); border: 1px solid rgba(255, 79, 207, .5); background: linear-gradient(135deg, rgba(255, 79, 207, .16), rgba(3, 12, 70, .6)); box-shadow: 0 0 44px rgba(255, 79, 207, .14); }
+.get-app .qr { flex: 0 0 132px; line-height: 0; border-radius: 12px; overflow: hidden; background: #fff; box-shadow: 0 10px 30px -12px rgba(0, 0, 0, .7); }
+.get-app .qr img { display: block; width: 100%; height: auto; }
+.get-copy { display: grid; gap: 8px; justify-items: start; min-width: 0; }
+.get-title { font-family: var(--f-display); font-weight: 700; font-size: 1.45rem; line-height: 1.1; color: var(--text); }
+.get-copy p { margin: 0; color: var(--muted); font-size: .9rem; line-height: 1.4; }
+.store-badge { display: inline-block; line-height: 0; border-radius: 9px; transition: transform .15s ease; }
+.store-badge:hover { transform: translateY(-2px); }
+.store-badge img { display: block; height: 50px; width: auto; max-width: 100%; }
+.get-app.compact { padding: 14px; gap: 16px; margin-top: 4px; }
+.get-app.compact .qr { flex-basis: 100px; }
+.get-app.compact .get-title { font-size: 1.15rem; }
+.get-app.compact .store-badge img { height: 42px; }
+@media (max-width: 420px) {
+  .get-app { flex-direction: column; align-items: flex-start; }
+  .get-app .qr, .get-app.compact .qr { flex-basis: auto; width: 132px; }
+}
+
+/* gratuità in evidenza */
+.tag.free { background: var(--signal); border-color: var(--signal); color: #fff; font-weight: 500; }
+.box.free, .plan.free { border-color: var(--signal); background: var(--ink-3); box-shadow: 0 0 50px rgba(255, 79, 207, .12); }
+.box.free h3 { color: var(--signal); }
+.box.free strong { color: var(--text); }
+.free-line { color: var(--muted); max-width: 60ch; }
+.free-line strong { color: var(--signal); }
+.plans { grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); }
+.free-cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+.free-card { display: grid; gap: 10px; align-content: start; padding: 28px 26px; border-radius: var(--r); border: 1px solid var(--line); background: var(--ink-2); }
+.free-card.hot { border-color: var(--signal); background: var(--ink-3); box-shadow: 0 0 60px rgba(255, 79, 207, .2); }
+.free-card .plat { font-family: var(--f-mono); font-size: .72rem; letter-spacing: .1em; text-transform: uppercase; color: var(--violet); }
+.free-big { font-family: var(--f-display); font-weight: 700; font-size: clamp(2.5rem, 4.4vw, 3.5rem); line-height: 1; color: var(--signal); text-shadow: 0 0 30px rgba(255, 79, 207, .45); }
+.free-kicker { font-weight: 700; font-size: 1.05rem; line-height: 1.3; color: var(--text); }
+.free-card h3 { font-size: 1.3rem; margin-top: 6px; }
+.free-card p { margin: 0; color: var(--muted); font-size: .96rem; }
+.free-card .links { display: flex; flex-wrap: wrap; gap: 6px 18px; margin-top: 4px; }
+.free-foot { margin-top: 24px; }
+@media (max-width: 900px) { .free-cards { grid-template-columns: 1fr; } }
+.plan .tag, .free-card .tag { white-space: normal; line-height: 1.4; }
+
+/* contatore delle visite nel piè di pagina */
+.site-footer .visits { display: inline-flex; align-items: baseline; gap: 8px; margin-top: 14px; padding: 6px 14px; border: 1px solid var(--line); border-radius: 999px; font-size: .85rem; }
+.site-footer .visits[hidden] { display: none; }
+.site-footer .visits b { font-family: var(--f-mono); color: var(--signal); font-weight: 500; letter-spacing: .04em; }
+
+/* ricerca: acronimo sotto il titolo, frontespizi delle pubblicazioni */
+.acronym { margin: 0; }
+.acronym img { display: block; width: 100%; max-width: 560px; height: auto; border-radius: 12px; box-shadow: 0 14px 40px -18px rgba(0, 0, 0, .7); }
+.pub { grid-template-columns: auto 1fr; }
+.pub .pub-cover { grid-column: 1 / -1; display: block; width: 100%; height: auto; border-radius: 10px; }
+/* home: su telefono la locandina "in sintesi" è in formato verticale */
+@media (max-width: 560px) { .sintesi-poster .frame-media { aspect-ratio: 768 / 1376; } }
+.shot picture { display: block; }
+.tech-mark img { background: #fff; }

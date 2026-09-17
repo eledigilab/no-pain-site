@@ -54,9 +54,14 @@ e per **reel di Instagram**.
 ```bash
 python3 _strumenti/anteprima.py                  # anteprima locale su http://127.0.0.1:8765
 swift _strumenti/video.swift IN.mp4 assets/video/OUT.mp4 INIZIO FINE COPERTINA  # video per il web + copertina
+swift _strumenti/qr.swift URL assets/qr/NOME.svg  # codice QR in SVG, riletto e verificato prima di salvarlo
 python3 _strumenti/build.py                      # rigenera le 8 pagine da _strumenti/pagine/
 python3 _strumenti/traduzioni.py CARTELLA en fr  # converte le traduzioni in lang/*.js e le controlla
 ```
 
 `_strumenti/traduzioni/it.json` è l'elenco numerato dei testi italiani; `_strumenti/traduzioni/sorgenti/`
 contiene le traduzioni riga per riga; `_strumenti/traduzioni/xx.json` è l'archivio testo italiano → traduzione.
+
+I blocchi "Scarica ora" in `prodotti.html` hanno il codice QR (`assets/qr/`) e il banner ufficiale di
+Google Play o App Store (`assets/badge/`, uno per lingua): `site.js` sceglie il banner della lingua attiva
+leggendo l'attributo `data-badge` dell'immagine.

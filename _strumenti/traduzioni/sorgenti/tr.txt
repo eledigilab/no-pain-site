@@ -554,3 +554,89 @@ mail.partnerBody|Merhaba,\nno pAIn™ projesi hakkında daha fazla bilgi almak v
 579|Instagram’da görün ↗
 580|Agostino Giorgio, Politecnico di Bari imzalı no pAIn project afişi: kadın figürlü bir kalkan, dört uygulamanın listesi (İtalyanca Android için Proteggimi, 12 dilde Android için AI help You, Wear OS akıllı saatler için AIuto SOS – watch4help, iOS için no pAIn) ve altta SOS tuşlu bir akıllı saat, uygulamanın açık olduğu bir akıllı telefon ve boyuna takılan button4help düğmesi.
 581|<strong>no pAIn™ project: Technology that protects life</strong>Proje ve uygulamaları tek bir afişte, İngilizce.
+582|Gerektiğinde ücretsiz
+583|Tehlike anında <span class="hl">yardım istemek ücretsizdir.</span>
+584|Tüm uygulamalar ücretsiz indirilir ve her birinde konumunuzla alarm vermenin en az bir yolu, abonelik olmadan da her zaman ücretsiz kalır.
+585|Wear OS akıllı saat
+586|ücretsiz, tüm işlevler
+587|Tamamen ücretsiz: süreli deneme yok, abonelik yok, uygulama içi satın alma yok. Alarm, akıllı telefon olmadan da kolunuzdan başlar.
+588|Şimdi indirin →
+589|3 gün
+590|tam deneme, sonra acil durum ücretsiz kalır
+591|Proteggimi ve AI help You
+592|Denemeden sonra yalnızca Proteggimi'deki Avvia ya da AI help You'daki Start düğmesiyle başlatma sona erer. Acil durum kalıcı bildirimden, ana ekrandaki hızlı düğmeden, akıllı saatten ve AI help You ile button4help™ üzerinden ücretsiz başlar. Başlatıldıktan sonra uygulama sesli komutlarınızı da dinler.
+593|Proteggimi'yi indirin →
+594|AI help You'yu indirin →
+595|iPhone ve Apple Watch
+596|Her zaman
+597|ücretsiz: konumlu alarm
+598|O anki konumunuz ve canlı konumunuzla Telegram uyarı mesajı her zaman ücretsizdir ve Apple Watch'tan da başlar. Sesli komut, SMS, WhatsApp ve arama, abonelik olmadan tek bir uygulama içi satın almayla eklenir.
+599|Neyin ücretsiz olduğuna dair tüm ayrıntılar →
+601|<strong>Hepsi ücretsiz indirilir</strong> ve her birinde konumunuzla yardım istemek ücretsiz kalır. <a class="link-arrow" href="versioni.html">Her uygulamada ücretsiz olanlar →</a>
+602|Ücretsiz acil durum
+603|Şimdi indirin
+604|Kodu telefonunuzun kamerasıyla okutun ya da rozete dokunun.
+605|Acil durumda ücretsiz
+606|<strong>Tüm işlevlerle 3 gün deneme.</strong> Ardından acil durum işlevleri ücretsiz kalır: yalnızca uygulamanın Start düğmesiyle başlatma sona erer.
+607|Acil durum kalıcı bildirimden, ana ekrandaki hızlı düğmeden, akıllı saatten ve button4help™ üzerinden ücretsiz başlar
+608|Bu şekilde başlatıldığında sesli komutları dinleme de açılır
+609|AI help You ayarlanan kişileri uyarır. Resmî acil durum servisleriyle iletişim kurmaz ve onların yerini tutmaz. 3 günlük denemeden sonra hızlı acil durum modunda ücretsiz çalışır: <a class="link-arrow" href="versioni.html">Free ve Premium'a bakın</a>.
+610|<strong>Tüm işlevlerle 3 gün deneme.</strong> Ardından acil durum işlevleri ücretsiz kalır: yalnızca uygulamanın Avvia düğmesiyle başlatma sona erer.
+611|Acil durum kalıcı bildirimden, ana ekrandaki hızlı düğmeden ve akıllı saatten ücretsiz başlar
+612|Ücretsiz alarm
+613|<strong>Her zaman ücretsiz: konumunuzla alarm.</strong> Telegram uyarı mesajı o anki konumunuzla ve 30 dakika canlı konumla gider, Apple Watch'tan da.
+614|Abonelik olmadan tek bir uygulama içi satın almayla “Hey Siri, Bana yardım et” sesli komutunu, SMS, WhatsApp, aramayı ve 24 saate kadar canlı konumu eklersiniz.
+615|Tamamen ücretsiz
+616|Tamamen ücretsiz
+617|<strong>Tüm işlevler ücretsizdir.</strong> Süreli deneme yok, abonelik yok, uygulama içi satın alma yok.
+618|AI help You'yu Google Play'den indirmek için QR kodu
+619|Google Play'den indirin
+620|Proteggimi'yi Google Play'den indirmek için QR kodu
+621|no pAIn'i App Store'dan indirmek için QR kodu
+622|App Store'dan indirin
+623|AIuto SOS'u Google Play'den indirmek için QR kodu
+624|AI help App'i Google Play'den indirmek için QR kodu
+625|Yardım istemek <span class="hl">her zaman ücretsizdir.</span>
+626|Tüm uygulamalar ücretsiz indirilir ve her birinde konumunuzla alarm vermenin en az bir yolu ücretsiz kalır. Wear OS için AIuto SOS tamamen ücretsizdir; Android uygulamalarında 3 gün tam deneme vardır, ardından acil durum işlevleri ücretsiz kalır; iPhone'da konumunuzla Telegram alarmı her zaman ücretsizdir.
+627|Wear OS · AIuto SOS
+628|Tüm işlevler dahil
+629|Süreli deneme yok
+630|Abonelik ve uygulama içi satın alma yok
+631|Wear OS akıllı saatler için bağımsız uygulama: akıllı telefon olmadan da çalışır.
+632|Android · Proteggimi ve AI help You
+633|3 gün deneme, sonra ücretsiz acil durum
+634|Uygulama 3 gün boyunca eksiksizdir. Ardından acil durum işlevleri ücretsiz kalır: yalnızca Proteggimi'deki Avvia ya da AI help You'daki Start düğmesiyle başlatma sona erer.
+635|Kalıcı bildirimden ve ana ekrandaki hızlı düğmeden ücretsiz başlatma
+636|Akıllı saatten ve AI help You ile button4help™ üzerinden ücretsiz başlatma
+637|Başlatıldıktan sonra sesli komut dinleme etkin
+638|Premium ile Avvia/Start düğmesiyle başlatma da geri gelir. Koşullar ve fiyat her uygulamanın Google Play sayfasında yer alır.
+639|Konumlu alarm, her zaman ücretsiz
+640|O anki konumunuzla Telegram
+641|Apple Watch'tan da başlatma
+642|Tek bir uygulama içi satın alma, daha fazla işlev
+643|Özel Wear OS uygulaması, ücretsiz
+644|¹ 3 günlük denemeden sonra Premium olmadan Avvia (Proteggimi) ya da Start (AI help You) düğmesi etkin değildir; acil durum hızlı acil durum düğmelerinden ücretsiz başlar.
+645|² Android Free'de, bir hızlı acil durum düğmesiyle başlatıldıktan sonra.
+646|İndirmek ücretsizdir ve her uygulamada konumunuzla yardım istemek ücretsiz kalır. Wear OS için AIuto SOS watch4help™ tamamen ücretsizdir. Android için Proteggimi ve AI help You 3 gün tam deneme sunar; ardından acil durum işlevleri ücretsiz kalır ve yalnızca Avvia ya da Start düğmesiyle başlatma sona erer. iPhone'da konumunuzla Telegram alarmı, canlı konum ve Apple Watch dahil, her zaman ücretsizdir; Siri, SMS, WhatsApp ve arama abonelik olmadan tek seferlik bir satın alma gerektirir. <a href="versioni.html">Karşılaştırmaya bakın</a>.
+600|iPhone için <a class="link-arrow" href="https://apps.apple.com/app/id6756390159" target="_blank" rel="noopener">no pAIn™ ↗</a>, 12 dilde
+647|Site ziyaretleri
+648|<strong>Telefon yerdeyken bile akıllı saate tek dokunuş</strong>Bir saldırı sırasında saate dokunmak yeterlidir: Proteggimi arkadaşları konumla uyarır, onlar polisi arar ve yardım zamanında gelir. Kurgusal sahneler, tanıtım amaçlıdır; videoda ses vardır.
+649|İki afişte AI help You.
+650|Görsellerle
+651|On iki dil, button4help™ düğmesi ve basit bir basışla başlayan alarm: afişler uygulamanın ne yaptığını ve nasıl indirileceğini özetler.
+652|<strong>AI help You</strong>İngilizce afiş: QR kodu Google Play'deki uygulamaya götürür.
+653|<strong>AI help You ve button4help™</strong>Bir GPS takip cihazı değil, akıllı bir acil durum düğmesi. İngilizce infografik.
+654|Agostino Giorgio, Politecnico di Bari imzalı AI help You afişi: kadın figürlü kalkan, uygulamayı Google Play'den indirmek için QR kodu ve altta SOS tuşlu bir akıllı saat, uygulamanın açık olduğu akıllı telefon ve boyuna takılan button4help düğmesi.
+655|AI help You ve button4help infografiği: 12 dilde toplumsal cinsiyete dayalı şiddeti önleme uygulaması; GPS takip cihazı değil, akıllı bir acil durum düğmesi; bir el düğmeye basıyor; adımlar: uyarı gönderildi, arkadaş bildirimi alıyor, anında müdahale; yenilikçi, gizli, hafif, giyilebilir, kullanımı kolay, her zaman yanınızda.
+656|<strong>Uyarıdan yardıma</strong>AI help You ile button4help™ bir infografikte, İngilizce.
+657|AI help You ile dikey button4help infografiği: GPS takip cihazı değil, akıllı bir acil durum düğmesi; bir el çantanın yanında düğmeye basıyor; uyarıdan yardıma adımlar; yenilikçi, gizli, hafif, giyilebilir, kullanımı kolay, her zaman yanınızda.
+658|Projenin simge görseli · illüstrasyon
+659|no pAIn: never oppressed protected by Artificial Intelligence nonviolence system, baş harfleri renkli olarak vurgulanmış.
+660|İllüstrasyon: fütüristik görünümlü bir kadın, ışıklı devreler arasında üzerinde NO PAIN yazan açık elini kaldırıyor.
+661|Electronics (MDPI) dergisindeki No Pain Device makalesinin kapak sayfası, 2024, cilt 13, sayı 9, 1766.
+662|Electronics (MDPI) dergisindeki A Smart App for the Prevention of Gender-Based Violence makalesinin kapak sayfası, 2026, cilt 15, sayı 1, 197.
+663|Projenin teknolojileri, kurum ve şirketlerin kullanımına açık
+664|Toplumsal cinsiyete dayalı şiddete karşı teknoloji · Politecnico di Bari'nin no pAIn™ projesi
+665|Marka: kadın figürlü bir kalkan ve no pAIn & watch4help technologies, by no pAIn project engineering yazısı.
+666|“Tecnologia contro la violenza di genere” (Toplumsal cinsiyete dayalı şiddete karşı teknoloji) afişi, Politecnico di Bari'nin no pAIn projesi: iki el, uygulamanın kalkanını gösteren bir akıllı telefonu tutuyor; altta eşler arası tam gizlilik, bulutsuz çevrim dışı yapay zekâ ve ses, dokunma ya da akıllı saatle hızlı etkinleştirme.
+667|<strong>Fark ettirmeden sesle yardım istemek</strong>Telefonu yere fırlatılmıştır ama kadın kişisel bir anahtar sözcük olan “non farlo” (“yapma”) der: Proteggimi sesli komutu tanır ve yardım talebini gönderir. Bu sözler saldırgana alarm verildiğini anlatmaz; o kadar ki saldırgan olay yerinde kalır ve tutuklanır.

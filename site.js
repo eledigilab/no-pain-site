@@ -10,7 +10,7 @@
   'use strict';
 
   var LANGS = ['it', 'en', 'fr', 'de', 'es', 'tr', 'el', 'pt', 'ro', 'pl', 'nl', 'sv'];
-  var VERSION = '20260917c';
+  var VERSION = '20260917f';
   var root = document.documentElement;
   window.NP_LANGS = window.NP_LANGS || {};
 
@@ -115,6 +115,13 @@
     var select = document.getElementById('lang-select');
     if (select) select.value = lang;
 
+    // banner ufficiali degli store nella lingua scelta
+    Array.prototype.forEach.call(document.querySelectorAll('img[data-badge]'), function (img) {
+      var store = img.getAttribute('data-badge');
+      img.src = 'assets/badge/' + store + '-' + lang + (store === 'appstore' ? '.svg' : '.png');
+    });
+
+    showVisits();
     setMail(dict);
     setLinks(lang);
     try { localStorage.setItem('np-lang', lang); } catch (e) {}
@@ -188,6 +195,33 @@
     box.querySelector('.close').textContent = (dictFor(current).ui || IT.ui).closeImage;
     box.showModal();
   });
+
+  // ---------- contatore delle visite ----------
+  // Servizio gratuito senza account e senza cookie (abacus.jasoncameron.dev).
+  // Conta una visita per sessione del browser e solo sul sito pubblicato:
+  // anteprime e prove in locale leggono il numero senza aumentarlo.
+  var visits = null;
+  function showVisits() {
+    var out = document.getElementById('visit-count');
+    if (!out || visits == null) return;
+    try { out.textContent = visits.toLocaleString(current); } catch (e) { out.textContent = String(visits); }
+    out.closest('.visits').hidden = false;
+  }
+  (function () {
+    if (!document.getElementById('visit-count') || !window.fetch) return;
+    var live = location.hostname === 'eledigilab.github.io', counted = false;
+    try { counted = sessionStorage.getItem('np-visit') === '1'; } catch (e) {}
+    var action = live && !counted ? 'hit' : 'get';
+    fetch('https://abacus.jasoncameron.dev/' + action + '/eledigilab-no-pain-site/visite')
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (d) {
+        if (!d || typeof d.value !== 'number' || d.value < 1) return;
+        if (action === 'hit') { try { sessionStorage.setItem('np-visit', '1'); } catch (e) {} }
+        visits = d.value;
+        showVisits();
+      })
+      .catch(function () {});
+  })();
 
   // ---------- avvio ----------
   var year = document.getElementById('year');

@@ -2191,6 +2191,350 @@
   "it": "<strong>no pAIn™ project: Technology that protects life</strong>Il progetto e le sue app in una locandina, in inglese.",
   "tr": "<strong>no pAIn™ project: Technology that protects life</strong>Το έργο και οι εφαρμογές του σε μια αφίσα, στα αγγλικά."
  },
+ "0640498c": {
+  "it": "Gratis quando serve",
+  "tr": "Δωρεάν όταν χρειάζεται"
+ },
+ "31a398fe": {
+  "it": "Nel momento del pericolo, <span class=\"hl\">chiedere aiuto è gratis.</span>",
+  "tr": "Τη στιγμή του κινδύνου, <span class=\"hl\">η έκκληση για βοήθεια είναι δωρεάν.</span>"
+ },
+ "dc60208c": {
+  "it": "Tutte le app si scaricano gratuitamente e in ognuna almeno un modo per lanciare l'allarme con la tua posizione resta sempre gratuito, anche senza abbonamento.",
+  "tr": "Όλες οι εφαρμογές κατεβαίνουν δωρεάν και σε καθεμία τουλάχιστον ένας τρόπος να σημάνετε συναγερμό με την τοποθεσία σας μένει πάντα δωρεάν, ακόμη και χωρίς συνδρομή."
+ },
+ "015b7ce6": {
+  "it": "Smartwatch Wear OS",
+  "tr": "Έξυπνο ρολόι Wear OS"
+ },
+ "31fee404": {
+  "it": "gratis, tutte le funzioni",
+  "tr": "δωρεάν, όλες οι λειτουργίες"
+ },
+ "c88cf07b": {
+  "it": "Completamente gratuita: nessuna prova a tempo, nessun abbonamento e nessun acquisto in app. L'allarme parte dal polso, anche senza smartphone.",
+  "tr": "Εντελώς δωρεάν: χωρίς χρονικά περιορισμένη δοκιμή, χωρίς συνδρομή και χωρίς αγορές μέσα από την εφαρμογή. Ο συναγερμός ξεκινά από τον καρπό σας, ακόμη και χωρίς smartphone."
+ },
+ "8b8ce645": {
+  "it": "Scarica ora →",
+  "tr": "Κατεβάστε τώρα →"
+ },
+ "e876cc0a": {
+  "it": "3 giorni",
+  "tr": "3 ημέρες"
+ },
+ "cbc354a9": {
+  "it": "di prova completa, poi l'emergenza resta gratis",
+  "tr": "πλήρους δοκιμής, μετά η έκτακτη ανάγκη μένει δωρεάν"
+ },
+ "b6cabd47": {
+  "it": "Proteggimi e AI help You",
+  "tr": "Proteggimi και AI help You"
+ },
+ "4df660e7": {
+  "it": "Dopo la prova scade solo l'avvio dal tasto Avvia di Proteggimi o Start di AI help You. L'emergenza parte gratis dalla notifica persistente, dal tasto rapido sulla schermata home, dallo smartwatch e, con AI help You, da button4help™. Una volta avviata, l'app ascolta anche i tuoi comandi vocali.",
+  "tr": "Μετά τη δοκιμή λήγει μόνο η εκκίνηση από το κουμπί Avvia του Proteggimi ή Start του AI help You. Η έκτακτη ανάγκη ξεκινά δωρεάν από τη μόνιμη ειδοποίηση, το γρήγορο κουμπί στην αρχική οθόνη, το έξυπνο ρολόι και, με το AI help You, από το button4help™. Μόλις ξεκινήσει, η εφαρμογή ακούει και τις φωνητικές σας εντολές."
+ },
+ "15463424": {
+  "it": "Scarica Proteggimi →",
+  "tr": "Κατεβάστε το Proteggimi →"
+ },
+ "b3a6f093": {
+  "it": "Scarica AI help You →",
+  "tr": "Κατεβάστε το AI help You →"
+ },
+ "79cbaba8": {
+  "it": "iPhone e Apple Watch",
+  "tr": "iPhone και Apple Watch"
+ },
+ "d1b5c8e1": {
+  "it": "Sempre",
+  "tr": "Πάντα"
+ },
+ "2bb779db": {
+  "it": "gratis l'allarme con la posizione",
+  "tr": "δωρεάν ο συναγερμός με την τοποθεσία"
+ },
+ "f8b6d6ab": {
+  "it": "Il messaggio di allerta su Telegram con la posizione del momento e la posizione live è sempre gratuito, e parte anche da Apple Watch. Comando vocale, SMS, WhatsApp e telefonata si aggiungono con un unico acquisto in app, senza abbonamento.",
+  "tr": "Το μήνυμα ειδοποίησης στο Telegram με την τρέχουσα και τη ζωντανή τοποθεσία σας είναι πάντα δωρεάν και ξεκινά και από το Apple Watch. Φωνητική εντολή, SMS, WhatsApp και κλήση προστίθενται με μία μόνο αγορά μέσα από την εφαρμογή, χωρίς συνδρομή."
+ },
+ "d6f1361a": {
+  "it": "Tutti i dettagli su cosa è gratis →",
+  "tr": "Όλες οι λεπτομέρειες για το τι είναι δωρεάν →"
+ },
+ "8a74e3f1": {
+  "it": "<a class=\"link-arrow\" href=\"https://apps.apple.com/app/id6756390159\" target=\"_blank\" rel=\"noopener\">no pAIn™ ↗</a> per iPhone, in 12 lingue",
+  "tr": "<a class=\"link-arrow\" href=\"https://apps.apple.com/app/id6756390159\" target=\"_blank\" rel=\"noopener\">no pAIn™ ↗</a> για iPhone, σε 12 γλώσσες"
+ },
+ "4601fdce": {
+  "it": "<strong>Si scaricano tutte gratis</strong> e in ognuna chiedere aiuto con la tua posizione resta gratuito. <a class=\"link-arrow\" href=\"versioni.html\">Cosa è gratis in ogni app →</a>",
+  "tr": "<strong>Όλες κατεβαίνουν δωρεάν</strong> και σε καθεμία η έκκληση για βοήθεια με την τοποθεσία σας μένει δωρεάν. <a class=\"link-arrow\" href=\"versioni.html\">Τι είναι δωρεάν σε κάθε εφαρμογή →</a>"
+ },
+ "17e87901": {
+  "it": "Emergenza gratis",
+  "tr": "Δωρεάν έκτακτη ανάγκη"
+ },
+ "05c17157": {
+  "it": "Scarica ora",
+  "tr": "Κατεβάστε τώρα"
+ },
+ "474ceccd": {
+  "it": "Inquadra il codice con la fotocamera del telefono oppure tocca il banner.",
+  "tr": "Σαρώστε τον κωδικό με την κάμερα του τηλεφώνου σας ή πατήστε το σήμα."
+ },
+ "fce5c8c1": {
+  "it": "Gratis nell'emergenza",
+  "tr": "Δωρεάν στην έκτακτη ανάγκη"
+ },
+ "76508b70": {
+  "it": "<strong>3 giorni di prova con tutte le funzioni.</strong> Poi le funzioni di emergenza restano gratuite: scade solo l'avvio dal tasto Start dell'app.",
+  "tr": "<strong>3 ημέρες δοκιμής με όλες τις λειτουργίες.</strong> Μετά οι λειτουργίες έκτακτης ανάγκης μένουν δωρεάν: λήγει μόνο η εκκίνηση από το κουμπί Start της εφαρμογής."
+ },
+ "a87ceb47": {
+  "it": "L'emergenza parte gratis dalla notifica persistente, dal tasto rapido sulla schermata home, dallo smartwatch e da button4help™",
+  "tr": "Η έκτακτη ανάγκη ξεκινά δωρεάν από τη μόνιμη ειδοποίηση, το γρήγορο κουμπί στην αρχική οθόνη, το έξυπνο ρολόι και το button4help™"
+ },
+ "45986d57": {
+  "it": "Una volta avviata così, si attiva anche l'ascolto dei comandi vocali",
+  "tr": "Όταν ξεκινήσει έτσι, ενεργοποιείται και η ακρόαση των φωνητικών εντολών"
+ },
+ "983c5bb9": {
+  "it": "AI help You avvisa i contatti configurati. Non contatta i servizi pubblici di emergenza e non li sostituisce. Dopo i 3 giorni di prova funziona gratis in modalità emergenza rapida: <a class=\"link-arrow\" href=\"versioni.html\">vedi Free e Premium</a>.",
+  "tr": "Το AI help You ειδοποιεί τις επαφές που έχετε ορίσει. Δεν επικοινωνεί με τις δημόσιες υπηρεσίες έκτακτης ανάγκης και δεν τις αντικαθιστά. Μετά τις 3 ημέρες δοκιμής λειτουργεί δωρεάν σε λειτουργία γρήγορης έκτακτης ανάγκης: <a class=\"link-arrow\" href=\"versioni.html\">δείτε Free και Premium</a>."
+ },
+ "9f204105": {
+  "it": "<strong>3 giorni di prova con tutte le funzioni.</strong> Poi le funzioni di emergenza restano gratuite: scade solo l'avvio dal tasto Avvia dell'app.",
+  "tr": "<strong>3 ημέρες δοκιμής με όλες τις λειτουργίες.</strong> Μετά οι λειτουργίες έκτακτης ανάγκης μένουν δωρεάν: λήγει μόνο η εκκίνηση από το κουμπί Avvia της εφαρμογής."
+ },
+ "b05555ab": {
+  "it": "L'emergenza parte gratis dalla notifica persistente, dal tasto rapido sulla schermata home e dallo smartwatch",
+  "tr": "Η έκτακτη ανάγκη ξεκινά δωρεάν από τη μόνιμη ειδοποίηση, το γρήγορο κουμπί στην αρχική οθόνη και το έξυπνο ρολόι"
+ },
+ "db8190d3": {
+  "it": "Allarme gratis",
+  "tr": "Δωρεάν συναγερμός"
+ },
+ "c4d5c24d": {
+  "it": "<strong>Sempre gratis: l'allarme con la tua posizione.</strong> Il messaggio di allerta su Telegram parte con la posizione del momento e con la posizione live per 30 minuti, anche da Apple Watch.",
+  "tr": "<strong>Πάντα δωρεάν: ο συναγερμός με την τοποθεσία σας.</strong> Το μήνυμα ειδοποίησης στο Telegram φεύγει με την τρέχουσα τοποθεσία σας και με ζωντανή τοποθεσία για 30 λεπτά, και από το Apple Watch."
+ },
+ "7f38c9e5": {
+  "it": "Con un unico acquisto in app, senza abbonamento, aggiungi il comando vocale “Ehi Siri, Proteggimi”, SMS, WhatsApp, telefonata e la posizione live fino a 24 ore.",
+  "tr": "Με μία μόνο αγορά μέσα από την εφαρμογή, χωρίς συνδρομή, προσθέτετε τη φωνητική εντολή «Hey Siri, Βοήθησέ με», SMS, WhatsApp, κλήση και ζωντανή τοποθεσία έως 24 ώρες."
+ },
+ "c98d6519": {
+  "it": "Tutto gratis",
+  "tr": "Όλα δωρεάν"
+ },
+ "868d275e": {
+  "it": "Completamente gratuita",
+  "tr": "Εντελώς δωρεάν"
+ },
+ "864ded48": {
+  "it": "<strong>Tutte le funzioni sono gratuite.</strong> Nessuna prova a tempo, nessun abbonamento e nessun acquisto in app.",
+  "tr": "<strong>Όλες οι λειτουργίες είναι δωρεάν.</strong> Χωρίς χρονικά περιορισμένη δοκιμή, χωρίς συνδρομή και χωρίς αγορές μέσα από την εφαρμογή."
+ },
+ "c0f981d7": {
+  "it": "Codice QR per scaricare AI help You da Google Play",
+  "tr": "Κωδικός QR για λήψη του AI help You από το Google Play"
+ },
+ "a22501a2": {
+  "it": "Disponibile su Google Play",
+  "tr": "Αποκτήστε το στο Google Play"
+ },
+ "707ca3b2": {
+  "it": "Codice QR per scaricare Proteggimi da Google Play",
+  "tr": "Κωδικός QR για λήψη του Proteggimi από το Google Play"
+ },
+ "9117921f": {
+  "it": "Codice QR per scaricare no pAIn da App Store",
+  "tr": "Κωδικός QR για λήψη του no pAIn από το App Store"
+ },
+ "a5fcd301": {
+  "it": "Scarica su App Store",
+  "tr": "Λήψη στο App Store"
+ },
+ "cb5efe2c": {
+  "it": "Codice QR per scaricare AIuto SOS da Google Play",
+  "tr": "Κωδικός QR για λήψη του AIuto SOS από το Google Play"
+ },
+ "76e85ca3": {
+  "it": "Codice QR per scaricare AI help App da Google Play",
+  "tr": "Κωδικός QR για λήψη του AI help App από το Google Play"
+ },
+ "d9f8ca20": {
+  "it": "Chiedere aiuto <span class=\"hl\">è sempre gratis.</span>",
+  "tr": "Η έκκληση για βοήθεια <span class=\"hl\">είναι πάντα δωρεάν.</span>"
+ },
+ "af8944e2": {
+  "it": "Tutte le app si scaricano gratuitamente e in ognuna almeno un modo per lanciare l'allarme con la tua posizione resta gratuito. AIuto SOS per Wear OS è tutta gratuita; le app Android hanno 3 giorni di prova completa e poi le funzioni di emergenza restano gratuite; su iPhone l'allarme su Telegram con la posizione è sempre gratis.",
+  "tr": "Όλες οι εφαρμογές κατεβαίνουν δωρεάν και σε καθεμία τουλάχιστον ένας τρόπος να σημάνετε συναγερμό με την τοποθεσία σας μένει δωρεάν. Το AIuto SOS για Wear OS είναι εξ ολοκλήρου δωρεάν· οι εφαρμογές Android έχουν 3 ημέρες πλήρους δοκιμής και μετά οι λειτουργίες έκτακτης ανάγκης μένουν δωρεάν· στο iPhone ο συναγερμός στο Telegram με την τοποθεσία σας είναι πάντα δωρεάν."
+ },
+ "8405503a": {
+  "it": "Wear OS · AIuto SOS",
+  "tr": "Wear OS · AIuto SOS"
+ },
+ "be445a37": {
+  "it": "Tutte le funzioni incluse",
+  "tr": "Όλες οι λειτουργίες περιλαμβάνονται"
+ },
+ "dc9383fa": {
+  "it": "Nessuna prova a tempo",
+  "tr": "Χωρίς χρονικά περιορισμένη δοκιμή"
+ },
+ "9d07b3e5": {
+  "it": "Nessun abbonamento e nessun acquisto in app",
+  "tr": "Χωρίς συνδρομή και χωρίς αγορές μέσα από την εφαρμογή"
+ },
+ "c940bedf": {
+  "it": "App autonoma per smartwatch Wear OS, funziona anche senza smartphone.",
+  "tr": "Αυτόνομη εφαρμογή για έξυπνα ρολόγια Wear OS: λειτουργεί ακόμη και χωρίς smartphone."
+ },
+ "0d5f70d1": {
+  "it": "Android · Proteggimi e AI help You",
+  "tr": "Android · Proteggimi και AI help You"
+ },
+ "7764ae47": {
+  "it": "3 giorni di prova, poi emergenza gratis",
+  "tr": "3 ημέρες δοκιμής, μετά δωρεάν έκτακτη ανάγκη"
+ },
+ "bd7d94ff": {
+  "it": "Per 3 giorni l'app è completa. Dopo, le funzioni di emergenza restano gratuite: scade solo l'avvio dal tasto Avvia di Proteggimi o Start di AI help You.",
+  "tr": "Για 3 ημέρες η εφαρμογή είναι πλήρης. Μετά οι λειτουργίες έκτακτης ανάγκης μένουν δωρεάν: λήγει μόνο η εκκίνηση από το κουμπί Avvia του Proteggimi ή Start του AI help You."
+ },
+ "4b5e65be": {
+  "it": "Avvio gratuito dalla notifica persistente e dal tasto rapido sulla schermata home",
+  "tr": "Δωρεάν εκκίνηση από τη μόνιμη ειδοποίηση και το γρήγορο κουμπί στην αρχική οθόνη"
+ },
+ "43a5044a": {
+  "it": "Avvio gratuito dallo smartwatch e, con AI help You, da button4help™",
+  "tr": "Δωρεάν εκκίνηση από το έξυπνο ρολόι και, με το AI help You, από το button4help™"
+ },
+ "1e9acc4e": {
+  "it": "Una volta avviata, ascolto dei comandi vocali attivo",
+  "tr": "Μόλις ξεκινήσει, η ακρόαση φωνητικών εντολών είναι ενεργή"
+ },
+ "6c5e3e1d": {
+  "it": "Con Premium torna anche l'avvio dal tasto Avvia/Start. Condizioni e prezzo sono indicati nella scheda della singola app su Google Play.",
+  "tr": "Με το Premium επιστρέφει και η εκκίνηση από το κουμπί Avvia/Start. Οι όροι και η τιμή αναφέρονται στη σελίδα κάθε εφαρμογής στο Google Play."
+ },
+ "60ce1a1f": {
+  "it": "Allarme con posizione, sempre gratis",
+  "tr": "Συναγερμός με τοποθεσία, πάντα δωρεάν"
+ },
+ "b96d28d9": {
+  "it": "Telegram con la posizione del momento",
+  "tr": "Telegram με την τρέχουσα τοποθεσία σας"
+ },
+ "fdeddce1": {
+  "it": "Avvio anche da Apple Watch",
+  "tr": "Εκκίνηση και από το Apple Watch"
+ },
+ "ac2b4ea2": {
+  "it": "Un solo acquisto in app, più funzioni",
+  "tr": "Μία μόνο αγορά μέσα από την εφαρμογή, περισσότερες λειτουργίες"
+ },
+ "0d3abb9b": {
+  "it": "App Wear OS dedicata, gratuita",
+  "tr": "Ειδική εφαρμογή Wear OS, δωρεάν"
+ },
+ "8b63c166": {
+  "it": "¹ Dopo i 3 giorni di prova, senza Premium il tasto Avvia (Proteggimi) o Start (AI help You) è inattivo; l'emergenza si avvia gratis dai tasti di emergenza rapida.",
+  "tr": "¹ Μετά τις 3 ημέρες δοκιμής, χωρίς Premium το κουμπί Avvia (Proteggimi) ή Start (AI help You) είναι ανενεργό· η έκτακτη ανάγκη ξεκινά δωρεάν από τα κουμπιά γρήγορης έκτακτης ανάγκης."
+ },
+ "7a76f686": {
+  "it": "² In Android Free, dopo l'avvio da un tasto di emergenza rapida.",
+  "tr": "² Στο Android Free, μετά την εκκίνηση από κουμπί γρήγορης έκτακτης ανάγκης."
+ },
+ "aab72ff5": {
+  "it": "Scaricarle è gratis e in ogni app chiedere aiuto con la posizione resta gratuito. AIuto SOS watch4help™ per Wear OS è completamente gratuita. Proteggimi e AI help You per Android offrono 3 giorni di prova completa; poi le funzioni di emergenza restano gratuite e scade solo l'avvio dal tasto Avvia o Start. Su iPhone l'allarme su Telegram con la posizione, anche live e da Apple Watch, è sempre gratis; Siri, SMS, WhatsApp e telefonata richiedono un acquisto una tantum, senza abbonamento. <a href=\"versioni.html\">Vedi il confronto</a>.",
+  "tr": "Η λήψη είναι δωρεάν και σε κάθε εφαρμογή η έκκληση για βοήθεια με την τοποθεσία σας μένει δωρεάν. Το AIuto SOS watch4help™ για Wear OS είναι εντελώς δωρεάν. Τα Proteggimi και AI help You για Android προσφέρουν 3 ημέρες πλήρους δοκιμής· μετά οι λειτουργίες έκτακτης ανάγκης μένουν δωρεάν και λήγει μόνο η εκκίνηση από το κουμπί Avvia ή Start. Στο iPhone ο συναγερμός στο Telegram με την τοποθεσία σας, και ζωντανά και από το Apple Watch, είναι πάντα δωρεάν· Siri, SMS, WhatsApp και κλήση απαιτούν εφάπαξ αγορά, χωρίς συνδρομή. <a href=\"versioni.html\">Δείτε τη σύγκριση</a>."
+ },
+ "66ad5f65": {
+  "it": "Visite al sito",
+  "tr": "Επισκέψεις στον ιστότοπο"
+ },
+ "e1cefdd8": {
+  "it": "<strong>Un tocco sullo smartwatch, anche con il telefono a terra</strong>Durante un'aggressione basta toccare l'orologio: Proteggimi avvisa gli amici con la posizione, loro chiamano le forze dell'ordine e l'aiuto arriva in tempo. Scene di finzione, a scopo dimostrativo; il video ha l'audio.",
+  "tr": "<strong>Ένα άγγιγμα στο έξυπνο ρολόι, ακόμη και με το τηλέφωνο στο πάτωμα</strong>Κατά τη διάρκεια μιας επίθεσης αρκεί ένα άγγιγμα στο ρολόι: το Proteggimi ειδοποιεί τους φίλους με την τοποθεσία, εκείνοι καλούν την αστυνομία και η βοήθεια φτάνει έγκαιρα. Σκηνές μυθοπλασίας, για λόγους επίδειξης· το βίντεο έχει ήχο."
+ },
+ "ca916169": {
+  "it": "AI help You in due locandine.",
+  "tr": "Το AI help You σε δύο αφίσες."
+ },
+ "eedf355b": {
+  "it": "In immagini",
+  "tr": "Σε εικόνες"
+ },
+ "e89334d1": {
+  "it": "Dodici lingue, il pulsante button4help™ e l'allarme che parte con una semplice pressione: le locandine riassumono cosa fa l'app e come si scarica.",
+  "tr": "Δώδεκα γλώσσες, το κουμπί button4help™ και ένας συναγερμός που ξεκινά με ένα απλό πάτημα: οι αφίσες συνοψίζουν τι κάνει η εφαρμογή και πώς κατεβαίνει."
+ },
+ "c5d03275": {
+  "it": "<strong>AI help You</strong>La locandina in inglese: il codice QR porta all'app su Google Play.",
+  "tr": "<strong>AI help You</strong>Η αφίσα στα αγγλικά: ο κωδικός QR οδηγεί στην εφαρμογή στο Google Play."
+ },
+ "07ce0afe": {
+  "it": "<strong>AI help You e button4help™</strong>Non un localizzatore GPS, ma un pulsante di emergenza intelligente. Infografica in inglese.",
+  "tr": "<strong>AI help You και button4help™</strong>Όχι συσκευή εντοπισμού GPS, αλλά ένα έξυπνο κουμπί έκτακτης ανάγκης. Ενημερωτικό γράφημα στα αγγλικά."
+ },
+ "f4a26fd8": {
+  "it": "Locandina AI help You by Agostino Giorgio, Politecnico di Bari: lo scudo con la figura femminile, il codice QR per scaricare l'app da Google Play e, in basso, uno smartwatch con il tasto SOS, lo smartphone con l'app e il pulsante button4help al collo.",
+  "tr": "Αφίσα AI help You του Agostino Giorgio, Politecnico di Bari: η ασπίδα με τη γυναικεία φιγούρα, ο κωδικός QR για λήψη της εφαρμογής από το Google Play και, στο κάτω μέρος, ένα έξυπνο ρολόι με το πλήκτρο SOS, το smartphone με την εφαρμογή και το κουμπί button4help κρεμασμένο στον λαιμό."
+ },
+ "2c9204fd": {
+  "it": "Infografica AI help You e button4help: app per la prevenzione della violenza di genere in 12 lingue; non un localizzatore GPS ma un pulsante di emergenza intelligente; una mano preme il pulsante; le fasi allerta inviata, l'amica riceve la notifica, azione immediata; innovativo, discreto, leggero, indossabile, facile da usare, sempre con te.",
+  "tr": "Ενημερωτικό γράφημα AI help You και button4help: εφαρμογή πρόληψης της έμφυλης βίας σε 12 γλώσσες· όχι συσκευή εντοπισμού GPS αλλά έξυπνο κουμπί έκτακτης ανάγκης· ένα χέρι πατά το κουμπί· τα βήματα: αποστολή ειδοποίησης, η φίλη λαμβάνει την ειδοποίηση, άμεση δράση· καινοτόμο, διακριτικό, ελαφρύ, φορητό, εύκολο στη χρήση, πάντα μαζί σας."
+ },
+ "b94a1a9c": {
+  "it": "<strong>Dall'allerta all'aiuto</strong>button4help™ con AI help You in un'infografica, in inglese.",
+  "tr": "<strong>Από την ειδοποίηση στη βοήθεια</strong>Το button4help™ με το AI help You σε ενημερωτικό γράφημα, στα αγγλικά."
+ },
+ "b2f0bbbb": {
+  "it": "Infografica verticale button4help con AI help You: non un localizzatore GPS ma un pulsante di emergenza intelligente; una mano preme il pulsante vicino alla borsa; le fasi dall'allerta all'aiuto; innovativo, discreto, leggero, indossabile, facile da usare, sempre con te.",
+  "tr": "Κάθετο ενημερωτικό γράφημα button4help με το AI help You: όχι συσκευή εντοπισμού GPS αλλά έξυπνο κουμπί έκτακτης ανάγκης· ένα χέρι πατά το κουμπί δίπλα σε μια τσάντα· τα βήματα από την ειδοποίηση στη βοήθεια· καινοτόμο, διακριτικό, ελαφρύ, φορητό, εύκολο στη χρήση, πάντα μαζί σας."
+ },
+ "2c52c669": {
+  "it": "L'immagine simbolo del progetto · illustrazione",
+  "tr": "Η εικόνα-σύμβολο του έργου · εικονογράφηση"
+ },
+ "65f6f4f3": {
+  "it": "no pAIn: never oppressed protected by Artificial Intelligence nonviolence system, con le iniziali evidenziate a colori.",
+  "tr": "no pAIn: never oppressed protected by Artificial Intelligence nonviolence system, με τα αρχικά τονισμένα με χρώμα."
+ },
+ "b8ae2378": {
+  "it": "Illustrazione: una donna dall'aspetto tecnologico alza la mano aperta con la scritta NO PAIN, tra circuiti luminosi.",
+  "tr": "Εικονογράφηση: μια γυναίκα με φουτουριστική όψη σηκώνει το ανοιχτό χέρι με τη λέξη NO PAIN, ανάμεσα σε φωτεινά κυκλώματα."
+ },
+ "2456cdbb": {
+  "it": "Frontespizio dell'articolo No Pain Device sulla rivista Electronics (MDPI), 2024, volume 13, numero 9, 1766.",
+  "tr": "Σελίδα τίτλου του άρθρου No Pain Device στο περιοδικό Electronics (MDPI), 2024, τόμος 13, τεύχος 9, 1766."
+ },
+ "18480a89": {
+  "it": "Frontespizio dell'articolo A Smart App for the Prevention of Gender-Based Violence sulla rivista Electronics (MDPI), 2026, volume 15, numero 1, 197.",
+  "tr": "Σελίδα τίτλου του άρθρου A Smart App for the Prevention of Gender-Based Violence στο περιοδικό Electronics (MDPI), 2026, τόμος 15, τεύχος 1, 197."
+ },
+ "f55f8cc8": {
+  "it": "Le tecnologie del progetto, disponibili per enti e aziende",
+  "tr": "Οι τεχνολογίες του έργου, διαθέσιμες σε φορείς και επιχειρήσεις"
+ },
+ "6d3e7f6a": {
+  "it": "Tecnologia contro la violenza di genere · progetto no pAIn™ dal Politecnico di Bari",
+  "tr": "Τεχνολογία κατά της έμφυλης βίας · το έργο no pAIn™ του Politecnico di Bari"
+ },
+ "eaebb123": {
+  "it": "Marchio: scudo con una figura femminile e la scritta no pAIn & watch4help technologies, by no pAIn project engineering.",
+  "tr": "Σήμα: ασπίδα με γυναικεία φιγούρα και η επιγραφή no pAIn & watch4help technologies, by no pAIn project engineering."
+ },
+ "4ca7d853": {
+  "it": "Locandina Tecnologia contro la violenza di genere, progetto no pAIn dal Poliba: due mani reggono uno smartphone con lo scudo dell'app; in basso privacy totale peer-to-peer, IA offline senza cloud e attivazione rapida con voce, tocco o smartwatch.",
+  "tr": "Αφίσα «Tecnologia contro la violenza di genere» (Τεχνολογία κατά της έμφυλης βίας), έργο no pAIn του Politecnico di Bari: δύο χέρια κρατούν ένα smartphone με την ασπίδα της εφαρμογής· στο κάτω μέρος πλήρης ιδιωτικότητα peer-to-peer, τεχνητή νοημοσύνη εκτός σύνδεσης χωρίς cloud και γρήγορη ενεργοποίηση με φωνή, άγγιγμα ή έξυπνο ρολόι."
+ },
+ "26d9b9f8": {
+  "it": "<strong>Chiedere aiuto con la voce, senza farsi scoprire</strong>Il telefono le è stato scaraventato a terra, ma la donna dice “non farlo”, una parola chiave personalizzata: Proteggimi riconosce il comando vocale e invia la richiesta di soccorso. Quelle parole non fanno capire all'aggressore che è partito l'allarme, tanto che lui resta lì e viene arrestato.",
+  "tr": "<strong>Έκκληση για βοήθεια με τη φωνή, χωρίς να γίνει αντιληπτό</strong>Το τηλέφωνό της έχει πεταχτεί στο πάτωμα, αλλά η γυναίκα λέει «non farlo» («μην το κάνεις»), μια προσωπική λέξη-κλειδί: το Proteggimi αναγνωρίζει τη φωνητική εντολή και στέλνει το αίτημα βοήθειας. Αυτές οι λέξεις δεν αφήνουν τον δράστη να καταλάβει ότι σήμανε συναγερμός, τόσο που εκείνος μένει εκεί και συλλαμβάνεται."
+ },
  "_ui": {
   "menu": "Μενού",
   "close": "Κλείσιμο",

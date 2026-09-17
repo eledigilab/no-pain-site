@@ -11,7 +11,7 @@ import re
 
 TOOLS = pathlib.Path(__file__).resolve().parent
 OUT = TOOLS.parent
-VERSION = "20260917c"
+VERSION = "20260917f"
 
 # Nomi ideati dall'autore: mai tradotti, sempre con ™
 TM_TERMS = ["digital4help", "watch4help", "button4help", "no pAIn"]
@@ -132,6 +132,7 @@ FOOT = """
     <div>
       <a class="logo" href="index.html" data-no-i18n><span class="shield"><img src="assets/logo-scudo.png" alt="" width="84" height="84"></span><span class="word">no p<b>AI</b>n<span class="tm">™</span></span></a>
       <p style="margin-top:12px">Progetto del Prof. Ing. Agostino Giorgio<br>Docente del Politecnico di Bari</p>
+      <p class="visits" hidden><span class="visits-label">Visite al sito</span> <b id="visit-count" data-no-i18n></b></p>
     </div>
     <div>
       <h4>Il sito</h4>

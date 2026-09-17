@@ -554,3 +554,89 @@ mail.partnerBody|Dzień dobry,\nchciałabym/chciałbym dowiedzieć się więcej 
 579|Zobacz na Instagramie ↗
 580|Plakat no pAIn project autorstwa Agostina Giorgia, Politecnico di Bari: tarcza z postacią kobiety, lista czterech aplikacji (Proteggimi na Androida po włosku, AI help You na Androida w 12 językach, AIuto SOS – watch4help na smartwatche Wear OS, no pAIn na iOS), a na dole smartwatch z przyciskiem SOS, smartfon z aplikacją i przycisk button4help noszony na szyi.
 581|<strong>no pAIn™ project: Technology that protects life</strong>Projekt i jego aplikacje na jednym plakacie, po angielsku.
+582|Za darmo, gdy to ważne
+583|W chwili zagrożenia <span class="hl">wezwanie pomocy nic nie kosztuje.</span>
+584|Wszystkie aplikacje można pobrać za darmo, a w każdej co najmniej jeden sposób na wysłanie alarmu z lokalizacją zawsze pozostaje bezpłatny, nawet bez subskrypcji.
+585|Smartwatch Wear OS
+586|za darmo, wszystkie funkcje
+587|Całkowicie bezpłatna: bez ograniczonego czasowo okresu próbnego, bez subskrypcji i bez zakupów w aplikacji. Alarm rusza z nadgarstka, nawet bez smartfona.
+588|Pobierz teraz →
+589|3 dni
+590|pełnego okresu próbnego, potem alarm pozostaje bezpłatny
+591|Proteggimi i AI help You
+592|Po okresie próbnym wygasa tylko uruchamianie przyciskiem Avvia w Proteggimi lub Start w AI help You. Alarm uruchamia się bezpłatnie ze stałego powiadomienia, szybkiego przycisku na ekranie głównym, ze smartwatcha oraz, w AI help You, z button4help™. Po uruchomieniu aplikacja słucha też poleceń głosowych.
+593|Pobierz Proteggimi →
+594|Pobierz AI help You →
+595|iPhone i Apple Watch
+596|Zawsze
+597|za darmo alarm z lokalizacją
+598|Wiadomość alarmowa w Telegramie z bieżącą lokalizacją i lokalizacją na żywo jest zawsze bezpłatna i można ją wysłać także z Apple Watch. Polecenie głosowe, SMS, WhatsApp i połączenie dochodzą po jednorazowym zakupie w aplikacji, bez subskrypcji.
+599|Wszystkie szczegóły o tym, co jest bezpłatne →
+601|<strong>Wszystkie można pobrać za darmo</strong>, a w każdej wezwanie pomocy z lokalizacją pozostaje bezpłatne. <a class="link-arrow" href="versioni.html">Co jest bezpłatne w każdej aplikacji →</a>
+602|Alarm za darmo
+603|Pobierz teraz
+604|Zeskanuj kod aparatem telefonu albo dotknij plakietki.
+605|Za darmo w nagłej sytuacji
+606|<strong>3 dni okresu próbnego ze wszystkimi funkcjami.</strong> Potem funkcje alarmowe pozostają bezpłatne: wygasa tylko uruchamianie przyciskiem Start w aplikacji.
+607|Alarm uruchamia się bezpłatnie ze stałego powiadomienia, szybkiego przycisku na ekranie głównym, ze smartwatcha i z button4help™
+608|Po takim uruchomieniu włącza się też nasłuchiwanie poleceń głosowych
+609|AI help You powiadamia skonfigurowane kontakty. Nie łączy się z publicznymi służbami ratunkowymi i ich nie zastępuje. Po 3 dniach okresu próbnego działa bezpłatnie w trybie szybkiego alarmu: <a class="link-arrow" href="versioni.html">zobacz Free i Premium</a>.
+610|<strong>3 dni okresu próbnego ze wszystkimi funkcjami.</strong> Potem funkcje alarmowe pozostają bezpłatne: wygasa tylko uruchamianie przyciskiem Avvia w aplikacji.
+611|Alarm uruchamia się bezpłatnie ze stałego powiadomienia, szybkiego przycisku na ekranie głównym i ze smartwatcha
+612|Alarm za darmo
+613|<strong>Zawsze za darmo: alarm z lokalizacją.</strong> Wiadomość alarmowa w Telegramie wychodzi z bieżącą lokalizacją i lokalizacją na żywo przez 30 minut, także z Apple Watch.
+614|Jednorazowy zakup w aplikacji, bez subskrypcji, dodaje polecenie głosowe „Hej Siri, Pomóż mi”, SMS, WhatsApp, połączenie i lokalizację na żywo do 24 godzin.
+615|Wszystko za darmo
+616|Całkowicie bezpłatna
+617|<strong>Wszystkie funkcje są bezpłatne.</strong> Bez ograniczonego czasowo okresu próbnego, bez subskrypcji i bez zakupów w aplikacji.
+618|Kod QR do pobrania AI help You z Google Play
+619|Pobierz z Google Play
+620|Kod QR do pobrania Proteggimi z Google Play
+621|Kod QR do pobrania no pAIn z App Store
+622|Pobierz w App Store
+623|Kod QR do pobrania AIuto SOS z Google Play
+624|Kod QR do pobrania AI help App z Google Play
+625|Wezwanie pomocy <span class="hl">jest zawsze bezpłatne.</span>
+626|Wszystkie aplikacje można pobrać za darmo, a w każdej co najmniej jeden sposób na wysłanie alarmu z lokalizacją pozostaje bezpłatny. AIuto SOS na Wear OS jest całkowicie bezpłatna; aplikacje na Androida mają 3 dni pełnego okresu próbnego, a potem funkcje alarmowe pozostają bezpłatne; na iPhonie alarm w Telegramie z lokalizacją jest zawsze bezpłatny.
+627|Wear OS · AIuto SOS
+628|Wszystkie funkcje w zestawie
+629|Bez ograniczonego czasowo okresu próbnego
+630|Bez subskrypcji i bez zakupów w aplikacji
+631|Samodzielna aplikacja na smartwatche Wear OS: działa nawet bez smartfona.
+632|Android · Proteggimi i AI help You
+633|3 dni próby, potem bezpłatny alarm
+634|Przez 3 dni aplikacja jest kompletna. Potem funkcje alarmowe pozostają bezpłatne: wygasa tylko uruchamianie przyciskiem Avvia w Proteggimi lub Start w AI help You.
+635|Bezpłatne uruchamianie ze stałego powiadomienia i szybkiego przycisku na ekranie głównym
+636|Bezpłatne uruchamianie ze smartwatcha oraz, w AI help You, z button4help™
+637|Po uruchomieniu nasłuchiwanie poleceń głosowych jest aktywne
+638|Z Premium wraca też uruchamianie przyciskiem Avvia/Start. Warunki i cena są podane na stronie danej aplikacji w Google Play.
+639|Alarm z lokalizacją, zawsze za darmo
+640|Telegram z bieżącą lokalizacją
+641|Uruchamianie także z Apple Watch
+642|Jeden zakup w aplikacji, więcej funkcji
+643|Osobna aplikacja Wear OS, bezpłatna
+644|¹ Po 3 dniach okresu próbnego, bez Premium przycisk Avvia (Proteggimi) lub Start (AI help You) jest nieaktywny; alarm uruchamia się bezpłatnie przyciskami szybkiego alarmu.
+645|² W Android Free, po uruchomieniu przyciskiem szybkiego alarmu.
+646|Pobranie jest bezpłatne, a w każdej aplikacji wezwanie pomocy z lokalizacją pozostaje bezpłatne. AIuto SOS watch4help™ na Wear OS jest całkowicie bezpłatna. Proteggimi i AI help You na Androida oferują 3 dni pełnego okresu próbnego; potem funkcje alarmowe pozostają bezpłatne, a wygasa tylko uruchamianie przyciskiem Avvia lub Start. Na iPhonie alarm w Telegramie z lokalizacją, także na żywo i z Apple Watch, jest zawsze bezpłatny; Siri, SMS, WhatsApp i połączenie wymagają jednorazowego zakupu, bez subskrypcji. <a href="versioni.html">Zobacz porównanie</a>.
+600|<a class="link-arrow" href="https://apps.apple.com/app/id6756390159" target="_blank" rel="noopener">no pAIn™ ↗</a> na iPhone’a, w 12 językach
+647|Odwiedziny strony
+648|<strong>Jedno dotknięcie smartwatcha, nawet gdy telefon leży na podłodze</strong>Podczas napaści wystarczy dotknąć zegarka: Proteggimi powiadamia znajomych o lokalizacji, oni dzwonią na policję i pomoc przybywa na czas. Sceny fikcyjne, w celach demonstracyjnych; film ma dźwięk.
+649|AI help You na dwóch plakatach.
+650|W obrazach
+651|Dwanaście języków, przycisk button4help™ i alarm uruchamiany zwykłym naciśnięciem: plakaty podsumowują, co robi aplikacja i jak ją pobrać.
+652|<strong>AI help You</strong>Plakat po angielsku: kod QR prowadzi do aplikacji w Google Play.
+653|<strong>AI help You i button4help™</strong>Nie lokalizator GPS, lecz inteligentny przycisk alarmowy. Infografika po angielsku.
+654|Plakat AI help You autorstwa Agostina Giorgia, Politecnico di Bari: tarcza z postacią kobiety, kod QR do pobrania aplikacji z Google Play, a na dole smartwatch z przyciskiem SOS, smartfon z aplikacją i przycisk button4help noszony na szyi.
+655|Infografika AI help You i button4help: aplikacja zapobiegająca przemocy ze względu na płeć w 12 językach; nie lokalizator GPS, lecz inteligentny przycisk alarmowy; dłoń naciska przycisk; etapy: alarm wysłany, przyjaciółka otrzymuje powiadomienie, natychmiastowe działanie; innowacyjny, dyskretny, lekki, do noszenia, łatwy w użyciu, zawsze pod ręką.
+656|<strong>Od alarmu do pomocy</strong>button4help™ z AI help You na infografice, po angielsku.
+657|Pionowa infografika button4help z AI help You: nie lokalizator GPS, lecz inteligentny przycisk alarmowy; dłoń naciska przycisk obok torebki; etapy od alarmu do pomocy; innowacyjny, dyskretny, lekki, do noszenia, łatwy w użyciu, zawsze pod ręką.
+658|Obraz symbol projektu · ilustracja
+659|no pAIn: never oppressed protected by Artificial Intelligence nonviolence system, z inicjałami wyróżnionymi kolorem.
+660|Ilustracja: futurystycznie wyglądająca kobieta unosi otwartą dłoń z napisem NO PAIN, wśród świecących obwodów.
+661|Strona tytułowa artykułu No Pain Device w czasopiśmie Electronics (MDPI), 2024, tom 13, numer 9, 1766.
+662|Strona tytułowa artykułu A Smart App for the Prevention of Gender-Based Violence w czasopiśmie Electronics (MDPI), 2026, tom 15, numer 1, 197.
+663|Technologie projektu, dostępne dla instytucji i firm
+664|Technologia przeciw przemocy ze względu na płeć · projekt no pAIn™ z Politecnico di Bari
+665|Znak: tarcza z postacią kobiety i napis no pAIn & watch4help technologies, by no pAIn project engineering.
+666|Plakat „Tecnologia contro la violenza di genere” (Technologia przeciw przemocy ze względu na płeć), projekt no pAIn z Politecnico di Bari: dwie dłonie trzymają smartfon z tarczą aplikacji; na dole pełna prywatność peer-to-peer, AI offline bez chmury i szybkie uruchamianie głosem, dotykiem lub smartwatchem.
+667|<strong>Wezwanie pomocy głosem, bez zdradzania się</strong>Telefon został rzucony na podłogę, ale kobieta mówi „non farlo” („nie rób tego”), czyli własne słowo kluczowe: Proteggimi rozpoznaje polecenie głosowe i wysyła wezwanie pomocy. Te słowa nie zdradzają napastnikowi, że alarm został uruchomiony, więc zostaje na miejscu i zostaje aresztowany.
