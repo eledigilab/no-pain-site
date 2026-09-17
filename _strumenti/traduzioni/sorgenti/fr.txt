@@ -480,3 +480,77 @@ mail.partnerBody|Bonjour,\nje souhaiterais en savoir plus sur le projet no pAIn�
 505|<strong>Une pression, l’aide arrive à temps</strong>Le bouton déclenche AI help You : la position en direct parvient à une amie, qui appelle la police. Textes de la vidéo en anglais.
 506|<strong>En voiture, quand prendre le téléphone est impossible</strong>À côté d’un homme agressif, tout geste vers le smartphone serait remarqué : c’est le moment où une pression discrète sur button4help™ envoie la demande d’aide. Scène de fiction, à des fins de démonstration.
 507|Politique de confidentialité <span class="arr">↗</span>
+508|Captures d’écran
+509|À quoi ressemble l’application.
+510|Après avoir accepté les conditions d’utilisation, dans les réglages vous choisissez les actions d’urgence et saisissez les numéros de téléphone, les chat ID Telegram et les mots-clés secrets. La page principale affiche l’état de l’application et les mots-clés actifs.
+511|<strong>La page principale</strong>Boutons Démarrer et Arrêter, demande d’aide manuelle, mots-clés actifs et service en arrière-plan.
+512|<strong>Les actions d’urgence</strong>Telegram, SMS et appels, avec les chat ID Telegram et les numéros des contacts.
+513|<strong>Les mots-clés personnels</strong>Jusqu’à 3 mots secrets à vous, en plus des 4 prédéfinis.
+514|À quoi ressemble l’application pour iPhone.
+515|La page principale comporte le grand bouton URGENCE. Dans la configuration, vous saisissez les chat ID Telegram et les numéros d’urgence, choisissez les actions à envoyer et faites un test initial pour vérifier que tout fonctionne.
+516|<strong>La page principale</strong>Le bouton URGENCE et le rappel de la commande vocale « Hey Siri, Aide-moi ».
+517|<strong>La configuration</strong>Contacts, actions d’urgence, test de l’application et récapitulatif avant d’enregistrer.
+518|<strong>SOS depuis le cadran</strong>Le bouton rapide SOS sur le cadran lance l’urgence d’un toucher.
+519|<strong>watch4help™</strong>La technologie portable contre la violence du projet no pAIn™.
+520|Prête
+521|À l’écoute
+522|Réglages
+523|Page principale de Proteggimi : état Prêt, boutons Démarrer et Arrêter, bouton no pAIn de demande d’aide, mots-clés actifs et service en arrière-plan.
+524|Réglages de Proteggimi : actions d’urgence (messages Telegram, SMS, appels), chat ID Telegram et numéros d’urgence.
+525|Réglages de Proteggimi : mots-clés par défaut et trois mots-clés personnalisés, avec le récapitulatif des actions et le bouton Enregistrer la configuration.
+526|Page principale de no pAIn pour iPhone : état Prêt, bouton rouge URGENCE de demande d’aide et rappel de la commande vocale « Hey Siri, Aide-moi ».
+527|Configuration de no pAIn pour iPhone : chat ID Telegram, numéros d’urgence, actions (Telegram, SMS, WhatsApp, appel), bouton Tester l’application et récapitulatif.
+528|Cadran d’une montre Wear OS avec la date, l’heure et le bouton rapide SOS en bas.
+529|Logo WATCH4HELP : une montre affichant le signe de la main pour demander de l’aide et les mots Technologie portable contre la violence, no pAIn project engineering.
+530|AI help App prête : bouton vert START et bouton de demande d’aide manuelle.
+531|AI help App à l’écoute des mots-clés : bouton rouge STOP.
+532|Réglages d’AI help App : actions Telegram, SMS et appels, avec le chat ID Telegram.
+533|Choix de la langue dans AI help App : italien, anglais, français, allemand, espagnol, turc, grec, portugais, roumain, polonais, néerlandais, suédois.
+534|<strong>Pas un traceur GPS : un bouton d’urgence intelligent</strong>Tiré du post Instagram du projet. Affiche en anglais.
+535|<strong>L’appairage dans l’application</strong>Dans AI help You, le bouton apparaît parmi les appareils connectés, sous le nom AIhelpButton, à côté de la montre.
+536|Affiche du post Instagram : button4help avec AI help You, « Not a GPS tracker. A smart emergency button. » Une jeune femme glisse le bouton dans la poche de son jean ; en dessous, les étapes de l’alerte à l’aide et les caractéristiques : innovant, discret, léger, portable, simple à utiliser, toujours avec vous.
+537|Réglages d’AI help You : mots-clés personnels, langue de la reconnaissance vocale et appareils connectés, avec les options Smartwatch et AIhelpButton.
+538|Sur iPhone, certaines fonctions sont limitées par les règles d’Apple : c’est pourquoi la commande vocale passe par Siri, et les SMS, WhatsApp et appels par le Raccourci « Proteggimi ». Les applications Android, en version complète, offrent toutes les fonctions.
+539|Canaux d’alerte
+540|Général
+541|Technologie pair-à-pair : l’alerte va de votre téléphone directement à vos contacts de confiance, sans compte, identifiant ni cloud propriétaire. Le principe de minimisation des données s’applique : le développeur déclare ne collecter aucune donnée personnelle et ne rien céder à des tiers ; réglages et contacts restent sur l’appareil.
+542|Pour acheminer les alertes et déterminer l’adresse, les services externes prévus par l’application sont toutefois utilisés.
+543|Fiabilité technique
+544|Alertes délivrées même avec une connexion intermittente : renvoi automatique dès le retour du réseau
+545|Position en direct reprise automatiquement après toute interruption, comme un redémarrage ou les optimisations du système
+546|Fonctionnement continu au premier plan, en arrière-plan et écran éteint, avec l’état toujours visible
+547|Réactivation guidée après redémarrages et mises à jour, pour ne pas perdre la configuration
+548|Chaque fonction vérifiée par des essais sur le terrain sur de vrais smartphones et montres
+549|Le fonctionnement effectif dépend de la version, des autorisations, du réseau et de l’appareil.
+550|Où il est né
+551|À l’École polytechnique de Bari.
+552|Le projet est né au Département de génie électrique et de l’information de l’École polytechnique de Bari (Politecnico di Bari), au sein du laboratoire ELEDIGILAB d’électronique des systèmes et des applications numériques.
+553|Revue de presse
+554|Ils en ont parlé.
+555|Les journaux et chaînes de télévision qui ont présenté le projet no pAIn™.
+556|<b data-no-i18n="">BariToday</b> · Article · 3 mars 2026
+557|Lire l’article ↗
+558|<b data-no-i18n="">TG Norba</b> · Reportage TV · 19 décembre 2024
+559|Le projet no pAIn™ dans l’édition de 7.30 du journal télévisé.
+560|<b data-no-i18n="">La Gazzetta del Mezzogiorno</b> · Vidéo · 17 décembre 2023
+561|Voir la vidéo ↗
+562|<b data-no-i18n="">TVA · Acquedotto Pugliese</b> · Vidéo
+563|Prévenir les violences de genre avec l’intelligence artificielle : entretien avec le Prof. Ing. Agostino Giorgio.
+564|Logo du Politecnico di Bari
+565|Logo du Département de génie électrique et de l’information du Politecnico di Bari
+566|Logo d’ELEDIGILAB, laboratoire d’électronique des systèmes et des applications numériques
+567|Article de BariToday sur l’application de demande d’aide conçue au Politecnico di Bari
+568|Reportage du TG Norba de 7.30 du 19 décembre 2024
+569|Page de La Gazzetta del Mezzogiorno sur le bracelet à intelligence artificielle conçu à Bari
+570|Peut-on les utiliser pour d’autres urgences ?
+571|Oui. La technologie no pAIn™ est née pour prévenir les violences de genre, mais son mécanisme, prévenir aussitôt des contacts de confiance avec la position, sert dans toute urgence où il est difficile de demander de l’aide à voix haute ou d’utiliser le téléphone.
+572|Demander de l’aide depuis votre smartphone ou votre montre connectée sans les manipuler : <span class="hl">c’est possible</span>, avec la technologie digital4help™ du projet no pAIn™.
+573|<strong>digital4help™</strong>, la nouvelle ère de la protection numérique : des laboratoires de recherche universitaire directement dans vos appareils.
+574|no pAIn™ met l’intelligence artificielle au service de la prévention : des outils numériques discrets qui vous protègent où que vous soyez et une application pour chaque appareil, avec des applications compagnon pour montres connectées.
+575|Téléchargez l’application pour votre appareil
+576|Touchez une image pour l’agrandir.
+577|<b data-no-i18n="">La Gazzetta del Mezzogiorno</b> · Article · août 2026
+578|Technologie pair-à-pair et intelligence artificielle hors ligne au service de la sécurité : l’article présente le projet no pAIn™, né au laboratoire ELEDIGILAB du Politecnico di Bari, et ses deux piliers, confidentialité totale et demande d’aide même sans toucher le téléphone.
+579|Voir sur Instagram ↗
+580|Affiche no pAIn project d'Agostino Giorgio, Politecnico di Bari : un bouclier avec une silhouette féminine, la liste des quatre applications (Proteggimi pour Android en italien, AI help You pour Android en 12 langues, AIuto SOS – watch4help pour montres connectées Wear OS, no pAIn pour iOS) et, en bas, une montre connectée avec la touche SOS, un smartphone avec l'application et le bouton button4help porté au cou.
+581|<strong>no pAIn™ project: Technology that protects life</strong>Le projet et ses applications sur une affiche, en anglais.

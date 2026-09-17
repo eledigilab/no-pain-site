@@ -480,3 +480,77 @@ mail.partnerBody|Hej,\njag vill gärna veta mer om projektet no pAIn™ och disk
 505|<strong>Ett tryck, hjälpen kommer i tid</strong>Knappen startar AI help You: livepositionen når en vän, som ringer polisen. Texterna i videon på engelska.
 506|<strong>I bilen, när man inte kan ta fram telefonen</strong>Bredvid en aggressiv man skulle varje rörelse mot mobilen märkas: det är då ett diskret tryck på button4help™ skickar hjälpbegäran. Spelad scen, i demonstrationssyfte.
 507|Integritetspolicy <span class="arr">↗</span>
+508|Skärmbilder
+509|Så ser appen ut.
+510|När du har godkänt användarvillkoren väljer du nödåtgärder i inställningarna och anger telefonnummer, chatt-ID:n i Telegram och hemliga nyckelord. Huvudsidan visar appens status och de aktiva nyckelorden.
+511|<strong>Huvudsidan</strong>Knapparna Starta och Stoppa, manuell hjälpbegäran, aktiva nyckelord och bakgrundstjänst.
+512|<strong>Nödåtgärderna</strong>Telegram, sms och samtal, med chatt-ID:n i Telegram och kontakternas nummer.
+513|<strong>De personliga nyckelorden</strong>Upp till 3 egna hemliga ord, utöver de 4 förinställda.
+514|Så ser iPhone-appen ut.
+515|På huvudsidan finns den stora knappen NÖDLÄGE. I inställningarna anger du chatt-ID:n i Telegram och nödnummer, väljer vilka åtgärder som ska skickas och gör ett första test för att se att allt fungerar.
+516|<strong>Huvudsidan</strong>Knappen NÖDLÄGE och påminnelsen om röstkommandot ”Hej Siri, Hjälp mig”.
+517|<strong>Inställningarna</strong>Kontakter, nödåtgärder, test av appen och sammanfattning innan du sparar.
+518|<strong>SOS från urtavlan</strong>Snabbknappen SOS på urtavlan startar nödläget med ett tryck.
+519|<strong>watch4help™</strong>Den bärbara tekniken mot våld i projektet no pAIn™.
+520|Redo
+521|Lyssnar
+522|Inställningar
+523|Huvudsidan i Proteggimi: status Redo, knapparna Starta och Stoppa, knappen no pAIn hjälpbegäran, aktiva nyckelord och bakgrundstjänst.
+524|Inställningar i Proteggimi: nödåtgärder (Telegram-meddelanden, sms, samtal), chatt-ID:n i Telegram och nödnummer.
+525|Inställningar i Proteggimi: förinställda nyckelord och tre egna nyckelord, med sammanfattning av åtgärderna och knappen Spara inställningar.
+526|Huvudsidan i no pAIn för iPhone: status Redo, röd knapp NÖDLÄGE för hjälpbegäran och påminnelse om röstkommandot ”Hej Siri, Hjälp mig”.
+527|Inställningar i no pAIn för iPhone: chatt-ID:n i Telegram, nödnummer, åtgärder (Telegram, sms, WhatsApp, samtal), knappen Testa appen och sammanfattning.
+528|Urtavla på en Wear OS-klocka med datum, tid och snabbknappen SOS längst ned.
+529|Logotypen WATCH4HELP: en smartklocka med handsignalen för att be om hjälp och texten Bärbar teknik mot våld, no pAIn project engineering.
+530|AI help App redo: grön knapp START och knapp för manuell hjälpbegäran.
+531|AI help App lyssnar efter nyckelord: röd knapp STOP.
+532|Inställningar i AI help App: åtgärderna Telegram, sms och samtal, med chatt-ID i Telegram.
+533|Val av språk i AI help App: italienska, engelska, franska, tyska, spanska, turkiska, grekiska, portugisiska, rumänska, polska, nederländska, svenska.
+534|<strong>Ingen GPS-spårare: en smart nödknapp</strong>Från projektets inlägg på Instagram. Affisch på engelska.
+535|<strong>Parkoppling i appen</strong>I AI help You visas knappen bland de anslutna enheterna, med namnet AIhelpButton, bredvid smartklockan.
+536|Affischen från Instagram-inlägget: button4help med AI help You, ”Not a GPS tracker. A smart emergency button.” En ung kvinna stoppar knappen i jeansfickan; nedanför stegen från larm till hjälp och egenskaperna: innovativ, diskret, lätt, bärbar, enkel att använda, alltid med dig.
+537|Inställningar i AI help You: personliga nyckelord, språk för röstigenkänning och anslutna enheter, med alternativen Smartwatch och AIhelpButton.
+538|På iPhone begränsas vissa funktioner av Apples regler: därför går röstkommandot via Siri, och sms, WhatsApp och samtal via genvägen ”Proteggimi”. Android-apparna erbjuder alla funktioner i den fullständiga versionen.
+539|Larmkanaler
+540|Allmänt
+541|Peer-to-peer-teknik: larmet går från din telefon direkt till dina betrodda kontakter, utan konto, inloggning eller eget moln. Principen om dataminimering gäller: utvecklaren uppger att inga personuppgifter samlas in eller lämnas ut till tredje part; inställningar och kontakter stannar på enheten.
+542|För att leverera larm och ta fram adressen används ändå de externa tjänster som appen förutsätter.
+543|Teknisk tillförlitlighet
+544|Larm levereras även med ojämn uppkoppling: skickas automatiskt igen så fort nätet är tillbaka
+545|Livepositionen återupptas automatiskt efter varje avbrott, till exempel en omstart eller systemoptimeringar
+546|Kontinuerlig drift i förgrunden, i bakgrunden och med skärmen avstängd, med statusen alltid synlig
+547|Guidad återaktivering efter omstarter och uppdateringar, så att inställningarna inte går förlorade
+548|Varje funktion kontrollerad med fälttester på riktiga mobiler och smartklockor
+549|Den faktiska funktionen beror på version, behörigheter, nät och enhet.
+550|Var det föddes
+551|Vid Politecnico di Bari.
+552|Projektet föddes vid institutionen för elektroteknik och informationsteknik vid Politecnico di Bari, i laboratoriet ELEDIGILAB för elektronik i digitala system och tillämpningar.
+553|I pressen
+554|De har skrivit om oss.
+555|Tidningar och tv-kanaler som har berättat om projektet no pAIn™.
+556|<b data-no-i18n="">BariToday</b> · Artikel · 3 mars 2026
+557|Läs artikeln ↗
+558|<b data-no-i18n="">TG Norba</b> · Tv-inslag · 19 december 2024
+559|Projektet no pAIn™ i nyhetssändningen kl. 7.30.
+560|<b data-no-i18n="">La Gazzetta del Mezzogiorno</b> · Video · 17 december 2023
+561|Se videon ↗
+562|<b data-no-i18n="">TVA · Acquedotto Pugliese</b> · Video
+563|Att förebygga könsrelaterat våld med artificiell intelligens: intervju med professor Agostino Giorgio.
+564|Logotypen för Politecnico di Bari
+565|Logotypen för institutionen för elektroteknik och informationsteknik vid Politecnico di Bari
+566|Logotypen för ELEDIGILAB, laboratoriet för elektronik i digitala system och tillämpningar
+567|BariTodays artikel om appen för att be om hjälp som skapats vid Politecnico di Bari
+568|TG Norbas inslag i sändningen kl. 7.30 den 19 december 2024
+569|Sida i La Gazzetta del Mezzogiorno om armbandet med artificiell intelligens som konstruerats i Bari
+570|Kan de användas även vid andra nödsituationer?
+571|Ja. no pAIn™-tekniken skapades för att förebygga könsrelaterat våld, men dess mekanism, att genast larma betrodda kontakter med din position, hjälper i varje nödsituation där det är svårt att be om hjälp högt eller använda telefonen.
+572|Be om hjälp från din mobil eller smartklocka utan att hantera dem: <span class="hl">det går</span>, med digital4help™-tekniken från projektet no pAIn™.
+573|<strong>digital4help™</strong>, den nya eran av digitalt skydd: från universitetens forskningslaboratorier direkt till dina enheter.
+574|no pAIn™ sätter artificiell intelligens i förebyggandets tjänst: diskreta digitala verktyg som skyddar dig var du än är och en app för varje enhet, med följeslagarappar för smartklockor.
+575|Ladda ned appen för din enhet
+576|Tryck på en bild för att förstora den.
+577|<b data-no-i18n="">La Gazzetta del Mezzogiorno</b> · Artikel · augusti 2026
+578|Peer-to-peer-teknik och offline-AI i säkerhetens tjänst: artikeln berättar om projektet no pAIn™, som föddes i laboratoriet ELEDIGILAB vid Politecnico di Bari, och dess två grundpelare, fullständig integritet och att be om hjälp utan att ens röra telefonen.
+579|Se på Instagram ↗
+580|Affischen no pAIn project av Agostino Giorgio, Politecnico di Bari: en sköld med en kvinnofigur, listan över de fyra apparna (Proteggimi för Android på italienska, AI help You för Android på 12 språk, AIuto SOS – watch4help för Wear OS-smartklockor, no pAIn för iOS) och längst ner en smartklocka med SOS-knappen, en smartphone med appen och button4help-knappen runt halsen.
+581|<strong>no pAIn™ project: Technology that protects life</strong>Projektet och dess appar på en affisch, på engelska.

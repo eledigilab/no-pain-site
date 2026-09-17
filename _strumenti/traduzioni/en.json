@@ -1891,6 +1891,302 @@
   "it": "Informativa sulla privacy <span class=\"arr\">↗</span>",
   "tr": "Privacy policy <span class=\"arr\">↗</span>"
  },
+ "ce7ee9e6": {
+  "it": "Le schermate",
+  "tr": "Screenshots"
+ },
+ "3de17e3d": {
+  "it": "Com’è fatta l’app.",
+  "tr": "What the app looks like."
+ },
+ "45f2c08e": {
+  "it": "Dopo aver accettato i termini d’uso, nelle impostazioni scegli le azioni di emergenza e inserisci numeri di telefono, chat ID Telegram e parole chiave segrete. La pagina principale mostra lo stato dell’app e le parole chiave attive.",
+  "tr": "After accepting the terms of use, in the settings you choose the emergency actions and enter phone numbers, Telegram chat IDs and secret keywords. The main page shows the app status and the active keywords."
+ },
+ "7c6bb79b": {
+  "it": "<strong>La pagina principale</strong>Tasti Avvia e Ferma, richiesta di aiuto manuale, parole chiave attive e servizio in background.",
+  "tr": "<strong>The main page</strong>Start and Stop buttons, manual help request, active keywords and background service."
+ },
+ "f6ea8e72": {
+  "it": "<strong>Le azioni di emergenza</strong>Telegram, SMS e chiamate, con i chat ID Telegram e i numeri dei contatti.",
+  "tr": "<strong>Emergency actions</strong>Telegram, SMS and calls, with the Telegram chat IDs and the contacts' numbers."
+ },
+ "29c36aa4": {
+  "it": "<strong>Le parole chiave personali</strong>Fino a 3 parole segrete tue, oltre alle 4 predefinite.",
+  "tr": "<strong>Personal keywords</strong>Up to 3 secret words of your own, on top of the 4 default ones."
+ },
+ "d3b2507b": {
+  "it": "Com’è fatta l’app per iPhone.",
+  "tr": "What the iPhone app looks like."
+ },
+ "1b25a43a": {
+  "it": "Nella pagina principale c’è il grande tasto EMERGENZA. Nella configurazione inserisci i chat ID Telegram e i numeri di emergenza, scegli le azioni da inviare e fai un test iniziale per verificare che tutto funzioni.",
+  "tr": "The main page has the big EMERGENCY button. In the setup you enter the Telegram chat IDs and emergency numbers, choose the actions to send and run an initial test to check that everything works."
+ },
+ "b3ebfaf8": {
+  "it": "<strong>La pagina principale</strong>Il tasto EMERGENZA e il promemoria del comando vocale “Ehi Siri, Proteggimi”.",
+  "tr": "<strong>The main page</strong>The EMERGENCY button and the reminder of the voice command “Hey Siri, Help me”."
+ },
+ "e553a9bb": {
+  "it": "<strong>La configurazione</strong>Contatti, azioni di emergenza, test dell’app e riepilogo prima di salvare.",
+  "tr": "<strong>The setup</strong>Contacts, emergency actions, app test and summary before saving."
+ },
+ "2c68e453": {
+  "it": "<strong>SOS dal quadrante</strong>Il tasto rapido SOS sul quadrante avvia l’emergenza con un tocco.",
+  "tr": "<strong>SOS from the watch face</strong>The SOS quick button on the watch face starts the emergency with one tap."
+ },
+ "d48236b5": {
+  "it": "<strong>watch4help™</strong>La tecnologia wearable contro la violenza del progetto no pAIn™.",
+  "tr": "<strong>watch4help™</strong>The wearable technology against violence of the no pAIn™ project."
+ },
+ "1b0de0b9": {
+  "it": "Pronta",
+  "tr": "Ready"
+ },
+ "08e95a8d": {
+  "it": "In ascolto",
+  "tr": "Listening"
+ },
+ "7e6340b7": {
+  "it": "Impostazioni",
+  "tr": "Settings"
+ },
+ "9c6c2bda": {
+  "it": "Pagina principale di Proteggimi: stato Pronto, tasti Avvia e Ferma, tasto no pAIn richiesta aiuto, parole chiave attive e servizio in background.",
+  "tr": "Proteggimi main page: Ready status, Start and Stop buttons, no pAIn help request button, active keywords and background service."
+ },
+ "262d96cd": {
+  "it": "Impostazioni di Proteggimi: azioni di emergenza (messaggi Telegram, SMS, chiamate), chat ID Telegram e numeri di emergenza.",
+  "tr": "Proteggimi settings: emergency actions (Telegram messages, SMS, calls), Telegram chat IDs and emergency numbers."
+ },
+ "894812fb": {
+  "it": "Impostazioni di Proteggimi: parole chiave predefinite e tre parole chiave personalizzate, con il riepilogo delle azioni e il tasto Salva configurazione.",
+  "tr": "Proteggimi settings: default keywords and three custom keywords, with the summary of actions and the Save configuration button."
+ },
+ "8a868eab": {
+  "it": "Pagina principale di no pAIn per iPhone: stato Pronto, tasto rosso EMERGENZA richiesta aiuto e promemoria del comando vocale “Ehi Siri, Proteggimi”.",
+  "tr": "Main page of no pAIn for iPhone: Ready status, red EMERGENCY help request button and reminder of the voice command “Hey Siri, Help me”."
+ },
+ "556a7a2b": {
+  "it": "Configurazione di no pAIn per iPhone: chat ID Telegram, numeri di emergenza, azioni (Telegram, SMS, WhatsApp, chiamata), tasto Testa l’app e riepilogo.",
+  "tr": "Setup of no pAIn for iPhone: Telegram chat IDs, emergency numbers, actions (Telegram, SMS, WhatsApp, call), Test the app button and summary."
+ },
+ "ad91d4f2": {
+  "it": "Quadrante di uno smartwatch Wear OS con la data, l’ora e il tasto rapido SOS in basso.",
+  "tr": "Wear OS smartwatch face with date, time and the SOS quick button at the bottom."
+ },
+ "a9610ee4": {
+  "it": "Logo WATCH4HELP: uno smartwatch con il segnale della mano per chiedere aiuto e la scritta Tecnologia wearable contro la violenza, no pAIn project engineering.",
+  "tr": "WATCH4HELP logo: a smartwatch showing the hand signal for help and the words Wearable technology against violence, no pAIn project engineering."
+ },
+ "42cbd69a": {
+  "it": "AI help App pronta: tasto verde START e tasto per la richiesta manuale di aiuto.",
+  "tr": "AI help App ready: green START button and button for a manual help request."
+ },
+ "19e9ae6d": {
+  "it": "AI help App in ascolto delle parole chiave: tasto rosso STOP.",
+  "tr": "AI help App listening for keywords: red STOP button."
+ },
+ "0a52fe0a": {
+  "it": "Impostazioni di AI help App: azioni Telegram, SMS e chiamate, con il chat ID Telegram.",
+  "tr": "AI help App settings: Telegram, SMS and call actions, with the Telegram chat ID."
+ },
+ "10c8acb9": {
+  "it": "Scelta della lingua in AI help App: italiano, inglese, francese, tedesco, spagnolo, turco, greco, portoghese, rumeno, polacco, olandese, svedese.",
+  "tr": "Language choice in AI help App: Italian, English, French, German, Spanish, Turkish, Greek, Portuguese, Romanian, Polish, Dutch, Swedish."
+ },
+ "3d4a6c8c": {
+  "it": "<strong>Non un localizzatore GPS: un pulsante di emergenza intelligente</strong>Dal post del progetto su Instagram. Locandina in inglese.",
+  "tr": "<strong>Not a GPS tracker: a smart emergency button</strong>From the project's Instagram post. Poster in English."
+ },
+ "24b6b3ba": {
+  "it": "<strong>L’abbinamento nell’app</strong>In AI help You il pulsante compare tra i dispositivi collegati, con il nome AIhelpButton, accanto allo smartwatch.",
+  "tr": "<strong>Pairing in the app</strong>In AI help You the button appears among the connected devices, named AIhelpButton, next to the smartwatch."
+ },
+ "11c053e9": {
+  "it": "Locandina del post Instagram: button4help con AI help You, “Not a GPS tracker. A smart emergency button.” Una ragazza infila il pulsante nella tasca dei jeans; sotto, le fasi dall’allerta all’aiuto e le caratteristiche: innovativo, discreto, leggero, indossabile, facile da usare, sempre con te.",
+  "tr": "Instagram post poster: button4help with AI help You, “Not a GPS tracker. A smart emergency button.” A young woman slips the button into her jeans pocket; below, the steps from alert to help and the features: innovative, discreet, lightweight, wearable, easy to use, always with you."
+ },
+ "619c6eed": {
+  "it": "Impostazioni di AI help You: parole chiave personali, lingua del riconoscimento vocale e dispositivi collegati, con le voci Smartwatch e AIhelpButton.",
+  "tr": "AI help You settings: personal keywords, speech recognition language and connected devices, with the Smartwatch and AIhelpButton options."
+ },
+ "b2747c39": {
+  "it": "Su iPhone alcune funzioni sono limitate dalle regole di Apple: per questo il comando vocale passa da Siri e SMS, WhatsApp e telefonate dal Comando Rapido “Proteggimi”. Le app per Android, nella versione completa, offrono tutte le funzionalità.",
+  "tr": "On iPhone some features are limited by Apple's rules: that is why the voice command goes through Siri, and SMS, WhatsApp and calls through the “Proteggimi” Shortcut. The Android apps, in their full version, offer all features."
+ },
+ "a1bb20b5": {
+  "it": "Canali di allerta",
+  "tr": "Alert channels"
+ },
+ "cb41e146": {
+  "it": "Generali",
+  "tr": "General"
+ },
+ "c58f75a9": {
+  "it": "Tecnologia peer-to-peer: l’allarme va dal tuo telefono direttamente ai contatti fidati, senza account, login o cloud proprietario. Vale il principio della minimizzazione dei dati: lo sviluppatore dichiara di non raccogliere dati personali e di non cederli a terzi; impostazioni e contatti restano sul dispositivo.",
+  "tr": "Peer-to-peer technology: the alarm goes from your phone straight to your trusted contacts, with no account, login or proprietary cloud. The data minimisation principle applies: the developer states that no personal data is collected or shared with third parties; settings and contacts stay on the device."
+ },
+ "9921d1e4": {
+  "it": "Per recapitare gli avvisi e ricavare l'indirizzo vengono comunque usati i servizi esterni previsti dall'app.",
+  "tr": "External services provided by the app are still used to deliver alerts and determine the address."
+ },
+ "b2834488": {
+  "it": "Affidabilità ingegneristica",
+  "tr": "Engineering reliability"
+ },
+ "836fee49": {
+  "it": "Avvisi consegnati anche con connessione intermittente: ritrasmissione automatica appena torna la rete",
+  "tr": "Alerts delivered even with intermittent connectivity: automatic resending as soon as the network returns"
+ },
+ "d7d25de1": {
+  "it": "Posizione live ripresa in automatico dopo qualunque interruzione, come un riavvio o le ottimizzazioni del sistema",
+  "tr": "Live location resumed automatically after any interruption, such as a restart or system optimisations"
+ },
+ "7524596c": {
+  "it": "Funzionamento continuo in primo piano, in background e a schermo spento, con lo stato sempre visibile",
+  "tr": "Continuous operation in the foreground, in the background and with the screen off, with the status always visible"
+ },
+ "62f11fc4": {
+  "it": "Riattivazione guidata dopo riavvii e aggiornamenti, per non perdere la configurazione",
+  "tr": "Guided reactivation after restarts and updates, so the setup is never lost"
+ },
+ "2b9522fb": {
+  "it": "Ogni funzione verificata con prove sul campo su smartphone e smartwatch reali",
+  "tr": "Every feature verified through field tests on real smartphones and smartwatches"
+ },
+ "bb65b708": {
+  "it": "L'effettivo funzionamento dipende da versione, permessi, rete e dispositivo.",
+  "tr": "Actual operation depends on version, permissions, network and device."
+ },
+ "511f1b57": {
+  "it": "Dove nasce",
+  "tr": "Where it was born"
+ },
+ "0435c16e": {
+  "it": "Al Politecnico di Bari.",
+  "tr": "At the Politecnico di Bari."
+ },
+ "e74a85f6": {
+  "it": "Il progetto nasce nel Dipartimento di Ingegneria Elettrica e dell’Informazione del Politecnico di Bari, nel laboratorio ELEDIGILAB di Elettronica dei Sistemi e delle applicazioni Digitali.",
+  "tr": "The project was born in the Department of Electrical and Information Engineering of the Politecnico di Bari, in the ELEDIGILAB laboratory of Electronics of Digital Systems and Applications."
+ },
+ "4d12ebb3": {
+  "it": "Rassegna stampa",
+  "tr": "Press coverage"
+ },
+ "1670b881": {
+  "it": "Ne hanno parlato.",
+  "tr": "They talked about it."
+ },
+ "df601df6": {
+  "it": "Giornali e televisioni che hanno raccontato il progetto no pAIn™.",
+  "tr": "Newspapers and TV channels that have covered the no pAIn™ project."
+ },
+ "c31fc764": {
+  "it": "<b data-no-i18n=\"\">BariToday</b> · Articolo · 3 marzo 2026",
+  "tr": "<b data-no-i18n=\"\">BariToday</b> · Article · 3 March 2026"
+ },
+ "575317a0": {
+  "it": "Leggi l’articolo ↗",
+  "tr": "Read the article ↗"
+ },
+ "f6f4fac5": {
+  "it": "<b data-no-i18n=\"\">TG Norba</b> · Servizio TV · 19 dicembre 2024",
+  "tr": "<b data-no-i18n=\"\">TG Norba</b> · TV report · 19 December 2024"
+ },
+ "18460cb8": {
+  "it": "Il progetto no pAIn™ nell’edizione delle 7.30 del telegiornale.",
+  "tr": "The no pAIn™ project in the 7.30 news bulletin."
+ },
+ "09daa6a4": {
+  "it": "<b data-no-i18n=\"\">La Gazzetta del Mezzogiorno</b> · Video · 17 dicembre 2023",
+  "tr": "<b data-no-i18n=\"\">La Gazzetta del Mezzogiorno</b> · Video · 17 December 2023"
+ },
+ "20935298": {
+  "it": "Guarda il video ↗",
+  "tr": "Watch the video ↗"
+ },
+ "0675c3d1": {
+  "it": "<b data-no-i18n=\"\">TVA · Acquedotto Pugliese</b> · Video",
+  "tr": "<b data-no-i18n=\"\">TVA · Acquedotto Pugliese</b> · Video"
+ },
+ "621dac6c": {
+  "it": "Prevenire la violenza di genere con l’intelligenza artificiale: intervista al Prof. Ing. Agostino Giorgio.",
+  "tr": "Preventing gender-based violence with artificial intelligence: interview with Prof. Eng. Agostino Giorgio."
+ },
+ "254427c5": {
+  "it": "Logo del Politecnico di Bari",
+  "tr": "Politecnico di Bari logo"
+ },
+ "f5f7be5d": {
+  "it": "Logo del Dipartimento di Ingegneria Elettrica e dell’Informazione del Politecnico di Bari",
+  "tr": "Logo of the Department of Electrical and Information Engineering of the Politecnico di Bari"
+ },
+ "58f28269": {
+  "it": "Logo di ELEDIGILAB, Laboratorio di Elettronica dei Sistemi e delle applicazioni Digitali",
+  "tr": "Logo of ELEDIGILAB, Laboratory of Electronics of Digital Systems and Applications"
+ },
+ "1a0633af": {
+  "it": "Articolo di BariToday sull’app per chiedere aiuto ideata al Politecnico di Bari",
+  "tr": "BariToday article about the help request app created at the Politecnico di Bari"
+ },
+ "80b9b002": {
+  "it": "Servizio del TG Norba delle 7.30 del 19 dicembre 2024",
+  "tr": "TG Norba report in the 7.30 bulletin of 19 December 2024"
+ },
+ "3f6cf252": {
+  "it": "Pagina della Gazzetta del Mezzogiorno sul braccialetto con l’intelligenza artificiale progettato a Bari",
+  "tr": "La Gazzetta del Mezzogiorno page about the AI bracelet designed in Bari"
+ },
+ "f725d49b": {
+  "it": "Si possono usare anche per altre emergenze?",
+  "tr": "Can they also be used for other emergencies?"
+ },
+ "157efbe0": {
+  "it": "Sì. La tecnologia no pAIn™ nasce per la prevenzione della violenza di genere, ma il suo meccanismo, cioè avvisare subito contatti fidati con la posizione, serve in qualsiasi emergenza in cui è difficile chiedere aiuto a voce o usare il telefono.",
+  "tr": "Yes. no pAIn™ technology was created to prevent gender-based violence, but its mechanism, immediately alerting trusted contacts with your location, is useful in any emergency where it is hard to ask for help out loud or use the phone."
+ },
+ "8d82b3b4": {
+  "it": "Chiedere aiuto dal tuo dispositivo smartphone o smartwatch senza manovrarli: <span class=\"hl\">si può</span>, con la tecnologia digital4help™ del progetto no pAIn™.",
+  "tr": "Asking for help from your smartphone or smartwatch without handling them: <span class=\"hl\">it's possible</span>, with the digital4help™ technology of the no pAIn™ project."
+ },
+ "9553e654": {
+  "it": "<strong>digital4help™</strong>, la nuova era della tutela digitale: dai laboratori di ricerca universitaria direttamente nei tuoi dispositivi.",
+  "tr": "<strong>digital4help™</strong>, the new era of digital protection: from university research labs straight into your devices."
+ },
+ "f6538135": {
+  "it": "no pAIn™ mette l'intelligenza artificiale al servizio della prevenzione: strumenti digitali discreti che ti proteggono ovunque tu sia e un'app per ogni dispositivo, con le app compagne per smartwatch.",
+  "tr": "no pAIn™ puts artificial intelligence at the service of prevention: discreet digital tools that protect you wherever you are and an app for every device, with companion apps for smartwatches."
+ },
+ "bb6d4b00": {
+  "it": "Scarica l'app per il tuo dispositivo",
+  "tr": "Download the app for your device"
+ },
+ "e707c2ce": {
+  "it": "Tocca un'immagine per ingrandirla.",
+  "tr": "Tap an image to enlarge it."
+ },
+ "3ecf4435": {
+  "it": "<b data-no-i18n=\"\">La Gazzetta del Mezzogiorno</b> · Articolo · agosto 2026",
+  "tr": "<b data-no-i18n=\"\">La Gazzetta del Mezzogiorno</b> · Article · August 2026"
+ },
+ "5c6b2a5a": {
+  "it": "Tecnologia peer-to-peer e intelligenza artificiale offline al servizio della sicurezza: l'articolo racconta il progetto no pAIn™, nato nel laboratorio ELEDIGILAB del Politecnico di Bari, e i suoi due pilastri, privacy totale e richiesta di aiuto anche senza toccare il telefono.",
+  "tr": "Peer-to-peer technology and offline artificial intelligence serving safety: the article tells the story of the no pAIn™ project, born in the ELEDIGILAB laboratory of the Politecnico di Bari, and its two pillars, total privacy and asking for help even without touching the phone."
+ },
+ "a4abfdce": {
+  "it": "Guarda su Instagram ↗",
+  "tr": "View on Instagram ↗"
+ },
+ "216c64d7": {
+  "it": "Locandina no pAIn project di Agostino Giorgio, Politecnico di Bari: uno scudo con una figura femminile, l'elenco delle quattro app (Proteggimi per Android in italiano, AI help You per Android in 12 lingue, AIuto SOS – watch4help per smartwatch Wear OS, no pAIn per iOS) e, in basso, uno smartwatch con il tasto SOS, uno smartphone con l'app e il pulsante button4help al collo.",
+  "tr": "no pAIn project poster by Agostino Giorgio, Politecnico di Bari: a shield with a female figure, the list of the four apps (Proteggimi for Android in Italian, AI help You for Android in 12 languages, AIuto SOS – watch4help for Wear OS smartwatches, no pAIn for iOS) and, at the bottom, a smartwatch with the SOS button, a smartphone with the app and the button4help pendant worn around the neck."
+ },
+ "d58be25c": {
+  "it": "<strong>no pAIn™ project: Technology that protects life</strong>Il progetto e le sue app in una locandina, in inglese.",
+  "tr": "<strong>no pAIn™ project: Technology that protects life</strong>The project and its apps in one poster, in English."
+ },
  "_ui": {
   "menu": "Menu",
   "close": "Close",

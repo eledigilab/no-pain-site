@@ -480,3 +480,77 @@ mail.partnerBody|Goedendag,\nik wil graag meer weten over het project no pAIn™
 505|<strong>Eén druk, de hulp komt op tijd</strong>De knop start AI help You: de live locatie bereikt een vriendin, die de politie belt. Teksten in de video in het Engels.
 506|<strong>In de auto, als je de telefoon niet kunt pakken</strong>Naast een agressieve man zou elke beweging naar de smartphone opvallen: dit is het moment waarop een onopvallende druk op button4help™ het hulpverzoek verstuurt. Gespeelde scène, ter demonstratie.
 507|Privacybeleid <span class="arr">↗</span>
+508|Schermafbeeldingen
+509|Zo ziet de app eruit.
+510|Nadat je de gebruiksvoorwaarden hebt geaccepteerd, kies je in de instellingen de noodacties en vul je telefoonnummers, Telegram-chat-ID’s en geheime trefwoorden in. De hoofdpagina toont de status van de app en de actieve trefwoorden.
+511|<strong>De hoofdpagina</strong>Knoppen Starten en Stoppen, handmatig hulpverzoek, actieve trefwoorden en achtergronddienst.
+512|<strong>De noodacties</strong>Telegram, sms en oproepen, met de Telegram-chat-ID’s en de nummers van de contacten.
+513|<strong>De persoonlijke trefwoorden</strong>Tot 3 eigen geheime woorden, naast de 4 standaardwoorden.
+514|Zo ziet de iPhone-app eruit.
+515|Op de hoofdpagina staat de grote NOOD-knop. In de instellingen vul je de Telegram-chat-ID’s en noodnummers in, kies je welke acties worden verstuurd en doe je een eerste test om te controleren of alles werkt.
+516|<strong>De hoofdpagina</strong>De NOOD-knop en de herinnering aan de spraakopdracht ‘Hey Siri, Help mij’.
+517|<strong>De instellingen</strong>Contacten, noodacties, test van de app en overzicht voor het opslaan.
+518|<strong>SOS vanaf de wijzerplaat</strong>De snelknop SOS op de wijzerplaat start de noodsituatie met één tik.
+519|<strong>watch4help™</strong>De draagbare technologie tegen geweld van het project no pAIn™.
+520|Klaar
+521|Luistert
+522|Instellingen
+523|Hoofdpagina van Proteggimi: status Klaar, knoppen Starten en Stoppen, knop no pAIn hulpverzoek, actieve trefwoorden en achtergronddienst.
+524|Instellingen van Proteggimi: noodacties (Telegram-berichten, sms, oproepen), Telegram-chat-ID’s en noodnummers.
+525|Instellingen van Proteggimi: standaardtrefwoorden en drie eigen trefwoorden, met het overzicht van de acties en de knop Configuratie opslaan.
+526|Hoofdpagina van no pAIn voor iPhone: status Klaar, rode NOOD-knop voor een hulpverzoek en herinnering aan de spraakopdracht ‘Hey Siri, Help mij’.
+527|Instellingen van no pAIn voor iPhone: Telegram-chat-ID’s, noodnummers, acties (Telegram, sms, WhatsApp, oproep), knop App testen en overzicht.
+528|Wijzerplaat van een Wear OS-smartwatch met datum, tijd en de snelknop SOS onderaan.
+529|Logo WATCH4HELP: een smartwatch met het handgebaar om hulp te vragen en de tekst Draagbare technologie tegen geweld, no pAIn project engineering.
+530|AI help App klaar: groene START-knop en knop voor een handmatig hulpverzoek.
+531|AI help App luistert naar trefwoorden: rode STOP-knop.
+532|Instellingen van AI help App: acties Telegram, sms en oproepen, met de Telegram-chat-ID.
+533|Taalkeuze in AI help App: Italiaans, Engels, Frans, Duits, Spaans, Turks, Grieks, Portugees, Roemeens, Pools, Nederlands, Zweeds.
+534|<strong>Geen gps-tracker: een slimme noodknop</strong>Uit het Instagram-bericht van het project. Affiche in het Engels.
+535|<strong>Koppelen in de app</strong>In AI help You verschijnt de knop tussen de verbonden apparaten, met de naam AIhelpButton, naast de smartwatch.
+536|Affiche van het Instagram-bericht: button4help met AI help You, ‘Not a GPS tracker. A smart emergency button.’ Een jonge vrouw steekt de knop in de zak van haar jeans; eronder de stappen van alarm naar hulp en de kenmerken: innovatief, onopvallend, licht, draagbaar, eenvoudig te gebruiken, altijd bij je.
+537|Instellingen van AI help You: persoonlijke trefwoorden, taal van de spraakherkenning en verbonden apparaten, met de opties Smartwatch en AIhelpButton.
+538|Op de iPhone worden sommige functies beperkt door de regels van Apple: daarom loopt de spraakopdracht via Siri en lopen sms, WhatsApp en oproepen via de opdracht ‘Proteggimi’. De Android-apps bieden in de volledige versie alle functies.
+539|Alarmkanalen
+540|Algemeen
+541|Peer-to-peer-technologie: het alarm gaat van je telefoon rechtstreeks naar je vertrouwde contacten, zonder account, login of eigen cloud. Het principe van dataminimalisatie geldt: de ontwikkelaar verklaart geen persoonsgegevens te verzamelen en niets aan derden te geven; instellingen en contacten blijven op het apparaat.
+542|Voor het afleveren van waarschuwingen en het bepalen van het adres worden wel de externe diensten gebruikt die de app voorziet.
+543|Technische betrouwbaarheid
+544|Waarschuwingen worden ook bij een haperende verbinding afgeleverd: automatisch opnieuw verstuurd zodra het netwerk terug is
+545|Live locatie wordt automatisch hervat na elke onderbreking, zoals een herstart of systeemoptimalisaties
+546|Doorlopende werking op de voorgrond, op de achtergrond en met het scherm uit, met de status altijd zichtbaar
+547|Begeleide heractivering na herstarts en updates, zodat de instellingen niet verloren gaan
+548|Elke functie gecontroleerd met praktijktests op echte smartphones en smartwatches
+549|De werkelijke werking hangt af van versie, toestemmingen, netwerk en apparaat.
+550|Waar het is ontstaan
+551|Aan het Politecnico di Bari.
+552|Het project is ontstaan aan de faculteit Elektrotechniek en Informatietechnologie van het Politecnico di Bari, in het laboratorium ELEDIGILAB voor elektronica van digitale systemen en toepassingen.
+553|In de pers
+554|Er is over geschreven.
+555|Kranten en tv-zenders die over het project no pAIn™ hebben bericht.
+556|<b data-no-i18n="">BariToday</b> · Artikel · 3 maart 2026
+557|Lees het artikel ↗
+558|<b data-no-i18n="">TG Norba</b> · Tv-reportage · 19 december 2024
+559|Het project no pAIn™ in het journaal van 7.30 uur.
+560|<b data-no-i18n="">La Gazzetta del Mezzogiorno</b> · Video · 17 december 2023
+561|Bekijk de video ↗
+562|<b data-no-i18n="">TVA · Acquedotto Pugliese</b> · Video
+563|Gendergerelateerd geweld voorkomen met kunstmatige intelligentie: interview met prof. ir. Agostino Giorgio.
+564|Logo van het Politecnico di Bari
+565|Logo van de faculteit Elektrotechniek en Informatietechnologie van het Politecnico di Bari
+566|Logo van ELEDIGILAB, laboratorium voor elektronica van digitale systemen en toepassingen
+567|Artikel van BariToday over de hulp-app die aan het Politecnico di Bari is ontwikkeld
+568|Reportage van TG Norba in het journaal van 7.30 uur op 19 december 2024
+569|Pagina van La Gazzetta del Mezzogiorno over de armband met kunstmatige intelligentie die in Bari is ontworpen
+570|Kunnen ze ook bij andere noodsituaties worden gebruikt?
+571|Ja. De no pAIn™-technologie is ontstaan om gendergerelateerd geweld te voorkomen, maar het mechanisme, vertrouwde contacten meteen waarschuwen met je locatie, helpt bij elke noodsituatie waarin het moeilijk is om hardop om hulp te vragen of de telefoon te gebruiken.
+572|Hulp vragen vanaf je smartphone of smartwatch zonder ze te bedienen: <span class="hl">het kan</span>, met de digital4help™-technologie van het project no pAIn™.
+573|<strong>digital4help™</strong>, het nieuwe tijdperk van digitale bescherming: van universitaire onderzoekslaboratoria rechtstreeks naar je apparaten.
+574|no pAIn™ zet kunstmatige intelligentie in voor preventie: onopvallende digitale hulpmiddelen die je beschermen waar je ook bent, en een app voor elk apparaat, met begeleidende apps voor smartwatches.
+575|Download de app voor je apparaat
+576|Tik op een afbeelding om te vergroten.
+577|<b data-no-i18n="">La Gazzetta del Mezzogiorno</b> · Artikel · augustus 2026
+578|Peer-to-peer-technologie en offline kunstmatige intelligentie in dienst van veiligheid: het artikel vertelt over het project no pAIn™, ontstaan in het laboratorium ELEDIGILAB van het Politecnico di Bari, en de twee pijlers: volledige privacy en hulp vragen zonder zelfs de telefoon aan te raken.
+579|Bekijk op Instagram ↗
+580|Poster no pAIn project van Agostino Giorgio, Politecnico di Bari: een schild met een vrouwenfiguur, de lijst van de vier apps (Proteggimi voor Android in het Italiaans, AI help You voor Android in 12 talen, AIuto SOS – watch4help voor Wear OS-smartwatches, no pAIn voor iOS) en onderaan een smartwatch met de SOS-knop, een smartphone met de app en de button4help-knop om de hals.
+581|<strong>no pAIn™ project: Technology that protects life</strong>Het project en zijn apps op één poster, in het Engels.

@@ -1895,6 +1895,302 @@
   "it": "Informativa sulla privacy <span class=\"arr\">↗</span>",
   "tr": "Gizlilik politikası <span class=\"arr\">↗</span>"
  },
+ "ce7ee9e6": {
+  "it": "Le schermate",
+  "tr": "Ekran görüntüleri"
+ },
+ "3de17e3d": {
+  "it": "Com’è fatta l’app.",
+  "tr": "Uygulama nasıl görünüyor."
+ },
+ "45f2c08e": {
+  "it": "Dopo aver accettato i termini d’uso, nelle impostazioni scegli le azioni di emergenza e inserisci numeri di telefono, chat ID Telegram e parole chiave segrete. La pagina principale mostra lo stato dell’app e le parole chiave attive.",
+  "tr": "Kullanım koşullarını kabul ettikten sonra ayarlarda acil durum eylemlerini seçer, telefon numaralarını, Telegram chat ID’lerini ve gizli anahtar kelimeleri girersiniz. Ana sayfa uygulamanın durumunu ve etkin anahtar kelimeleri gösterir."
+ },
+ "7c6bb79b": {
+  "it": "<strong>La pagina principale</strong>Tasti Avvia e Ferma, richiesta di aiuto manuale, parole chiave attive e servizio in background.",
+  "tr": "<strong>Ana sayfa</strong>Başlat ve Durdur düğmeleri, elle yardım talebi, etkin anahtar kelimeler ve arka plan hizmeti."
+ },
+ "f6ea8e72": {
+  "it": "<strong>Le azioni di emergenza</strong>Telegram, SMS e chiamate, con i chat ID Telegram e i numeri dei contatti.",
+  "tr": "<strong>Acil durum eylemleri</strong>Telegram, SMS ve aramalar; Telegram chat ID’leri ve kişilerin numaralarıyla."
+ },
+ "29c36aa4": {
+  "it": "<strong>Le parole chiave personali</strong>Fino a 3 parole segrete tue, oltre alle 4 predefinite.",
+  "tr": "<strong>Kişisel anahtar kelimeler</strong>4 varsayılan kelimeye ek olarak kendi belirlediğiniz en fazla 3 gizli kelime."
+ },
+ "d3b2507b": {
+  "it": "Com’è fatta l’app per iPhone.",
+  "tr": "iPhone uygulaması nasıl görünüyor."
+ },
+ "1b25a43a": {
+  "it": "Nella pagina principale c’è il grande tasto EMERGENZA. Nella configurazione inserisci i chat ID Telegram e i numeri di emergenza, scegli le azioni da inviare e fai un test iniziale per verificare che tutto funzioni.",
+  "tr": "Ana sayfada büyük ACİL DURUM düğmesi bulunur. Kurulumda Telegram chat ID’lerini ve acil durum numaralarını girer, gönderilecek eylemleri seçer ve her şeyin çalıştığını doğrulamak için ilk testi yaparsınız."
+ },
+ "b3ebfaf8": {
+  "it": "<strong>La pagina principale</strong>Il tasto EMERGENZA e il promemoria del comando vocale “Ehi Siri, Proteggimi”.",
+  "tr": "<strong>Ana sayfa</strong>ACİL DURUM düğmesi ve “Hey Siri, Bana yardım et” sesli komutunun hatırlatması."
+ },
+ "e553a9bb": {
+  "it": "<strong>La configurazione</strong>Contatti, azioni di emergenza, test dell’app e riepilogo prima di salvare.",
+  "tr": "<strong>Kurulum</strong>Kişiler, acil durum eylemleri, uygulama testi ve kaydetmeden önce özet."
+ },
+ "2c68e453": {
+  "it": "<strong>SOS dal quadrante</strong>Il tasto rapido SOS sul quadrante avvia l’emergenza con un tocco.",
+  "tr": "<strong>Kadrandan SOS</strong>Kadrandaki SOS hızlı düğmesi tek dokunuşla acil durumu başlatır."
+ },
+ "d48236b5": {
+  "it": "<strong>watch4help™</strong>La tecnologia wearable contro la violenza del progetto no pAIn™.",
+  "tr": "<strong>watch4help™</strong>no pAIn™ projesinin şiddete karşı giyilebilir teknolojisi."
+ },
+ "1b0de0b9": {
+  "it": "Pronta",
+  "tr": "Hazır"
+ },
+ "08e95a8d": {
+  "it": "In ascolto",
+  "tr": "Dinliyor"
+ },
+ "7e6340b7": {
+  "it": "Impostazioni",
+  "tr": "Ayarlar"
+ },
+ "9c6c2bda": {
+  "it": "Pagina principale di Proteggimi: stato Pronto, tasti Avvia e Ferma, tasto no pAIn richiesta aiuto, parole chiave attive e servizio in background.",
+  "tr": "Proteggimi ana sayfası: Hazır durumu, Başlat ve Durdur düğmeleri, no pAIn yardım talebi düğmesi, etkin anahtar kelimeler ve arka plan hizmeti."
+ },
+ "262d96cd": {
+  "it": "Impostazioni di Proteggimi: azioni di emergenza (messaggi Telegram, SMS, chiamate), chat ID Telegram e numeri di emergenza.",
+  "tr": "Proteggimi ayarları: acil durum eylemleri (Telegram mesajları, SMS, aramalar), Telegram chat ID’leri ve acil durum numaraları."
+ },
+ "894812fb": {
+  "it": "Impostazioni di Proteggimi: parole chiave predefinite e tre parole chiave personalizzate, con il riepilogo delle azioni e il tasto Salva configurazione.",
+  "tr": "Proteggimi ayarları: varsayılan anahtar kelimeler ve üç özel anahtar kelime; eylem özeti ve Yapılandırmayı kaydet düğmesi."
+ },
+ "8a868eab": {
+  "it": "Pagina principale di no pAIn per iPhone: stato Pronto, tasto rosso EMERGENZA richiesta aiuto e promemoria del comando vocale “Ehi Siri, Proteggimi”.",
+  "tr": "iPhone için no pAIn ana sayfası: Hazır durumu, kırmızı ACİL DURUM yardım talebi düğmesi ve “Hey Siri, Bana yardım et” sesli komutunun hatırlatması."
+ },
+ "556a7a2b": {
+  "it": "Configurazione di no pAIn per iPhone: chat ID Telegram, numeri di emergenza, azioni (Telegram, SMS, WhatsApp, chiamata), tasto Testa l’app e riepilogo.",
+  "tr": "iPhone için no pAIn kurulumu: Telegram chat ID’leri, acil durum numaraları, eylemler (Telegram, SMS, WhatsApp, arama), Uygulamayı test et düğmesi ve özet."
+ },
+ "ad91d4f2": {
+  "it": "Quadrante di uno smartwatch Wear OS con la data, l’ora e il tasto rapido SOS in basso.",
+  "tr": "Tarih, saat ve altta SOS hızlı düğmesi bulunan bir Wear OS akıllı saat kadranı."
+ },
+ "a9610ee4": {
+  "it": "Logo WATCH4HELP: uno smartwatch con il segnale della mano per chiedere aiuto e la scritta Tecnologia wearable contro la violenza, no pAIn project engineering.",
+  "tr": "WATCH4HELP logosu: yardım isteme el işaretini gösteren bir akıllı saat ve Şiddete karşı giyilebilir teknoloji, no pAIn project engineering yazısı."
+ },
+ "42cbd69a": {
+  "it": "AI help App pronta: tasto verde START e tasto per la richiesta manuale di aiuto.",
+  "tr": "AI help App hazır: yeşil START düğmesi ve elle yardım talebi düğmesi."
+ },
+ "19e9ae6d": {
+  "it": "AI help App in ascolto delle parole chiave: tasto rosso STOP.",
+  "tr": "AI help App anahtar kelimeleri dinliyor: kırmızı STOP düğmesi."
+ },
+ "0a52fe0a": {
+  "it": "Impostazioni di AI help App: azioni Telegram, SMS e chiamate, con il chat ID Telegram.",
+  "tr": "AI help App ayarları: Telegram, SMS ve arama eylemleri, Telegram chat ID’siyle."
+ },
+ "10c8acb9": {
+  "it": "Scelta della lingua in AI help App: italiano, inglese, francese, tedesco, spagnolo, turco, greco, portoghese, rumeno, polacco, olandese, svedese.",
+  "tr": "AI help App’te dil seçimi: İtalyanca, İngilizce, Fransızca, Almanca, İspanyolca, Türkçe, Yunanca, Portekizce, Rumence, Lehçe, Felemenkçe, İsveççe."
+ },
+ "3d4a6c8c": {
+  "it": "<strong>Non un localizzatore GPS: un pulsante di emergenza intelligente</strong>Dal post del progetto su Instagram. Locandina in inglese.",
+  "tr": "<strong>GPS takip cihazı değil: akıllı bir acil durum düğmesi</strong>Projenin Instagram gönderisinden. Afiş İngilizcedir."
+ },
+ "24b6b3ba": {
+  "it": "<strong>L’abbinamento nell’app</strong>In AI help You il pulsante compare tra i dispositivi collegati, con il nome AIhelpButton, accanto allo smartwatch.",
+  "tr": "<strong>Uygulamada eşleştirme</strong>AI help You’da düğme, bağlı cihazlar arasında akıllı saatin yanında AIhelpButton adıyla görünür."
+ },
+ "11c053e9": {
+  "it": "Locandina del post Instagram: button4help con AI help You, “Not a GPS tracker. A smart emergency button.” Una ragazza infila il pulsante nella tasca dei jeans; sotto, le fasi dall’allerta all’aiuto e le caratteristiche: innovativo, discreto, leggero, indossabile, facile da usare, sempre con te.",
+  "tr": "Instagram gönderisinin afişi: AI help You ile button4help, “Not a GPS tracker. A smart emergency button.” Genç bir kadın düğmeyi kot pantolonunun cebine koyuyor; altta uyarıdan yardıma adımlar ve özellikler: yenilikçi, fark edilmeyen, hafif, giyilebilir, kullanımı kolay, hep yanınızda."
+ },
+ "619c6eed": {
+  "it": "Impostazioni di AI help You: parole chiave personali, lingua del riconoscimento vocale e dispositivi collegati, con le voci Smartwatch e AIhelpButton.",
+  "tr": "AI help You ayarları: kişisel anahtar kelimeler, ses tanıma dili ve Smartwatch ile AIhelpButton seçenekleriyle bağlı cihazlar."
+ },
+ "b2747c39": {
+  "it": "Su iPhone alcune funzioni sono limitate dalle regole di Apple: per questo il comando vocale passa da Siri e SMS, WhatsApp e telefonate dal Comando Rapido “Proteggimi”. Le app per Android, nella versione completa, offrono tutte le funzionalità.",
+  "tr": "iPhone’da bazı işlevler Apple’ın kurallarıyla sınırlıdır: bu yüzden sesli komut Siri üzerinden, SMS, WhatsApp ve aramalar “Proteggimi” Kestirmesi üzerinden çalışır. Android uygulamaları tam sürümde tüm işlevleri sunar."
+ },
+ "a1bb20b5": {
+  "it": "Canali di allerta",
+  "tr": "Uyarı kanalları"
+ },
+ "cb41e146": {
+  "it": "Generali",
+  "tr": "Genel"
+ },
+ "c58f75a9": {
+  "it": "Tecnologia peer-to-peer: l’allarme va dal tuo telefono direttamente ai contatti fidati, senza account, login o cloud proprietario. Vale il principio della minimizzazione dei dati: lo sviluppatore dichiara di non raccogliere dati personali e di non cederli a terzi; impostazioni e contatti restano sul dispositivo.",
+  "tr": "Eşler arası (peer-to-peer) teknoloji: alarm hesap, oturum açma veya özel bulut olmadan telefonunuzdan doğrudan güvendiğiniz kişilere gider. Veri minimizasyonu ilkesi geçerlidir: geliştirici kişisel veri toplamadığını ve üçüncü taraflara aktarmadığını beyan eder; ayarlar ve kişiler cihazda kalır."
+ },
+ "9921d1e4": {
+  "it": "Per recapitare gli avvisi e ricavare l'indirizzo vengono comunque usati i servizi esterni previsti dall'app.",
+  "tr": "Uyarıları iletmek ve adresi belirlemek için yine de uygulamanın öngördüğü harici hizmetler kullanılır."
+ },
+ "b2834488": {
+  "it": "Affidabilità ingegneristica",
+  "tr": "Mühendislik güvenilirliği"
+ },
+ "836fee49": {
+  "it": "Avvisi consegnati anche con connessione intermittente: ritrasmissione automatica appena torna la rete",
+  "tr": "Kesintili bağlantıda bile teslim edilen uyarılar: şebeke geri gelir gelmez otomatik yeniden gönderim"
+ },
+ "d7d25de1": {
+  "it": "Posizione live ripresa in automatico dopo qualunque interruzione, come un riavvio o le ottimizzazioni del sistema",
+  "tr": "Yeniden başlatma veya sistem optimizasyonları gibi her kesintiden sonra canlı konumun otomatik devam etmesi"
+ },
+ "7524596c": {
+  "it": "Funzionamento continuo in primo piano, in background e a schermo spento, con lo stato sempre visibile",
+  "tr": "Ön planda, arka planda ve ekran kapalıyken kesintisiz çalışma; durum her zaman görünür"
+ },
+ "62f11fc4": {
+  "it": "Riattivazione guidata dopo riavvii e aggiornamenti, per non perdere la configurazione",
+  "tr": "Yeniden başlatma ve güncellemelerden sonra kurulumun kaybolmaması için rehberli yeniden etkinleştirme"
+ },
+ "2b9522fb": {
+  "it": "Ogni funzione verificata con prove sul campo su smartphone e smartwatch reali",
+  "tr": "Her işlev gerçek akıllı telefon ve akıllı saatlerde saha testleriyle doğrulandı"
+ },
+ "bb65b708": {
+  "it": "L'effettivo funzionamento dipende da versione, permessi, rete e dispositivo.",
+  "tr": "Gerçek işleyiş sürüme, izinlere, şebekeye ve cihaza bağlıdır."
+ },
+ "511f1b57": {
+  "it": "Dove nasce",
+  "tr": "Nerede doğdu"
+ },
+ "0435c16e": {
+  "it": "Al Politecnico di Bari.",
+  "tr": "Politecnico di Bari’de."
+ },
+ "e74a85f6": {
+  "it": "Il progetto nasce nel Dipartimento di Ingegneria Elettrica e dell’Informazione del Politecnico di Bari, nel laboratorio ELEDIGILAB di Elettronica dei Sistemi e delle applicazioni Digitali.",
+  "tr": "Proje, Politecnico di Bari Elektrik ve Bilişim Mühendisliği Bölümü’nde, Dijital Sistemler ve Uygulamalar Elektroniği laboratuvarı ELEDIGILAB’de doğdu."
+ },
+ "4d12ebb3": {
+  "it": "Rassegna stampa",
+  "tr": "Basında"
+ },
+ "1670b881": {
+  "it": "Ne hanno parlato.",
+  "tr": "Hakkında konuştular."
+ },
+ "df601df6": {
+  "it": "Giornali e televisioni che hanno raccontato il progetto no pAIn™.",
+  "tr": "no pAIn™ projesini anlatan gazeteler ve televizyonlar."
+ },
+ "c31fc764": {
+  "it": "<b data-no-i18n=\"\">BariToday</b> · Articolo · 3 marzo 2026",
+  "tr": "<b data-no-i18n=\"\">BariToday</b> · Makale · 3 Mart 2026"
+ },
+ "575317a0": {
+  "it": "Leggi l’articolo ↗",
+  "tr": "Makaleyi okuyun ↗"
+ },
+ "f6f4fac5": {
+  "it": "<b data-no-i18n=\"\">TG Norba</b> · Servizio TV · 19 dicembre 2024",
+  "tr": "<b data-no-i18n=\"\">TG Norba</b> · TV haberi · 19 Aralık 2024"
+ },
+ "18460cb8": {
+  "it": "Il progetto no pAIn™ nell’edizione delle 7.30 del telegiornale.",
+  "tr": "Saat 7.30 haber bülteninde no pAIn™ projesi."
+ },
+ "09daa6a4": {
+  "it": "<b data-no-i18n=\"\">La Gazzetta del Mezzogiorno</b> · Video · 17 dicembre 2023",
+  "tr": "<b data-no-i18n=\"\">La Gazzetta del Mezzogiorno</b> · Video · 17 Aralık 2023"
+ },
+ "20935298": {
+  "it": "Guarda il video ↗",
+  "tr": "Videoyu izleyin ↗"
+ },
+ "0675c3d1": {
+  "it": "<b data-no-i18n=\"\">TVA · Acquedotto Pugliese</b> · Video",
+  "tr": "<b data-no-i18n=\"\">TVA · Acquedotto Pugliese</b> · Video"
+ },
+ "621dac6c": {
+  "it": "Prevenire la violenza di genere con l’intelligenza artificiale: intervista al Prof. Ing. Agostino Giorgio.",
+  "tr": "Toplumsal cinsiyete dayalı şiddeti yapay zekâ ile önlemek: Prof. Müh. Agostino Giorgio ile söyleşi."
+ },
+ "254427c5": {
+  "it": "Logo del Politecnico di Bari",
+  "tr": "Politecnico di Bari logosu"
+ },
+ "f5f7be5d": {
+  "it": "Logo del Dipartimento di Ingegneria Elettrica e dell’Informazione del Politecnico di Bari",
+  "tr": "Politecnico di Bari Elektrik ve Bilişim Mühendisliği Bölümü logosu"
+ },
+ "58f28269": {
+  "it": "Logo di ELEDIGILAB, Laboratorio di Elettronica dei Sistemi e delle applicazioni Digitali",
+  "tr": "ELEDIGILAB logosu, Dijital Sistemler ve Uygulamalar Elektroniği Laboratuvarı"
+ },
+ "1a0633af": {
+  "it": "Articolo di BariToday sull’app per chiedere aiuto ideata al Politecnico di Bari",
+  "tr": "Politecnico di Bari’de geliştirilen yardım isteme uygulaması hakkında BariToday makalesi"
+ },
+ "80b9b002": {
+  "it": "Servizio del TG Norba delle 7.30 del 19 dicembre 2024",
+  "tr": "19 Aralık 2024 tarihli saat 7.30 bülteninde TG Norba haberi"
+ },
+ "3f6cf252": {
+  "it": "Pagina della Gazzetta del Mezzogiorno sul braccialetto con l’intelligenza artificiale progettato a Bari",
+  "tr": "Bari’de tasarlanan yapay zekâlı bileklik hakkında La Gazzetta del Mezzogiorno sayfası"
+ },
+ "f725d49b": {
+  "it": "Si possono usare anche per altre emergenze?",
+  "tr": "Başka acil durumlarda da kullanılabilir mi?"
+ },
+ "157efbe0": {
+  "it": "Sì. La tecnologia no pAIn™ nasce per la prevenzione della violenza di genere, ma il suo meccanismo, cioè avvisare subito contatti fidati con la posizione, serve in qualsiasi emergenza in cui è difficile chiedere aiuto a voce o usare il telefono.",
+  "tr": "Evet. no pAIn™ teknolojisi toplumsal cinsiyete dayalı şiddeti önlemek için doğdu; ancak mekanizması, yani güvenilir kişileri konumla birlikte hemen uyarmak, yüksek sesle yardım istemenin veya telefonu kullanmanın zor olduğu her acil durumda işe yarar."
+ },
+ "8d82b3b4": {
+  "it": "Chiedere aiuto dal tuo dispositivo smartphone o smartwatch senza manovrarli: <span class=\"hl\">si può</span>, con la tecnologia digital4help™ del progetto no pAIn™.",
+  "tr": "Akıllı telefonunuzdan veya akıllı saatinizden, onları kullanmanıza gerek kalmadan yardım istemek: <span class=\"hl\">mümkün</span>, no pAIn™ projesinin digital4help™ teknolojisiyle."
+ },
+ "9553e654": {
+  "it": "<strong>digital4help™</strong>, la nuova era della tutela digitale: dai laboratori di ricerca universitaria direttamente nei tuoi dispositivi.",
+  "tr": "<strong>digital4help™</strong>, dijital korumanın yeni çağı: üniversite araştırma laboratuvarlarından doğrudan cihazlarınıza."
+ },
+ "f6538135": {
+  "it": "no pAIn™ mette l'intelligenza artificiale al servizio della prevenzione: strumenti digitali discreti che ti proteggono ovunque tu sia e un'app per ogni dispositivo, con le app compagne per smartwatch.",
+  "tr": "no pAIn™ yapay zekâyı önlemenin hizmetine sunar: nerede olursanız olun sizi koruyan fark edilmeyen dijital araçlar ve akıllı saatler için yardımcı uygulamalarla her cihaza bir uygulama."
+ },
+ "bb6d4b00": {
+  "it": "Scarica l'app per il tuo dispositivo",
+  "tr": "Cihazınız için uygulamayı indirin"
+ },
+ "e707c2ce": {
+  "it": "Tocca un'immagine per ingrandirla.",
+  "tr": "Büyütmek için bir görsele dokunun."
+ },
+ "3ecf4435": {
+  "it": "<b data-no-i18n=\"\">La Gazzetta del Mezzogiorno</b> · Articolo · agosto 2026",
+  "tr": "<b data-no-i18n=\"\">La Gazzetta del Mezzogiorno</b> · Makale · Ağustos 2026"
+ },
+ "5c6b2a5a": {
+  "it": "Tecnologia peer-to-peer e intelligenza artificiale offline al servizio della sicurezza: l'articolo racconta il progetto no pAIn™, nato nel laboratorio ELEDIGILAB del Politecnico di Bari, e i suoi due pilastri, privacy totale e richiesta di aiuto anche senza toccare il telefono.",
+  "tr": "Güvenliğin hizmetinde eşler arası teknoloji ve çevrimdışı yapay zekâ: makale, Politecnico di Bari’nin ELEDIGILAB laboratuvarında doğan no pAIn™ projesini ve iki temelini anlatıyor: tam gizlilik ve telefona dokunmadan bile yardım isteme."
+ },
+ "a4abfdce": {
+  "it": "Guarda su Instagram ↗",
+  "tr": "Instagram’da görün ↗"
+ },
+ "216c64d7": {
+  "it": "Locandina no pAIn project di Agostino Giorgio, Politecnico di Bari: uno scudo con una figura femminile, l'elenco delle quattro app (Proteggimi per Android in italiano, AI help You per Android in 12 lingue, AIuto SOS – watch4help per smartwatch Wear OS, no pAIn per iOS) e, in basso, uno smartwatch con il tasto SOS, uno smartphone con l'app e il pulsante button4help al collo.",
+  "tr": "Agostino Giorgio, Politecnico di Bari imzalı no pAIn project afişi: kadın figürlü bir kalkan, dört uygulamanın listesi (İtalyanca Android için Proteggimi, 12 dilde Android için AI help You, Wear OS akıllı saatler için AIuto SOS – watch4help, iOS için no pAIn) ve altta SOS tuşlu bir akıllı saat, uygulamanın açık olduğu bir akıllı telefon ve boyuna takılan button4help düğmesi."
+ },
+ "d58be25c": {
+  "it": "<strong>no pAIn™ project: Technology that protects life</strong>Il progetto e le sue app in una locandina, in inglese.",
+  "tr": "<strong>no pAIn™ project: Technology that protects life</strong>Proje ve uygulamaları tek bir afişte, İngilizce."
+ },
  "_ui": {
   "menu": "Menü",
   "close": "Kapat",

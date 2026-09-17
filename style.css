@@ -602,3 +602,60 @@ section[id], [id].media-wall { scroll-margin-top: 80px; }
 @media (max-width: 900px) {
   .product .wrap.media-wall, .product .wrap.cinema-block { grid-template-columns: 1fr; }
 }
+
+/* ---------- immagini quadrate nelle gallerie ---------- */
+.media.square .frame-media { aspect-ratio: 1 / 1; }
+
+/* ---------- miniature dentro una scheda (AI help App) ---------- */
+.mini-shots { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; margin-block: 6px 4px; }
+.mini-shots .media { gap: 6px; }
+.mini-shots .media .frame-media { border-radius: 10px; }
+.mini-shots .media .frame-media img { border-radius: 10px; }
+.mini-shots .media a.zoom::after { width: 26px; height: 26px; right: 6px; bottom: 6px; background-size: 12px; }
+.mini-shots figcaption { font-size: .78rem; text-align: center; }
+@media (max-width: 460px) { .mini-shots { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+
+/* ---------- loghi delle istituzioni ---------- */
+.logo-strip { display: grid; grid-template-columns: 1fr 1.6fr; gap: 14px; align-items: center; }
+.logo-strip img { display: block; width: 100%; height: auto; background: #fff; border-radius: 14px; padding: 14px 18px; object-fit: contain; }
+.logo-strip img:first-child { grid-row: span 2; max-width: 200px; justify-self: center; padding: 10px; }
+
+/* ---------- rassegna stampa ---------- */
+.press { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+.press-item h3 { font-size: 1.15rem; line-height: 1.25; }
+.press-item .meta b { color: var(--text); font-weight: 700; letter-spacing: 0; text-transform: none; }
+.press-thumb { display: block; border-radius: 12px; overflow: hidden; border: 1px solid var(--line); aspect-ratio: 16 / 9; background: #fff; }
+.press-thumb img { display: block; width: 100%; height: 100%; object-fit: cover; object-position: top; transition: transform .25s ease; }
+a.press-thumb:hover img { transform: scale(1.03); }
+@media (max-width: 760px) { .press { grid-template-columns: 1fr; } }
+
+/* ---------- gruppi nella tabella di confronto ---------- */
+.cmp tr.group th { text-align: left; font-family: var(--f-mono); font-size: .74rem; letter-spacing: .12em; text-transform: uppercase; color: var(--violet); background: rgba(3, 12, 70, .55); padding-block: 10px; }
+.cmp tr.group:hover { background: transparent; }
+
+/* ==========================================================
+   17/09/2026 — gallerie a griglia (nessuna immagine tagliata), apertura della home
+   ========================================================== */
+.media-track {
+  grid-auto-flow: row; grid-auto-columns: auto;
+  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+  overflow: visible; scroll-snap-type: none; padding-bottom: 0; gap: 26px 16px; align-items: start;
+}
+@media (max-width: 560px) { .media-track { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px 12px; } }
+
+.hero h1.h1-long { font-size: clamp(2rem, 4.2vw, 3.5rem); line-height: 1.08; }
+.hero .claim { font-family: var(--f-display); font-size: clamp(1.2rem, 2.1vw, 1.55rem); line-height: 1.3; font-weight: 500; color: var(--text); max-width: 36ch; }
+.hero .claim strong { color: var(--signal); }
+.hero .hero-poster { width: 100%; max-width: 400px; justify-self: center; }
+.hero .hero-poster .frame-media { aspect-ratio: 832 / 1270; box-shadow: 0 30px 80px -30px rgba(0, 0, 0, .8), 0 0 80px rgba(183, 38, 207, .35); }
+
+.checks.app-links li { display: block; position: relative; padding-left: 30px; color: var(--muted); }
+.checks.app-links li::before { position: absolute; left: 0; top: 0; }
+
+.press-quote { border-color: var(--signal); background: var(--ink-3); }
+
+/* home: locandina "no pAIn project" nella sezione in sintesi */
+.split2.sintesi { align-items: center; }
+.sintesi-poster { width: 100%; max-width: 440px; justify-self: center; }
+.sintesi-poster .frame-media { aspect-ratio: 928 / 1152; box-shadow: 0 30px 80px -30px rgba(0, 0, 0, .8), 0 0 70px rgba(183, 38, 207, .3); }
+@media (max-width: 900px) { .sintesi-poster { max-width: 400px; } }

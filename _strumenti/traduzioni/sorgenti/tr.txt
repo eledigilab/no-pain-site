@@ -480,3 +480,77 @@ mail.partnerBody|Merhaba,\nno pAIn™ projesi hakkında daha fazla bilgi almak v
 505|<strong>Tek basış, yardım zamanında gelir</strong>Düğme AI help You uygulamasını başlatır: canlı konum bir arkadaşa ulaşır, o da polisi arar. Videodaki yazılar İngilizce.
 506|<strong>Arabada, telefonu almak imkânsızken</strong>Saldırgan bir adamın yanında akıllı telefona yönelik her hareket fark edilir: işte bu an button4help™ düğmesine fark edilmeden basmak yardım talebini gönderir. Kurgusal sahne, tanıtım amaçlıdır.
 507|Gizlilik politikası <span class="arr">↗</span>
+508|Ekran görüntüleri
+509|Uygulama nasıl görünüyor.
+510|Kullanım koşullarını kabul ettikten sonra ayarlarda acil durum eylemlerini seçer, telefon numaralarını, Telegram chat ID’lerini ve gizli anahtar kelimeleri girersiniz. Ana sayfa uygulamanın durumunu ve etkin anahtar kelimeleri gösterir.
+511|<strong>Ana sayfa</strong>Başlat ve Durdur düğmeleri, elle yardım talebi, etkin anahtar kelimeler ve arka plan hizmeti.
+512|<strong>Acil durum eylemleri</strong>Telegram, SMS ve aramalar; Telegram chat ID’leri ve kişilerin numaralarıyla.
+513|<strong>Kişisel anahtar kelimeler</strong>4 varsayılan kelimeye ek olarak kendi belirlediğiniz en fazla 3 gizli kelime.
+514|iPhone uygulaması nasıl görünüyor.
+515|Ana sayfada büyük ACİL DURUM düğmesi bulunur. Kurulumda Telegram chat ID’lerini ve acil durum numaralarını girer, gönderilecek eylemleri seçer ve her şeyin çalıştığını doğrulamak için ilk testi yaparsınız.
+516|<strong>Ana sayfa</strong>ACİL DURUM düğmesi ve “Hey Siri, Bana yardım et” sesli komutunun hatırlatması.
+517|<strong>Kurulum</strong>Kişiler, acil durum eylemleri, uygulama testi ve kaydetmeden önce özet.
+518|<strong>Kadrandan SOS</strong>Kadrandaki SOS hızlı düğmesi tek dokunuşla acil durumu başlatır.
+519|<strong>watch4help™</strong>no pAIn™ projesinin şiddete karşı giyilebilir teknolojisi.
+520|Hazır
+521|Dinliyor
+522|Ayarlar
+523|Proteggimi ana sayfası: Hazır durumu, Başlat ve Durdur düğmeleri, no pAIn yardım talebi düğmesi, etkin anahtar kelimeler ve arka plan hizmeti.
+524|Proteggimi ayarları: acil durum eylemleri (Telegram mesajları, SMS, aramalar), Telegram chat ID’leri ve acil durum numaraları.
+525|Proteggimi ayarları: varsayılan anahtar kelimeler ve üç özel anahtar kelime; eylem özeti ve Yapılandırmayı kaydet düğmesi.
+526|iPhone için no pAIn ana sayfası: Hazır durumu, kırmızı ACİL DURUM yardım talebi düğmesi ve “Hey Siri, Bana yardım et” sesli komutunun hatırlatması.
+527|iPhone için no pAIn kurulumu: Telegram chat ID’leri, acil durum numaraları, eylemler (Telegram, SMS, WhatsApp, arama), Uygulamayı test et düğmesi ve özet.
+528|Tarih, saat ve altta SOS hızlı düğmesi bulunan bir Wear OS akıllı saat kadranı.
+529|WATCH4HELP logosu: yardım isteme el işaretini gösteren bir akıllı saat ve Şiddete karşı giyilebilir teknoloji, no pAIn project engineering yazısı.
+530|AI help App hazır: yeşil START düğmesi ve elle yardım talebi düğmesi.
+531|AI help App anahtar kelimeleri dinliyor: kırmızı STOP düğmesi.
+532|AI help App ayarları: Telegram, SMS ve arama eylemleri, Telegram chat ID’siyle.
+533|AI help App’te dil seçimi: İtalyanca, İngilizce, Fransızca, Almanca, İspanyolca, Türkçe, Yunanca, Portekizce, Rumence, Lehçe, Felemenkçe, İsveççe.
+534|<strong>GPS takip cihazı değil: akıllı bir acil durum düğmesi</strong>Projenin Instagram gönderisinden. Afiş İngilizcedir.
+535|<strong>Uygulamada eşleştirme</strong>AI help You’da düğme, bağlı cihazlar arasında akıllı saatin yanında AIhelpButton adıyla görünür.
+536|Instagram gönderisinin afişi: AI help You ile button4help, “Not a GPS tracker. A smart emergency button.” Genç bir kadın düğmeyi kot pantolonunun cebine koyuyor; altta uyarıdan yardıma adımlar ve özellikler: yenilikçi, fark edilmeyen, hafif, giyilebilir, kullanımı kolay, hep yanınızda.
+537|AI help You ayarları: kişisel anahtar kelimeler, ses tanıma dili ve Smartwatch ile AIhelpButton seçenekleriyle bağlı cihazlar.
+538|iPhone’da bazı işlevler Apple’ın kurallarıyla sınırlıdır: bu yüzden sesli komut Siri üzerinden, SMS, WhatsApp ve aramalar “Proteggimi” Kestirmesi üzerinden çalışır. Android uygulamaları tam sürümde tüm işlevleri sunar.
+539|Uyarı kanalları
+540|Genel
+541|Eşler arası (peer-to-peer) teknoloji: alarm hesap, oturum açma veya özel bulut olmadan telefonunuzdan doğrudan güvendiğiniz kişilere gider. Veri minimizasyonu ilkesi geçerlidir: geliştirici kişisel veri toplamadığını ve üçüncü taraflara aktarmadığını beyan eder; ayarlar ve kişiler cihazda kalır.
+542|Uyarıları iletmek ve adresi belirlemek için yine de uygulamanın öngördüğü harici hizmetler kullanılır.
+543|Mühendislik güvenilirliği
+544|Kesintili bağlantıda bile teslim edilen uyarılar: şebeke geri gelir gelmez otomatik yeniden gönderim
+545|Yeniden başlatma veya sistem optimizasyonları gibi her kesintiden sonra canlı konumun otomatik devam etmesi
+546|Ön planda, arka planda ve ekran kapalıyken kesintisiz çalışma; durum her zaman görünür
+547|Yeniden başlatma ve güncellemelerden sonra kurulumun kaybolmaması için rehberli yeniden etkinleştirme
+548|Her işlev gerçek akıllı telefon ve akıllı saatlerde saha testleriyle doğrulandı
+549|Gerçek işleyiş sürüme, izinlere, şebekeye ve cihaza bağlıdır.
+550|Nerede doğdu
+551|Politecnico di Bari’de.
+552|Proje, Politecnico di Bari Elektrik ve Bilişim Mühendisliği Bölümü’nde, Dijital Sistemler ve Uygulamalar Elektroniği laboratuvarı ELEDIGILAB’de doğdu.
+553|Basında
+554|Hakkında konuştular.
+555|no pAIn™ projesini anlatan gazeteler ve televizyonlar.
+556|<b data-no-i18n="">BariToday</b> · Makale · 3 Mart 2026
+557|Makaleyi okuyun ↗
+558|<b data-no-i18n="">TG Norba</b> · TV haberi · 19 Aralık 2024
+559|Saat 7.30 haber bülteninde no pAIn™ projesi.
+560|<b data-no-i18n="">La Gazzetta del Mezzogiorno</b> · Video · 17 Aralık 2023
+561|Videoyu izleyin ↗
+562|<b data-no-i18n="">TVA · Acquedotto Pugliese</b> · Video
+563|Toplumsal cinsiyete dayalı şiddeti yapay zekâ ile önlemek: Prof. Müh. Agostino Giorgio ile söyleşi.
+564|Politecnico di Bari logosu
+565|Politecnico di Bari Elektrik ve Bilişim Mühendisliği Bölümü logosu
+566|ELEDIGILAB logosu, Dijital Sistemler ve Uygulamalar Elektroniği Laboratuvarı
+567|Politecnico di Bari’de geliştirilen yardım isteme uygulaması hakkında BariToday makalesi
+568|19 Aralık 2024 tarihli saat 7.30 bülteninde TG Norba haberi
+569|Bari’de tasarlanan yapay zekâlı bileklik hakkında La Gazzetta del Mezzogiorno sayfası
+570|Başka acil durumlarda da kullanılabilir mi?
+571|Evet. no pAIn™ teknolojisi toplumsal cinsiyete dayalı şiddeti önlemek için doğdu; ancak mekanizması, yani güvenilir kişileri konumla birlikte hemen uyarmak, yüksek sesle yardım istemenin veya telefonu kullanmanın zor olduğu her acil durumda işe yarar.
+572|Akıllı telefonunuzdan veya akıllı saatinizden, onları kullanmanıza gerek kalmadan yardım istemek: <span class="hl">mümkün</span>, no pAIn™ projesinin digital4help™ teknolojisiyle.
+573|<strong>digital4help™</strong>, dijital korumanın yeni çağı: üniversite araştırma laboratuvarlarından doğrudan cihazlarınıza.
+574|no pAIn™ yapay zekâyı önlemenin hizmetine sunar: nerede olursanız olun sizi koruyan fark edilmeyen dijital araçlar ve akıllı saatler için yardımcı uygulamalarla her cihaza bir uygulama.
+575|Cihazınız için uygulamayı indirin
+576|Büyütmek için bir görsele dokunun.
+577|<b data-no-i18n="">La Gazzetta del Mezzogiorno</b> · Makale · Ağustos 2026
+578|Güvenliğin hizmetinde eşler arası teknoloji ve çevrimdışı yapay zekâ: makale, Politecnico di Bari’nin ELEDIGILAB laboratuvarında doğan no pAIn™ projesini ve iki temelini anlatıyor: tam gizlilik ve telefona dokunmadan bile yardım isteme.
+579|Instagram’da görün ↗
+580|Agostino Giorgio, Politecnico di Bari imzalı no pAIn project afişi: kadın figürlü bir kalkan, dört uygulamanın listesi (İtalyanca Android için Proteggimi, 12 dilde Android için AI help You, Wear OS akıllı saatler için AIuto SOS – watch4help, iOS için no pAIn) ve altta SOS tuşlu bir akıllı saat, uygulamanın açık olduğu bir akıllı telefon ve boyuna takılan button4help düğmesi.
+581|<strong>no pAIn™ project: Technology that protects life</strong>Proje ve uygulamaları tek bir afişte, İngilizce.

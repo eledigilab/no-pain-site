@@ -479,3 +479,77 @@ mail.partnerBody|Hello,\nI would like to learn more about the no pAIn™ project
 505|<strong>One press, help arrives in time</strong>The button triggers AI help You: the live location reaches a friend, who calls the police. On-screen text in English.
 506|<strong>In the car, when picking up the phone is impossible</strong>Next to an aggressive man, any move towards the smartphone would be noticed: this is when a discreet press on button4help™ sends the help request. Fictional scene, for demonstration purposes.
 507|Privacy policy <span class="arr">↗</span>
+508|Screenshots
+509|What the app looks like.
+510|After accepting the terms of use, in the settings you choose the emergency actions and enter phone numbers, Telegram chat IDs and secret keywords. The main page shows the app status and the active keywords.
+511|<strong>The main page</strong>Start and Stop buttons, manual help request, active keywords and background service.
+512|<strong>Emergency actions</strong>Telegram, SMS and calls, with the Telegram chat IDs and the contacts' numbers.
+513|<strong>Personal keywords</strong>Up to 3 secret words of your own, on top of the 4 default ones.
+514|What the iPhone app looks like.
+515|The main page has the big EMERGENCY button. In the setup you enter the Telegram chat IDs and emergency numbers, choose the actions to send and run an initial test to check that everything works.
+516|<strong>The main page</strong>The EMERGENCY button and the reminder of the voice command “Hey Siri, Help me”.
+517|<strong>The setup</strong>Contacts, emergency actions, app test and summary before saving.
+518|<strong>SOS from the watch face</strong>The SOS quick button on the watch face starts the emergency with one tap.
+519|<strong>watch4help™</strong>The wearable technology against violence of the no pAIn™ project.
+520|Ready
+521|Listening
+522|Settings
+523|Proteggimi main page: Ready status, Start and Stop buttons, no pAIn help request button, active keywords and background service.
+524|Proteggimi settings: emergency actions (Telegram messages, SMS, calls), Telegram chat IDs and emergency numbers.
+525|Proteggimi settings: default keywords and three custom keywords, with the summary of actions and the Save configuration button.
+526|Main page of no pAIn for iPhone: Ready status, red EMERGENCY help request button and reminder of the voice command “Hey Siri, Help me”.
+527|Setup of no pAIn for iPhone: Telegram chat IDs, emergency numbers, actions (Telegram, SMS, WhatsApp, call), Test the app button and summary.
+528|Wear OS smartwatch face with date, time and the SOS quick button at the bottom.
+529|WATCH4HELP logo: a smartwatch showing the hand signal for help and the words Wearable technology against violence, no pAIn project engineering.
+530|AI help App ready: green START button and button for a manual help request.
+531|AI help App listening for keywords: red STOP button.
+532|AI help App settings: Telegram, SMS and call actions, with the Telegram chat ID.
+533|Language choice in AI help App: Italian, English, French, German, Spanish, Turkish, Greek, Portuguese, Romanian, Polish, Dutch, Swedish.
+534|<strong>Not a GPS tracker: a smart emergency button</strong>From the project's Instagram post. Poster in English.
+535|<strong>Pairing in the app</strong>In AI help You the button appears among the connected devices, named AIhelpButton, next to the smartwatch.
+536|Instagram post poster: button4help with AI help You, “Not a GPS tracker. A smart emergency button.” A young woman slips the button into her jeans pocket; below, the steps from alert to help and the features: innovative, discreet, lightweight, wearable, easy to use, always with you.
+537|AI help You settings: personal keywords, speech recognition language and connected devices, with the Smartwatch and AIhelpButton options.
+538|On iPhone some features are limited by Apple's rules: that is why the voice command goes through Siri, and SMS, WhatsApp and calls through the “Proteggimi” Shortcut. The Android apps, in their full version, offer all features.
+539|Alert channels
+540|General
+541|Peer-to-peer technology: the alarm goes from your phone straight to your trusted contacts, with no account, login or proprietary cloud. The data minimisation principle applies: the developer states that no personal data is collected or shared with third parties; settings and contacts stay on the device.
+542|External services provided by the app are still used to deliver alerts and determine the address.
+543|Engineering reliability
+544|Alerts delivered even with intermittent connectivity: automatic resending as soon as the network returns
+545|Live location resumed automatically after any interruption, such as a restart or system optimisations
+546|Continuous operation in the foreground, in the background and with the screen off, with the status always visible
+547|Guided reactivation after restarts and updates, so the setup is never lost
+548|Every feature verified through field tests on real smartphones and smartwatches
+549|Actual operation depends on version, permissions, network and device.
+550|Where it was born
+551|At the Politecnico di Bari.
+552|The project was born in the Department of Electrical and Information Engineering of the Politecnico di Bari, in the ELEDIGILAB laboratory of Electronics of Digital Systems and Applications.
+553|Press coverage
+554|They talked about it.
+555|Newspapers and TV channels that have covered the no pAIn™ project.
+556|<b data-no-i18n="">BariToday</b> · Article · 3 March 2026
+557|Read the article ↗
+558|<b data-no-i18n="">TG Norba</b> · TV report · 19 December 2024
+559|The no pAIn™ project in the 7.30 news bulletin.
+560|<b data-no-i18n="">La Gazzetta del Mezzogiorno</b> · Video · 17 December 2023
+561|Watch the video ↗
+562|<b data-no-i18n="">TVA · Acquedotto Pugliese</b> · Video
+563|Preventing gender-based violence with artificial intelligence: interview with Prof. Eng. Agostino Giorgio.
+564|Politecnico di Bari logo
+565|Logo of the Department of Electrical and Information Engineering of the Politecnico di Bari
+566|Logo of ELEDIGILAB, Laboratory of Electronics of Digital Systems and Applications
+567|BariToday article about the help request app created at the Politecnico di Bari
+568|TG Norba report in the 7.30 bulletin of 19 December 2024
+569|La Gazzetta del Mezzogiorno page about the AI bracelet designed in Bari
+570|Can they also be used for other emergencies?
+571|Yes. no pAIn™ technology was created to prevent gender-based violence, but its mechanism, immediately alerting trusted contacts with your location, is useful in any emergency where it is hard to ask for help out loud or use the phone.
+572|Asking for help from your smartphone or smartwatch without handling them: <span class="hl">it's possible</span>, with the digital4help™ technology of the no pAIn™ project.
+573|<strong>digital4help™</strong>, the new era of digital protection: from university research labs straight into your devices.
+574|no pAIn™ puts artificial intelligence at the service of prevention: discreet digital tools that protect you wherever you are and an app for every device, with companion apps for smartwatches.
+575|Download the app for your device
+576|Tap an image to enlarge it.
+577|<b data-no-i18n="">La Gazzetta del Mezzogiorno</b> · Article · August 2026
+578|Peer-to-peer technology and offline artificial intelligence serving safety: the article tells the story of the no pAIn™ project, born in the ELEDIGILAB laboratory of the Politecnico di Bari, and its two pillars, total privacy and asking for help even without touching the phone.
+579|View on Instagram ↗
+580|no pAIn project poster by Agostino Giorgio, Politecnico di Bari: a shield with a female figure, the list of the four apps (Proteggimi for Android in Italian, AI help You for Android in 12 languages, AIuto SOS – watch4help for Wear OS smartwatches, no pAIn for iOS) and, at the bottom, a smartwatch with the SOS button, a smartphone with the app and the button4help pendant worn around the neck.
+581|<strong>no pAIn™ project: Technology that protects life</strong>The project and its apps in one poster, in English.

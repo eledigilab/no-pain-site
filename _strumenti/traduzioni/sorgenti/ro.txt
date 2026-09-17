@@ -479,3 +479,77 @@ mail.partnerBody|Bună ziua,\naș dori să aflu mai multe despre proiectul no pA
 505|<strong>O apăsare, ajutorul sosește la timp</strong>Butonul pornește AI help You: locația în timp real ajunge la o prietenă, care sună la poliție. Textele din video în engleză.
 506|<strong>În mașină, când nu poți lua telefonul</strong>Lângă un bărbat agresiv, orice gest spre smartphone ar fi observat: este momentul în care o apăsare discretă pe button4help™ trimite cererea de ajutor. Scenă de ficțiune, în scop demonstrativ.
 507|Politica de confidențialitate <span class="arr">↗</span>
+508|Capturi de ecran
+509|Cum arată aplicația.
+510|După ce accepți termenii de utilizare, în setări alegi acțiunile de urgență și introduci numerele de telefon, chat ID-urile Telegram și cuvintele-cheie secrete. Pagina principală arată starea aplicației și cuvintele-cheie active.
+511|<strong>Pagina principală</strong>Butoanele Pornește și Oprește, cererea manuală de ajutor, cuvintele-cheie active și serviciul în fundal.
+512|<strong>Acțiunile de urgență</strong>Telegram, SMS și apeluri, cu chat ID-urile Telegram și numerele contactelor.
+513|<strong>Cuvintele-cheie personale</strong>Până la 3 cuvinte secrete ale tale, pe lângă cele 4 predefinite.
+514|Cum arată aplicația pentru iPhone.
+515|Pagina principală are marele buton URGENȚĂ. În configurare introduci chat ID-urile Telegram și numerele de urgență, alegi acțiunile de trimis și faci un test inițial ca să verifici că totul funcționează.
+516|<strong>Pagina principală</strong>Butonul URGENȚĂ și reamintirea comenzii vocale „Hey Siri, Ajută-mă”.
+517|<strong>Configurarea</strong>Contacte, acțiuni de urgență, testul aplicației și rezumatul înainte de salvare.
+518|<strong>SOS de pe cadran</strong>Butonul rapid SOS de pe cadran pornește urgența cu o atingere.
+519|<strong>watch4help™</strong>Tehnologia purtabilă împotriva violenței a proiectului no pAIn™.
+520|Pregătită
+521|Ascultă
+522|Setări
+523|Pagina principală Proteggimi: starea Pregătit, butoanele Pornește și Oprește, butonul no pAIn de cerere de ajutor, cuvintele-cheie active și serviciul în fundal.
+524|Setări Proteggimi: acțiuni de urgență (mesaje Telegram, SMS, apeluri), chat ID-uri Telegram și numere de urgență.
+525|Setări Proteggimi: cuvinte-cheie implicite și trei cuvinte-cheie personalizate, cu rezumatul acțiunilor și butonul Salvează configurarea.
+526|Pagina principală no pAIn pentru iPhone: starea Pregătit, butonul roșu URGENȚĂ pentru cererea de ajutor și reamintirea comenzii vocale „Hey Siri, Ajută-mă”.
+527|Configurarea no pAIn pentru iPhone: chat ID-uri Telegram, numere de urgență, acțiuni (Telegram, SMS, WhatsApp, apel), butonul Testează aplicația și rezumat.
+528|Cadranul unui ceas Wear OS cu data, ora și butonul rapid SOS jos.
+529|Logo WATCH4HELP: un ceas inteligent cu semnalul mâinii pentru ajutor și textul Tehnologie purtabilă împotriva violenței, no pAIn project engineering.
+530|AI help App pregătită: butonul verde START și butonul pentru cererea manuală de ajutor.
+531|AI help App ascultă cuvintele-cheie: butonul roșu STOP.
+532|Setări AI help App: acțiunile Telegram, SMS și apeluri, cu chat ID-ul Telegram.
+533|Alegerea limbii în AI help App: italiană, engleză, franceză, germană, spaniolă, turcă, greacă, portugheză, română, poloneză, neerlandeză, suedeză.
+534|<strong>Nu un localizator GPS: un buton de urgență inteligent</strong>Din postarea proiectului pe Instagram. Afiș în engleză.
+535|<strong>Asocierea în aplicație</strong>În AI help You butonul apare printre dispozitivele conectate, cu numele AIhelpButton, lângă ceasul inteligent.
+536|Afișul postării de Instagram: button4help cu AI help You, „Not a GPS tracker. A smart emergency button.” O tânără pune butonul în buzunarul blugilor; dedesubt, pașii de la alertă la ajutor și caracteristicile: inovator, discret, ușor, purtabil, simplu de folosit, mereu cu tine.
+537|Setări AI help You: cuvinte-cheie personale, limba recunoașterii vocale și dispozitive conectate, cu opțiunile Smartwatch și AIhelpButton.
+538|Pe iPhone unele funcții sunt limitate de regulile Apple: de aceea comanda vocală trece prin Siri, iar SMS-urile, WhatsApp și apelurile prin Scurtătura „Proteggimi”. Aplicațiile Android, în versiunea completă, oferă toate funcțiile.
+539|Canale de alertă
+540|Generale
+541|Tehnologie peer-to-peer: alarma merge de pe telefonul tău direct la contactele de încredere, fără cont, autentificare sau cloud propriu. Se aplică principiul minimizării datelor: dezvoltatorul declară că nu colectează date personale și nu le cedează terților; setările și contactele rămân pe dispozitiv.
+542|Pentru livrarea alertelor și determinarea adresei se folosesc totuși serviciile externe prevăzute de aplicație.
+543|Fiabilitate inginerească
+544|Alerte livrate chiar și cu conexiune intermitentă: retrimitere automată imediat ce revine rețeaua
+545|Locația în timp real reluată automat după orice întrerupere, de exemplu o repornire sau optimizările sistemului
+546|Funcționare continuă în prim-plan, în fundal și cu ecranul stins, cu starea mereu vizibilă
+547|Reactivare ghidată după reporniri și actualizări, ca să nu se piardă configurarea
+548|Fiecare funcție verificată prin teste pe teren pe smartphone-uri și ceasuri inteligente reale
+549|Funcționarea efectivă depinde de versiune, permisiuni, rețea și dispozitiv.
+550|Unde s-a născut
+551|La Politecnico di Bari.
+552|Proiectul s-a născut în Departamentul de Inginerie Electrică și a Informației al Politecnico di Bari, în laboratorul ELEDIGILAB de Electronică a Sistemelor și Aplicațiilor Digitale.
+553|Presa
+554|Au vorbit despre noi.
+555|Ziare și televiziuni care au prezentat proiectul no pAIn™.
+556|<b data-no-i18n="">BariToday</b> · Articol · 3 martie 2026
+557|Citește articolul ↗
+558|<b data-no-i18n="">TG Norba</b> · Reportaj TV · 19 decembrie 2024
+559|Proiectul no pAIn™ în ediția de la 7.30 a jurnalului.
+560|<b data-no-i18n="">La Gazzetta del Mezzogiorno</b> · Video · 17 decembrie 2023
+561|Urmărește videoclipul ↗
+562|<b data-no-i18n="">TVA · Acquedotto Pugliese</b> · Video
+563|Prevenirea violenței de gen cu inteligența artificială: interviu cu Prof. Ing. Agostino Giorgio.
+564|Logoul Politecnico di Bari
+565|Logoul Departamentului de Inginerie Electrică și a Informației al Politecnico di Bari
+566|Logoul ELEDIGILAB, Laboratorul de Electronică a Sistemelor și Aplicațiilor Digitale
+567|Articol BariToday despre aplicația de cerere de ajutor creată la Politecnico di Bari
+568|Reportajul TG Norba din ediția de la 7.30 din 19 decembrie 2024
+569|Pagina Gazzetta del Mezzogiorno despre brățara cu inteligență artificială proiectată la Bari
+570|Se pot folosi și pentru alte urgențe?
+571|Da. Tehnologia no pAIn™ s-a născut pentru prevenirea violenței de gen, dar mecanismul ei, anunțarea imediată a contactelor de încredere împreună cu locația, ajută în orice urgență în care e greu să ceri ajutor cu voce tare sau să folosești telefonul.
+572|Să ceri ajutor de pe smartphone sau de pe ceasul inteligent fără să le manevrezi: <span class="hl">se poate</span>, cu tehnologia digital4help™ a proiectului no pAIn™.
+573|<strong>digital4help™</strong>, noua eră a protecției digitale: din laboratoarele de cercetare universitară direct în dispozitivele tale.
+574|no pAIn™ pune inteligența artificială în slujba prevenirii: instrumente digitale discrete care te protejează oriunde te-ai afla și o aplicație pentru fiecare dispozitiv, cu aplicații însoțitoare pentru ceasuri inteligente.
+575|Descarcă aplicația pentru dispozitivul tău
+576|Atinge o imagine pentru a o mări.
+577|<b data-no-i18n="">La Gazzetta del Mezzogiorno</b> · Articol · august 2026
+578|Tehnologie peer-to-peer și inteligență artificială offline în slujba siguranței: articolul prezintă proiectul no pAIn™, născut în laboratorul ELEDIGILAB al Politecnico di Bari, și cei doi piloni ai săi, confidențialitate totală și cerere de ajutor chiar și fără să atingi telefonul.
+579|Vezi pe Instagram ↗
+580|Afișul no pAIn project de Agostino Giorgio, Politecnico di Bari: un scut cu o siluetă feminină, lista celor patru aplicații (Proteggimi pentru Android în italiană, AI help You pentru Android în 12 limbi, AIuto SOS – watch4help pentru ceasuri inteligente Wear OS, no pAIn pentru iOS) și, jos, un ceas inteligent cu tasta SOS, un smartphone cu aplicația și butonul button4help purtat la gât.
+581|<strong>no pAIn™ project: Technology that protects life</strong>Proiectul și aplicațiile sale într-un afiș, în engleză.
