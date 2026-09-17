@@ -11,6 +11,7 @@ Sito statico pubblicato con GitHub Pages: https://eledigilab.github.io/no-pain-s
 | `button4help.html` | Il pulsante: galleria immagini e video, cos'è, cosa non è, come si usa, link d'acquisto |
 | `versioni.html` | Free e Premium con la tabella di confronto completa |
 | `come-funziona.html` | Modalità di attivazione, azioni, watch4help™, prima configurazione |
+| `video.html` | Video e demo: il reel Instagram sulla geolocalizzazione inviata dal dispositivo della vittima, le quattro demo delle app, il reel di button4help™ |
 | `ricerca.html` | Tecnologia, pubblicazioni, presentazione PDF |
 | `collabora.html` | Proposte per enti pubblici, associazioni, aziende |
 | `domande.html` | Domande frequenti |
@@ -55,7 +56,7 @@ e per **reel di Instagram**.
 python3 _strumenti/anteprima.py                  # anteprima locale su http://127.0.0.1:8765
 swift _strumenti/video.swift IN.mp4 assets/video/OUT.mp4 INIZIO FINE COPERTINA  # video per il web + copertina
 swift _strumenti/qr.swift URL assets/qr/NOME.svg  # codice QR in SVG, riletto e verificato prima di salvarlo
-python3 _strumenti/build.py                      # rigenera le 8 pagine da _strumenti/pagine/
+python3 _strumenti/build.py                      # rigenera le 9 pagine da _strumenti/pagine/
 python3 _strumenti/traduzioni.py CARTELLA en fr  # converte le traduzioni in lang/*.js e le controlla
 ```
 

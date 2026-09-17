@@ -640,3 +640,72 @@ mail.partnerBody|Bună ziua,\naș dori să aflu mai multe despre proiectul no pA
 666|Afișul „Tecnologia contro la violenza di genere” (Tehnologie împotriva violenței de gen), proiectul no pAIn al Politecnico di Bari: două mâini țin un smartphone cu scutul aplicației; jos, confidențialitate totală peer-to-peer, IA offline fără cloud și activare rapidă prin voce, atingere sau ceas inteligent.
 667|<strong>Ceri ajutor cu vocea, fără să fii descoperită</strong>Telefonul i-a fost aruncat pe jos, dar femeia spune „non farlo” („nu face asta”), un cuvânt-cheie personalizat: Proteggimi recunoaște comanda vocală și trimite cererea de ajutor. Aceste cuvinte nu îl fac pe agresor să înțeleagă că alarma a fost dată, astfel încât el rămâne acolo și este arestat.
 668|Proiect conceput și dezvoltat de <strong>Prof. Ing. Agostino Giorgio</strong><br>Cadru didactic la Politecnico di Bari
+669|Cele trei caracteristici ale digital4help™
+670|Confidențialitate totală, activare rapidă, inteligență artificială la bord.
+671|<b>Comunicare directă, fără intermediari (P2P).</b> Ca să ceri ajutor nu treci prin servicii proprietare, dispecerate sau abonamente la servicii de urgență: alarma pleacă de pe dispozitivul tău direct către una sau două persoane de încredere, alese de tine când configurezi aplicația, împreună cu locația ta. Ele vin la tine sau anunță poliția, explicând cu calm toate detaliile necesare intervenției: acel calm pe care tu, în pericol, nu l-ai avea.
+672|<b>Activare rapidă, din mai multe puncte.</b> În urgență nu e timp să scoți telefonul, să îl deblochezi și să deschizi aplicația. De aceea fiecare aplicație oferă mai multe moduri de a porni alarma: vocea, un buton din aplicația însoțitoare de pe ceasul inteligent sau butonul button4help™, un dispozitiv extern pe care îl porți la tine. Alarma pleacă și cu telefonul departe de mâini.
+673|<b>Inteligență artificială care lucrează offline.</b> Cuvintele-cheie sunt recunoscute de inteligența artificială instalată pe dispozitiv, nu de un serviciu online: nimic nu este trimis în rețea pentru a înțelege că ceri ajutor, iar cererea de ajutor pleacă mai devreme.
+674|<strong>Cele trei caracteristici într-un afiș</strong>Confidențialitate totală, IA offline și activare rapidă. În engleză.
+675|Butonul care pornește alarma de la distanță, după asocierea cu aplicația. Se cumpără de la un comerciant extern.
+676|Afișul Technology against gender-based violence, no pAIn Project from Poliba: două mâini țin un smartphone cu scutul aplicației, inscripțiile No Trace și Safe Zone și, jos, confidențialitate totală (P2P), inteligență artificială offline fără cloud și activare rapidă prin voce, atingere, ceas inteligent sau butonul button4help.
+677|<b>Singur nu cere ajutor.</b> button4help™ este un buton Bluetooth al unui producător terț, nu un produs no pAIn™: devine declanșator de urgență doar după asocierea cu aplicația AI help You pe Android sau cu aplicația no pAIn™ (Proteggimi) pentru iPhone, de la versiunea 59 în sus.
+678|Înainte să îl cumperi
+679|Singur, butonul <span class="hl">nu face nimic.</span>
+680|button4help™ este un simplu buton Bluetooth vândut într-un magazin online: nu are cartelă SIM, nu are un centru de asistență în spate și nu îți cunoaște locația. Funcțiile de urgență le oferă aplicația no pAIn™: ea recunoaște dispozitivul, îl acceptă ca declanșator și, la apăsare, trimite mesaje, locația și apeluri către contactele tale.
+681|Fără asocierea cu aplicația, butonul nu are nicio funcție de ajutor.
+682|Aplicațiile care îl recunosc
+683|<a class="link-arrow" href="prodotti.html#ai-help-you">AI help You ↗</a> pentru Android
+684|<a class="link-arrow" href="prodotti.html#no-pain-ios">no pAIn™ (Proteggimi) ↗</a> pentru iPhone, de la versiunea 59 în sus
+685|Asocierea se face o singură dată, din aplicație, printr-o procedură ghidată de câțiva pași. Proteggimi pentru Android și AIuto SOS pentru Wear OS nu folosesc butonul.
+686|AI help You (Android) și no pAIn™ (iPhone) de la versiunea 59, după asociere
+687|Deschide AI help You pe Android sau no pAIn™ pentru iPhone, de la versiunea 59 în sus, și urmează procedura ghidată de asociere: câțiva pași, o singură dată. De atunci aplicația recunoaște butonul și îl acceptă ca declanșator. Apoi fă o probă stabilită dinainte cu contactele tale.
+688|Merită cumpărat doar dacă folosești AI help You pe Android sau no pAIn™ pentru iPhone, de la versiunea 59 în sus: aceste aplicații îl transformă într-un declanșator de urgență. Singur, butonul nu cere ajutor nimănui.
+689|De la dispozitivul tău la contactele tale, fără intermediari
+690|Tehnologie peer-to-peer: ca să ceri ajutor nu treci prin servicii proprietare, dispecerate sau abonamente la servicii de urgență. Alarma, cu geolocalizarea, pleacă de pe dispozitivul tău direct către una sau două persoane de încredere, pe care le alegi când configurezi aplicația.
+691|Ele decid cum să intervină: să vină personal sau să anunțe poliția, descriind cu calm toate detaliile utile intervenției. Este un calm pe care cine se află în pericol nu îl poate avea.
+692|Fără cont, autentificare sau cloud propriu. Se aplică principiul minimizării datelor: dezvoltatorul declară că nu colectează date personale și nu le cedează terților; setările și contactele rămân pe dispozitiv.
+693|În versiunile Android și în limbile acceptate, cuvintele-cheie sunt recunoscute de inteligența artificială instalată pe dispozitiv, nu de un serviciu online: nimic nu este trimis în rețea pentru a înțelege că ceri ajutor, iar ajutorul pornește mai repede.
+694|Trimiterea alertelor cere în schimb conexiunile necesare canalului ales: date mobile, SMS sau telefonie.
+695|Activare rapidă
+696|Mai multe puncte de activare, pentru că timpul lipsește
+697|Aplicațiile sunt gândite pentru urgență, când nu e timp să scoți telefonul, să îl deblochezi și să cauți aplicația. De aceea fiecare oferă mai multe moduri de a trimite cererea de ajutor.
+698|Comenzi vocale, chiar și cu ecranul stins și telefonul la câțiva metri
+699|Buton de urgență în aplicație, buton rapid pe ecranul de pornire și notificare permanentă
+700|Aplicație însoțitoare pentru ceasuri inteligente sau aplicație autonomă pentru Wear OS
+701|button4help™, butonul extern de ținut în buzunar, în geantă sau la gât
+702|Butonul de ținut în buzunar care pornește alarma din AI help You și din no pAIn™ pentru iPhone, după asocierea cu aplicația: singur nu are funcții de urgență. Ce este, ce nu este și de unde se cumpără.
+703|Singur nu are nicio funcție de urgență: este un buton Bluetooth al unui producător terț și devine declanșator de alarmă doar după asocierea cu aplicația, făcută o singură dată printr-o procedură ghidată. Aplicațiile care îl recunosc sunt AI help You pentru Android și no pAIn™ (Proteggimi) pentru iPhone, de la versiunea 59 în sus. Se cumpără de pe <a href="https://it.aliexpress.com/item/1005008509583971.html" target="_blank" rel="noopener">AliExpress</a>, de la un vânzător terț: no pAIn™ nu îl vinde. Dacă ai dubii privind compatibilitatea cu telefonul tău, <a href="mailto:agostino.giorgio@poliba.it" data-mail="private">scrie proiectantului</a>.
+704|Cadrele Instagram sunt încărcate de pe serverele Instagram: când deschizi pagina, browserul tău se conectează la ele.
+705|Organizații
+706|Cum funcționează tehnologia →
+707|no pAIn™ — Videoclipuri și demonstrații
+708|Videoclipurile proiectului no pAIn™: locația trimisă de telefonul victimei, demonstrațiile aplicațiilor, ceasul inteligent și butonul button4help™.
+709|Videoclipuri și demonstrații
+710|Vezi ce se întâmplă <span class="hl">când pornește alarma.</span>
+711|Toate videoclipurile proiectului într-o pagină: scene de ficțiune, filmate în scop demonstrativ, care arată cum aplicațiile no pAIn™ cer ajutor în locul tău și ce primesc contactele tale.
+712|Videoclipul de văzut primul
+713|Locația o trimite telefonul tău, <span class="hl">nu dispeceratul.</span>
+714|Într-o răpire timpul înseamnă totul. În lanțul obișnuit trebuie să reușești să suni, să explici unde ești și să aștepți ca dispeceratul să localizeze telefonul. Cu no pAIn™ partea aceasta nu mai e nevoie: chiar dispozitivul victimei transmite singur locația, actualizată, celor care trebuie să intervină.
+715|<strong>Agresiune și răpire: alarma pleacă odată cu locația</strong>Reelul este publicat pe profilul de Instagram al proiectului. Scene de ficțiune, în scop demonstrativ.
+716|De ce acest detaliu poate salva o viață
+717|<b>Niciun apel de făcut.</b> Cine este agresată sau luată cu forța nu reușește să sune, să vorbească și să descrie unde se află. Alarma pleacă prin voce, printr-un buton sau prin button4help™, fără să spună o vorbă nimănui.
+718|<b>Locația ajunge gata pregătită.</b> Coordonatele, adresa și linkul la hartă pleacă de pe telefonul victimei și ajung la contactele de încredere, care le pot transmite imediat poliției.
+719|<b>Locația continuă să se actualizeze.</b> Dacă agresorul se deplasează, cine vine în ajutor vede traseul în direct: nu aleargă după un punct vechi de câteva minute.
+720|<b>Se sar pașii care costă timp.</b> Nu e nevoie ca un dispecerat să localizeze telefonul: într-o răpire, timpul acela face diferența între a ajunge la timp și a ajunge prea târziu.
+721|Demonstrațiile aplicațiilor
+722|Patru situații, patru moduri de a cere ajutor.
+723|Vocea, ceasul inteligent, butonul din buzunar: fiecare videoclip arată un punct de activare diferit și ce se întâmplă de cealaltă parte, când contactele primesc alarma. Videoclipurile au sunet.
+724|Alte videoclipuri
+725|Reelul button4help™ și profilul de Instagram.
+726|Pe profilul proiectului găsești alte filmulețe, afișele și noutățile despre aplicații.
+727|Deschide Instagram <span class="arr">↗</span>
+728|Reel no pAIn pe Instagram: agresiune și răpire, alarma pleacă odată cu locația
+729|Vezi videoclipurile <span class="arr">→</span>
+730|Manualul
+731|Manualul este deja în aplicație, pe ceas
+732|Pe telefon poți instala același ghid ca aplicație: <a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.aibutton" target="_blank" rel="noopener">deschide-l pe Google Play ↗</a>
+733|Din ghidul de pe telefon se instalează și aplicația de pe ceas, pentru cine nu o are încă
+734|Manualul aplicației Proteggimi pentru Android este un PDF în italiană: se deschide în browser și poate fi salvat. Secțiunea despre Telegram explică cum se conectează contactele la bot în câțiva pași. Durata locației live diferă de la o aplicație la alta: verifică opțiunile aplicației instalate.
+735|Manual Proteggimi, Android (PDF) <span class="arr">↗</span>
+736|Telegram: cum îți conectezi contactele (PDF) <span class="arr">↗</span>
+737|Manual Proteggimi pentru Android (PDF) ↗

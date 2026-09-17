@@ -640,3 +640,72 @@ mail.partnerBody|Buenos días:\nme gustaría conocer mejor el proyecto no pAIn�
 666|Cartel «Tecnologia contro la violenza di genere» (Tecnología contra la violencia de género), proyecto no pAIn del Politecnico di Bari: dos manos sostienen un smartphone con el escudo de la app; abajo, privacidad total entre pares, IA sin conexión y sin nube y activación rápida con la voz, el tacto o el reloj inteligente.
 667|<strong>Pedir ayuda con la voz, sin que te descubran</strong>Le han tirado el teléfono al suelo, pero la mujer dice “non farlo” (“no lo hagas”), una palabra clave personalizada: Proteggimi reconoce el comando de voz y envía la petición de auxilio. Esas palabras no le hacen entender al agresor que se ha dado la alarma, tanto que se queda allí y es detenido.
 668|Proyecto ideado y desarrollado por el <strong>Prof. Ing. Agostino Giorgio</strong><br>Profesor del Politecnico di Bari
+669|Las tres características de digital4help™
+670|Privacidad total, activación rápida, inteligencia artificial a bordo.
+671|<b>Comunicación directa, sin intermediarios (P2P).</b> Para pedir ayuda no se pasa por servicios propietarios, centrales de emergencia ni suscripciones a servicios de asistencia: la alarma va de tu dispositivo directamente a uno o dos contactos de confianza, elegidos por ti al configurar la app, junto con tu ubicación. Son ellos quienes acuden o avisan a las fuerzas del orden, explicando con calma todos los detalles necesarios para intervenir: esa calma que tú, en peligro, no tendrías.
+672|<b>Activación rápida, desde varios puntos.</b> En la emergencia no hay tiempo para sacar el teléfono, desbloquearlo y abrir la app. Por eso cada app ofrece varias formas de lanzar la alarma: la voz, una tecla de la app compañera del reloj inteligente o el botón button4help™, un dispositivo externo que llevas encima. La alarma sale incluso con el teléfono lejos de las manos.
+673|<b>Inteligencia artificial que trabaja sin conexión.</b> Las palabras clave las reconoce la inteligencia artificial instalada en el dispositivo, no un servicio en línea: no se envía nada a la red para entender que estás pidiendo ayuda, y la petición de auxilio sale antes.
+674|<strong>Las tres características en un cartel</strong>Privacidad total, IA sin conexión y activación rápida. En inglés.
+675|El botón que lanza la alarma a distancia, una vez emparejado con la app. Se compra en una tienda externa.
+676|Cartel Technology against gender-based violence, no pAIn Project from Poliba: dos manos sostienen un smartphone con el escudo de la app, las palabras No Trace y Safe Zone y, abajo, privacidad total (P2P), inteligencia artificial sin conexión ni nube y activación rápida por voz, tacto, reloj inteligente o botón button4help.
+677|<b>Por sí solo no pide ayuda.</b> button4help™ es un botón Bluetooth de un fabricante externo, no un producto no pAIn™: se convierte en activador de emergencia solo tras el emparejamiento con la app AI help You en Android o con la app no pAIn™ (Proteggimi) para iPhone, a partir de la versión 59.
+678|Antes de comprarlo
+679|Por sí solo el botón <span class="hl">no hace nada.</span>
+680|button4help™ es un simple botón Bluetooth que se vende en una tienda en línea: no tiene SIM, no tiene detrás ningún centro de asistencia y no conoce tu ubicación. Las funciones de emergencia las pone la app no pAIn™: es ella la que reconoce el dispositivo, lo acepta como activador y, al pulsarlo, envía mensajes, ubicación y llamadas a tus contactos.
+681|Sin el emparejamiento con la app, el botón no tiene ninguna función de auxilio.
+682|Las apps que lo reconocen
+683|<a class="link-arrow" href="prodotti.html#ai-help-you">AI help You ↗</a> para Android
+684|<a class="link-arrow" href="prodotti.html#no-pain-ios">no pAIn™ (Proteggimi) ↗</a> para iPhone, a partir de la versión 59
+685|El emparejamiento se hace una sola vez, desde la app, con un asistente de pocos pasos. Proteggimi para Android y AIuto SOS para Wear OS no usan el botón.
+686|AI help You (Android) y no pAIn™ (iPhone) a partir de la versión 59, tras el emparejamiento
+687|Abre AI help You en Android o no pAIn™ para iPhone, a partir de la versión 59, y sigue el asistente de emparejamiento: pocos pasos, una sola vez. A partir de ese momento la app reconoce el botón y lo acepta como activador. Luego haz una prueba acordada con tus contactos.
+688|Comprarlo tiene sentido solo si usas AI help You en Android o no pAIn™ para iPhone, a partir de la versión 59: son las apps que lo convierten en un activador de emergencia. Por sí solo el botón no pide ayuda a nadie.
+689|De tu dispositivo a tus contactos, sin intermediarios
+690|Tecnología entre pares: para pedir auxilio no se pasa por servicios propietarios, centrales de emergencia ni suscripciones a servicios de asistencia. La alarma, con la geolocalización, va de tu dispositivo directamente a uno o dos contactos de confianza, que eliges al configurar la app.
+691|Son ellos quienes deciden cómo intervenir: acudir en persona o avisar a las fuerzas del orden, describiendo con calma todos los detalles útiles para la intervención. Es una calma que quien está en peligro no puede tener.
+692|Sin cuenta, sin inicio de sesión y sin nube propietaria. Rige el principio de minimización de datos: el desarrollador declara no recoger datos personales ni cederlos a terceros; los ajustes y los contactos se quedan en el dispositivo.
+693|En las versiones Android y en los idiomas admitidos, las palabras clave las reconoce la inteligencia artificial instalada en el dispositivo, no un servicio en línea: no se envía nada a la red para entender que estás pidiendo ayuda y el auxilio se pone en marcha antes.
+694|El envío de los avisos, en cambio, requiere las conexiones propias del canal elegido: datos móviles, SMS o telefonía.
+695|Activación rápida
+696|Varios puntos de activación, porque falta el tiempo
+697|Las apps están pensadas para la emergencia, cuando no hay tiempo de sacar el teléfono, desbloquearlo y buscar la app. Por eso cada una ofrece varias formas de enviar la petición de ayuda.
+698|Comandos de voz, incluso con la pantalla apagada y el teléfono a unos metros
+699|Tecla de emergencia en la app, botón rápido en la pantalla de inicio y notificación permanente
+700|App compañera para relojes inteligentes o app autónoma para Wear OS
+701|button4help™, el botón externo para llevar en el bolsillo, en el bolso o al cuello
+702|El botón que llevas en el bolsillo y que dispara la alarma de AI help You y de no pAIn™ para iPhone, una vez emparejado con la app: por sí solo no tiene funciones de emergencia. Qué es, qué no es y dónde comprarlo.
+703|Por sí solo no tiene ninguna función de emergencia: es un botón Bluetooth de un fabricante externo y se convierte en activador de alarma solo tras el emparejamiento con la app, que se hace una vez con un asistente guiado. Las apps que lo reconocen son AI help You para Android y no pAIn™ (Proteggimi) para iPhone, a partir de la versión 59. Se compra en <a href="https://it.aliexpress.com/item/1005008509583971.html" target="_blank" rel="noopener">AliExpress</a>, a un vendedor externo: no pAIn™ no lo vende. Si tienes dudas sobre la compatibilidad con tu teléfono, <a href="mailto:agostino.giorgio@poliba.it" data-mail="private">escribe al diseñador</a>.
+704|Los recuadros de Instagram se cargan desde los servidores de Instagram: al abrir la página, tu navegador se conecta a ellos.
+705|Organizaciones
+706|Cómo funciona la tecnología →
+707|no pAIn™ — Vídeos y demos
+708|Los vídeos del proyecto no pAIn™: la ubicación enviada por el teléfono de la víctima, las demos de las apps, el reloj inteligente y el botón button4help™.
+709|Vídeos y demos
+710|Ver qué pasa <span class="hl">cuando salta la alarma.</span>
+711|Todos los vídeos del proyecto en una página: escenas de ficción, grabadas con fines demostrativos, que muestran cómo las apps no pAIn™ piden ayuda en tu lugar y qué reciben tus contactos.
+712|El vídeo que hay que ver primero
+713|La ubicación la manda tu teléfono, <span class="hl">no una central de emergencias.</span>
+714|En un secuestro el tiempo lo es todo. En la cadena habitual hay que conseguir llamar, explicar dónde estás y esperar a que la central localice el teléfono. Con no pAIn™ esa parte sobra: es el dispositivo de la víctima el que transmite por sí solo la ubicación, actualizada, a quien debe intervenir.
+715|<strong>Agresión y secuestro: la alarma sale con la ubicación</strong>El reel está publicado en el perfil de Instagram del proyecto. Escenas de ficción, con fines demostrativos.
+716|Por qué este detalle puede salvar una vida
+717|<b>Ninguna llamada que hacer.</b> Quien sufre una agresión o es llevada por la fuerza no consigue llamar, hablar ni describir dónde está. La alarma sale con la voz, con una tecla o con button4help™, sin decir una palabra a nadie.
+718|<b>La ubicación llega ya lista.</b> Coordenadas, dirección y enlace al mapa salen del teléfono de la víctima y llegan a los contactos de confianza, que pueden pasarlos enseguida a las fuerzas del orden.
+719|<b>La ubicación se sigue actualizando.</b> Si el agresor se mueve, quien acude ve el recorrido en directo: no persigue un punto de hace minutos.
+720|<b>Se saltan los pasos que cuestan tiempo.</b> No hace falta que una central localice el teléfono: en un secuestro, ese tiempo es la diferencia entre llegar a tiempo y llegar demasiado tarde.
+721|Las demos de las apps
+722|Cuatro situaciones, cuatro formas de pedir ayuda.
+723|La voz, el reloj inteligente, el botón en el bolsillo: cada vídeo muestra un punto de activación distinto y qué ocurre al otro lado, cuando los contactos reciben la alarma. Los vídeos tienen sonido.
+724|Otros vídeos
+725|El reel de button4help™ y el perfil de Instagram.
+726|En el perfil del proyecto encuentras más vídeos breves, los carteles y las novedades sobre las apps.
+727|Abrir Instagram <span class="arr">↗</span>
+728|Reel de Instagram de no pAIn: agresión y secuestro, la alarma sale con la ubicación
+729|Ver los vídeos <span class="arr">→</span>
+730|El manual
+731|El manual ya está dentro de la app, en el reloj
+732|En el teléfono puedes instalar la misma guía como app: <a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.aibutton" target="_blank" rel="noopener">ábrela en Google Play ↗</a>
+733|Desde la guía del teléfono se instala también la app en el reloj, para quien todavía no la tenga
+734|El manual de Proteggimi para Android es un PDF en italiano: se abre en el navegador y se puede guardar. La sección sobre Telegram explica cómo conectar los contactos al bot en pocos pasos. La duración de la ubicación en tiempo real cambia de una app a otra: consulta las opciones de la app instalada.
+735|Manual de Proteggimi, Android (PDF) <span class="arr">↗</span>
+736|Telegram: cómo conectar tus contactos (PDF) <span class="arr">↗</span>
+737|Manual de Proteggimi para Android (PDF) ↗

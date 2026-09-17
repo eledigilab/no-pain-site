@@ -4006,5 +4006,419 @@
   "k": "f66f4ce9",
   "p": "index.html",
   "it": "Progetto ideato e sviluppato dal <strong>Prof. Ing. Agostino Giorgio</strong><br>Docente del Politecnico di Bari"
+ },
+ {
+  "n": "669",
+  "k": "f4bd78d6",
+  "p": "index.html",
+  "it": "Le tre caratteristiche di digital4help™"
+ },
+ {
+  "n": "670",
+  "k": "d5c0ee83",
+  "p": "index.html",
+  "it": "Privacy totale, attivazione rapida, intelligenza artificiale a bordo."
+ },
+ {
+  "n": "671",
+  "k": "6ffe8873",
+  "p": "index.html",
+  "it": "<b>Comunicazione diretta, senza intermediari (P2P).</b> Per chiedere aiuto non si passa da servizi proprietari, centrali operative o abbonamenti a servizi di emergenza: l'allarme va dal tuo dispositivo direttamente a uno o due contatti fidati, scelti da te quando configuri l'app, insieme alla tua posizione. Sono loro a raggiungerti o ad avvertire le forze dell'ordine, spiegando con calma tutti i dettagli che servono per intervenire: quella calma che tu, in pericolo, non avresti."
+ },
+ {
+  "n": "672",
+  "k": "3a647906",
+  "p": "index.html",
+  "it": "<b>Attivazione rapida, da più punti.</b> Nell'emergenza manca il tempo per prendere il telefono, sbloccarlo e aprire l'app. Per questo ogni app offre più modi per far partire l'allarme: la voce, un tasto sull'app compagna per smartwatch o il pulsante button4help™, un dispositivo esterno da tenere addosso. L'allarme parte anche con il telefono lontano dalle mani."
+ },
+ {
+  "n": "673",
+  "k": "3e222c27",
+  "p": "index.html",
+  "it": "<b>Intelligenza artificiale che lavora offline.</b> Le parole chiave le riconosce l'intelligenza artificiale installata nel dispositivo, non un servizio online: niente viene mandato in rete per capire che stai chiedendo aiuto e la richiesta di soccorso parte prima."
+ },
+ {
+  "n": "674",
+  "k": "d17e81d9",
+  "p": "index.html",
+  "it": "<strong>Le tre caratteristiche in una locandina</strong>Privacy totale, IA offline e attivazione rapida. In inglese."
+ },
+ {
+  "n": "675",
+  "k": "08b141a8",
+  "p": "index.html",
+  "it": "Il pulsante che fa scattare l'allarme a distanza, dopo l'abbinamento all'app. Si acquista da un rivenditore esterno."
+ },
+ {
+  "n": "676",
+  "k": "152f8bbf",
+  "p": "index.html",
+  "it": "Locandina Technology against gender-based violence, no pAIn Project from Poliba: due mani reggono uno smartphone con lo scudo dell'app, le scritte No Trace e Safe Zone e, in basso, privacy totale (P2P), intelligenza artificiale offline senza cloud e attivazione rapida con voce, tocco, smartwatch o pulsante button4help."
+ },
+ {
+  "n": "677",
+  "k": "b41452ff",
+  "p": "button4help.html",
+  "it": "<b>Da solo non chiede aiuto.</b> button4help™ è un pulsante Bluetooth di un produttore terzo, non un prodotto no pAIn™: diventa un attivatore di emergenza soltanto dopo l'abbinamento all'app AI help You su Android o all'app no pAIn™ (Proteggimi) per iPhone, dalla versione 59 in poi."
+ },
+ {
+  "n": "678",
+  "k": "916b8fd2",
+  "p": "button4help.html",
+  "it": "Prima di comprarlo"
+ },
+ {
+  "n": "679",
+  "k": "aac59830",
+  "p": "button4help.html",
+  "it": "Il pulsante da solo <span class=\"hl\">non fa nulla.</span>"
+ },
+ {
+  "n": "680",
+  "k": "0e01c8af",
+  "p": "button4help.html",
+  "it": "button4help™ è un semplice pulsante Bluetooth in vendita su un negozio online: non ha una SIM, non ha un centro di assistenza dietro e non conosce la tua posizione. Le funzioni di emergenza le mette l'app no pAIn™: è l'app che riconosce il dispositivo, lo accetta come attivatore e, alla pressione, avvia messaggi, posizione e telefonate ai tuoi contatti."
+ },
+ {
+  "n": "681",
+  "k": "f3b7613f",
+  "p": "button4help.html",
+  "it": "Senza l'abbinamento all'app, il pulsante non ha alcuna funzione di soccorso."
+ },
+ {
+  "n": "682",
+  "k": "0c7a848c",
+  "p": "button4help.html",
+  "it": "Le app che lo riconoscono"
+ },
+ {
+  "n": "683",
+  "k": "d22d750d",
+  "p": "button4help.html",
+  "it": "<a class=\"link-arrow\" href=\"prodotti.html#ai-help-you\">AI help You ↗</a> per Android"
+ },
+ {
+  "n": "684",
+  "k": "6fa46b84",
+  "p": "button4help.html",
+  "it": "<a class=\"link-arrow\" href=\"prodotti.html#no-pain-ios\">no pAIn™ (Proteggimi) ↗</a> per iPhone, dalla versione 59 in poi"
+ },
+ {
+  "n": "685",
+  "k": "995f55b7",
+  "p": "button4help.html",
+  "it": "L'abbinamento si fa una volta sola, dall'app, con una procedura guidata di pochi passaggi. Proteggimi per Android e AIuto SOS per Wear OS non usano il pulsante."
+ },
+ {
+  "n": "686",
+  "k": "e7373d91",
+  "p": "button4help.html",
+  "it": "AI help You (Android) e no pAIn™ (iPhone) dalla versione 59, dopo l'abbinamento"
+ },
+ {
+  "n": "687",
+  "k": "f3e4dc02",
+  "p": "button4help.html",
+  "it": "Apri AI help You su Android oppure no pAIn™ per iPhone, dalla versione 59 in poi, e segui la procedura guidata di abbinamento: pochi passaggi, una volta sola. Da quel momento l'app riconosce il pulsante e lo accetta come attivatore. Poi fai una prova concordata con i tuoi contatti."
+ },
+ {
+  "n": "688",
+  "k": "46459c8e",
+  "p": "button4help.html",
+  "it": "Comprarlo ha senso solo se usi AI help You su Android o no pAIn™ per iPhone, dalla versione 59 in poi: sono le app che lo trasformano in un attivatore di emergenza. Da solo il pulsante non chiede aiuto a nessuno."
+ },
+ {
+  "n": "689",
+  "k": "29ac5eae",
+  "p": "ricerca.html",
+  "it": "Dal tuo dispositivo ai tuoi contatti, senza intermediari"
+ },
+ {
+  "n": "690",
+  "k": "4d01a4aa",
+  "p": "ricerca.html",
+  "it": "Tecnologia peer-to-peer: per chiedere soccorso non si passa da servizi proprietari, centrali operative o abbonamenti a servizi di emergenza. L’allarme, con la geolocalizzazione, va dal tuo dispositivo direttamente a uno o due contatti fidati, che scegli tu quando configuri l’app."
+ },
+ {
+  "n": "691",
+  "k": "55ffd284",
+  "p": "ricerca.html",
+  "it": "Sono loro a decidere come intervenire: raggiungerti di persona oppure allertare le forze dell’ordine, descrivendo con calma tutti i dettagli utili all’intervento. È una calma che chi si trova in pericolo non può avere."
+ },
+ {
+  "n": "692",
+  "k": "d67a69d7",
+  "p": "ricerca.html",
+  "it": "Niente account, login o cloud proprietario. Vale il principio della minimizzazione dei dati: lo sviluppatore dichiara di non raccogliere dati personali e di non cederli a terzi; impostazioni e contatti restano sul dispositivo."
+ },
+ {
+  "n": "693",
+  "k": "ca3e5aff",
+  "p": "ricerca.html",
+  "it": "Nelle versioni Android e nelle lingue abilitate, le parole chiave le riconosce l'intelligenza artificiale installata nel dispositivo, non un servizio online: niente viene mandato in rete per capire che stai chiedendo aiuto e l'avvio dei soccorsi è più rapido."
+ },
+ {
+  "n": "694",
+  "k": "8764a7d2",
+  "p": "ricerca.html",
+  "it": "L'invio degli avvisi richiede invece le connessioni necessarie al canale scelto: rete dati, SMS o telefonia."
+ },
+ {
+  "n": "695",
+  "k": "2f5a4abe",
+  "p": "ricerca.html",
+  "it": "Attivazione rapida"
+ },
+ {
+  "n": "696",
+  "k": "9006d99d",
+  "p": "ricerca.html",
+  "it": "Più punti di attivazione, perché il tempo manca"
+ },
+ {
+  "n": "697",
+  "k": "7f8f8783",
+  "p": "ricerca.html",
+  "it": "Le app sono pensate per l'emergenza, quando non c'è tempo di prendere il telefono, sbloccarlo e cercare l'app. Per questo ogni app offre più modi per far partire la richiesta di aiuto."
+ },
+ {
+  "n": "698",
+  "k": "57db6331",
+  "p": "ricerca.html",
+  "it": "Comandi vocali, anche a schermo spento e con il telefono a qualche metro"
+ },
+ {
+  "n": "699",
+  "k": "d3171380",
+  "p": "ricerca.html",
+  "it": "Tasto di emergenza nell'app, tasto rapido sulla schermata home e notifica persistente"
+ },
+ {
+  "n": "700",
+  "k": "ddbd40a9",
+  "p": "ricerca.html",
+  "it": "App compagna per smartwatch, oppure app autonoma per Wear OS"
+ },
+ {
+  "n": "701",
+  "k": "43946b0d",
+  "p": "ricerca.html",
+  "it": "button4help™, il pulsante esterno da tenere in tasca, in borsa o al collo"
+ },
+ {
+  "n": "702",
+  "k": "2dc7bc3a",
+  "p": "prodotti.html",
+  "it": "Il pulsante da tenere in tasca che fa scattare l'allarme di AI help You e di no pAIn™ per iPhone, una volta abbinato all'app: da solo non ha funzioni di emergenza. Cos'è, cosa non è e dove acquistarlo."
+ },
+ {
+  "n": "703",
+  "k": "4d3404ef",
+  "p": "domande.html",
+  "it": "Da solo non ha alcuna funzione di emergenza: è un pulsante Bluetooth di un produttore terzo e diventa un attivatore di allarme solo dopo l'abbinamento all'app, che si fa una volta sola con una procedura guidata. Le app che lo riconoscono sono AI help You per Android e no pAIn™ (Proteggimi) per iPhone, dalla versione 59 in poi. Si acquista su <a href=\"https://it.aliexpress.com/item/1005008509583971.html\" target=\"_blank\" rel=\"noopener\">AliExpress</a>, da un venditore terzo: no pAIn™ non lo vende. Per dubbi sulla compatibilità con il tuo telefono, <a href=\"mailto:agostino.giorgio@poliba.it\" data-mail=\"private\">scrivi al progettista</a>."
+ },
+ {
+  "n": "704",
+  "k": "89654736",
+  "p": "video.html",
+  "it": "I riquadri di Instagram sono caricati dai server di Instagram: aprendo la pagina il tuo browser si collega a loro."
+ },
+ {
+  "n": "705",
+  "k": "ae1cb124",
+  "p": "index.html",
+  "it": "Enti e aziende"
+ },
+ {
+  "n": "706",
+  "k": "f2a678a9",
+  "p": "index.html",
+  "it": "Come funziona la tecnologia →"
+ },
+ {
+  "n": "707",
+  "k": "e61e3281",
+  "p": "video.html",
+  "it": "no pAIn™ — Video e demo"
+ },
+ {
+  "n": "708",
+  "k": "de9a81e6",
+  "p": "video.html",
+  "it": "I video del progetto no pAIn™: la posizione inviata dal telefono della vittima, le demo delle app, lo smartwatch e il pulsante button4help™."
+ },
+ {
+  "n": "709",
+  "k": "112b8d4a",
+  "p": "video.html",
+  "it": "Video e demo"
+ },
+ {
+  "n": "710",
+  "k": "3a2d8993",
+  "p": "video.html",
+  "it": "Vedere cosa succede <span class=\"hl\">quando parte l'allarme.</span>"
+ },
+ {
+  "n": "711",
+  "k": "471b1f4c",
+  "p": "video.html",
+  "it": "Tutti i video del progetto raccolti in una pagina: scene di finzione, girate a scopo dimostrativo, che mostrano come le app no pAIn™ chiedono aiuto al posto tuo e cosa ricevono i tuoi contatti."
+ },
+ {
+  "n": "712",
+  "k": "00079da3",
+  "p": "video.html",
+  "it": "Il video da vedere per primo"
+ },
+ {
+  "n": "713",
+  "k": "72e6303f",
+  "p": "video.html",
+  "it": "La posizione la manda il tuo telefono, <span class=\"hl\">non la sala operativa.</span>"
+ },
+ {
+  "n": "714",
+  "k": "8b646335",
+  "p": "video.html",
+  "it": "In un rapimento il tempo è tutto. Nella catena tradizionale bisogna riuscire a chiamare, spiegare dove si è e aspettare che la sala operativa individui il telefono. Con no pAIn™ quella parte non serve: è il dispositivo della vittima a trasmettere da solo la posizione, aggiornata, a chi deve intervenire."
+ },
+ {
+  "n": "715",
+  "k": "0ff5b460",
+  "p": "video.html",
+  "it": "<strong>Aggressione e rapimento: l'allarme parte con la posizione</strong>Il reel è pubblicato sul profilo Instagram del progetto. Scene di finzione, a scopo dimostrativo."
+ },
+ {
+  "n": "716",
+  "k": "5fe2906d",
+  "p": "video.html",
+  "it": "Perché questo dettaglio può salvare una vita"
+ },
+ {
+  "n": "717",
+  "k": "6cf8a654",
+  "p": "video.html",
+  "it": "<b>Nessuna telefonata da fare.</b> Chi viene aggredita o portata via non riesce a chiamare, a parlare e a descrivere dove si trova. L'allarme parte con la voce, con un tasto o con button4help™, senza dire una parola a nessuno."
+ },
+ {
+  "n": "718",
+  "k": "5fb6e947",
+  "p": "video.html",
+  "it": "<b>La posizione arriva già pronta.</b> Coordinate, indirizzo e link alla mappa partono dal telefono della vittima e arrivano ai contatti fidati, che possono passarli subito alle forze dell'ordine."
+ },
+ {
+  "n": "719",
+  "k": "2adc9f86",
+  "p": "video.html",
+  "it": "<b>La posizione continua ad aggiornarsi.</b> Se l'aggressore si sposta, chi soccorre vede il percorso in diretta: non insegue un punto vecchio di minuti."
+ },
+ {
+  "n": "720",
+  "k": "a97d8e64",
+  "p": "video.html",
+  "it": "<b>Si saltano i passaggi che costano tempo.</b> Non serve che una sala operativa localizzi il telefono: quel tempo, in un rapimento, è la differenza tra arrivare in tempo e arrivare troppo tardi."
+ },
+ {
+  "n": "721",
+  "k": "6861abdc",
+  "p": "video.html",
+  "it": "Le demo delle app"
+ },
+ {
+  "n": "722",
+  "k": "44d925f5",
+  "p": "video.html",
+  "it": "Quattro situazioni, quattro modi di chiedere aiuto."
+ },
+ {
+  "n": "723",
+  "k": "b87e5f27",
+  "p": "video.html",
+  "it": "La voce, lo smartwatch, il pulsante in tasca: ogni video mostra un punto di attivazione diverso e cosa succede dall'altra parte, quando i contatti ricevono l'allarme. I video hanno l'audio."
+ },
+ {
+  "n": "724",
+  "k": "841a9286",
+  "p": "video.html",
+  "it": "Altri video"
+ },
+ {
+  "n": "725",
+  "k": "ab53549d",
+  "p": "video.html",
+  "it": "Il reel di button4help™ e il profilo Instagram."
+ },
+ {
+  "n": "726",
+  "k": "4df5ebc9",
+  "p": "video.html",
+  "it": "Sul profilo del progetto trovi altri filmati brevi, le locandine e gli aggiornamenti sulle app."
+ },
+ {
+  "n": "727",
+  "k": "9aa57233",
+  "p": "video.html",
+  "it": "Apri Instagram <span class=\"arr\">↗</span>"
+ },
+ {
+  "n": "728",
+  "k": "b242f51b",
+  "p": "video.html",
+  "it": "Reel Instagram no pAIn: aggressione e rapimento, l'allarme parte con la posizione"
+ },
+ {
+  "n": "729",
+  "k": "ffa01866",
+  "p": "index.html",
+  "it": "Guarda i video <span class=\"arr\">→</span>"
+ },
+ {
+  "n": "730",
+  "k": "4835c7a9",
+  "p": "prodotti.html",
+  "it": "Il manuale"
+ },
+ {
+  "n": "731",
+  "k": "5196672a",
+  "p": "prodotti.html",
+  "it": "Il manuale è già dentro l'app, sull'orologio"
+ },
+ {
+  "n": "732",
+  "k": "1933dc99",
+  "p": "prodotti.html",
+  "it": "Sul telefono puoi installare la stessa guida come app: <a class=\"link-arrow\" href=\"https://play.google.com/store/apps/details?id=com.agiotech.aibutton\" target=\"_blank\" rel=\"noopener\">aprila su Google Play ↗</a>"
+ },
+ {
+  "n": "733",
+  "k": "1e5e285b",
+  "p": "prodotti.html",
+  "it": "Dalla guida sul telefono si installa anche l'app sull'orologio, per chi non ce l'ha ancora"
+ },
+ {
+  "n": "734",
+  "k": "9b95d6a5",
+  "p": "prodotti.html",
+  "it": "Il manuale di Proteggimi per Android è un PDF in italiano: si apre nel browser e si può salvare. La sezione su Telegram spiega come collegare i contatti al bot in pochi passaggi. La durata della posizione live cambia da un'app all'altra: controlla le opzioni dell'app installata."
+ },
+ {
+  "n": "735",
+  "k": "a21f8077",
+  "p": "prodotti.html",
+  "it": "Manuale Proteggimi, Android (PDF) <span class=\"arr\">↗</span>"
+ },
+ {
+  "n": "736",
+  "k": "8984e1be",
+  "p": "prodotti.html",
+  "it": "Telegram: come collegare i contatti (PDF) <span class=\"arr\">↗</span>"
+ },
+ {
+  "n": "737",
+  "k": "4c4cb0a1",
+  "p": "prodotti.html",
+  "it": "Manuale Proteggimi per Android (PDF) ↗"
  }
 ]

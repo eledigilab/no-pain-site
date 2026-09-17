@@ -2535,6 +2535,282 @@
   "it": "Progetto ideato e sviluppato dal <strong>Prof. Ing. Agostino Giorgio</strong><br>Docente del Politecnico di Bari",
   "tr": "Proiect conceput și dezvoltat de <strong>Prof. Ing. Agostino Giorgio</strong><br>Cadru didactic la Politecnico di Bari"
  },
+ "f4bd78d6": {
+  "it": "Le tre caratteristiche di digital4help™",
+  "tr": "Cele trei caracteristici ale digital4help™"
+ },
+ "d5c0ee83": {
+  "it": "Privacy totale, attivazione rapida, intelligenza artificiale a bordo.",
+  "tr": "Confidențialitate totală, activare rapidă, inteligență artificială la bord."
+ },
+ "6ffe8873": {
+  "it": "<b>Comunicazione diretta, senza intermediari (P2P).</b> Per chiedere aiuto non si passa da servizi proprietari, centrali operative o abbonamenti a servizi di emergenza: l'allarme va dal tuo dispositivo direttamente a uno o due contatti fidati, scelti da te quando configuri l'app, insieme alla tua posizione. Sono loro a raggiungerti o ad avvertire le forze dell'ordine, spiegando con calma tutti i dettagli che servono per intervenire: quella calma che tu, in pericolo, non avresti.",
+  "tr": "<b>Comunicare directă, fără intermediari (P2P).</b> Ca să ceri ajutor nu treci prin servicii proprietare, dispecerate sau abonamente la servicii de urgență: alarma pleacă de pe dispozitivul tău direct către una sau două persoane de încredere, alese de tine când configurezi aplicația, împreună cu locația ta. Ele vin la tine sau anunță poliția, explicând cu calm toate detaliile necesare intervenției: acel calm pe care tu, în pericol, nu l-ai avea."
+ },
+ "3a647906": {
+  "it": "<b>Attivazione rapida, da più punti.</b> Nell'emergenza manca il tempo per prendere il telefono, sbloccarlo e aprire l'app. Per questo ogni app offre più modi per far partire l'allarme: la voce, un tasto sull'app compagna per smartwatch o il pulsante button4help™, un dispositivo esterno da tenere addosso. L'allarme parte anche con il telefono lontano dalle mani.",
+  "tr": "<b>Activare rapidă, din mai multe puncte.</b> În urgență nu e timp să scoți telefonul, să îl deblochezi și să deschizi aplicația. De aceea fiecare aplicație oferă mai multe moduri de a porni alarma: vocea, un buton din aplicația însoțitoare de pe ceasul inteligent sau butonul button4help™, un dispozitiv extern pe care îl porți la tine. Alarma pleacă și cu telefonul departe de mâini."
+ },
+ "3e222c27": {
+  "it": "<b>Intelligenza artificiale che lavora offline.</b> Le parole chiave le riconosce l'intelligenza artificiale installata nel dispositivo, non un servizio online: niente viene mandato in rete per capire che stai chiedendo aiuto e la richiesta di soccorso parte prima.",
+  "tr": "<b>Inteligență artificială care lucrează offline.</b> Cuvintele-cheie sunt recunoscute de inteligența artificială instalată pe dispozitiv, nu de un serviciu online: nimic nu este trimis în rețea pentru a înțelege că ceri ajutor, iar cererea de ajutor pleacă mai devreme."
+ },
+ "d17e81d9": {
+  "it": "<strong>Le tre caratteristiche in una locandina</strong>Privacy totale, IA offline e attivazione rapida. In inglese.",
+  "tr": "<strong>Cele trei caracteristici într-un afiș</strong>Confidențialitate totală, IA offline și activare rapidă. În engleză."
+ },
+ "08b141a8": {
+  "it": "Il pulsante che fa scattare l'allarme a distanza, dopo l'abbinamento all'app. Si acquista da un rivenditore esterno.",
+  "tr": "Butonul care pornește alarma de la distanță, după asocierea cu aplicația. Se cumpără de la un comerciant extern."
+ },
+ "152f8bbf": {
+  "it": "Locandina Technology against gender-based violence, no pAIn Project from Poliba: due mani reggono uno smartphone con lo scudo dell'app, le scritte No Trace e Safe Zone e, in basso, privacy totale (P2P), intelligenza artificiale offline senza cloud e attivazione rapida con voce, tocco, smartwatch o pulsante button4help.",
+  "tr": "Afișul Technology against gender-based violence, no pAIn Project from Poliba: două mâini țin un smartphone cu scutul aplicației, inscripțiile No Trace și Safe Zone și, jos, confidențialitate totală (P2P), inteligență artificială offline fără cloud și activare rapidă prin voce, atingere, ceas inteligent sau butonul button4help."
+ },
+ "b41452ff": {
+  "it": "<b>Da solo non chiede aiuto.</b> button4help™ è un pulsante Bluetooth di un produttore terzo, non un prodotto no pAIn™: diventa un attivatore di emergenza soltanto dopo l'abbinamento all'app AI help You su Android o all'app no pAIn™ (Proteggimi) per iPhone, dalla versione 59 in poi.",
+  "tr": "<b>Singur nu cere ajutor.</b> button4help™ este un buton Bluetooth al unui producător terț, nu un produs no pAIn™: devine declanșator de urgență doar după asocierea cu aplicația AI help You pe Android sau cu aplicația no pAIn™ (Proteggimi) pentru iPhone, de la versiunea 59 în sus."
+ },
+ "916b8fd2": {
+  "it": "Prima di comprarlo",
+  "tr": "Înainte să îl cumperi"
+ },
+ "aac59830": {
+  "it": "Il pulsante da solo <span class=\"hl\">non fa nulla.</span>",
+  "tr": "Singur, butonul <span class=\"hl\">nu face nimic.</span>"
+ },
+ "0e01c8af": {
+  "it": "button4help™ è un semplice pulsante Bluetooth in vendita su un negozio online: non ha una SIM, non ha un centro di assistenza dietro e non conosce la tua posizione. Le funzioni di emergenza le mette l'app no pAIn™: è l'app che riconosce il dispositivo, lo accetta come attivatore e, alla pressione, avvia messaggi, posizione e telefonate ai tuoi contatti.",
+  "tr": "button4help™ este un simplu buton Bluetooth vândut într-un magazin online: nu are cartelă SIM, nu are un centru de asistență în spate și nu îți cunoaște locația. Funcțiile de urgență le oferă aplicația no pAIn™: ea recunoaște dispozitivul, îl acceptă ca declanșator și, la apăsare, trimite mesaje, locația și apeluri către contactele tale."
+ },
+ "f3b7613f": {
+  "it": "Senza l'abbinamento all'app, il pulsante non ha alcuna funzione di soccorso.",
+  "tr": "Fără asocierea cu aplicația, butonul nu are nicio funcție de ajutor."
+ },
+ "0c7a848c": {
+  "it": "Le app che lo riconoscono",
+  "tr": "Aplicațiile care îl recunosc"
+ },
+ "d22d750d": {
+  "it": "<a class=\"link-arrow\" href=\"prodotti.html#ai-help-you\">AI help You ↗</a> per Android",
+  "tr": "<a class=\"link-arrow\" href=\"prodotti.html#ai-help-you\">AI help You ↗</a> pentru Android"
+ },
+ "6fa46b84": {
+  "it": "<a class=\"link-arrow\" href=\"prodotti.html#no-pain-ios\">no pAIn™ (Proteggimi) ↗</a> per iPhone, dalla versione 59 in poi",
+  "tr": "<a class=\"link-arrow\" href=\"prodotti.html#no-pain-ios\">no pAIn™ (Proteggimi) ↗</a> pentru iPhone, de la versiunea 59 în sus"
+ },
+ "995f55b7": {
+  "it": "L'abbinamento si fa una volta sola, dall'app, con una procedura guidata di pochi passaggi. Proteggimi per Android e AIuto SOS per Wear OS non usano il pulsante.",
+  "tr": "Asocierea se face o singură dată, din aplicație, printr-o procedură ghidată de câțiva pași. Proteggimi pentru Android și AIuto SOS pentru Wear OS nu folosesc butonul."
+ },
+ "e7373d91": {
+  "it": "AI help You (Android) e no pAIn™ (iPhone) dalla versione 59, dopo l'abbinamento",
+  "tr": "AI help You (Android) și no pAIn™ (iPhone) de la versiunea 59, după asociere"
+ },
+ "f3e4dc02": {
+  "it": "Apri AI help You su Android oppure no pAIn™ per iPhone, dalla versione 59 in poi, e segui la procedura guidata di abbinamento: pochi passaggi, una volta sola. Da quel momento l'app riconosce il pulsante e lo accetta come attivatore. Poi fai una prova concordata con i tuoi contatti.",
+  "tr": "Deschide AI help You pe Android sau no pAIn™ pentru iPhone, de la versiunea 59 în sus, și urmează procedura ghidată de asociere: câțiva pași, o singură dată. De atunci aplicația recunoaște butonul și îl acceptă ca declanșator. Apoi fă o probă stabilită dinainte cu contactele tale."
+ },
+ "46459c8e": {
+  "it": "Comprarlo ha senso solo se usi AI help You su Android o no pAIn™ per iPhone, dalla versione 59 in poi: sono le app che lo trasformano in un attivatore di emergenza. Da solo il pulsante non chiede aiuto a nessuno.",
+  "tr": "Merită cumpărat doar dacă folosești AI help You pe Android sau no pAIn™ pentru iPhone, de la versiunea 59 în sus: aceste aplicații îl transformă într-un declanșator de urgență. Singur, butonul nu cere ajutor nimănui."
+ },
+ "29ac5eae": {
+  "it": "Dal tuo dispositivo ai tuoi contatti, senza intermediari",
+  "tr": "De la dispozitivul tău la contactele tale, fără intermediari"
+ },
+ "4d01a4aa": {
+  "it": "Tecnologia peer-to-peer: per chiedere soccorso non si passa da servizi proprietari, centrali operative o abbonamenti a servizi di emergenza. L’allarme, con la geolocalizzazione, va dal tuo dispositivo direttamente a uno o due contatti fidati, che scegli tu quando configuri l’app.",
+  "tr": "Tehnologie peer-to-peer: ca să ceri ajutor nu treci prin servicii proprietare, dispecerate sau abonamente la servicii de urgență. Alarma, cu geolocalizarea, pleacă de pe dispozitivul tău direct către una sau două persoane de încredere, pe care le alegi când configurezi aplicația."
+ },
+ "55ffd284": {
+  "it": "Sono loro a decidere come intervenire: raggiungerti di persona oppure allertare le forze dell’ordine, descrivendo con calma tutti i dettagli utili all’intervento. È una calma che chi si trova in pericolo non può avere.",
+  "tr": "Ele decid cum să intervină: să vină personal sau să anunțe poliția, descriind cu calm toate detaliile utile intervenției. Este un calm pe care cine se află în pericol nu îl poate avea."
+ },
+ "d67a69d7": {
+  "it": "Niente account, login o cloud proprietario. Vale il principio della minimizzazione dei dati: lo sviluppatore dichiara di non raccogliere dati personali e di non cederli a terzi; impostazioni e contatti restano sul dispositivo.",
+  "tr": "Fără cont, autentificare sau cloud propriu. Se aplică principiul minimizării datelor: dezvoltatorul declară că nu colectează date personale și nu le cedează terților; setările și contactele rămân pe dispozitiv."
+ },
+ "ca3e5aff": {
+  "it": "Nelle versioni Android e nelle lingue abilitate, le parole chiave le riconosce l'intelligenza artificiale installata nel dispositivo, non un servizio online: niente viene mandato in rete per capire che stai chiedendo aiuto e l'avvio dei soccorsi è più rapido.",
+  "tr": "În versiunile Android și în limbile acceptate, cuvintele-cheie sunt recunoscute de inteligența artificială instalată pe dispozitiv, nu de un serviciu online: nimic nu este trimis în rețea pentru a înțelege că ceri ajutor, iar ajutorul pornește mai repede."
+ },
+ "8764a7d2": {
+  "it": "L'invio degli avvisi richiede invece le connessioni necessarie al canale scelto: rete dati, SMS o telefonia.",
+  "tr": "Trimiterea alertelor cere în schimb conexiunile necesare canalului ales: date mobile, SMS sau telefonie."
+ },
+ "2f5a4abe": {
+  "it": "Attivazione rapida",
+  "tr": "Activare rapidă"
+ },
+ "9006d99d": {
+  "it": "Più punti di attivazione, perché il tempo manca",
+  "tr": "Mai multe puncte de activare, pentru că timpul lipsește"
+ },
+ "7f8f8783": {
+  "it": "Le app sono pensate per l'emergenza, quando non c'è tempo di prendere il telefono, sbloccarlo e cercare l'app. Per questo ogni app offre più modi per far partire la richiesta di aiuto.",
+  "tr": "Aplicațiile sunt gândite pentru urgență, când nu e timp să scoți telefonul, să îl deblochezi și să cauți aplicația. De aceea fiecare oferă mai multe moduri de a trimite cererea de ajutor."
+ },
+ "57db6331": {
+  "it": "Comandi vocali, anche a schermo spento e con il telefono a qualche metro",
+  "tr": "Comenzi vocale, chiar și cu ecranul stins și telefonul la câțiva metri"
+ },
+ "d3171380": {
+  "it": "Tasto di emergenza nell'app, tasto rapido sulla schermata home e notifica persistente",
+  "tr": "Buton de urgență în aplicație, buton rapid pe ecranul de pornire și notificare permanentă"
+ },
+ "ddbd40a9": {
+  "it": "App compagna per smartwatch, oppure app autonoma per Wear OS",
+  "tr": "Aplicație însoțitoare pentru ceasuri inteligente sau aplicație autonomă pentru Wear OS"
+ },
+ "43946b0d": {
+  "it": "button4help™, il pulsante esterno da tenere in tasca, in borsa o al collo",
+  "tr": "button4help™, butonul extern de ținut în buzunar, în geantă sau la gât"
+ },
+ "2dc7bc3a": {
+  "it": "Il pulsante da tenere in tasca che fa scattare l'allarme di AI help You e di no pAIn™ per iPhone, una volta abbinato all'app: da solo non ha funzioni di emergenza. Cos'è, cosa non è e dove acquistarlo.",
+  "tr": "Butonul de ținut în buzunar care pornește alarma din AI help You și din no pAIn™ pentru iPhone, după asocierea cu aplicația: singur nu are funcții de urgență. Ce este, ce nu este și de unde se cumpără."
+ },
+ "4d3404ef": {
+  "it": "Da solo non ha alcuna funzione di emergenza: è un pulsante Bluetooth di un produttore terzo e diventa un attivatore di allarme solo dopo l'abbinamento all'app, che si fa una volta sola con una procedura guidata. Le app che lo riconoscono sono AI help You per Android e no pAIn™ (Proteggimi) per iPhone, dalla versione 59 in poi. Si acquista su <a href=\"https://it.aliexpress.com/item/1005008509583971.html\" target=\"_blank\" rel=\"noopener\">AliExpress</a>, da un venditore terzo: no pAIn™ non lo vende. Per dubbi sulla compatibilità con il tuo telefono, <a href=\"mailto:agostino.giorgio@poliba.it\" data-mail=\"private\">scrivi al progettista</a>.",
+  "tr": "Singur nu are nicio funcție de urgență: este un buton Bluetooth al unui producător terț și devine declanșator de alarmă doar după asocierea cu aplicația, făcută o singură dată printr-o procedură ghidată. Aplicațiile care îl recunosc sunt AI help You pentru Android și no pAIn™ (Proteggimi) pentru iPhone, de la versiunea 59 în sus. Se cumpără de pe <a href=\"https://it.aliexpress.com/item/1005008509583971.html\" target=\"_blank\" rel=\"noopener\">AliExpress</a>, de la un vânzător terț: no pAIn™ nu îl vinde. Dacă ai dubii privind compatibilitatea cu telefonul tău, <a href=\"mailto:agostino.giorgio@poliba.it\" data-mail=\"private\">scrie proiectantului</a>."
+ },
+ "89654736": {
+  "it": "I riquadri di Instagram sono caricati dai server di Instagram: aprendo la pagina il tuo browser si collega a loro.",
+  "tr": "Cadrele Instagram sunt încărcate de pe serverele Instagram: când deschizi pagina, browserul tău se conectează la ele."
+ },
+ "ae1cb124": {
+  "it": "Enti e aziende",
+  "tr": "Organizații"
+ },
+ "f2a678a9": {
+  "it": "Come funziona la tecnologia →",
+  "tr": "Cum funcționează tehnologia →"
+ },
+ "e61e3281": {
+  "it": "no pAIn™ — Video e demo",
+  "tr": "no pAIn™ — Videoclipuri și demonstrații"
+ },
+ "de9a81e6": {
+  "it": "I video del progetto no pAIn™: la posizione inviata dal telefono della vittima, le demo delle app, lo smartwatch e il pulsante button4help™.",
+  "tr": "Videoclipurile proiectului no pAIn™: locația trimisă de telefonul victimei, demonstrațiile aplicațiilor, ceasul inteligent și butonul button4help™."
+ },
+ "112b8d4a": {
+  "it": "Video e demo",
+  "tr": "Videoclipuri și demonstrații"
+ },
+ "3a2d8993": {
+  "it": "Vedere cosa succede <span class=\"hl\">quando parte l'allarme.</span>",
+  "tr": "Vezi ce se întâmplă <span class=\"hl\">când pornește alarma.</span>"
+ },
+ "471b1f4c": {
+  "it": "Tutti i video del progetto raccolti in una pagina: scene di finzione, girate a scopo dimostrativo, che mostrano come le app no pAIn™ chiedono aiuto al posto tuo e cosa ricevono i tuoi contatti.",
+  "tr": "Toate videoclipurile proiectului într-o pagină: scene de ficțiune, filmate în scop demonstrativ, care arată cum aplicațiile no pAIn™ cer ajutor în locul tău și ce primesc contactele tale."
+ },
+ "00079da3": {
+  "it": "Il video da vedere per primo",
+  "tr": "Videoclipul de văzut primul"
+ },
+ "72e6303f": {
+  "it": "La posizione la manda il tuo telefono, <span class=\"hl\">non la sala operativa.</span>",
+  "tr": "Locația o trimite telefonul tău, <span class=\"hl\">nu dispeceratul.</span>"
+ },
+ "8b646335": {
+  "it": "In un rapimento il tempo è tutto. Nella catena tradizionale bisogna riuscire a chiamare, spiegare dove si è e aspettare che la sala operativa individui il telefono. Con no pAIn™ quella parte non serve: è il dispositivo della vittima a trasmettere da solo la posizione, aggiornata, a chi deve intervenire.",
+  "tr": "Într-o răpire timpul înseamnă totul. În lanțul obișnuit trebuie să reușești să suni, să explici unde ești și să aștepți ca dispeceratul să localizeze telefonul. Cu no pAIn™ partea aceasta nu mai e nevoie: chiar dispozitivul victimei transmite singur locația, actualizată, celor care trebuie să intervină."
+ },
+ "0ff5b460": {
+  "it": "<strong>Aggressione e rapimento: l'allarme parte con la posizione</strong>Il reel è pubblicato sul profilo Instagram del progetto. Scene di finzione, a scopo dimostrativo.",
+  "tr": "<strong>Agresiune și răpire: alarma pleacă odată cu locația</strong>Reelul este publicat pe profilul de Instagram al proiectului. Scene de ficțiune, în scop demonstrativ."
+ },
+ "5fe2906d": {
+  "it": "Perché questo dettaglio può salvare una vita",
+  "tr": "De ce acest detaliu poate salva o viață"
+ },
+ "6cf8a654": {
+  "it": "<b>Nessuna telefonata da fare.</b> Chi viene aggredita o portata via non riesce a chiamare, a parlare e a descrivere dove si trova. L'allarme parte con la voce, con un tasto o con button4help™, senza dire una parola a nessuno.",
+  "tr": "<b>Niciun apel de făcut.</b> Cine este agresată sau luată cu forța nu reușește să sune, să vorbească și să descrie unde se află. Alarma pleacă prin voce, printr-un buton sau prin button4help™, fără să spună o vorbă nimănui."
+ },
+ "5fb6e947": {
+  "it": "<b>La posizione arriva già pronta.</b> Coordinate, indirizzo e link alla mappa partono dal telefono della vittima e arrivano ai contatti fidati, che possono passarli subito alle forze dell'ordine.",
+  "tr": "<b>Locația ajunge gata pregătită.</b> Coordonatele, adresa și linkul la hartă pleacă de pe telefonul victimei și ajung la contactele de încredere, care le pot transmite imediat poliției."
+ },
+ "2adc9f86": {
+  "it": "<b>La posizione continua ad aggiornarsi.</b> Se l'aggressore si sposta, chi soccorre vede il percorso in diretta: non insegue un punto vecchio di minuti.",
+  "tr": "<b>Locația continuă să se actualizeze.</b> Dacă agresorul se deplasează, cine vine în ajutor vede traseul în direct: nu aleargă după un punct vechi de câteva minute."
+ },
+ "a97d8e64": {
+  "it": "<b>Si saltano i passaggi che costano tempo.</b> Non serve che una sala operativa localizzi il telefono: quel tempo, in un rapimento, è la differenza tra arrivare in tempo e arrivare troppo tardi.",
+  "tr": "<b>Se sar pașii care costă timp.</b> Nu e nevoie ca un dispecerat să localizeze telefonul: într-o răpire, timpul acela face diferența între a ajunge la timp și a ajunge prea târziu."
+ },
+ "6861abdc": {
+  "it": "Le demo delle app",
+  "tr": "Demonstrațiile aplicațiilor"
+ },
+ "44d925f5": {
+  "it": "Quattro situazioni, quattro modi di chiedere aiuto.",
+  "tr": "Patru situații, patru moduri de a cere ajutor."
+ },
+ "b87e5f27": {
+  "it": "La voce, lo smartwatch, il pulsante in tasca: ogni video mostra un punto di attivazione diverso e cosa succede dall'altra parte, quando i contatti ricevono l'allarme. I video hanno l'audio.",
+  "tr": "Vocea, ceasul inteligent, butonul din buzunar: fiecare videoclip arată un punct de activare diferit și ce se întâmplă de cealaltă parte, când contactele primesc alarma. Videoclipurile au sunet."
+ },
+ "841a9286": {
+  "it": "Altri video",
+  "tr": "Alte videoclipuri"
+ },
+ "ab53549d": {
+  "it": "Il reel di button4help™ e il profilo Instagram.",
+  "tr": "Reelul button4help™ și profilul de Instagram."
+ },
+ "4df5ebc9": {
+  "it": "Sul profilo del progetto trovi altri filmati brevi, le locandine e gli aggiornamenti sulle app.",
+  "tr": "Pe profilul proiectului găsești alte filmulețe, afișele și noutățile despre aplicații."
+ },
+ "9aa57233": {
+  "it": "Apri Instagram <span class=\"arr\">↗</span>",
+  "tr": "Deschide Instagram <span class=\"arr\">↗</span>"
+ },
+ "b242f51b": {
+  "it": "Reel Instagram no pAIn: aggressione e rapimento, l'allarme parte con la posizione",
+  "tr": "Reel no pAIn pe Instagram: agresiune și răpire, alarma pleacă odată cu locația"
+ },
+ "ffa01866": {
+  "it": "Guarda i video <span class=\"arr\">→</span>",
+  "tr": "Vezi videoclipurile <span class=\"arr\">→</span>"
+ },
+ "4835c7a9": {
+  "it": "Il manuale",
+  "tr": "Manualul"
+ },
+ "5196672a": {
+  "it": "Il manuale è già dentro l'app, sull'orologio",
+  "tr": "Manualul este deja în aplicație, pe ceas"
+ },
+ "1933dc99": {
+  "it": "Sul telefono puoi installare la stessa guida come app: <a class=\"link-arrow\" href=\"https://play.google.com/store/apps/details?id=com.agiotech.aibutton\" target=\"_blank\" rel=\"noopener\">aprila su Google Play ↗</a>",
+  "tr": "Pe telefon poți instala același ghid ca aplicație: <a class=\"link-arrow\" href=\"https://play.google.com/store/apps/details?id=com.agiotech.aibutton\" target=\"_blank\" rel=\"noopener\">deschide-l pe Google Play ↗</a>"
+ },
+ "1e5e285b": {
+  "it": "Dalla guida sul telefono si installa anche l'app sull'orologio, per chi non ce l'ha ancora",
+  "tr": "Din ghidul de pe telefon se instalează și aplicația de pe ceas, pentru cine nu o are încă"
+ },
+ "9b95d6a5": {
+  "it": "Il manuale di Proteggimi per Android è un PDF in italiano: si apre nel browser e si può salvare. La sezione su Telegram spiega come collegare i contatti al bot in pochi passaggi. La durata della posizione live cambia da un'app all'altra: controlla le opzioni dell'app installata.",
+  "tr": "Manualul aplicației Proteggimi pentru Android este un PDF în italiană: se deschide în browser și poate fi salvat. Secțiunea despre Telegram explică cum se conectează contactele la bot în câțiva pași. Durata locației live diferă de la o aplicație la alta: verifică opțiunile aplicației instalate."
+ },
+ "a21f8077": {
+  "it": "Manuale Proteggimi, Android (PDF) <span class=\"arr\">↗</span>",
+  "tr": "Manual Proteggimi, Android (PDF) <span class=\"arr\">↗</span>"
+ },
+ "8984e1be": {
+  "it": "Telegram: come collegare i contatti (PDF) <span class=\"arr\">↗</span>",
+  "tr": "Telegram: cum îți conectezi contactele (PDF) <span class=\"arr\">↗</span>"
+ },
+ "4c4cb0a1": {
+  "it": "Manuale Proteggimi per Android (PDF) ↗",
+  "tr": "Manual Proteggimi pentru Android (PDF) ↗"
+ },
  "_ui": {
   "menu": "Meniu",
   "close": "Închide",

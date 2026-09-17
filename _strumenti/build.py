@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Genera le 8 pagine del sito no pAIn™.
+"""Genera le 9 pagine del sito no pAIn™.
 
 Sorgenti: _strumenti/pagine/*.html (solo il contenuto centrale, in italiano).
 Uscita:   le pagine .html nella cartella principale del sito.
@@ -11,7 +11,7 @@ import re
 
 TOOLS = pathlib.Path(__file__).resolve().parent
 OUT = TOOLS.parent
-VERSION = "20260917f"
+VERSION = "20260917l"
 
 # Nomi ideati dall'autore: mai tradotti, sempre con ™
 TM_TERMS = ["digital4help", "watch4help", "button4help", "no pAIn"]
@@ -29,9 +29,11 @@ PAGES = [
      "Cosa è incluso nelle versioni gratuite e Premium delle app no pAIn per Android e iPhone, con il confronto completo delle funzioni."),
     ("come-funziona.html", "Come funziona", "no pAIn — Come funziona",
      "Come si attivano le app no pAIn, quali azioni partono, come funziona watch4help e come preparare la prima configurazione."),
+    ("video.html", "Video", "no pAIn — Video e demo",
+     "I video del progetto no pAIn: la posizione inviata dal telefono della vittima, le demo delle app, lo smartwatch e il pulsante button4help."),
     ("ricerca.html", "Ricerca", "no pAIn — Tecnologia e ricerca",
      "La tecnologia e le pubblicazioni scientifiche del progetto no pAIn del Prof. Ing. Agostino Giorgio, Politecnico di Bari."),
-    ("collabora.html", "Per enti e aziende", "no pAIn — Collabora",
+    ("collabora.html", "Enti e aziende", "no pAIn — Collabora",
      "Porta no pAIn nella tua organizzazione: enti pubblici, associazioni, aziende e sponsor."),
     ("domande.html", "Domande", "no pAIn — Domande frequenti",
      "Risposte chiare sulle app no pAIn, su button4help, sulla connessione, sulla privacy e sui costi."),
@@ -144,6 +146,7 @@ FOOT = """
       <h4>Risorse</h4>
       <ul>
         <li><a href="https://poliba.wixsite.com/no_pain_privacy" target="_blank" rel="noopener">Manuali e privacy delle app ↗</a></li>
+        <li><a href="assets/guida-no-pain-android.pdf" target="_blank" rel="noopener">Manuale Proteggimi per Android (PDF) ↗</a></li>
         <li><a href="assets/no-pain-presentazione.pdf" target="_blank" rel="noopener">Presentazione del progetto (PDF, in italiano) ↗</a></li>
         <li><a href="https://www.instagram.com/no_pain_app/" target="_blank" rel="noopener">Instagram ↗</a></li>
       </ul>

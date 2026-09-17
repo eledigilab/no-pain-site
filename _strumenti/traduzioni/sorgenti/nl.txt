@@ -641,3 +641,72 @@ mail.partnerBody|Goedendag,\nik wil graag meer weten over het project no pAIn™
 666|Poster ‘Tecnologia contro la violenza di genere’ (Technologie tegen gendergerelateerd geweld), project no pAIn van het Politecnico di Bari: twee handen houden een smartphone vast met het schild van de app; onderaan volledige privacy via peer-to-peer, offline AI zonder cloud en snelle activering met stem, aanraking of smartwatch.
 667|<strong>Met je stem om hulp vragen, zonder dat het opvalt</strong>Haar telefoon is op de grond gesmeten, maar de vrouw zegt ‘non farlo’ (‘doe het niet’), een persoonlijk trefwoord: Proteggimi herkent de spraakopdracht en verstuurt het hulpverzoek. Die woorden laten de aanvaller niet merken dat er alarm is geslagen, zodat hij blijft staan en wordt gearresteerd.
 668|Project bedacht en ontwikkeld door <strong>Prof. Ir. Agostino Giorgio</strong><br>Docent aan de Politecnico di Bari
+669|De drie kenmerken van digital4help™
+670|Volledige privacy, snelle activering, kunstmatige intelligentie aan boord.
+671|<b>Rechtstreekse communicatie, zonder tussenpersoon (P2P).</b> Om hulp te vragen ga je niet via eigen diensten, meldkamers of abonnementen op hulpdiensten: het alarm gaat van je toestel rechtstreeks naar één of twee vertrouwde contacten die je zelf kiest bij het instellen van de app, samen met je locatie. Zij komen naar je toe of waarschuwen de politie en leggen rustig alle details uit die nodig zijn om in te grijpen: die rust heb je zelf niet als je in gevaar bent.
+672|<b>Snelle activering, vanaf meerdere punten.</b> In een noodgeval is er geen tijd om de telefoon te pakken, te ontgrendelen en de app te openen. Daarom biedt elke app meerdere manieren om het alarm te starten: je stem, een knop in de begeleidende app op de smartwatch of de button4help™-knop, een extern apparaatje dat je bij je draagt. Het alarm gaat ook af als de telefoon buiten handbereik is.
+673|<b>Kunstmatige intelligentie die offline werkt.</b> De trefwoorden worden herkend door de kunstmatige intelligentie op het toestel zelf, niet door een onlinedienst: er gaat niets over het netwerk om te begrijpen dat je om hulp vraagt, en de hulpvraag vertrekt eerder.
+674|<strong>De drie kenmerken op één poster</strong>Volledige privacy, offline AI en snelle activering. In het Engels.
+675|De knop die het alarm op afstand laat afgaan, zodra hij aan de app is gekoppeld. Hij wordt door een externe verkoper verkocht.
+676|Poster Technology against gender-based violence, no pAIn Project from Poliba: twee handen houden een smartphone vast met het schild van de app, de woorden No Trace en Safe Zone en onderaan volledige privacy (P2P), offline kunstmatige intelligentie zonder cloud en snelle activering met stem, aanraking, smartwatch of de button4help-knop.
+677|<b>In zijn eentje vraagt hij geen hulp.</b> button4help™ is een bluetoothknop van een externe fabrikant, geen no pAIn™-product: hij wordt pas een noodknop na koppeling met de app AI help You op Android of met de app no pAIn™ (Proteggimi) voor iPhone, vanaf versie 59.
+678|Voordat je hem koopt
+679|In zijn eentje doet de knop <span class="hl">helemaal niets.</span>
+680|button4help™ is een gewone bluetoothknop uit een webwinkel: geen simkaart, geen meldkamer erachter en hij kent je locatie niet. De noodfuncties komen van de app no pAIn™: die herkent het apparaatje, accepteert het als noodknop en stuurt bij een druk berichten, locatie en oproepen naar je contacten.
+681|Zonder koppeling met de app heeft de knop geen enkele hulpfunctie.
+682|De apps die hem herkennen
+683|<a class="link-arrow" href="prodotti.html#ai-help-you">AI help You ↗</a> voor Android
+684|<a class="link-arrow" href="prodotti.html#no-pain-ios">no pAIn™ (Proteggimi) ↗</a> voor iPhone, vanaf versie 59
+685|Koppelen doe je één keer, vanuit de app, met een begeleide procedure van een paar stappen. Proteggimi voor Android en AIuto SOS voor Wear OS gebruiken de knop niet.
+686|AI help You (Android) en no pAIn™ (iPhone) vanaf versie 59, na het koppelen
+687|Open AI help You op Android of no pAIn™ voor iPhone, vanaf versie 59, en volg de begeleide koppelprocedure: een paar stappen, één keer. Vanaf dat moment herkent de app de knop en accepteert hem als noodknop. Doe daarna een test die je met je contacten hebt afgesproken.
+688|Hem kopen heeft alleen zin als je AI help You op Android of no pAIn™ voor iPhone vanaf versie 59 gebruikt: die apps maken er een noodknop van. In zijn eentje vraagt de knop niemand om hulp.
+689|Van jouw toestel naar jouw contacten, zonder tussenpersoon
+690|Peer-to-peertechniek: om hulp te vragen ga je niet via eigen diensten, meldkamers of abonnementen op hulpdiensten. Het alarm gaat met je locatie van je toestel rechtstreeks naar één of twee vertrouwde contacten, die je kiest bij het instellen van de app.
+691|Zij beslissen hoe ze ingrijpen: zelf naar je toe komen of de politie waarschuwen en rustig alle nuttige details doorgeven. Die rust heeft iemand in gevaar niet.
+692|Geen account, geen inloggegevens, geen eigen cloud. Het beginsel van dataminimalisatie geldt: de ontwikkelaar verklaart geen persoonsgegevens te verzamelen of aan derden door te geven; instellingen en contacten blijven op het toestel.
+693|In de Android-versies en in de ondersteunde talen worden de trefwoorden herkend door de kunstmatige intelligentie op het toestel zelf, niet door een onlinedienst: er gaat niets over het netwerk om te begrijpen dat je om hulp vraagt en de hulp komt sneller op gang.
+694|Het versturen van de meldingen vraagt wel de verbindingen die het gekozen kanaal nodig heeft: mobiele data, sms of telefonie.
+695|Snelle activering
+696|Meerdere activeringspunten, omdat de tijd ontbreekt
+697|De apps zijn bedoeld voor noodgevallen, wanneer er geen tijd is om de telefoon te pakken, te ontgrendelen en de app te zoeken. Daarom biedt elke app meerdere manieren om de hulpvraag te versturen.
+698|Spraakopdrachten, ook met het scherm uit en de telefoon een paar meter verderop
+699|Noodknop in de app, snelknop op het beginscherm en vaste melding
+700|Begeleidende app voor smartwatches of zelfstandige app voor Wear OS
+701|button4help™, de externe knop voor in je zak, in je tas of om je hals
+702|De knop voor in je zak die het alarm van AI help You en van no pAIn™ voor iPhone laat afgaan, zodra hij aan de app is gekoppeld: in zijn eentje heeft hij geen noodfuncties. Wat hij is, wat hij niet is en waar je hem koopt.
+703|In zijn eentje heeft hij geen enkele noodfunctie: het is een bluetoothknop van een externe fabrikant en hij wordt pas een alarmknop na koppeling met de app, die je één keer met een begeleide procedure uitvoert. De apps die hem herkennen zijn AI help You voor Android en no pAIn™ (Proteggimi) voor iPhone, vanaf versie 59. Je koopt hem op <a href="https://it.aliexpress.com/item/1005008509583971.html" target="_blank" rel="noopener">AliExpress</a>, bij een externe verkoper: no pAIn™ verkoopt hem niet. Twijfel je of hij met jouw telefoon werkt, <a href="mailto:agostino.giorgio@poliba.it" data-mail="private">schrijf dan naar de ontwerper</a>.
+704|De Instagram-kaders worden van de servers van Instagram geladen: als je de pagina opent, maakt je browser verbinding met hen.
+705|Organisaties
+706|Hoe de techniek werkt →
+707|no pAIn™ — Video's en demo's
+708|De video's van het project no pAIn™: de locatie die de telefoon van het slachtoffer verstuurt, de demo's van de apps, de smartwatch en de button4help™-knop.
+709|Video's en demo's
+710|Zien wat er gebeurt <span class="hl">als het alarm afgaat.</span>
+711|Alle video's van het project op één pagina: gespeelde scènes, opgenomen ter demonstratie, die laten zien hoe de no pAIn™-apps in jouw plaats om hulp vragen en wat je contacten ontvangen.
+712|De video om eerst te bekijken
+713|De locatie verstuurt je telefoon zelf, <span class="hl">niet een meldkamer.</span>
+714|Bij een ontvoering telt elke seconde. In de gebruikelijke keten moet je nog kunnen bellen, uitleggen waar je bent en wachten tot de meldkamer de telefoon lokaliseert. Met no pAIn™ is dat deel overbodig: het toestel van het slachtoffer stuurt de locatie zelf, steeds bijgewerkt, naar wie moet ingrijpen.
+715|<strong>Aanval en ontvoering: het alarm gaat af met de locatie</strong>De reel staat op het Instagram-profiel van het project. Gespeelde scènes, ter demonstratie.
+716|Waarom dit detail een leven kan redden
+717|<b>Geen telefoontje nodig.</b> Wie wordt aangevallen of meegenomen, kan niet bellen, praten en vertellen waar ze is. Het alarm gaat af met de stem, met een knop of met button4help™, zonder tegen iemand een woord te zeggen.
+718|<b>De locatie komt kant-en-klaar aan.</b> Coördinaten, adres en kaartlink vertrekken vanaf de telefoon van het slachtoffer en komen bij de vertrouwde contacten, die ze meteen aan de politie kunnen doorgeven.
+719|<b>De locatie blijft bijwerken.</b> Verplaatst de aanvaller zich, dan ziet wie te hulp komt de route live: die jaagt geen punt na van minuten geleden.
+720|<b>De stappen die tijd kosten vallen weg.</b> Geen meldkamer hoeft de telefoon te lokaliseren: bij een ontvoering is die tijd het verschil tussen op tijd komen en te laat komen.
+721|De demo's van de apps
+722|Vier situaties, vier manieren om hulp te vragen.
+723|De stem, de smartwatch, de knop in je zak: elke video toont een ander activeringspunt en wat er aan de andere kant gebeurt, wanneer de contacten het alarm krijgen. De video's hebben geluid.
+724|Meer video's
+725|De reel van button4help™ en het Instagram-profiel.
+726|Op het profiel van het project vind je meer korte filmpjes, de posters en nieuws over de apps.
+727|Instagram openen <span class="arr">↗</span>
+728|Instagram-reel van no pAIn: aanval en ontvoering, het alarm gaat af met de locatie
+729|Bekijk de video’s <span class="arr">→</span>
+730|De handleiding
+731|De handleiding zit al in de app, op het horloge
+732|Op de telefoon kun je dezelfde gids als app installeren: <a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.aibutton" target="_blank" rel="noopener">open hem op Google Play ↗</a>
+733|Vanuit de gids op de telefoon installeer je ook de app op het horloge, als je die nog niet hebt
+734|De handleiding van Proteggimi voor Android is een pdf in het Italiaans: hij opent in de browser en je kunt hem bewaren. Het deel over Telegram legt uit hoe je de contacten in een paar stappen aan de bot koppelt. De duur van de live locatie verschilt per app: kijk in de opties van de app die je hebt geïnstalleerd.
+735|Handleiding Proteggimi, Android (pdf) <span class="arr">↗</span>
+736|Telegram: zo koppel je je contacten (pdf) <span class="arr">↗</span>
+737|Handleiding Proteggimi voor Android (pdf) ↗
