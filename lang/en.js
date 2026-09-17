@@ -644,6 +644,7 @@
 "6d3e7f6a": "Technology against gender-based violence · the no pAIn™ project from the Politecnico di Bari",
 "eaebb123": "Brand mark: a shield with a female figure and the words no pAIn & watch4help technologies, by no pAIn project engineering.",
 "4ca7d853": "Poster “Tecnologia contro la violenza di genere” (Technology against gender-based violence), the no pAIn project from the Politecnico di Bari: two hands hold a smartphone showing the app shield; at the bottom, total peer-to-peer privacy, offline AI without cloud and quick activation by voice, touch or smartwatch.",
-"26d9b9f8": "<strong>Asking for help by voice, without being found out</strong>Her phone has been thrown to the floor, but the woman says “non farlo” (“don't do it”), a personal keyword: Proteggimi recognises the voice command and sends the request for help. Those words don't let the attacker realise the alarm has gone off, so he stays there and is arrested."
+"26d9b9f8": "<strong>Asking for help by voice, without being found out</strong>Her phone has been thrown to the floor, but the woman says “non farlo” (“don't do it”), a personal keyword: Proteggimi recognises the voice command and sends the request for help. Those words don't let the attacker realise the alarm has gone off, so he stays there and is arrested.",
+"f66f4ce9": "Project conceived and developed by <strong>Prof. Eng. Agostino Giorgio</strong><br>Lecturer at the Politecnico di Bari"
 }
 };

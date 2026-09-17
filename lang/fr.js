@@ -645,6 +645,7 @@
 "6d3e7f6a": "Technologie contre les violences de genre · le projet no pAIn™ du Politecnico di Bari",
 "eaebb123": "Marque : un bouclier avec une silhouette féminine et l’inscription no pAIn & watch4help technologies, by no pAIn project engineering.",
 "4ca7d853": "Affiche « Tecnologia contro la violenza di genere » (Technologie contre les violences de genre), projet no pAIn du Politecnico di Bari : deux mains tiennent un smartphone affichant le bouclier de l’application ; en bas, confidentialité totale en pair-à-pair, IA hors ligne sans cloud et activation rapide par la voix, le toucher ou la montre connectée.",
-"26d9b9f8": "<strong>Demander de l’aide par la voix, sans se faire remarquer</strong>Son téléphone a été jeté à terre, mais la femme dit « non farlo » (« ne fais pas ça »), un mot-clé personnalisé : Proteggimi reconnaît la commande vocale et envoie la demande de secours. Ces mots ne font pas comprendre à l’agresseur que l’alerte est partie, si bien qu’il reste sur place et se fait arrêter."
+"26d9b9f8": "<strong>Demander de l’aide par la voix, sans se faire remarquer</strong>Son téléphone a été jeté à terre, mais la femme dit « non farlo » (« ne fais pas ça »), un mot-clé personnalisé : Proteggimi reconnaît la commande vocale et envoie la demande de secours. Ces mots ne font pas comprendre à l’agresseur que l’alerte est partie, si bien qu’il reste sur place et se fait arrêter.",
+"f66f4ce9": "Projet conçu et développé par le <strong>Prof. Ing. Agostino Giorgio</strong><br>Enseignant à l’École polytechnique de Bari"
 }
 };

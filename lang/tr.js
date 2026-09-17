@@ -645,6 +645,7 @@
 "6d3e7f6a": "Toplumsal cinsiyete dayalı şiddete karşı teknoloji · Politecnico di Bari'nin no pAIn™ projesi",
 "eaebb123": "Marka: kadın figürlü bir kalkan ve no pAIn & watch4help technologies, by no pAIn project engineering yazısı.",
 "4ca7d853": "“Tecnologia contro la violenza di genere” (Toplumsal cinsiyete dayalı şiddete karşı teknoloji) afişi, Politecnico di Bari'nin no pAIn projesi: iki el, uygulamanın kalkanını gösteren bir akıllı telefonu tutuyor; altta eşler arası tam gizlilik, bulutsuz çevrim dışı yapay zekâ ve ses, dokunma ya da akıllı saatle hızlı etkinleştirme.",
-"26d9b9f8": "<strong>Fark ettirmeden sesle yardım istemek</strong>Telefonu yere fırlatılmıştır ama kadın kişisel bir anahtar sözcük olan “non farlo” (“yapma”) der: Proteggimi sesli komutu tanır ve yardım talebini gönderir. Bu sözler saldırgana alarm verildiğini anlatmaz; o kadar ki saldırgan olay yerinde kalır ve tutuklanır."
+"26d9b9f8": "<strong>Fark ettirmeden sesle yardım istemek</strong>Telefonu yere fırlatılmıştır ama kadın kişisel bir anahtar sözcük olan “non farlo” (“yapma”) der: Proteggimi sesli komutu tanır ve yardım talebini gönderir. Bu sözler saldırgana alarm verildiğini anlatmaz; o kadar ki saldırgan olay yerinde kalır ve tutuklanır.",
+"f66f4ce9": "Projeyi tasarlayan ve geliştiren: <strong>Prof. Müh. Agostino Giorgio</strong><br>Politecnico di Bari öğretim üyesi"
 }
 };

@@ -2535,6 +2535,10 @@
   "it": "<strong>Chiedere aiuto con la voce, senza farsi scoprire</strong>Il telefono le è stato scaraventato a terra, ma la donna dice “non farlo”, una parola chiave personalizzata: Proteggimi riconosce il comando vocale e invia la richiesta di soccorso. Quelle parole non fanno capire all'aggressore che è partito l'allarme, tanto che lui resta lì e viene arrestato.",
   "tr": "<strong>Fark ettirmeden sesle yardım istemek</strong>Telefonu yere fırlatılmıştır ama kadın kişisel bir anahtar sözcük olan “non farlo” (“yapma”) der: Proteggimi sesli komutu tanır ve yardım talebini gönderir. Bu sözler saldırgana alarm verildiğini anlatmaz; o kadar ki saldırgan olay yerinde kalır ve tutuklanır."
  },
+ "f66f4ce9": {
+  "it": "Progetto ideato e sviluppato dal <strong>Prof. Ing. Agostino Giorgio</strong><br>Docente del Politecnico di Bari",
+  "tr": "Projeyi tasarlayan ve geliştiren: <strong>Prof. Müh. Agostino Giorgio</strong><br>Politecnico di Bari öğretim üyesi"
+ },
  "_ui": {
   "menu": "Menü",
   "close": "Kapat",

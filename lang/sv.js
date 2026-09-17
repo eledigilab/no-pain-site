@@ -645,6 +645,7 @@
 "6d3e7f6a": "Teknik mot könsrelaterat våld · projektet no pAIn™ från Politecnico di Bari",
 "eaebb123": "Varumärke: en sköld med en kvinnofigur och texten no pAIn & watch4help technologies, by no pAIn project engineering.",
 "4ca7d853": "Affischen ”Tecnologia contro la violenza di genere” (Teknik mot könsrelaterat våld), projektet no pAIn från Politecnico di Bari: två händer håller en smartphone med appens sköld; längst ner total integritet via peer-to-peer, offline-AI utan moln och snabb aktivering med röst, beröring eller smartklocka.",
-"26d9b9f8": "<strong>Be om hjälp med rösten, utan att bli upptäckt</strong>Hennes telefon har slängts i golvet, men kvinnan säger ”non farlo” (”gör det inte”), ett personligt nyckelord: Proteggimi känner igen röstkommandot och skickar begäran om hjälp. Orden avslöjar inte för angriparen att larmet har gått, så han stannar kvar och grips."
+"26d9b9f8": "<strong>Be om hjälp med rösten, utan att bli upptäckt</strong>Hennes telefon har slängts i golvet, men kvinnan säger ”non farlo” (”gör det inte”), ett personligt nyckelord: Proteggimi känner igen röstkommandot och skickar begäran om hjälp. Orden avslöjar inte för angriparen att larmet har gått, så han stannar kvar och grips.",
+"f66f4ce9": "Ett projekt utformat och utvecklat av <strong>professor, civilingenjör Agostino Giorgio</strong><br>Lärare vid Politecnico di Bari"
 }
 };

@@ -645,6 +645,7 @@
 "6d3e7f6a": "Technologia przeciw przemocy ze względu na płeć · projekt no pAIn™ z Politecnico di Bari",
 "eaebb123": "Znak: tarcza z postacią kobiety i napis no pAIn & watch4help technologies, by no pAIn project engineering.",
 "4ca7d853": "Plakat „Tecnologia contro la violenza di genere” (Technologia przeciw przemocy ze względu na płeć), projekt no pAIn z Politecnico di Bari: dwie dłonie trzymają smartfon z tarczą aplikacji; na dole pełna prywatność peer-to-peer, AI offline bez chmury i szybkie uruchamianie głosem, dotykiem lub smartwatchem.",
-"26d9b9f8": "<strong>Wezwanie pomocy głosem, bez zdradzania się</strong>Telefon został rzucony na podłogę, ale kobieta mówi „non farlo” („nie rób tego”), czyli własne słowo kluczowe: Proteggimi rozpoznaje polecenie głosowe i wysyła wezwanie pomocy. Te słowa nie zdradzają napastnikowi, że alarm został uruchomiony, więc zostaje na miejscu i zostaje aresztowany."
+"26d9b9f8": "<strong>Wezwanie pomocy głosem, bez zdradzania się</strong>Telefon został rzucony na podłogę, ale kobieta mówi „non farlo” („nie rób tego”), czyli własne słowo kluczowe: Proteggimi rozpoznaje polecenie głosowe i wysyła wezwanie pomocy. Te słowa nie zdradzają napastnikowi, że alarm został uruchomiony, więc zostaje na miejscu i zostaje aresztowany.",
+"f66f4ce9": "Projekt opracowany i rozwijany przez <strong>prof. inż. Agostina Giorgia</strong><br>wykładowcę Politecnico di Bari"
 }
 };

@@ -645,6 +645,7 @@
 "6d3e7f6a": "Tecnologia contra a violência de género · o projeto no pAIn™ do Politecnico di Bari",
 "eaebb123": "Marca: escudo com uma figura feminina e as palavras no pAIn & watch4help technologies, by no pAIn project engineering.",
 "4ca7d853": "Cartaz «Tecnologia contro la violenza di genere» (Tecnologia contra a violência de género), projeto no pAIn do Politecnico di Bari: duas mãos seguram um smartphone com o escudo da aplicação; em baixo, privacidade total ponto a ponto, IA offline sem nuvem e ativação rápida por voz, toque ou smartwatch.",
-"26d9b9f8": "<strong>Pedir ajuda com a voz, sem ser descoberta</strong>O telemóvel foi-lhe atirado ao chão, mas a mulher diz “non farlo” (“não faças isso”), uma palavra-chave personalizada: o Proteggimi reconhece o comando de voz e envia o pedido de socorro. Essas palavras não deixam o agressor perceber que o alarme foi dado, tanto que ele fica ali e é detido."
+"26d9b9f8": "<strong>Pedir ajuda com a voz, sem ser descoberta</strong>O telemóvel foi-lhe atirado ao chão, mas a mulher diz “non farlo” (“não faças isso”), uma palavra-chave personalizada: o Proteggimi reconhece o comando de voz e envia o pedido de socorro. Essas palavras não deixam o agressor perceber que o alarme foi dado, tanto que ele fica ali e é detido.",
+"f66f4ce9": "Projeto concebido e desenvolvido pelo <strong>Prof. Eng. Agostino Giorgio</strong><br>Docente do Politecnico di Bari"
 }
 };

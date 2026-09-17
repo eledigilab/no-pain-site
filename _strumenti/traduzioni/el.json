@@ -2535,6 +2535,10 @@
   "it": "<strong>Chiedere aiuto con la voce, senza farsi scoprire</strong>Il telefono le è stato scaraventato a terra, ma la donna dice “non farlo”, una parola chiave personalizzata: Proteggimi riconosce il comando vocale e invia la richiesta di soccorso. Quelle parole non fanno capire all'aggressore che è partito l'allarme, tanto che lui resta lì e viene arrestato.",
   "tr": "<strong>Έκκληση για βοήθεια με τη φωνή, χωρίς να γίνει αντιληπτό</strong>Το τηλέφωνό της έχει πεταχτεί στο πάτωμα, αλλά η γυναίκα λέει «non farlo» («μην το κάνεις»), μια προσωπική λέξη-κλειδί: το Proteggimi αναγνωρίζει τη φωνητική εντολή και στέλνει το αίτημα βοήθειας. Αυτές οι λέξεις δεν αφήνουν τον δράστη να καταλάβει ότι σήμανε συναγερμός, τόσο που εκείνος μένει εκεί και συλλαμβάνεται."
  },
+ "f66f4ce9": {
+  "it": "Progetto ideato e sviluppato dal <strong>Prof. Ing. Agostino Giorgio</strong><br>Docente del Politecnico di Bari",
+  "tr": "Έργο που σχεδίασε και ανέπτυξε ο <strong>Καθ. Μηχ. Agostino Giorgio</strong><br>Διδάσκων στο Politecnico di Bari"
+ },
  "_ui": {
   "menu": "Μενού",
   "close": "Κλείσιμο",

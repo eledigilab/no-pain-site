@@ -644,6 +644,7 @@
 "6d3e7f6a": "Tehnologie împotriva violenței de gen · proiectul no pAIn™ al Politecnico di Bari",
 "eaebb123": "Marcă: scut cu o siluetă feminină și inscripția no pAIn & watch4help technologies, by no pAIn project engineering.",
 "4ca7d853": "Afișul „Tecnologia contro la violenza di genere” (Tehnologie împotriva violenței de gen), proiectul no pAIn al Politecnico di Bari: două mâini țin un smartphone cu scutul aplicației; jos, confidențialitate totală peer-to-peer, IA offline fără cloud și activare rapidă prin voce, atingere sau ceas inteligent.",
-"26d9b9f8": "<strong>Ceri ajutor cu vocea, fără să fii descoperită</strong>Telefonul i-a fost aruncat pe jos, dar femeia spune „non farlo” („nu face asta”), un cuvânt-cheie personalizat: Proteggimi recunoaște comanda vocală și trimite cererea de ajutor. Aceste cuvinte nu îl fac pe agresor să înțeleagă că alarma a fost dată, astfel încât el rămâne acolo și este arestat."
+"26d9b9f8": "<strong>Ceri ajutor cu vocea, fără să fii descoperită</strong>Telefonul i-a fost aruncat pe jos, dar femeia spune „non farlo” („nu face asta”), un cuvânt-cheie personalizat: Proteggimi recunoaște comanda vocală și trimite cererea de ajutor. Aceste cuvinte nu îl fac pe agresor să înțeleagă că alarma a fost dată, astfel încât el rămâne acolo și este arestat.",
+"f66f4ce9": "Proiect conceput și dezvoltat de <strong>Prof. Ing. Agostino Giorgio</strong><br>Cadru didactic la Politecnico di Bari"
 }
 };

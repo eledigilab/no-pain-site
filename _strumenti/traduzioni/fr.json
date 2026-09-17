@@ -2535,6 +2535,10 @@
   "it": "<strong>Chiedere aiuto con la voce, senza farsi scoprire</strong>Il telefono le è stato scaraventato a terra, ma la donna dice “non farlo”, una parola chiave personalizzata: Proteggimi riconosce il comando vocale e invia la richiesta di soccorso. Quelle parole non fanno capire all'aggressore che è partito l'allarme, tanto che lui resta lì e viene arrestato.",
   "tr": "<strong>Demander de l’aide par la voix, sans se faire remarquer</strong>Son téléphone a été jeté à terre, mais la femme dit « non farlo » (« ne fais pas ça »), un mot-clé personnalisé : Proteggimi reconnaît la commande vocale et envoie la demande de secours. Ces mots ne font pas comprendre à l’agresseur que l’alerte est partie, si bien qu’il reste sur place et se fait arrêter."
  },
+ "f66f4ce9": {
+  "it": "Progetto ideato e sviluppato dal <strong>Prof. Ing. Agostino Giorgio</strong><br>Docente del Politecnico di Bari",
+  "tr": "Projet conçu et développé par le <strong>Prof. Ing. Agostino Giorgio</strong><br>Enseignant à l’École polytechnique de Bari"
+ },
  "_ui": {
   "menu": "Menu",
   "close": "Fermer",
