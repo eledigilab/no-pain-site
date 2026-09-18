@@ -780,3 +780,4 @@ mail.partnerBody|Bom dia,\ngostaria de saber mais sobre o projeto no pAIn™ e a
 805|Escreva-nos ↗
 806|Um pendente de ouro em forma de coração, ao pescoço, é premido com um dedo: no centro esconde o botão button4help. Por baixo, as palavras button4help, the signal4help becomes pure technology.
 807|Material promocional do projeto, em inglês.
+808|Mais páginas

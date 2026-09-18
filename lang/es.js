@@ -784,6 +784,7 @@
 "b09716e9": "Quien trabaja en comunicación, formación o eventos puede ayudar a que estas apps lleguen a quien no sabe que existen.",
 "7710e7c2": "Escríbenos ↗",
 "14574e8a": "Un colgante de oro en forma de corazón, llevado al cuello, se pulsa con un dedo: en su centro esconde el botón button4help. Debajo, las palabras button4help, the signal4help becomes pure technology.",
-"8f4593bb": "Material promocional del proyecto, en inglés."
+"8f4593bb": "Material promocional del proyecto, en inglés.",
+"69ad19f3": "Más páginas"
 }
 };

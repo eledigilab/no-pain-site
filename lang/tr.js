@@ -785,6 +785,7 @@
 "b09716e9": "İletişim, eğitim ya da etkinlik alanında çalışanlar, bu uygulamaların varlığından habersiz olanlara ulaşmasına yardımcı olabilir.",
 "7710e7c2": "Bize yazın ↗",
 "14574e8a": "Boyna takılan altın kalp kolyeye bir parmakla bastırılıyor: ortasında button4help düğmesini gizliyor. Altında button4help, the signal4help becomes pure technology yazısı.",
-"8f4593bb": "Projenin tanıtım materyali, İngilizce."
+"8f4593bb": "Projenin tanıtım materyali, İngilizce.",
+"69ad19f3": "Diğer sayfalar"
 }
 };

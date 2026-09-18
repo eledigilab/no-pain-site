@@ -784,6 +784,7 @@
 "b09716e9": "Wer in Kommunikation, Bildung oder Veranstaltungen arbeitet, kann helfen, dass diese Apps die Menschen erreichen, die nichts von ihnen wissen.",
 "7710e7c2": "Schreiben Sie uns ↗",
 "14574e8a": "Ein goldener Herzanhänger, um den Hals getragen, wird mit einem Finger gedrückt: In seiner Mitte verbirgt er den button4help-Knopf. Darunter die Worte button4help, the signal4help becomes pure technology.",
-"8f4593bb": "Werbematerial des Projekts, auf Englisch."
+"8f4593bb": "Werbematerial des Projekts, auf Englisch.",
+"69ad19f3": "Weitere Seiten"
 }
 };

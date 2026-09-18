@@ -779,3 +779,4 @@ mail.partnerBody|Buenos días:\nme gustaría conocer mejor el proyecto no pAIn�
 805|Escríbenos ↗
 806|Un colgante de oro en forma de corazón, llevado al cuello, se pulsa con un dedo: en su centro esconde el botón button4help. Debajo, las palabras button4help, the signal4help becomes pure technology.
 807|Material promocional del proyecto, en inglés.
+808|Más páginas

@@ -785,6 +785,7 @@
 "b09716e9": "Den som arbetar med kommunikation, utbildning eller evenemang kan hjälpa apparna att nå dem som inte vet att de finns.",
 "7710e7c2": "Skriv till oss ↗",
 "14574e8a": "Ett hjärtformat hänge i guld, buret runt halsen, trycks in med ett finger: i mitten döljer det button4help-knappen. Under står orden button4help, the signal4help becomes pure technology.",
-"8f4593bb": "Projektets marknadsmaterial, på engelska."
+"8f4593bb": "Projektets marknadsmaterial, på engelska.",
+"69ad19f3": "Fler sidor"
 }
 };

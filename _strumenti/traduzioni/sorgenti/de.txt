@@ -779,3 +779,4 @@ mail.partnerBody|Guten Tag,\nich möchte mehr über das Projekt no pAIn™ erfah
 805|Schreiben Sie uns ↗
 806|Ein goldener Herzanhänger, um den Hals getragen, wird mit einem Finger gedrückt: In seiner Mitte verbirgt er den button4help-Knopf. Darunter die Worte button4help, the signal4help becomes pure technology.
 807|Werbematerial des Projekts, auf Englisch.
+808|Weitere Seiten

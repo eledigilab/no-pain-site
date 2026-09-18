@@ -784,6 +784,7 @@
 "b09716e9": "Those who work in communication, training or events can help these apps reach people who do not know they exist.",
 "7710e7c2": "Write to us ↗",
 "14574e8a": "A gold heart-shaped pendant, worn around the neck, is pressed with a finger: in its centre it hides the button4help button. Below, the words button4help, the signal4help becomes pure technology.",
-"8f4593bb": "Promotional material of the project, in English."
+"8f4593bb": "Promotional material of the project, in English.",
+"69ad19f3": "More pages"
 }
 };

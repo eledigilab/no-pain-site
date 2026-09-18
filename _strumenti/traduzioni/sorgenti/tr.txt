@@ -780,3 +780,4 @@ mail.partnerBody|Merhaba,\nno pAIn™ projesi hakkında daha fazla bilgi almak v
 805|Bize yazın ↗
 806|Boyna takılan altın kalp kolyeye bir parmakla bastırılıyor: ortasında button4help düğmesini gizliyor. Altında button4help, the signal4help becomes pure technology yazısı.
 807|Projenin tanıtım materyali, İngilizce.
+808|Diğer sayfalar

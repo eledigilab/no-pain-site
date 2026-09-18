@@ -785,6 +785,7 @@
 "b09716e9": "Kto zajmuje się komunikacją, szkoleniami albo wydarzeniami, może pomóc, by te aplikacje dotarły do osób, które nie wiedzą o ich istnieniu.",
 "7710e7c2": "Napisz do nas ↗",
 "14574e8a": "Złoty wisiorek w kształcie serca, noszony na szyi, jest naciskany palcem: w środku ukrywa przycisk button4help. Pod spodem napis button4help, the signal4help becomes pure technology.",
-"8f4593bb": "Materiał promocyjny projektu, po angielsku."
+"8f4593bb": "Materiał promocyjny projektu, po angielsku.",
+"69ad19f3": "Więcej stron"
 }
 };

@@ -785,6 +785,7 @@
 "b09716e9": "Quem trabalha em comunicação, formação ou eventos pode ajudar estas aplicações a chegar a quem não sabe que existem.",
 "7710e7c2": "Escreva-nos ↗",
 "14574e8a": "Um pendente de ouro em forma de coração, ao pescoço, é premido com um dedo: no centro esconde o botão button4help. Por baixo, as palavras button4help, the signal4help becomes pure technology.",
-"8f4593bb": "Material promocional do projeto, em inglês."
+"8f4593bb": "Material promocional do projeto, em inglês.",
+"69ad19f3": "Mais páginas"
 }
 };

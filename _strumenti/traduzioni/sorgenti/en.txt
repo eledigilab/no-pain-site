@@ -779,3 +779,4 @@ mail.partnerBody|Hello,\nI would like to learn more about the no pAIn™ project
 805|Write to us ↗
 806|A gold heart-shaped pendant, worn around the neck, is pressed with a finger: in its centre it hides the button4help button. Below, the words button4help, the signal4help becomes pure technology.
 807|Promotional material of the project, in English.
+808|More pages

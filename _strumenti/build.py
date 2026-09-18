@@ -11,7 +11,7 @@ import re
 
 TOOLS = pathlib.Path(__file__).resolve().parent
 OUT = TOOLS.parent
-VERSION = "20260918b"
+VERSION = "20260918d"
 
 # Nomi ideati dall'autore: mai tradotti, sempre con ™
 TM_TERMS = ["digital4help", "watch4help", "button4help", "no pAIn"]
@@ -38,9 +38,9 @@ PAGES = [
     ("collabora-con-noi.html", "Collabora", "no pAIn — Collabora con noi",
      "Collabora con il progetto no pAIn del Politecnico di Bari: cerchiamo artigiani e aziende orafe per nascondere button4help in gioielli e accessori indossabili."),
     ("collabora.html", "Enti e aziende", "no pAIn — Collabora",
-     "Porta no pAIn nella tua organizzazione: enti pubblici, associazioni, aziende e sponsor.", False),
+     "Porta no pAIn nella tua organizzazione: enti pubblici, associazioni, aziende e sponsor."),
     ("domande.html", "Domande", "no pAIn — Domande frequenti",
-     "Risposte chiare sulle app no pAIn, su button4help, sulla connessione, sulla privacy e sui costi.", False),
+     "Risposte chiare sulle app no pAIn, su button4help, sulla connessione, sulla privacy e sui costi."),
 ]
 
 LANG_OPTIONS = [
@@ -92,6 +92,10 @@ HEAD = """<!doctype html>
 {nav}
       <a class="nav-cta" href="#contatti">Contatti</a>
     </nav>
+    <div class="nav-more" hidden>
+      <button class="more-toggle" type="button" aria-expanded="false" aria-controls="menu-extra" aria-label="Altre pagine"><span aria-hidden="true" data-no-i18n>•••</span></button>
+      <div class="more-panel" id="menu-extra" hidden></div>
+    </div>
     <div class="header-tools">
       <div class="lang-switch" data-no-i18n>
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.7 3.8 5.7 3.8 9s-1.3 6.3-3.8 9c-2.5-2.7-3.8-5.7-3.8-9S9.5 5.7 12 3z"/></svg>

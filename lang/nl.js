@@ -785,6 +785,7 @@
 "b09716e9": "Wie werkt in communicatie, opleiding of evenementen kan helpen deze apps te laten aankomen bij wie niet weet dat ze bestaan.",
 "7710e7c2": "Schrijf ons ↗",
 "14574e8a": "Een gouden hartvormige hanger, om de hals gedragen, wordt met een vinger ingedrukt: in het midden verbergt hij de button4help-knop. Eronder de woorden button4help, the signal4help becomes pure technology.",
-"8f4593bb": "Promotiemateriaal van het project, in het Engels."
+"8f4593bb": "Promotiemateriaal van het project, in het Engels.",
+"69ad19f3": "Meer pagina's"
 }
 };

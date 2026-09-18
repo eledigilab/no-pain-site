@@ -785,6 +785,7 @@
 "b09716e9": "Celles et ceux qui travaillent dans la communication, la formation ou l’événementiel peuvent aider ces applications à atteindre ceux qui ignorent leur existence.",
 "7710e7c2": "Écrivez-nous ↗",
 "14574e8a": "Un pendentif doré en forme de cœur, porté au cou, est pressé d’un doigt : en son centre il cache le bouton button4help. En dessous, l’inscription button4help, the signal4help becomes pure technology.",
-"8f4593bb": "Matériel promotionnel du projet, en anglais."
+"8f4593bb": "Matériel promotionnel du projet, en anglais.",
+"69ad19f3": "Autres pages"
 }
 };

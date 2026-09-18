@@ -779,3 +779,4 @@ mail.partnerBody|Bună ziua,\naș dori să aflu mai multe despre proiectul no pA
 805|Scrie-ne ↗
 806|Un pandantiv de aur în formă de inimă, purtat la gât, este apăsat cu un deget: în centru ascunde butonul button4help. Dedesubt, inscripția button4help, the signal4help becomes pure technology.
 807|Material promoțional al proiectului, în engleză.
+808|Alte pagini

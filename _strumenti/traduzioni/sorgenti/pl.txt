@@ -780,3 +780,4 @@ mail.partnerBody|Dzień dobry,\nchciałabym/chciałbym dowiedzieć się więcej 
 805|Napisz do nas ↗
 806|Złoty wisiorek w kształcie serca, noszony na szyi, jest naciskany palcem: w środku ukrywa przycisk button4help. Pod spodem napis button4help, the signal4help becomes pure technology.
 807|Materiał promocyjny projektu, po angielsku.
+808|Więcej stron

@@ -10,7 +10,7 @@
   'use strict';
 
   var LANGS = ['it', 'en', 'fr', 'de', 'es', 'tr', 'el', 'pt', 'ro', 'pl', 'nl', 'sv'];
-  var VERSION = '20260918b';
+  var VERSION = '20260918d';
   var root = document.documentElement;
   window.NP_LANGS = window.NP_LANGS || {};
 
@@ -161,17 +161,65 @@
     });
   }
 
-  // se le voci del menu (per esempio in tedesco) non ci stanno, si passa al menu compresso
+  // Le voci che non entrano nella riga finiscono sotto il pulsante con i tre puntini.
+  // Sotto i 1180 px resta il menu a scomparsa con il pulsante "Menu".
+  var navEl = document.querySelector('.nav');
+  var moreBox = document.querySelector('.nav-more');
+  var moreBtn = moreBox && moreBox.querySelector('.more-toggle');
+  var morePanel = moreBox && moreBox.querySelector('.more-panel');
+
+  function setMoreOpen(open) {
+    if (!moreBox) return;
+    morePanel.hidden = !open;
+    moreBtn.setAttribute('aria-expanded', String(open));
+  }
+
   function fitNav() {
     var wrap = document.querySelector('.site-header .wrap');
-    if (!wrap) return;
+    if (!wrap || !navEl) return;
     root.classList.remove('nav-collapsed');
+    var cta = navEl.querySelector('.nav-cta');
+    if (moreBox) {
+      while (morePanel.firstChild) navEl.insertBefore(morePanel.firstChild, cta);
+      setMoreOpen(false);
+      moreBox.hidden = true;
+    }
     if (window.matchMedia('(max-width: 1180px)').matches) return;
-    if (wrap.scrollWidth > wrap.clientWidth + 1) root.classList.add('nav-collapsed');
-    else setOpen(false);
+    setOpen(false);
+    if (!moreBox || wrap.scrollWidth <= wrap.clientWidth + 1) return;
+    moreBox.hidden = false;
+    var links = Array.prototype.slice.call(navEl.querySelectorAll('a:not(.nav-cta)'));
+    while (wrap.scrollWidth > wrap.clientWidth + 1 && links.length > 1) {
+      morePanel.insertBefore(links.pop(), morePanel.firstChild);
+    }
+    // la pagina che stai leggendo resta sempre visibile nella riga
+    var here = morePanel.querySelector('a[aria-current="page"]');
+    if (here) {
+      var visible = navEl.querySelectorAll('a:not(.nav-cta)');
+      var last = visible[visible.length - 1];
+      if (last) { navEl.insertBefore(here, last); morePanel.insertBefore(last, morePanel.firstChild); }
+    }
+    if (!morePanel.children.length) moreBox.hidden = true;
+  }
+
+  if (moreBox) {
+    moreBtn.addEventListener('click', function (e) {
+      e.stopPropagation();
+      setMoreOpen(morePanel.hidden);
+    });
+    morePanel.addEventListener('click', function (e) { if (e.target.closest('a')) setMoreOpen(false); });
+    document.addEventListener('click', function (e) {
+      if (!morePanel.hidden && !moreBox.contains(e.target)) setMoreOpen(false);
+    });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && !morePanel.hidden) { setMoreOpen(false); moreBtn.focus(); }
+    });
   }
   var resizeTimer;
   window.addEventListener('resize', function () { clearTimeout(resizeTimer); resizeTimer = setTimeout(fitNav, 120); });
+  // i caratteri del sito arrivano dopo: le voci cambiano larghezza, quindi si rimisura
+  window.addEventListener('load', fitNav);
+  try { if (document.fonts && document.fonts.ready) document.fonts.ready.then(fitNav); } catch (e) {}
 
   // ---------- visore immagini ----------
   var box;
