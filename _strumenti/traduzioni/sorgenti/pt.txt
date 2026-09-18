@@ -714,3 +714,69 @@ mail.partnerBody|Bom dia,\ngostaria de saber mais sobre o projeto no pAIn™ e a
 739|<strong>digital4help™: a tecnologia que pede ajuda por si</strong>Smartphone, smartwatch e botão: as três formas de disparar o alarme. Cartaz em inglês.
 740|Cartaz digital4help: as três formas de pedir ajuda, smartphone com um gesto ou um comando de voz, smartwatch AIuto SOS watch4help e o botão button4help premido durante um segundo; à volta, IA offline, Safe Zone, No Trace e SOS vestível.
 741|As três formas de disparar o alarme · cartaz em inglês
+742|Proponha a sua ideia
+743|Como funciona <span class="arr">→</span>
+744|Projeto
+745|Tutoriais
+746|Colaborar
+747|No momento do perigo, com a tecnologia <span class="hl">digital4help™</span> pedir ajuda é grátis.
+748|Material promocional do projeto, em inglês. As joias das ilustrações são conceitos de design.
+749|Cartaz do projeto no pAIn: digital4help, proteção digital, uma nova era para a proteção das mulheres. Enumera o Proteggimi para Android em italiano, o AI help You para Android em 12 línguas, o AIuto SOS watch4help para smartwatches Wear OS e o no pAIn para iOS; em baixo, um smartwatch com a tecla SOS, o smartphone com a aplicação e o botão button4help ao pescoço.
+750|no pAIn™ — Tutoriais
+751|Os tutoriais em vídeo do projeto no pAIn™: configuração, contactos no Telegram, emparelhamento do button4help™ e smartwatches. Página em construção.
+752|Os tutoriais em vídeo <span class="hl">estão a chegar.</span>
+753|Esta página está a ser preparada: em breve começamos a publicar os tutoriais em vídeo que mostram passo a passo como configurar as aplicações, ligar os contactos e testar o alarme em segurança.
+754|<span class="wip-badge" data-no-i18n="">⚠︎</span> Página em construção
+755|O que vai encontrar aqui
+756|Um vídeo para cada passo.
+757|Os tutoriais serão curtos, um por tema, para ver apenas o que precisa enquanto tem a aplicação aberta à sua frente.
+758|Em preparação
+759|Permissões, contactos de confiança, palavras-chave pessoais e primeiro teste: tudo o que se faz uma só vez, antes de ser mesmo preciso.
+760|Ligar os contactos no Telegram
+761|Como fazer chegar os avisos com a localização aos seus contactos, sem procurar códigos à mão.
+762|Emparelhar o button4help™
+763|O assistente que faz a aplicação reconhecer o botão e usá-lo como acionador de emergência.
+764|O smartwatch
+765|Aplicação companheira e aplicação autónoma para Wear OS: como o alarme parte do pulso e o que muda entre as duas.
+766|Entretanto
+767|O que já existe.
+768|Enquanto preparamos os vídeos, encontra o manual escrito e as demonstrações cinematográficas das aplicações.
+769|Quer ser avisado
+770|Escreva-nos e dizemos-lhe assim que os tutoriais estiverem online. Também pode dizer-nos que tema precisa primeiro: começamos por aí.
+771|Escreva ao criador ↗
+772|no pAIn™ — Colabore connosco
+773|Colabore com o projeto no pAIn™ do Politecnico di Bari: procuramos artesãos e empresas de joalharia para esconder o button4help™ em joias e acessórios para usar.
+774|Colabore connosco
+775|Tem uma ideia <span class="hl">para trazer ao projeto?</span>
+776|O no pAIn™ nasce na universidade e cresce com quem traz competências, ofício e ideias. A colaboração é com o <strong>Politecnico di Bari</strong>, na pessoa do <strong>Prof. Eng. Agostino Giorgio</strong>, criador e responsável do projeto.
+777|Procuramos
+778|Artesãos e joalheiros para <span class="hl">esconder o botão.</span>
+779|O button4help™ funciona premido durante um segundo: não deve parecer um dispositivo de emergência, pelo contrário, quanto mais passar despercebido, melhor. Por isso procuramos quem faz joias e bijutaria e sabe transformá-lo num objeto de uso diário.
+780|Pendentes, corações, medalhões e colares que alojam o botão ao centro, mantendo a pressão confortável
+781|Pulseiras, broches, molas, porta-chaves e outros acessórios para usar
+782|Materiais e acabamentos adequados ao uso diário, também em versão económica
+783|Pequenas séries, protótipos e testes no terreno em conjunto com o laboratório
+784|O botão é um dispositivo Bluetooth de um fabricante terceiro: a colaboração diz respeito ao acessório que o acolhe, não à sua eletrónica.
+785|O conceito: o botão escondido dentro de um pendente em forma de coração. Imagem ilustrativa.
+786|Conte-nos o que gostaria de trazer ao projeto.
+787|Preencha os campos: o formulário abre o seu programa de correio com a mensagem já escrita, dirigida ao Prof. Eng. Agostino Giorgio no Politecnico di Bari. Nada é enviado nem registado por este site.
+788|Prefere escrever diretamente? <a class="link-arrow" href="mailto:agostino.giorgio@poliba.it" data-mail="partner">agostino.giorgio@poliba.it ↗</a>
+789|Nome completo
+790|Email ou telefone para a resposta
+791|Empresa, oficina ou entidade (facultativo)
+792|Que ideia gostaria de trazer ao projeto?
+793|Preparar o email <span class="arr">→</span>
+794|Ao tocar no botão abre-se o seu programa de correio com o texto pronto: pode relê-lo e alterá-lo antes de enviar.
+795|Outras colaborações
+796|Não só joias.
+797|Levar o no pAIn™ à sua organização
+798|Câmaras municipais, associações, centros de apoio, escolas e empresas: encontros, demonstrações e materiais para dar a conhecer estas ferramentas a quem precisa.
+799|Ver a página dedicada →
+800|Investigação e teses
+801|O projeto nasce no laboratório ELEDIGILAB do Politecnico di Bari e está descrito em publicações científicas: há espaço para teses, testes no terreno e desenvolvimentos conjuntos.
+802|Divulgação
+803|Dar a conhecer
+804|Quem trabalha em comunicação, formação ou eventos pode ajudar estas aplicações a chegar a quem não sabe que existem.
+805|Escreva-nos ↗
+806|Um pendente de ouro em forma de coração, ao pescoço, é premido com um dedo: no centro esconde o botão button4help. Por baixo, as palavras button4help, the signal4help becomes pure technology.
+807|Material promocional do projeto, em inglês.

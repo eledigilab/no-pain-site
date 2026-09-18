@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Genera le 9 pagine del sito no pAIn™.
+"""Genera le pagine del sito no pAIn™.
 
 Sorgenti: _strumenti/pagine/*.html (solo il contenuto centrale, in italiano).
 Uscita:   le pagine .html nella cartella principale del sito.
@@ -11,7 +11,7 @@ import re
 
 TOOLS = pathlib.Path(__file__).resolve().parent
 OUT = TOOLS.parent
-VERSION = "20260918a"
+VERSION = "20260918b"
 
 # Nomi ideati dall'autore: mai tradotti, sempre con ™
 TM_TERMS = ["digital4help", "watch4help", "button4help", "no pAIn"]
@@ -19,7 +19,7 @@ TM_RE = re.compile(r"(digital4help|watch4help|button4help|no pAIn)(?!™)")
 
 PAGES = [
     # file, voce di menu, titolo, descrizione
-    ("index.html", "Il progetto", "no pAIn digital4help",
+    ("index.html", "Progetto", "no pAIn digital4help",
      "no pAIn: la tutela digitale contro la violenza di genere. App e dispositivi che chiedono aiuto con la voce o con un gesto, senza dover parlare con nessuno."),
     ("prodotti.html", "Le app", "no pAIn — Le app",
      "Le app del progetto no pAIn: AI help You, Proteggimi, no pAIn per iPhone, AIuto SOS watch4help per Wear OS, AI help App."),
@@ -31,12 +31,16 @@ PAGES = [
      "Come si attivano le app no pAIn, quali azioni partono, come funziona watch4help e come preparare la prima configurazione."),
     ("video.html", "Video", "no pAIn — Video e demo",
      "I video del progetto no pAIn: la posizione inviata dal telefono della vittima, le demo delle app, lo smartwatch e il pulsante button4help."),
+    ("tutorial.html", "Tutorial", "no pAIn — Tutorial",
+     "I videotutorial del progetto no pAIn: configurazione, contatti su Telegram, abbinamento di button4help e smartwatch. Pagina in costruzione."),
     ("ricerca.html", "Ricerca", "no pAIn — Tecnologia e ricerca",
      "La tecnologia e le pubblicazioni scientifiche del progetto no pAIn del Prof. Ing. Agostino Giorgio, Politecnico di Bari."),
+    ("collabora-con-noi.html", "Collabora", "no pAIn — Collabora con noi",
+     "Collabora con il progetto no pAIn del Politecnico di Bari: cerchiamo artigiani e aziende orafe per nascondere button4help in gioielli e accessori indossabili."),
     ("collabora.html", "Enti e aziende", "no pAIn — Collabora",
-     "Porta no pAIn nella tua organizzazione: enti pubblici, associazioni, aziende e sponsor."),
+     "Porta no pAIn nella tua organizzazione: enti pubblici, associazioni, aziende e sponsor.", False),
     ("domande.html", "Domande", "no pAIn — Domande frequenti",
-     "Risposte chiare sulle app no pAIn, su button4help, sulla connessione, sulla privacy e sui costi."),
+     "Risposte chiare sulle app no pAIn, su button4help, sulla connessione, sulla privacy e sui costi.", False),
 ]
 
 LANG_OPTIONS = [
@@ -183,11 +187,12 @@ def add_tm(html: str) -> str:
 
 def main():
     options = "\n".join(f'          <option value="{c}">{n}</option>' for c, n in LANG_OPTIONS)
-    footnav = "\n".join(f'        <li><a href="{f}">{add_tm(l)}</a></li>' for f, l, _, _ in PAGES)
-    for file, _, title, desc in PAGES:
+    pages = [(p + (True,))[:5] for p in PAGES]
+    footnav = "\n".join(f'        <li><a href="{f}">{add_tm(l)}</a></li>' for f, l, _, _, _ in pages)
+    for file, _, title, desc, _ in pages:
         nav = "\n".join(
             f'      <a href="{f}"{" aria-current=" + chr(34) + "page" + chr(34) if f == file else ""}>{add_tm(l)}</a>'
-            for f, l, _, _ in PAGES)
+            for f, l, _, _, in_nav in pages if in_nav or f == file)
         body = (TOOLS / "pagine" / file).read_text()
         html = (HEAD.format(title=add_tm(title), desc=add_tm(desc), nav=nav, options=options, version=VERSION)
                 + add_tm(body)

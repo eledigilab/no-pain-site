@@ -713,3 +713,69 @@ mail.partnerBody|Guten Tag,\nich möchte mehr über das Projekt no pAIn™ erfah
 739|<strong>digital4help™: die Technik, die für Sie um Hilfe bittet</strong>Smartphone, Smartwatch und Knopf: die drei Wege, den Alarm auszulösen. Plakat auf Englisch.
 740|Plakat digital4help: die drei Wege, um Hilfe zu bitten, Smartphone mit Geste oder Sprachbefehl, Smartwatch AIuto SOS watch4help und der eine Sekunde lang gedrückte Knopf button4help; darum herum Offline-KI, Safe Zone, No Trace und tragbarer SOS.
 741|Die drei Wege, den Alarm auszulösen · Plakat auf Englisch
+742|Schlagen Sie Ihre Idee vor
+743|Wie es funktioniert <span class="arr">→</span>
+744|Projekt
+745|Tutorials
+746|Mitmachen
+747|In der Gefahr gilt: Mit der Technik <span class="hl">digital4help™</span> ist Hilfe rufen kostenlos.
+748|Werbematerial des Projekts, auf Englisch. Der Schmuck auf den Abbildungen sind Designkonzepte.
+749|Plakat des Projekts no pAIn: digital4help, digitaler Schutz, eine neue Ära für den Schutz von Frauen. Aufgeführt sind Proteggimi für Android auf Italienisch, AI help You für Android in 12 Sprachen, AIuto SOS watch4help für Wear-OS-Smartwatches und no pAIn für iOS; unten eine Smartwatch mit SOS-Taste, das Smartphone mit der App und der button4help-Knopf um den Hals.
+750|no pAIn™ — Tutorials
+751|Die Video-Tutorials des Projekts no pAIn™: Einrichtung, Kontakte auf Telegram, Kopplung von button4help™ und Smartwatches. Seite im Aufbau.
+752|Die Video-Tutorials <span class="hl">sind bald da.</span>
+753|Diese Seite entsteht gerade: In Kürze laden wir die Video-Tutorials hoch, die Schritt für Schritt zeigen, wie man die Apps einrichtet, die Kontakte verbindet und den Alarm gefahrlos testet.
+754|<span class="wip-badge" data-no-i18n="">⚠︎</span> Seite im Aufbau
+755|Was Sie hier finden werden
+756|Ein Video für jeden Schritt.
+757|Die Tutorials werden kurz sein, eines pro Thema, damit Sie nur das ansehen, was Sie gerade brauchen, während die App vor Ihnen geöffnet ist.
+758|In Vorbereitung
+759|Berechtigungen, vertraute Kontakte, persönliche Schlüsselwörter und der erste Test: alles, was einmal zu tun ist, bevor es wirklich gebraucht wird.
+760|Die Kontakte auf Telegram verbinden
+761|Wie die Meldungen mit dem Standort bei Ihren Kontakten ankommen, ohne Codes von Hand zu suchen.
+762|button4help™ koppeln
+763|Die geführte Prozedur, mit der die App den Knopf erkennt und als Notfallauslöser verwendet.
+764|Die Smartwatch
+765|Begleit-App und eigenständige App für Wear OS: wie der Alarm vom Handgelenk startet und was die beiden unterscheidet.
+766|In der Zwischenzeit
+767|Was es schon gibt.
+768|Während wir die Videos vorbereiten, finden Sie das geschriebene Handbuch und die filmischen Demos der Apps.
+769|Möchten Sie Bescheid bekommen
+770|Schreiben Sie uns, und wir sagen Ihnen, sobald die Video-Tutorials online sind. Sie können uns auch sagen, welches Thema Sie zuerst brauchen: damit fangen wir an.
+771|An den Entwickler schreiben ↗
+772|no pAIn™ — Mitmachen
+773|Arbeiten Sie mit dem Projekt no pAIn™ des Politecnico di Bari zusammen: Wir suchen Handwerksbetriebe und Schmuckhersteller, die button4help™ in Schmuck und tragbaren Accessoires verstecken.
+774|Mitmachen
+775|Haben Sie eine Idee, <span class="hl">die ins Projekt passt?</span>
+776|no pAIn™ ist an der Universität entstanden und wächst mit allen, die Können, Handwerk und Ideen einbringen. Die Zusammenarbeit erfolgt mit dem <strong>Politecnico di Bari</strong>, in der Person von <strong>Prof. Ing. Agostino Giorgio</strong>, dem Erfinder und Leiter des Projekts.
+777|Wir suchen
+778|Handwerk und Goldschmiede, um <span class="hl">den Knopf zu verstecken.</span>
+779|button4help™ wird eine Sekunde lang gedrückt: Er soll nicht wie ein Notfallgerät aussehen, im Gegenteil, je unauffälliger, desto besser. Deshalb suchen wir alle, die Schmuck und Modeschmuck fertigen und daraus ein Stück machen, das man täglich trägt.
+780|Anhänger, Herzen, Medaillons und Ketten, die den Knopf in der Mitte aufnehmen, sodass er bequem zu drücken bleibt
+781|Armbänder, Broschen, Spangen, Schlüsselanhänger und andere tragbare Accessoires
+782|Materialien und Oberflächen für den täglichen Gebrauch, auch in günstiger Ausführung
+783|Kleinserien, Prototypen und Tests im Alltag gemeinsam mit dem Labor
+784|Der Knopf ist ein Bluetooth-Gerät eines Drittherstellers: Die Zusammenarbeit betrifft das Schmuckstück, das ihn aufnimmt, nicht seine Elektronik.
+785|Das Konzept: der Knopf, versteckt in einem Herzanhänger. Illustrationsbild.
+786|Erzählen Sie uns, was Sie ins Projekt einbringen möchten.
+787|Füllen Sie die Felder aus: Das Formular öffnet Ihr E-Mail-Programm mit der fertig geschriebenen Nachricht an Prof. Ing. Agostino Giorgio am Politecnico di Bari. Diese Website sendet und speichert nichts.
+788|Lieber direkt schreiben? <a class="link-arrow" href="mailto:agostino.giorgio@poliba.it" data-mail="partner">agostino.giorgio@poliba.it ↗</a>
+789|Vor- und Nachname
+790|E-Mail oder Telefon für die Antwort
+791|Firma, Werkstatt oder Einrichtung (optional)
+792|Welche Idee möchten Sie ins Projekt einbringen?
+793|E-Mail vorbereiten <span class="arr">→</span>
+794|Mit einem Tippen auf den Knopf öffnet sich Ihr E-Mail-Programm mit dem fertigen Text: Sie können ihn noch lesen und ändern, bevor Sie ihn senden.
+795|Weitere Formen der Zusammenarbeit
+796|Nicht nur Schmuck.
+797|no pAIn™ in Ihre Organisation bringen
+798|Kommunen, Vereine, Anlaufstellen gegen Gewalt, Schulen und Unternehmen: Treffen, Vorführungen und Material, um diese Werkzeuge bekannt zu machen.
+799|Zur eigenen Seite →
+800|Forschung und Abschlussarbeiten
+801|Das Projekt ist im Labor ELEDIGILAB des Politecnico di Bari entstanden und in wissenschaftlichen Veröffentlichungen beschrieben: Es gibt Raum für Abschlussarbeiten, Tests im Alltag und gemeinsame Entwicklungen.
+802|Verbreitung
+803|Bekannt machen
+804|Wer in Kommunikation, Bildung oder Veranstaltungen arbeitet, kann helfen, dass diese Apps die Menschen erreichen, die nichts von ihnen wissen.
+805|Schreiben Sie uns ↗
+806|Ein goldener Herzanhänger, um den Hals getragen, wird mit einem Finger gedrückt: In seiner Mitte verbirgt er den button4help-Knopf. Darunter die Worte button4help, the signal4help becomes pure technology.
+807|Werbematerial des Projekts, auf Englisch.

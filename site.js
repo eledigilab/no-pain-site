@@ -10,7 +10,7 @@
   'use strict';
 
   var LANGS = ['it', 'en', 'fr', 'de', 'es', 'tr', 'el', 'pt', 'ro', 'pl', 'nl', 'sv'];
-  var VERSION = '20260918a';
+  var VERSION = '20260918b';
   var root = document.documentElement;
   window.NP_LANGS = window.NP_LANGS || {};
 
@@ -195,6 +195,30 @@
     box.querySelector('.close').textContent = (dictFor(current).ui || IT.ui).closeImage;
     box.showModal();
   });
+
+  // ---------- modulo "proponi la tua idea" ----------
+  // Non invia nulla: prepara un'email già scritta e apre il programma di posta.
+  var form = document.getElementById('idea');
+  if (form) {
+    form.addEventListener('submit', function (e) {
+      e.preventDefault();
+      var v = function (n) { var el = form.elements[n]; return el ? el.value.trim() : ''; };
+      if (!v('nome') || !v('contatto') || !v('idea')) {
+        var first = !v('nome') ? 'nome' : (!v('contatto') ? 'contatto' : 'idea');
+        form.elements[first].focus();
+        return;
+      }
+      var labels = [], list = form.querySelectorAll('label');
+      for (var i = 0; i < list.length; i++) labels.push(norm((list[i].querySelector('span') || list[i]).textContent));
+      var body = labels[0] + ': ' + v('nome') + '\n' +
+                 labels[1] + ': ' + v('contatto') + '\n' +
+                 labels[2] + ': ' + (v('organizzazione') || '—') + '\n\n' +
+                 labels[3] + '\n' + v('idea') + '\n';
+      var subject = (dictFor(current).mail || IT.mail).partnerSubject;
+      location.href = 'mailto:agostino.giorgio@poliba.it?subject=' + encodeURIComponent(subject) +
+                      '&body=' + encodeURIComponent(body);
+    });
+  }
 
   // ---------- contatore delle visite ----------
   // Servizio gratuito senza account e senza cookie (abacus.jasoncameron.dev).

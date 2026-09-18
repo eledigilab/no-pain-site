@@ -714,3 +714,69 @@ mail.partnerBody|Merhaba,\nno pAIn™ projesi hakkında daha fazla bilgi almak v
 739|<strong>digital4help™: sizin yerinize yardım isteyen teknoloji</strong>Akıllı telefon, akıllı saat ve düğme: alarmı başlatmanın üç yolu. Afiş İngilizce.
 740|digital4help afişi: yardım istemenin üç yolu, hareket ya da sesli komutla akıllı telefon, AIuto SOS watch4help akıllı saat ve bir saniye basılan button4help düğmesi; çevresinde çevrim dışı yapay zekâ, Safe Zone, No Trace ve giyilebilir SOS.
 741|Alarmı başlatmanın üç yolu · afiş İngilizce
+742|Fikrinizi önerin
+743|Nasıl çalışır <span class="arr">→</span>
+744|Proje
+745|Eğitim videoları
+746|İş birliği
+747|Tehlike anında <span class="hl">digital4help™</span> teknolojisiyle yardım istemek ücretsizdir.
+748|Projenin tanıtım materyali, İngilizce. Görsellerdeki takılar tasarım konseptidir.
+749|no pAIn projesinin afişi: digital4help, dijital koruma, kadınların korunması için yeni bir çağ. İtalyanca Android için Proteggimi, 12 dilde Android için AI help You, Wear OS akıllı saatler için AIuto SOS watch4help ve iOS için no pAIn sıralanır; altta SOS tuşlu bir akıllı saat, uygulamanın açık olduğu akıllı telefon ve boyna takılan button4help düğmesi.
+750|no pAIn™ — Eğitim videoları
+751|no pAIn™ projesinin eğitim videoları: kurulum, Telegram'daki kişiler, button4help™ ve akıllı saat eşleştirmesi. Sayfa yapım aşamasında.
+752|Eğitim videoları <span class="hl">çok yakında.</span>
+753|Bu sayfa hazırlanıyor: kısa süre içinde, uygulamaların nasıl kurulacağını, kişilerin nasıl bağlanacağını ve alarmın güvenle nasıl denenebileceğini adım adım gösteren videoları yüklemeye başlıyoruz.
+754|<span class="wip-badge" data-no-i18n="">⚠︎</span> Sayfa yapım aşamasında
+755|Burada ne bulacaksınız
+756|Her adım için bir video.
+757|Videolar kısa olacak, her konu için bir tane: uygulama önünüzde açıkken yalnızca ihtiyacınız olanı izlersiniz.
+758|Hazırlanıyor
+759|İzinler, güvenilen kişiler, kişisel anahtar sözcükler ve ilk deneme: gerçekten gerekmeden önce bir kez yapılması gereken her şey.
+760|Kişileri Telegram'da bağlamak
+761|Konum içeren uyarıların kişilerinize, elle kod aramadan nasıl ulaşacağı.
+762|button4help™ eşleştirmesi
+763|Uygulamanın düğmeyi tanımasını ve acil durum tetikleyicisi olarak kullanmasını sağlayan rehberli işlem.
+764|Akıllı saat
+765|Wear OS için eş uygulama ve bağımsız uygulama: alarm bilekten nasıl başlar ve ikisi arasında ne değişir.
+766|Bu arada
+767|Şimdiden var olanlar.
+768|Videoları hazırlarken yazılı kılavuzu ve uygulamaların sinematik tanıtımlarını bulabilirsiniz.
+769|Haber verelim mi
+770|Bize yazın, eğitim videoları yayına girer girmez size haber verelim. Hangi konuya önce ihtiyacınız olduğunu da söyleyebilirsiniz: oradan başlarız.
+771|Tasarımcıya yazın ↗
+772|no pAIn™ — Bizimle iş birliği
+773|Politecnico di Bari'nin no pAIn™ projesiyle iş birliği yapın: button4help™ düğmesini takılarda ve giyilebilir aksesuarlarda gizlemek için zanaatkârlar ve kuyumculuk firmaları arıyoruz.
+774|Bizimle iş birliği
+775|Projeye katacak <span class="hl">bir fikriniz mi var?</span>
+776|no pAIn™ üniversitede doğdu ve bilgi, zanaat ve fikir katan herkesle büyüyor. İş birliği, projenin fikir sahibi ve sorumlusu <strong>Prof. Müh. Agostino Giorgio</strong> şahsında <strong>Politecnico di Bari</strong> iledir.
+777|Arıyoruz
+778|Düğmeyi <span class="hl">gizleyecek zanaatkârlar ve kuyumcular.</span>
+779|button4help™ bir saniye basılınca çalışır: acil durum cihazına benzememeli, tersine ne kadar fark edilmezse o kadar iyi. Bu yüzden takı ve bijuteri üreten, onu her gün takılan bir nesneye dönüştürebilecek kişileri arıyoruz.
+780|Düğmeyi ortasında taşıyan, basmayı rahat bırakan kolyeler, kalpler, madalyonlar
+781|Bilezikler, broşlar, toka, anahtarlık ve diğer giyilebilir aksesuarlar
+782|Günlük kullanıma uygun, ekonomik seçenekleri de olan malzeme ve yüzeyler
+783|Laboratuvarla birlikte küçük seriler, prototipler ve sahada denemeler
+784|Düğme, üçüncü bir üreticinin Bluetooth cihazıdır: iş birliği onu taşıyan aksesuara ilişkindir, elektroniğine değil.
+785|Konsept: kalp kolyenin içine gizlenmiş düğme. Temsili görsel.
+786|Projeye ne katmak istediğinizi anlatın.
+787|Alanları doldurun: form, e-posta programınızı hazır yazılmış mesajla açar; mesaj Politecnico di Bari'den Prof. Müh. Agostino Giorgio'ya gider. Bu site hiçbir şey göndermez ve kaydetmez.
+788|Doğrudan yazmayı mı tercih edersiniz? <a class="link-arrow" href="mailto:agostino.giorgio@poliba.it" data-mail="partner">agostino.giorgio@poliba.it ↗</a>
+789|Ad ve soyad
+790|Yanıt için e-posta ya da telefon
+791|Şirket, atölye ya da kurum (isteğe bağlı)
+792|Projeye hangi fikri katmak istersiniz?
+793|E-postayı hazırla <span class="arr">→</span>
+794|Düğmeye dokununca e-posta programınız hazır metinle açılır: göndermeden önce okuyup değiştirebilirsiniz.
+795|Diğer iş birlikleri
+796|Yalnızca takı değil.
+797|no pAIn™ uygulamasını kurumunuza taşımak
+798|Belediyeler, dernekler, şiddetle mücadele merkezleri, okullar ve şirketler: bu araçları ihtiyacı olanlara tanıtmak için buluşmalar, gösterimler ve materyaller.
+799|Özel sayfaya bakın →
+800|Araştırma ve tezler
+801|Proje, Politecnico di Bari'nin ELEDIGILAB laboratuvarında doğdu ve bilimsel yayınlarda anlatıldı: tezlere, saha denemelerine ve ortak geliştirmelere yer var.
+802|Yaygınlaştırma
+803|Duyurmak
+804|İletişim, eğitim ya da etkinlik alanında çalışanlar, bu uygulamaların varlığından habersiz olanlara ulaşmasına yardımcı olabilir.
+805|Bize yazın ↗
+806|Boyna takılan altın kalp kolyeye bir parmakla bastırılıyor: ortasında button4help düğmesini gizliyor. Altında button4help, the signal4help becomes pure technology yazısı.
+807|Projenin tanıtım materyali, İngilizce.

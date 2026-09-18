@@ -714,3 +714,69 @@ mail.partnerBody|Hej,\njag vill gärna veta mer om projektet no pAIn™ och disk
 739|<strong>digital4help™: tekniken som ber om hjälp åt dig</strong>Smartphone, smartklocka och knapp: de tre sätten att utlösa larmet. Affisch på engelska.
 740|Affischen digital4help: de tre sätten att be om hjälp, smartphone med en gest eller ett röstkommando, smartklockan AIuto SOS watch4help och knappen button4help nedtryckt i en sekund; runt omkring offline-AI, Safe Zone, No Trace och bärbart SOS.
 741|De tre sätten att utlösa larmet · affisch på engelska
+742|Föreslå din idé
+743|Så fungerar det <span class="arr">→</span>
+744|Projektet
+745|Guider
+746|Samarbeta
+747|I farans stund är det gratis att be om hjälp med tekniken <span class="hl">digital4help™</span>.
+748|Projektets marknadsmaterial, på engelska. Smyckena på bilderna är designkoncept.
+749|Affisch för projektet no pAIn: digital4help, digitalt skydd, en ny era för kvinnors skydd. Den listar Proteggimi för Android på italienska, AI help You för Android på 12 språk, AIuto SOS watch4help för Wear OS-smartklockor och no pAIn för iOS; längst ner en smartklocka med SOS-knappen, smartphonen med appen och button4help-knappen runt halsen.
+750|no pAIn™ — Guider
+751|Videoguiderna för projektet no pAIn™: inställningar, kontakter på Telegram, parkoppling av button4help™ och smartklockor. Sidan är under uppbyggnad.
+752|Videoguiderna <span class="hl">är på väg.</span>
+753|Den här sidan håller på att byggas: snart börjar vi lägga upp videoguiderna som steg för steg visar hur du ställer in apparna, kopplar kontakterna och testar larmet på ett tryggt sätt.
+754|<span class="wip-badge" data-no-i18n="">⚠︎</span> Sidan är under uppbyggnad
+755|Vad du hittar här
+756|En film för varje steg.
+757|Guiderna blir korta, en per ämne, så att du bara ser det du behöver medan du har appen öppen framför dig.
+758|Under arbete
+759|Behörigheter, betrodda kontakter, egna nyckelord och första testet: allt som görs en gång, innan det verkligen behövs.
+760|Koppla kontakterna på Telegram
+761|Hur larmen med din position når dina kontakter, utan att leta koder för hand.
+762|Parkoppla button4help™
+763|Den guidade proceduren som gör att appen känner igen knappen och använder den som nödutlösare.
+764|Smartklockan
+765|Följeapp och fristående app för Wear OS: hur larmet startar från handleden och vad som skiljer dem åt.
+766|Under tiden
+767|Det som redan finns.
+768|Medan vi förbereder filmerna hittar du den skrivna handboken och apparnas filmiska demos.
+769|Vill du få besked
+770|Skriv till oss så hör vi av oss så snart videoguiderna är online. Du kan också säga vilket ämne du behöver först: då börjar vi där.
+771|Skriv till konstruktören ↗
+772|no pAIn™ — Samarbeta med oss
+773|Samarbeta med projektet no pAIn™ vid Politecnico di Bari: vi söker hantverkare och smyckesföretag för att dölja button4help™ i smycken och bärbara accessoarer.
+774|Samarbeta med oss
+775|Har du en idé <span class="hl">att ta med in i projektet?</span>
+776|no pAIn™ föddes på universitetet och växer med dem som bidrar med kunnande, hantverk och idéer. Samarbetet sker med <strong>Politecnico di Bari</strong>, genom <strong>professor, civilingenjör Agostino Giorgio</strong>, som skapat och leder projektet.
+777|Vi söker
+778|Hantverkare och guldsmeder som kan <span class="hl">dölja knappen.</span>
+779|button4help™ fungerar när den hålls nedtryckt i en sekund: den ska inte se ut som en larmenhet, tvärtom, ju mer den smälter in desto bättre. Därför söker vi er som tillverkar smycken och bijouterier och kan göra den till ett föremål man bär varje dag.
+780|Hängen, hjärtan, medaljonger och halsband som rymmer knappen i mitten, så att den är bekväm att trycka på
+781|Armband, broscher, spännen, nyckelringar och andra bärbara accessoarer
+782|Material och ytbehandlingar som passar för daglig användning, även i prisvärd version
+783|Små serier, prototyper och tester i verkligheten tillsammans med laboratoriet
+784|Knappen är en Bluetooth-enhet från en tredjepartstillverkare: samarbetet gäller smycket som rymmer den, inte elektroniken.
+785|Konceptet: knappen dold inuti ett hjärtformat hänge. Illustrationsbild.
+786|Berätta vad du skulle vilja tillföra projektet.
+787|Fyll i fälten: formuläret öppnar ditt e-postprogram med meddelandet färdigskrivet till professor Agostino Giorgio vid Politecnico di Bari. Ingenting skickas eller sparas av den här webbplatsen.
+788|Vill du hellre skriva direkt? <a class="link-arrow" href="mailto:agostino.giorgio@poliba.it" data-mail="partner">agostino.giorgio@poliba.it ↗</a>
+789|För- och efternamn
+790|E-post eller telefon för svaret
+791|Företag, verkstad eller organisation (valfritt)
+792|Vilken idé skulle du vilja tillföra projektet?
+793|Förbered e-postmeddelandet <span class="arr">→</span>
+794|När du trycker på knappen öppnas ditt e-postprogram med texten färdig: du kan läsa igenom och ändra innan du skickar.
+795|Andra samarbeten
+796|Inte bara smycken.
+797|Ta no pAIn™ till din organisation
+798|Kommuner, föreningar, stödmottagningar, skolor och företag: möten, visningar och material för att göra dessa verktyg kända för dem som behöver dem.
+799|Se den egna sidan →
+800|Forskning och examensarbeten
+801|Projektet föddes i laboratoriet ELEDIGILAB vid Politecnico di Bari och beskrivs i vetenskapliga publikationer: det finns utrymme för examensarbeten, tester i verkligheten och gemensam utveckling.
+802|Spridning
+803|Sprida kännedom
+804|Den som arbetar med kommunikation, utbildning eller evenemang kan hjälpa apparna att nå dem som inte vet att de finns.
+805|Skriv till oss ↗
+806|Ett hjärtformat hänge i guld, buret runt halsen, trycks in med ett finger: i mitten döljer det button4help-knappen. Under står orden button4help, the signal4help becomes pure technology.
+807|Projektets marknadsmaterial, på engelska.

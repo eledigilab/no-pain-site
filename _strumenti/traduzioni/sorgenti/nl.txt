@@ -714,3 +714,69 @@ mail.partnerBody|Goedendag,\nik wil graag meer weten over het project no pAIn™
 739|<strong>digital4help™: de techniek die voor jou om hulp vraagt</strong>Smartphone, smartwatch en knop: de drie manieren om het alarm af te laten gaan. Poster in het Engels.
 740|Poster digital4help: de drie manieren om hulp te vragen, smartphone met een gebaar of een spraakopdracht, smartwatch AIuto SOS watch4help en de knop button4help die één seconde wordt ingedrukt; eromheen offline AI, Safe Zone, No Trace en draagbare SOS.
 741|De drie manieren om het alarm af te laten gaan · poster in het Engels
+742|Stel je idee voor
+743|Hoe het werkt <span class="arr">→</span>
+744|Project
+745|Tutorials
+746|Meedoen
+747|Op het moment van gevaar is om hulp vragen met <span class="hl">digital4help™</span>-techniek gratis.
+748|Promotiemateriaal van het project, in het Engels. De sieraden op de illustraties zijn ontwerpconcepten.
+749|Poster van het project no pAIn: digital4help, digitale bescherming, een nieuw tijdperk voor de bescherming van vrouwen. Met Proteggimi voor Android in het Italiaans, AI help You voor Android in 12 talen, AIuto SOS watch4help voor Wear OS-smartwatches en no pAIn voor iOS; onderaan een smartwatch met de SOS-knop, de smartphone met de app en de button4help-knop om de hals.
+750|no pAIn™ — Tutorials
+751|De videotutorials van het project no pAIn™: instellen, contacten op Telegram, button4help™ koppelen en smartwatches. Pagina in aanbouw.
+752|De videotutorials <span class="hl">komen eraan.</span>
+753|Deze pagina wordt gemaakt: binnenkort beginnen we met het plaatsen van de videotutorials die stap voor stap laten zien hoe je de apps instelt, de contacten koppelt en het alarm veilig test.
+754|<span class="wip-badge" data-no-i18n="">⚠︎</span> Pagina in aanbouw
+755|Wat je hier vindt
+756|Eén video voor elke stap.
+757|De tutorials worden kort, één per onderwerp, zodat je alleen kijkt wat je nodig hebt terwijl de app voor je open staat.
+758|In voorbereiding
+759|Toestemmingen, vertrouwde contacten, eigen trefwoorden en de eerste test: alles wat je één keer doet, voordat het echt nodig is.
+760|De contacten koppelen op Telegram
+761|Hoe de meldingen met je locatie bij je contacten aankomen, zonder codes met de hand op te zoeken.
+762|button4help™ koppelen
+763|De begeleide procedure waarmee de app de knop herkent en als noodknop gebruikt.
+764|De smartwatch
+765|Begeleidende app en zelfstandige app voor Wear OS: hoe het alarm vanaf de pols start en wat het verschil is.
+766|Ondertussen
+767|Wat er al is.
+768|Terwijl we de video's maken, vind je de geschreven handleiding en de filmische demo's van de apps.
+769|Wil je bericht krijgen
+770|Schrijf ons en we laten het weten zodra de videotutorials online staan. Je kunt ook zeggen welk onderwerp je het eerst nodig hebt: daar beginnen we mee.
+771|Schrijf naar de ontwerper ↗
+772|no pAIn™ — Werk met ons samen
+773|Werk samen met het project no pAIn™ van de Politecnico di Bari: we zoeken ambachtslieden en juweliers om button4help™ te verstoppen in sieraden en draagbare accessoires.
+774|Werk met ons samen
+775|Heb je een idee <span class="hl">voor het project?</span>
+776|no pAIn™ is aan de universiteit ontstaan en groeit met wie vakmanschap, kunde en ideeën inbrengt. De samenwerking loopt via de <strong>Politecnico di Bari</strong>, in de persoon van <strong>Prof. Ir. Agostino Giorgio</strong>, bedenker en leider van het project.
+777|We zoeken
+778|Ambachtslieden en juweliers om <span class="hl">de knop te verstoppen.</span>
+779|button4help™ werkt als je hem een seconde indrukt: hij mag er niet uitzien als een noodapparaat, integendeel, hoe onopvallender hoe beter. Daarom zoeken we wie sieraden en fantasiesieraden maakt en er een voorwerp van kan maken dat je elke dag draagt.
+780|Hangers, hartjes, medaillons en kettingen met de knop in het midden, waarbij indrukken comfortabel blijft
+781|Armbanden, broches, clips, sleutelhangers en andere draagbare accessoires
+782|Materialen en afwerkingen voor dagelijks gebruik, ook in een betaalbare uitvoering
+783|Kleine series, prototypes en tests in de praktijk samen met het laboratorium
+784|De knop is een bluetoothapparaat van een externe fabrikant: de samenwerking gaat over het sieraad eromheen, niet over de elektronica.
+785|Het concept: de knop verstopt in een hartvormige hanger. Illustratiebeeld.
+786|Vertel ons wat je in het project zou willen brengen.
+787|Vul de velden in: het formulier opent je mailprogramma met het bericht al geschreven, gericht aan Prof. Ir. Agostino Giorgio van de Politecnico di Bari. Deze site verstuurt en bewaart niets.
+788|Schrijf je liever rechtstreeks? <a class="link-arrow" href="mailto:agostino.giorgio@poliba.it" data-mail="partner">agostino.giorgio@poliba.it ↗</a>
+789|Voor- en achternaam
+790|E-mail of telefoon voor het antwoord
+791|Bedrijf, atelier of organisatie (optioneel)
+792|Welk idee zou je in het project willen brengen?
+793|Bereid de e-mail voor <span class="arr">→</span>
+794|Als je op de knop tikt, opent je mailprogramma met de tekst klaar: je kunt hem nalezen en aanpassen voordat je verstuurt.
+795|Andere samenwerkingen
+796|Niet alleen sieraden.
+797|no pAIn™ naar jouw organisatie brengen
+798|Gemeenten, verenigingen, hulploketten, scholen en bedrijven: bijeenkomsten, demonstraties en materiaal om deze middelen bekend te maken bij wie ze nodig heeft.
+799|Bekijk de aparte pagina →
+800|Onderzoek en scripties
+801|Het project ontstond in het ELEDIGILAB-laboratorium van de Politecnico di Bari en staat beschreven in wetenschappelijke publicaties: er is ruimte voor scripties, praktijktests en gezamenlijke ontwikkeling.
+802|Verspreiding
+803|Het bekend maken
+804|Wie werkt in communicatie, opleiding of evenementen kan helpen deze apps te laten aankomen bij wie niet weet dat ze bestaan.
+805|Schrijf ons ↗
+806|Een gouden hartvormige hanger, om de hals gedragen, wordt met een vinger ingedrukt: in het midden verbergt hij de button4help-knop. Eronder de woorden button4help, the signal4help becomes pure technology.
+807|Promotiemateriaal van het project, in het Engels.

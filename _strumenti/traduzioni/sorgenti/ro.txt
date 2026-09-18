@@ -713,3 +713,69 @@ mail.partnerBody|Bună ziua,\naș dori să aflu mai multe despre proiectul no pA
 739|<strong>digital4help™: tehnologia care cere ajutor în locul tău</strong>Smartphone, ceas inteligent și buton: cele trei moduri de a porni alarma. Afiș în engleză.
 740|Afișul digital4help: cele trei moduri de a cere ajutor, smartphone cu un gest sau o comandă vocală, ceas inteligent AIuto SOS watch4help și butonul button4help apăsat o secundă; în jur, IA offline, Safe Zone, No Trace și SOS purtabil.
 741|Cele trei moduri de a porni alarma · afiș în engleză
+742|Propune-ți ideea
+743|Cum funcționează <span class="arr">→</span>
+744|Proiect
+745|Tutoriale
+746|Colaborează
+747|În clipa pericolului, cu tehnologia <span class="hl">digital4help™</span> a cere ajutor e gratuit.
+748|Material promoțional al proiectului, în engleză. Bijuteriile din ilustrații sunt concepte de design.
+749|Afișul proiectului no pAIn: digital4help, protecție digitală, o nouă eră pentru protecția femeilor. Enumeră Proteggimi pentru Android în italiană, AI help You pentru Android în 12 limbi, AIuto SOS watch4help pentru ceasuri Wear OS și no pAIn pentru iOS; jos, un ceas inteligent cu tasta SOS, smartphone-ul cu aplicația și butonul button4help purtat la gât.
+750|no pAIn™ — Tutoriale
+751|Tutorialele video ale proiectului no pAIn™: configurare, contacte pe Telegram, asocierea button4help™ și ceasuri inteligente. Pagină în construcție.
+752|Tutorialele video <span class="hl">sunt pe drum.</span>
+753|Această pagină se pregătește: în curând începem să încărcăm tutorialele video care arată pas cu pas cum se configurează aplicațiile, cum se conectează contactele și cum se testează alarma în siguranță.
+754|<span class="wip-badge" data-no-i18n="">⚠︎</span> Pagină în construcție
+755|Ce vei găsi aici
+756|Un video pentru fiecare pas.
+757|Tutorialele vor fi scurte, câte unul pe subiect, ca să vezi doar ce îți trebuie în timp ce ai aplicația deschisă în față.
+758|În pregătire
+759|Permisiuni, contacte de încredere, cuvinte-cheie personale și prima probă: tot ce se face o singură dată, înainte să fie nevoie cu adevărat.
+760|Conectarea contactelor pe Telegram
+761|Cum ajung alertele cu locația la contactele tale, fără să cauți coduri de mână.
+762|Asocierea button4help™
+763|Procedura ghidată prin care aplicația recunoaște butonul și îl folosește ca declanșator de urgență.
+764|Ceasul inteligent
+765|Aplicație însoțitoare și aplicație autonomă pentru Wear OS: cum pornește alarma de la încheietură și ce diferă între ele.
+766|Între timp
+767|Ce există deja.
+768|Cât pregătim videoclipurile, găsești manualul scris și demonstrațiile cinematografice ale aplicațiilor.
+769|Vrei să te anunțăm
+770|Scrie-ne și îți spunem imediat ce tutorialele video sunt online. Poți să ne spui și ce subiect îți trebuie primul: de acolo începem.
+771|Scrie proiectantului ↗
+772|no pAIn™ — Colaborează cu noi
+773|Colaborează cu proiectul no pAIn™ al Politecnico di Bari: căutăm meșteșugari și firme de bijuterii pentru a ascunde button4help™ în bijuterii și accesorii purtabile.
+774|Colaborează cu noi
+775|Ai o idee <span class="hl">de adus în proiect?</span>
+776|no pAIn™ s-a născut în universitate și crește cu cei care aduc competențe, meșteșug și idei. Colaborarea este cu <strong>Politecnico di Bari</strong>, în persoana <strong>Prof. Ing. Agostino Giorgio</strong>, inițiatorul și responsabilul proiectului.
+777|Căutăm
+778|Meșteșugari și bijutieri care să <span class="hl">ascundă butonul.</span>
+779|button4help™ funcționează apăsat o secundă: nu trebuie să semene cu un dispozitiv de urgență, dimpotrivă, cu cât trece mai neobservat, cu atât mai bine. De aceea căutăm pe cei care fac bijuterii și bijuterii fantezie și îl pot transforma într-un obiect purtat zilnic.
+780|Pandantive, inimi, medalioane și lănțișoare care găzduiesc butonul în centru, cu apăsarea rămasă comodă
+781|Brățări, broșe, agrafe, brelocuri și alte accesorii purtabile
+782|Materiale și finisaje potrivite pentru uzul zilnic, inclusiv în variantă economică
+783|Serii mici, prototipuri și probe pe teren împreună cu laboratorul
+784|Butonul este un dispozitiv Bluetooth al unui producător terț: colaborarea privește accesoriul care îl găzduiește, nu electronica lui.
+785|Conceptul: butonul ascuns într-un pandantiv în formă de inimă. Imagine ilustrativă.
+786|Spune-ne ce ai vrea să aduci în proiect.
+787|Completează câmpurile: formularul deschide programul tău de e-mail cu mesajul deja scris, adresat Prof. Ing. Agostino Giorgio de la Politecnico di Bari. Nimic nu este trimis sau înregistrat de acest site.
+788|Preferi să scrii direct? <a class="link-arrow" href="mailto:agostino.giorgio@poliba.it" data-mail="partner">agostino.giorgio@poliba.it ↗</a>
+789|Nume și prenume
+790|Email sau telefon pentru răspuns
+791|Firmă, atelier sau instituție (opțional)
+792|Ce idee ai vrea să aduci în proiect?
+793|Pregătește e-mailul <span class="arr">→</span>
+794|Atingând butonul se deschide programul tău de e-mail cu textul gata scris: îl poți reciti și modifica înainte de a-l trimite.
+795|Alte colaborări
+796|Nu doar bijuterii.
+797|Să aduci no pAIn™ în organizația ta
+798|Primării, asociații, centre împotriva violenței, școli și companii: întâlniri, demonstrații și materiale pentru a face cunoscute aceste instrumente celor care au nevoie.
+799|Vezi pagina dedicată →
+800|Cercetare și lucrări de licență
+801|Proiectul s-a născut în laboratorul ELEDIGILAB al Politecnico di Bari și este descris în publicații științifice: este loc pentru lucrări, probe pe teren și dezvoltări comune.
+802|Răspândire
+803|Să fie cunoscut
+804|Cine lucrează în comunicare, formare sau evenimente poate ajuta aceste aplicații să ajungă la cei care nu știu că există.
+805|Scrie-ne ↗
+806|Un pandantiv de aur în formă de inimă, purtat la gât, este apăsat cu un deget: în centru ascunde butonul button4help. Dedesubt, inscripția button4help, the signal4help becomes pure technology.
+807|Material promoțional al proiectului, în engleză.

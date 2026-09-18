@@ -2831,6 +2831,270 @@
   "it": "I tre modi per far partire l'allarme · locandina in inglese",
   "tr": "Alarmı başlatmanın üç yolu · afiş İngilizce"
  },
+ "21793348": {
+  "it": "Proponi la tua idea",
+  "tr": "Fikrinizi önerin"
+ },
+ "47152794": {
+  "it": "Come funziona <span class=\"arr\">→</span>",
+  "tr": "Nasıl çalışır <span class=\"arr\">→</span>"
+ },
+ "0e33f38d": {
+  "it": "Progetto",
+  "tr": "Proje"
+ },
+ "862a694f": {
+  "it": "Tutorial",
+  "tr": "Eğitim videoları"
+ },
+ "35c4bdc4": {
+  "it": "Collabora",
+  "tr": "İş birliği"
+ },
+ "4c7b7705": {
+  "it": "Nel momento del pericolo, con la tecnologia <span class=\"hl\">digital4help™</span> chiedere aiuto è gratis.",
+  "tr": "Tehlike anında <span class=\"hl\">digital4help™</span> teknolojisiyle yardım istemek ücretsizdir."
+ },
+ "20bf78ad": {
+  "it": "Materiale promozionale del progetto, in inglese. I gioielli nelle illustrazioni sono concept di design.",
+  "tr": "Projenin tanıtım materyali, İngilizce. Görsellerdeki takılar tasarım konseptidir."
+ },
+ "337386ed": {
+  "it": "Locandina del progetto no pAIn: digital4help, protezione digitale, una nuova era per la tutela delle donne. Elenca Proteggimi per Android in italiano, AI help You per Android in 12 lingue, AIuto SOS watch4help per smartwatch Wear OS e no pAIn per iOS; in basso uno smartwatch con il tasto SOS, lo smartphone con l'app e il pulsante button4help al collo.",
+  "tr": "no pAIn projesinin afişi: digital4help, dijital koruma, kadınların korunması için yeni bir çağ. İtalyanca Android için Proteggimi, 12 dilde Android için AI help You, Wear OS akıllı saatler için AIuto SOS watch4help ve iOS için no pAIn sıralanır; altta SOS tuşlu bir akıllı saat, uygulamanın açık olduğu akıllı telefon ve boyna takılan button4help düğmesi."
+ },
+ "809714c4": {
+  "it": "no pAIn™ — Tutorial",
+  "tr": "no pAIn™ — Eğitim videoları"
+ },
+ "8840f116": {
+  "it": "I videotutorial del progetto no pAIn™: configurazione, contatti su Telegram, abbinamento di button4help™ e smartwatch. Pagina in costruzione.",
+  "tr": "no pAIn™ projesinin eğitim videoları: kurulum, Telegram'daki kişiler, button4help™ ve akıllı saat eşleştirmesi. Sayfa yapım aşamasında."
+ },
+ "9a526020": {
+  "it": "I videotutorial <span class=\"hl\">stanno arrivando.</span>",
+  "tr": "Eğitim videoları <span class=\"hl\">çok yakında.</span>"
+ },
+ "a7127592": {
+  "it": "Questa pagina è in lavorazione: a breve iniziamo a caricare i videotutorial che mostrano passo passo come configurare le app, collegare i contatti e provare l'allarme in sicurezza.",
+  "tr": "Bu sayfa hazırlanıyor: kısa süre içinde, uygulamaların nasıl kurulacağını, kişilerin nasıl bağlanacağını ve alarmın güvenle nasıl denenebileceğini adım adım gösteren videoları yüklemeye başlıyoruz."
+ },
+ "58c24385": {
+  "it": "<span class=\"wip-badge\" data-no-i18n=\"\">⚠︎</span> Pagina in costruzione",
+  "tr": "<span class=\"wip-badge\" data-no-i18n=\"\">⚠︎</span> Sayfa yapım aşamasında"
+ },
+ "437c1ad2": {
+  "it": "Cosa troverai qui",
+  "tr": "Burada ne bulacaksınız"
+ },
+ "c4eb9d3f": {
+  "it": "Un video per ogni passaggio.",
+  "tr": "Her adım için bir video."
+ },
+ "6856a348": {
+  "it": "I tutorial saranno brevi, uno per argomento, così puoi guardare solo quello che ti serve mentre hai l'app aperta davanti.",
+  "tr": "Videolar kısa olacak, her konu için bir tane: uygulama önünüzde açıkken yalnızca ihtiyacınız olanı izlersiniz."
+ },
+ "69955c58": {
+  "it": "In preparazione",
+  "tr": "Hazırlanıyor"
+ },
+ "711371f3": {
+  "it": "Permessi, contatti fidati, parole chiave personali e prova iniziale: tutto quello che va fatto una volta sola, prima che serva davvero.",
+  "tr": "İzinler, güvenilen kişiler, kişisel anahtar sözcükler ve ilk deneme: gerçekten gerekmeden önce bir kez yapılması gereken her şey."
+ },
+ "056cf2d9": {
+  "it": "Collegare i contatti su Telegram",
+  "tr": "Kişileri Telegram'da bağlamak"
+ },
+ "e8658679": {
+  "it": "Come far arrivare gli avvisi con la posizione ai tuoi contatti, senza cercare codici a mano.",
+  "tr": "Konum içeren uyarıların kişilerinize, elle kod aramadan nasıl ulaşacağı."
+ },
+ "42f0d682": {
+  "it": "Abbinare button4help™",
+  "tr": "button4help™ eşleştirmesi"
+ },
+ "455f1f28": {
+  "it": "La procedura guidata per far riconoscere il pulsante dall'app e usarlo come attivatore dell'emergenza.",
+  "tr": "Uygulamanın düğmeyi tanımasını ve acil durum tetikleyicisi olarak kullanmasını sağlayan rehberli işlem."
+ },
+ "ef0d13a0": {
+  "it": "Lo smartwatch",
+  "tr": "Akıllı saat"
+ },
+ "74f83d90": {
+  "it": "App compagna e app autonoma per Wear OS: come si avvia l'allarme dal polso e cosa cambia fra le due.",
+  "tr": "Wear OS için eş uygulama ve bağımsız uygulama: alarm bilekten nasıl başlar ve ikisi arasında ne değişir."
+ },
+ "0052e968": {
+  "it": "Intanto",
+  "tr": "Bu arada"
+ },
+ "dafbe7f3": {
+  "it": "Quello che c'è già.",
+  "tr": "Şimdiden var olanlar."
+ },
+ "75684ca1": {
+  "it": "Mentre prepariamo i video, trovi il manuale scritto e le demo cinematografiche delle app.",
+  "tr": "Videoları hazırlarken yazılı kılavuzu ve uygulamaların sinematik tanıtımlarını bulabilirsiniz."
+ },
+ "d0a996e4": {
+  "it": "Vuoi essere avvisato",
+  "tr": "Haber verelim mi"
+ },
+ "cc539811": {
+  "it": "Scrivici e ti diciamo appena i videotutorial sono online. Puoi anche dirci quale argomento ti serve per primo: cominciamo da lì.",
+  "tr": "Bize yazın, eğitim videoları yayına girer girmez size haber verelim. Hangi konuya önce ihtiyacınız olduğunu da söyleyebilirsiniz: oradan başlarız."
+ },
+ "beb85751": {
+  "it": "Scrivi al progettista ↗",
+  "tr": "Tasarımcıya yazın ↗"
+ },
+ "7bb80a0f": {
+  "it": "no pAIn™ — Collabora con noi",
+  "tr": "no pAIn™ — Bizimle iş birliği"
+ },
+ "17d47a59": {
+  "it": "Collabora con il progetto no pAIn™ del Politecnico di Bari: cerchiamo artigiani e aziende orafe per nascondere button4help™ in gioielli e accessori indossabili.",
+  "tr": "Politecnico di Bari'nin no pAIn™ projesiyle iş birliği yapın: button4help™ düğmesini takılarda ve giyilebilir aksesuarlarda gizlemek için zanaatkârlar ve kuyumculuk firmaları arıyoruz."
+ },
+ "f911ff3a": {
+  "it": "Collabora con noi",
+  "tr": "Bizimle iş birliği"
+ },
+ "db1d7ef8": {
+  "it": "Hai un'idea <span class=\"hl\">da portare nel progetto?</span>",
+  "tr": "Projeye katacak <span class=\"hl\">bir fikriniz mi var?</span>"
+ },
+ "dce70cf7": {
+  "it": "no pAIn™ nasce in università e cresce con chi ci mette competenze, mestiere e idee. La collaborazione è con il <strong>Politecnico di Bari</strong>, nella persona del <strong>Prof. Ing. Agostino Giorgio</strong>, ideatore e responsabile del progetto.",
+  "tr": "no pAIn™ üniversitede doğdu ve bilgi, zanaat ve fikir katan herkesle büyüyor. İş birliği, projenin fikir sahibi ve sorumlusu <strong>Prof. Müh. Agostino Giorgio</strong> şahsında <strong>Politecnico di Bari</strong> iledir."
+ },
+ "20b75a14": {
+  "it": "Cerchiamo",
+  "tr": "Arıyoruz"
+ },
+ "660c0317": {
+  "it": "Artigiani e aziende orafe per <span class=\"hl\">nascondere il pulsante.</span>",
+  "tr": "Düğmeyi <span class=\"hl\">gizleyecek zanaatkârlar ve kuyumcular.</span>"
+ },
+ "7ef02d2b": {
+  "it": "button4help™ funziona premuto per un secondo: non deve somigliare a un dispositivo di emergenza, anzi, più passa inosservato meglio è. Per questo cerchiamo chi realizza gioielli e bigiotteria e sa trasformarlo in un oggetto che si indossa ogni giorno.",
+  "tr": "button4help™ bir saniye basılınca çalışır: acil durum cihazına benzememeli, tersine ne kadar fark edilmezse o kadar iyi. Bu yüzden takı ve bijuteri üreten, onu her gün takılan bir nesneye dönüştürebilecek kişileri arıyoruz."
+ },
+ "6870942d": {
+  "it": "Ciondoli, cuori, medaglioni e collane che ospitano il pulsante al centro, con la pressione che resta comoda",
+  "tr": "Düğmeyi ortasında taşıyan, basmayı rahat bırakan kolyeler, kalpler, madalyonlar"
+ },
+ "1c524faf": {
+  "it": "Bracciali, spille, fermagli, portachiavi e altri accessori indossabili",
+  "tr": "Bilezikler, broşlar, toka, anahtarlık ve diğer giyilebilir aksesuarlar"
+ },
+ "7778e106": {
+  "it": "Materiali e finiture adatte all'uso quotidiano, anche in versione economica",
+  "tr": "Günlük kullanıma uygun, ekonomik seçenekleri de olan malzeme ve yüzeyler"
+ },
+ "31f70e76": {
+  "it": "Piccole serie, prototipi e prove sul campo insieme al laboratorio",
+  "tr": "Laboratuvarla birlikte küçük seriler, prototipler ve sahada denemeler"
+ },
+ "71cddfd5": {
+  "it": "Il pulsante è un dispositivo Bluetooth di un produttore terzo: la collaborazione riguarda l'accessorio che lo contiene, non la sua elettronica.",
+  "tr": "Düğme, üçüncü bir üreticinin Bluetooth cihazıdır: iş birliği onu taşıyan aksesuara ilişkindir, elektroniğine değil."
+ },
+ "d981ede5": {
+  "it": "Il concept: il pulsante nascosto dentro un ciondolo a cuore. Immagine illustrativa.",
+  "tr": "Konsept: kalp kolyenin içine gizlenmiş düğme. Temsili görsel."
+ },
+ "c7b13f08": {
+  "it": "Raccontaci cosa vorresti portare nel progetto.",
+  "tr": "Projeye ne katmak istediğinizi anlatın."
+ },
+ "ec96a165": {
+  "it": "Compila i campi: il modulo apre il tuo programma di posta con il messaggio già scritto, che arriva all'indirizzo del Prof. Ing. Agostino Giorgio al Politecnico di Bari. Niente viene inviato o registrato da questo sito.",
+  "tr": "Alanları doldurun: form, e-posta programınızı hazır yazılmış mesajla açar; mesaj Politecnico di Bari'den Prof. Müh. Agostino Giorgio'ya gider. Bu site hiçbir şey göndermez ve kaydetmez."
+ },
+ "1f994491": {
+  "it": "Preferisci scrivere direttamente? <a class=\"link-arrow\" href=\"mailto:agostino.giorgio@poliba.it\" data-mail=\"partner\">agostino.giorgio@poliba.it ↗</a>",
+  "tr": "Doğrudan yazmayı mı tercih edersiniz? <a class=\"link-arrow\" href=\"mailto:agostino.giorgio@poliba.it\" data-mail=\"partner\">agostino.giorgio@poliba.it ↗</a>"
+ },
+ "e22786b1": {
+  "it": "Nome e cognome",
+  "tr": "Ad ve soyad"
+ },
+ "9c17d4cb": {
+  "it": "Email o telefono per la risposta",
+  "tr": "Yanıt için e-posta ya da telefon"
+ },
+ "0dacf765": {
+  "it": "Azienda, laboratorio o ente (facoltativo)",
+  "tr": "Şirket, atölye ya da kurum (isteğe bağlı)"
+ },
+ "0f7105e5": {
+  "it": "Che idea vorresti portare nel progetto?",
+  "tr": "Projeye hangi fikri katmak istersiniz?"
+ },
+ "0ab2ce2c": {
+  "it": "Prepara l'email <span class=\"arr\">→</span>",
+  "tr": "E-postayı hazırla <span class=\"arr\">→</span>"
+ },
+ "1917f861": {
+  "it": "Toccando il pulsante si apre il tuo programma di posta, con il testo già pronto: puoi rileggerlo e modificarlo prima di inviarlo.",
+  "tr": "Düğmeye dokununca e-posta programınız hazır metinle açılır: göndermeden önce okuyup değiştirebilirsiniz."
+ },
+ "9c6e14f1": {
+  "it": "Altre collaborazioni",
+  "tr": "Diğer iş birlikleri"
+ },
+ "68046cc3": {
+  "it": "Non solo gioielli.",
+  "tr": "Yalnızca takı değil."
+ },
+ "0e540633": {
+  "it": "Portare no pAIn™ nella tua organizzazione",
+  "tr": "no pAIn™ uygulamasını kurumunuza taşımak"
+ },
+ "be8795cb": {
+  "it": "Comuni, associazioni, sportelli antiviolenza, scuole e aziende: incontri, dimostrazioni e materiali per far conoscere gli strumenti a chi ne ha bisogno.",
+  "tr": "Belediyeler, dernekler, şiddetle mücadele merkezleri, okullar ve şirketler: bu araçları ihtiyacı olanlara tanıtmak için buluşmalar, gösterimler ve materyaller."
+ },
+ "edc840a5": {
+  "it": "Vedi la pagina dedicata →",
+  "tr": "Özel sayfaya bakın →"
+ },
+ "4077f370": {
+  "it": "Ricerca e tesi",
+  "tr": "Araştırma ve tezler"
+ },
+ "3406d605": {
+  "it": "Il progetto nasce nel laboratorio ELEDIGILAB del Politecnico di Bari ed è descritto in pubblicazioni scientifiche: c'è spazio per tesi, prove sul campo e sviluppi congiunti.",
+  "tr": "Proje, Politecnico di Bari'nin ELEDIGILAB laboratuvarında doğdu ve bilimsel yayınlarda anlatıldı: tezlere, saha denemelerine ve ortak geliştirmelere yer var."
+ },
+ "76ec0dd3": {
+  "it": "Diffusione",
+  "tr": "Yaygınlaştırma"
+ },
+ "911cc884": {
+  "it": "Farlo conoscere",
+  "tr": "Duyurmak"
+ },
+ "b09716e9": {
+  "it": "Chi si occupa di comunicazione, formazione o eventi può aiutare a far arrivare queste app a chi non sa che esistono.",
+  "tr": "İletişim, eğitim ya da etkinlik alanında çalışanlar, bu uygulamaların varlığından habersiz olanlara ulaşmasına yardımcı olabilir."
+ },
+ "7710e7c2": {
+  "it": "Scrivici ↗",
+  "tr": "Bize yazın ↗"
+ },
+ "14574e8a": {
+  "it": "Un ciondolo a forma di cuore in oro, portato al collo, viene premuto con un dito: al centro nasconde il pulsante button4help. Sotto, la scritta button4help, the signal4help becomes pure technology.",
+  "tr": "Boyna takılan altın kalp kolyeye bir parmakla bastırılıyor: ortasında button4help düğmesini gizliyor. Altında button4help, the signal4help becomes pure technology yazısı."
+ },
+ "8f4593bb": {
+  "it": "Materiale promozionale del progetto, in inglese.",
+  "tr": "Projenin tanıtım materyali, İngilizce."
+ },
  "_ui": {
   "menu": "Menü",
   "close": "Kapat",
