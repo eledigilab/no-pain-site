@@ -714,6 +714,10 @@
 "9b95d6a5": "Manualul aplicației Proteggimi pentru Android este un PDF în italiană: se deschide în browser și poate fi salvat. Secțiunea despre Telegram explică cum se conectează contactele la bot în câțiva pași. Durata locației live diferă de la o aplicație la alta: verifică opțiunile aplicației instalate.",
 "a21f8077": "Manual Proteggimi, Android (PDF) <span class=\"arr\">↗</span>",
 "8984e1be": "Telegram: cum îți conectezi contactele (PDF) <span class=\"arr\">↗</span>",
-"4c4cb0a1": "Manual Proteggimi pentru Android (PDF) ↗"
+"4c4cb0a1": "Manual Proteggimi pentru Android (PDF) ↗",
+"0929c4a7": "Afișul digital4help: protecție digitală împotriva violenței de gen, o nouă eră tocmai a început. Un scut cu o siluetă feminină printre circuite luminoase și, dedesubt, cele trei moduri de a cere ajutor: smartphone cu un gest sau o comandă vocală, ceas inteligent AIuto SOS watch4help și butonul button4help apăsat o secundă; jos, IA offline, Safe Zone, No Trace, SOS purtabil și codul QR al site-ului.",
+"a479a4c3": "<strong>digital4help™: tehnologia care cere ajutor în locul tău</strong>Smartphone, ceas inteligent și buton: cele trei moduri de a porni alarma. Afiș în engleză.",
+"c0cdf624": "Afișul digital4help: cele trei moduri de a cere ajutor, smartphone cu un gest sau o comandă vocală, ceas inteligent AIuto SOS watch4help și butonul button4help apăsat o secundă; în jur, IA offline, Safe Zone, No Trace și SOS purtabil.",
+"b4cd2e50": "Cele trei moduri de a porni alarma · afiș în engleză"
 }
 };

@@ -2815,6 +2815,22 @@
   "it": "Manuale Proteggimi per Android (PDF) ↗",
   "tr": "Handbok Proteggimi för Android (PDF) ↗"
  },
+ "0929c4a7": {
+  "it": "Locandina digital4help: protezione digitale contro la violenza di genere, una nuova era è appena cominciata. Uno scudo con una figura femminile al centro di circuiti luminosi e, sotto, i tre modi per chiedere aiuto: smartphone con gesto o comando vocale, smartwatch AIuto SOS watch4help e pulsante button4help premuto per un secondo; in basso IA offline, Safe Zone, No Trace, SOS indossabile e il codice QR del sito.",
+  "tr": "Affischen digital4help: digitalt skydd mot könsrelaterat våld, en ny era har just börjat. En sköld med en kvinnofigur bland lysande kretsar och under den de tre sätten att be om hjälp: smartphone med en gest eller ett röstkommando, smartklockan AIuto SOS watch4help och knappen button4help nedtryckt i en sekund; längst ner offline-AI, Safe Zone, No Trace, bärbart SOS och webbplatsens QR-kod."
+ },
+ "a479a4c3": {
+  "it": "<strong>digital4help™: la tecnologia che chiede aiuto per te</strong>Smartphone, smartwatch e pulsante: i tre modi per far partire l'allarme. Locandina in inglese.",
+  "tr": "<strong>digital4help™: tekniken som ber om hjälp åt dig</strong>Smartphone, smartklocka och knapp: de tre sätten att utlösa larmet. Affisch på engelska."
+ },
+ "c0cdf624": {
+  "it": "Locandina digital4help: i tre modi per chiedere aiuto, smartphone con gesto o comando vocale, smartwatch AIuto SOS watch4help e pulsante button4help premuto per un secondo; intorno IA offline, Safe Zone, No Trace e SOS indossabile.",
+  "tr": "Affischen digital4help: de tre sätten att be om hjälp, smartphone med en gest eller ett röstkommando, smartklockan AIuto SOS watch4help och knappen button4help nedtryckt i en sekund; runt omkring offline-AI, Safe Zone, No Trace och bärbart SOS."
+ },
+ "b4cd2e50": {
+  "it": "I tre modi per far partire l'allarme · locandina in inglese",
+  "tr": "De tre sätten att utlösa larmet · affisch på engelska"
+ },
  "_ui": {
   "menu": "Meny",
   "close": "Stäng",

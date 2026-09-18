@@ -715,6 +715,10 @@
 "9b95d6a5": "De handleiding van Proteggimi voor Android is een pdf in het Italiaans: hij opent in de browser en je kunt hem bewaren. Het deel over Telegram legt uit hoe je de contacten in een paar stappen aan de bot koppelt. De duur van de live locatie verschilt per app: kijk in de opties van de app die je hebt geïnstalleerd.",
 "a21f8077": "Handleiding Proteggimi, Android (pdf) <span class=\"arr\">↗</span>",
 "8984e1be": "Telegram: zo koppel je je contacten (pdf) <span class=\"arr\">↗</span>",
-"4c4cb0a1": "Handleiding Proteggimi voor Android (pdf) ↗"
+"4c4cb0a1": "Handleiding Proteggimi voor Android (pdf) ↗",
+"0929c4a7": "Poster digital4help: digitale bescherming tegen gendergerelateerd geweld, een nieuw tijdperk is net begonnen. Een schild met een vrouwenfiguur tussen oplichtende circuits en daaronder de drie manieren om hulp te vragen: smartphone met een gebaar of een spraakopdracht, smartwatch AIuto SOS watch4help en de knop button4help die één seconde wordt ingedrukt; onderaan offline AI, Safe Zone, No Trace, draagbare SOS en de QR-code van de site.",
+"a479a4c3": "<strong>digital4help™: de techniek die voor jou om hulp vraagt</strong>Smartphone, smartwatch en knop: de drie manieren om het alarm af te laten gaan. Poster in het Engels.",
+"c0cdf624": "Poster digital4help: de drie manieren om hulp te vragen, smartphone met een gebaar of een spraakopdracht, smartwatch AIuto SOS watch4help en de knop button4help die één seconde wordt ingedrukt; eromheen offline AI, Safe Zone, No Trace en draagbare SOS.",
+"b4cd2e50": "De drie manieren om het alarm af te laten gaan · poster in het Engels"
 }
 };

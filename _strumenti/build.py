@@ -11,7 +11,7 @@ import re
 
 TOOLS = pathlib.Path(__file__).resolve().parent
 OUT = TOOLS.parent
-VERSION = "20260917l"
+VERSION = "20260918a"
 
 # Nomi ideati dall'autore: mai tradotti, sempre con ™
 TM_TERMS = ["digital4help", "watch4help", "button4help", "no pAIn"]

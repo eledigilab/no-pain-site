@@ -710,3 +710,7 @@ mail.partnerBody|Goedendag,\nik wil graag meer weten over het project no pAIn™
 735|Handleiding Proteggimi, Android (pdf) <span class="arr">↗</span>
 736|Telegram: zo koppel je je contacten (pdf) <span class="arr">↗</span>
 737|Handleiding Proteggimi voor Android (pdf) ↗
+738|Poster digital4help: digitale bescherming tegen gendergerelateerd geweld, een nieuw tijdperk is net begonnen. Een schild met een vrouwenfiguur tussen oplichtende circuits en daaronder de drie manieren om hulp te vragen: smartphone met een gebaar of een spraakopdracht, smartwatch AIuto SOS watch4help en de knop button4help die één seconde wordt ingedrukt; onderaan offline AI, Safe Zone, No Trace, draagbare SOS en de QR-code van de site.
+739|<strong>digital4help™: de techniek die voor jou om hulp vraagt</strong>Smartphone, smartwatch en knop: de drie manieren om het alarm af te laten gaan. Poster in het Engels.
+740|Poster digital4help: de drie manieren om hulp te vragen, smartphone met een gebaar of een spraakopdracht, smartwatch AIuto SOS watch4help en de knop button4help die één seconde wordt ingedrukt; eromheen offline AI, Safe Zone, No Trace en draagbare SOS.
+741|De drie manieren om het alarm af te laten gaan · poster in het Engels

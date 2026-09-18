@@ -715,6 +715,10 @@
 "9b95d6a5": "Android için Proteggimi kılavuzu İtalyanca bir PDF'tir: tarayıcıda açılır ve kaydedilebilir. Telegram bölümü, kişilerin bota birkaç adımda nasıl bağlanacağını anlatır. Canlı konumun süresi uygulamadan uygulamaya değişir: kurduğunuz uygulamanın seçeneklerine bakın.",
 "a21f8077": "Proteggimi kılavuzu, Android (PDF) <span class=\"arr\">↗</span>",
 "8984e1be": "Telegram: kişilerinizi nasıl bağlarsınız (PDF) <span class=\"arr\">↗</span>",
-"4c4cb0a1": "Android için Proteggimi kılavuzu (PDF) ↗"
+"4c4cb0a1": "Android için Proteggimi kılavuzu (PDF) ↗",
+"0929c4a7": "digital4help afişi: toplumsal cinsiyete dayalı şiddete karşı dijital koruma, yeni bir çağ henüz başladı. Işıklı devreler arasında kadın figürlü bir kalkan ve altında yardım istemenin üç yolu: hareket ya da sesli komutla akıllı telefon, AIuto SOS watch4help akıllı saat ve bir saniye basılan button4help düğmesi; altta çevrim dışı yapay zekâ, Safe Zone, No Trace, giyilebilir SOS ve sitenin QR kodu.",
+"a479a4c3": "<strong>digital4help™: sizin yerinize yardım isteyen teknoloji</strong>Akıllı telefon, akıllı saat ve düğme: alarmı başlatmanın üç yolu. Afiş İngilizce.",
+"c0cdf624": "digital4help afişi: yardım istemenin üç yolu, hareket ya da sesli komutla akıllı telefon, AIuto SOS watch4help akıllı saat ve bir saniye basılan button4help düğmesi; çevresinde çevrim dışı yapay zekâ, Safe Zone, No Trace ve giyilebilir SOS.",
+"b4cd2e50": "Alarmı başlatmanın üç yolu · afiş İngilizce"
 }
 };

@@ -709,3 +709,7 @@ mail.partnerBody|Hello,\nI would like to learn more about the no pAIn™ project
 735|Proteggimi manual, Android (PDF) <span class="arr">↗</span>
 736|Telegram: how to connect your contacts (PDF) <span class="arr">↗</span>
 737|Proteggimi manual for Android (PDF) ↗
+738|digital4help poster: digital protection against gender-based violence, a new era has just begun. A shield with a female figure among glowing circuits and, below, the three ways to ask for help: smartphone with a gesture or a voice command, AIuto SOS watch4help smartwatch and the button4help button pressed for one second; at the bottom offline AI, Safe Zone, No Trace, wearable SOS and the QR code of the website.
+739|<strong>digital4help™: the technology that asks for help for you</strong>Smartphone, smartwatch and button: the three ways to set off the alarm. Poster in English.
+740|digital4help poster: the three ways to ask for help, smartphone with a gesture or a voice command, AIuto SOS watch4help smartwatch and the button4help button pressed for one second; around them offline AI, Safe Zone, No Trace and wearable SOS.
+741|The three ways to set off the alarm · poster in English

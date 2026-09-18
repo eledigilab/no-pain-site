@@ -715,6 +715,10 @@
 "9b95d6a5": "Le manuel de Proteggimi pour Android est un PDF en italien : il s’ouvre dans le navigateur et peut être enregistré. La section sur Telegram explique comment relier les contacts au bot en quelques étapes. La durée de la position en direct change d’une application à l’autre : vérifiez les options de l’application installée.",
 "a21f8077": "Manuel Proteggimi, Android (PDF) <span class=\"arr\">↗</span>",
 "8984e1be": "Telegram : comment relier vos contacts (PDF) <span class=\"arr\">↗</span>",
-"4c4cb0a1": "Manuel Proteggimi pour Android (PDF) ↗"
+"4c4cb0a1": "Manuel Proteggimi pour Android (PDF) ↗",
+"0929c4a7": "Affiche digital4help : protection numérique contre les violences de genre, une nouvelle ère vient de commencer. Un bouclier avec une silhouette féminine parmi des circuits lumineux et, en dessous, les trois façons de demander de l’aide : smartphone avec un geste ou une commande vocale, montre connectée AIuto SOS watch4help et bouton button4help pressé pendant une seconde ; en bas, IA hors ligne, Safe Zone, No Trace, SOS portable et le code QR du site.",
+"a479a4c3": "<strong>digital4help™ : la technologie qui demande de l’aide à votre place</strong>Smartphone, montre connectée et bouton : les trois façons de déclencher l’alerte. Affiche en anglais.",
+"c0cdf624": "Affiche digital4help : les trois façons de demander de l’aide, smartphone avec un geste ou une commande vocale, montre connectée AIuto SOS watch4help et bouton button4help pressé pendant une seconde ; autour, IA hors ligne, Safe Zone, No Trace et SOS portable.",
+"b4cd2e50": "Les trois façons de déclencher l’alerte · affiche en anglais"
 }
 };

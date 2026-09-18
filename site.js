@@ -10,7 +10,7 @@
   'use strict';
 
   var LANGS = ['it', 'en', 'fr', 'de', 'es', 'tr', 'el', 'pt', 'ro', 'pl', 'nl', 'sv'];
-  var VERSION = '20260917l';
+  var VERSION = '20260918a';
   var root = document.documentElement;
   window.NP_LANGS = window.NP_LANGS || {};
 

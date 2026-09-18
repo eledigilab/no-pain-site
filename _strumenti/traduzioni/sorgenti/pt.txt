@@ -710,3 +710,7 @@ mail.partnerBody|Bom dia,\ngostaria de saber mais sobre o projeto no pAIn™ e a
 735|Manual do Proteggimi, Android (PDF) <span class="arr">↗</span>
 736|Telegram: como ligar os seus contactos (PDF) <span class="arr">↗</span>
 737|Manual do Proteggimi para Android (PDF) ↗
+738|Cartaz digital4help: proteção digital contra a violência de género, uma nova era acaba de começar. Um escudo com uma figura feminina entre circuitos luminosos e, por baixo, as três formas de pedir ajuda: smartphone com um gesto ou um comando de voz, smartwatch AIuto SOS watch4help e o botão button4help premido durante um segundo; em baixo, IA offline, Safe Zone, No Trace, SOS vestível e o código QR do site.
+739|<strong>digital4help™: a tecnologia que pede ajuda por si</strong>Smartphone, smartwatch e botão: as três formas de disparar o alarme. Cartaz em inglês.
+740|Cartaz digital4help: as três formas de pedir ajuda, smartphone com um gesto ou um comando de voz, smartwatch AIuto SOS watch4help e o botão button4help premido durante um segundo; à volta, IA offline, Safe Zone, No Trace e SOS vestível.
+741|As três formas de disparar o alarme · cartaz em inglês

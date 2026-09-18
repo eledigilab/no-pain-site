@@ -2815,6 +2815,22 @@
   "it": "Manuale Proteggimi per Android (PDF) ↗",
   "tr": "Εγχειρίδιο Proteggimi για Android (PDF) ↗"
  },
+ "0929c4a7": {
+  "it": "Locandina digital4help: protezione digitale contro la violenza di genere, una nuova era è appena cominciata. Uno scudo con una figura femminile al centro di circuiti luminosi e, sotto, i tre modi per chiedere aiuto: smartphone con gesto o comando vocale, smartwatch AIuto SOS watch4help e pulsante button4help premuto per un secondo; in basso IA offline, Safe Zone, No Trace, SOS indossabile e il codice QR del sito.",
+  "tr": "Αφίσα digital4help: ψηφιακή προστασία από την έμφυλη βία, μια νέα εποχή μόλις ξεκίνησε. Μια ασπίδα με γυναικεία φιγούρα ανάμεσα σε φωτεινά κυκλώματα και, από κάτω, οι τρεις τρόποι να ζητήσετε βοήθεια: smartphone με χειρονομία ή φωνητική εντολή, έξυπνο ρολόι AIuto SOS watch4help και το κουμπί button4help πατημένο για ένα δευτερόλεπτο· στο κάτω μέρος τεχνητή νοημοσύνη εκτός σύνδεσης, Safe Zone, No Trace, φορητό SOS και ο κωδικός QR του ιστότοπου."
+ },
+ "a479a4c3": {
+  "it": "<strong>digital4help™: la tecnologia che chiede aiuto per te</strong>Smartphone, smartwatch e pulsante: i tre modi per far partire l'allarme. Locandina in inglese.",
+  "tr": "<strong>digital4help™: η τεχνολογία που ζητά βοήθεια για εσάς</strong>Smartphone, έξυπνο ρολόι και κουμπί: οι τρεις τρόποι να σημάνει ο συναγερμός. Αφίσα στα αγγλικά."
+ },
+ "c0cdf624": {
+  "it": "Locandina digital4help: i tre modi per chiedere aiuto, smartphone con gesto o comando vocale, smartwatch AIuto SOS watch4help e pulsante button4help premuto per un secondo; intorno IA offline, Safe Zone, No Trace e SOS indossabile.",
+  "tr": "Αφίσα digital4help: οι τρεις τρόποι να ζητήσετε βοήθεια, smartphone με χειρονομία ή φωνητική εντολή, έξυπνο ρολόι AIuto SOS watch4help και το κουμπί button4help πατημένο για ένα δευτερόλεπτο· γύρω τους τεχνητή νοημοσύνη εκτός σύνδεσης, Safe Zone, No Trace και φορητό SOS."
+ },
+ "b4cd2e50": {
+  "it": "I tre modi per far partire l'allarme · locandina in inglese",
+  "tr": "Οι τρεις τρόποι να σημάνει ο συναγερμός · αφίσα στα αγγλικά"
+ },
  "_ui": {
   "menu": "Μενού",
   "close": "Κλείσιμο",

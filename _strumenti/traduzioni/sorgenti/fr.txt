@@ -710,3 +710,7 @@ mail.partnerBody|Bonjour,\nje souhaiterais en savoir plus sur le projet no pAIn�
 735|Manuel Proteggimi, Android (PDF) <span class="arr">↗</span>
 736|Telegram : comment relier vos contacts (PDF) <span class="arr">↗</span>
 737|Manuel Proteggimi pour Android (PDF) ↗
+738|Affiche digital4help : protection numérique contre les violences de genre, une nouvelle ère vient de commencer. Un bouclier avec une silhouette féminine parmi des circuits lumineux et, en dessous, les trois façons de demander de l’aide : smartphone avec un geste ou une commande vocale, montre connectée AIuto SOS watch4help et bouton button4help pressé pendant une seconde ; en bas, IA hors ligne, Safe Zone, No Trace, SOS portable et le code QR du site.
+739|<strong>digital4help™ : la technologie qui demande de l’aide à votre place</strong>Smartphone, montre connectée et bouton : les trois façons de déclencher l’alerte. Affiche en anglais.
+740|Affiche digital4help : les trois façons de demander de l’aide, smartphone avec un geste ou une commande vocale, montre connectée AIuto SOS watch4help et bouton button4help pressé pendant une seconde ; autour, IA hors ligne, Safe Zone, No Trace et SOS portable.
+741|Les trois façons de déclencher l’alerte · affiche en anglais

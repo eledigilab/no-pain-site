@@ -710,3 +710,7 @@ mail.partnerBody|Dzień dobry,\nchciałabym/chciałbym dowiedzieć się więcej 
 735|Instrukcja Proteggimi, Android (PDF) <span class="arr">↗</span>
 736|Telegram: jak połączyć kontakty (PDF) <span class="arr">↗</span>
 737|Instrukcja Proteggimi na Androida (PDF) ↗
+738|Plakat digital4help: cyfrowa ochrona przed przemocą ze względu na płeć, właśnie zaczęła się nowa era. Tarcza z postacią kobiety wśród świecących obwodów, a pod nią trzy sposoby wezwania pomocy: smartfon gestem lub poleceniem głosowym, smartwatch AIuto SOS watch4help i przycisk button4help wciśnięty przez sekundę; na dole AI offline, Safe Zone, No Trace, noszony SOS i kod QR strony.
+739|<strong>digital4help™: technologia, która wzywa pomoc za ciebie</strong>Smartfon, smartwatch i przycisk: trzy sposoby uruchomienia alarmu. Plakat po angielsku.
+740|Plakat digital4help: trzy sposoby wezwania pomocy, smartfon gestem lub poleceniem głosowym, smartwatch AIuto SOS watch4help i przycisk button4help wciśnięty przez sekundę; wokół AI offline, Safe Zone, No Trace i noszony SOS.
+741|Trzy sposoby uruchomienia alarmu · plakat po angielsku

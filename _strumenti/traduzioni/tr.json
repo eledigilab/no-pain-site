@@ -2815,6 +2815,22 @@
   "it": "Manuale Proteggimi per Android (PDF) ↗",
   "tr": "Android için Proteggimi kılavuzu (PDF) ↗"
  },
+ "0929c4a7": {
+  "it": "Locandina digital4help: protezione digitale contro la violenza di genere, una nuova era è appena cominciata. Uno scudo con una figura femminile al centro di circuiti luminosi e, sotto, i tre modi per chiedere aiuto: smartphone con gesto o comando vocale, smartwatch AIuto SOS watch4help e pulsante button4help premuto per un secondo; in basso IA offline, Safe Zone, No Trace, SOS indossabile e il codice QR del sito.",
+  "tr": "digital4help afişi: toplumsal cinsiyete dayalı şiddete karşı dijital koruma, yeni bir çağ henüz başladı. Işıklı devreler arasında kadın figürlü bir kalkan ve altında yardım istemenin üç yolu: hareket ya da sesli komutla akıllı telefon, AIuto SOS watch4help akıllı saat ve bir saniye basılan button4help düğmesi; altta çevrim dışı yapay zekâ, Safe Zone, No Trace, giyilebilir SOS ve sitenin QR kodu."
+ },
+ "a479a4c3": {
+  "it": "<strong>digital4help™: la tecnologia che chiede aiuto per te</strong>Smartphone, smartwatch e pulsante: i tre modi per far partire l'allarme. Locandina in inglese.",
+  "tr": "<strong>digital4help™: sizin yerinize yardım isteyen teknoloji</strong>Akıllı telefon, akıllı saat ve düğme: alarmı başlatmanın üç yolu. Afiş İngilizce."
+ },
+ "c0cdf624": {
+  "it": "Locandina digital4help: i tre modi per chiedere aiuto, smartphone con gesto o comando vocale, smartwatch AIuto SOS watch4help e pulsante button4help premuto per un secondo; intorno IA offline, Safe Zone, No Trace e SOS indossabile.",
+  "tr": "digital4help afişi: yardım istemenin üç yolu, hareket ya da sesli komutla akıllı telefon, AIuto SOS watch4help akıllı saat ve bir saniye basılan button4help düğmesi; çevresinde çevrim dışı yapay zekâ, Safe Zone, No Trace ve giyilebilir SOS."
+ },
+ "b4cd2e50": {
+  "it": "I tre modi per far partire l'allarme · locandina in inglese",
+  "tr": "Alarmı başlatmanın üç yolu · afiş İngilizce"
+ },
  "_ui": {
   "menu": "Menü",
   "close": "Kapat",

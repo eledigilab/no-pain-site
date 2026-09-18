@@ -714,6 +714,10 @@
 "9b95d6a5": "Das Handbuch von Proteggimi für Android ist ein PDF auf Italienisch: Es öffnet sich im Browser und lässt sich speichern. Der Abschnitt zu Telegram erklärt, wie Sie die Kontakte in wenigen Schritten mit dem Bot verbinden. Die Dauer des Live-Standorts ist je nach App verschieden: Prüfen Sie die Optionen der installierten App.",
 "a21f8077": "Handbuch Proteggimi, Android (PDF) <span class=\"arr\">↗</span>",
 "8984e1be": "Telegram: So verbinden Sie Ihre Kontakte (PDF) <span class=\"arr\">↗</span>",
-"4c4cb0a1": "Handbuch Proteggimi für Android (PDF) ↗"
+"4c4cb0a1": "Handbuch Proteggimi für Android (PDF) ↗",
+"0929c4a7": "Plakat digital4help: digitaler Schutz gegen geschlechtsspezifische Gewalt, eine neue Ära hat gerade begonnen. Ein Schild mit einer weiblichen Figur zwischen leuchtenden Schaltkreisen und darunter die drei Wege, um Hilfe zu bitten: Smartphone mit Geste oder Sprachbefehl, Smartwatch AIuto SOS watch4help und der eine Sekunde lang gedrückte Knopf button4help; unten Offline-KI, Safe Zone, No Trace, tragbarer SOS und der QR-Code der Website.",
+"a479a4c3": "<strong>digital4help™: die Technik, die für Sie um Hilfe bittet</strong>Smartphone, Smartwatch und Knopf: die drei Wege, den Alarm auszulösen. Plakat auf Englisch.",
+"c0cdf624": "Plakat digital4help: die drei Wege, um Hilfe zu bitten, Smartphone mit Geste oder Sprachbefehl, Smartwatch AIuto SOS watch4help und der eine Sekunde lang gedrückte Knopf button4help; darum herum Offline-KI, Safe Zone, No Trace und tragbarer SOS.",
+"b4cd2e50": "Die drei Wege, den Alarm auszulösen · Plakat auf Englisch"
 }
 };

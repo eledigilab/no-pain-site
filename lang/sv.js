@@ -715,6 +715,10 @@
 "9b95d6a5": "Handboken för Proteggimi för Android är en PDF på italienska: den öppnas i webbläsaren och går att spara. Avsnittet om Telegram förklarar hur du kopplar kontakterna till boten på några steg. Livepositionens längd varierar mellan apparna: se alternativen i appen du installerat.",
 "a21f8077": "Handbok Proteggimi, Android (PDF) <span class=\"arr\">↗</span>",
 "8984e1be": "Telegram: så kopplar du dina kontakter (PDF) <span class=\"arr\">↗</span>",
-"4c4cb0a1": "Handbok Proteggimi för Android (PDF) ↗"
+"4c4cb0a1": "Handbok Proteggimi för Android (PDF) ↗",
+"0929c4a7": "Affischen digital4help: digitalt skydd mot könsrelaterat våld, en ny era har just börjat. En sköld med en kvinnofigur bland lysande kretsar och under den de tre sätten att be om hjälp: smartphone med en gest eller ett röstkommando, smartklockan AIuto SOS watch4help och knappen button4help nedtryckt i en sekund; längst ner offline-AI, Safe Zone, No Trace, bärbart SOS och webbplatsens QR-kod.",
+"a479a4c3": "<strong>digital4help™: tekniken som ber om hjälp åt dig</strong>Smartphone, smartklocka och knapp: de tre sätten att utlösa larmet. Affisch på engelska.",
+"c0cdf624": "Affischen digital4help: de tre sätten att be om hjälp, smartphone med en gest eller ett röstkommando, smartklockan AIuto SOS watch4help och knappen button4help nedtryckt i en sekund; runt omkring offline-AI, Safe Zone, No Trace och bärbart SOS.",
+"b4cd2e50": "De tre sätten att utlösa larmet · affisch på engelska"
 }
 };

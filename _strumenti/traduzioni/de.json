@@ -2811,6 +2811,22 @@
   "it": "Manuale Proteggimi per Android (PDF) ↗",
   "tr": "Handbuch Proteggimi für Android (PDF) ↗"
  },
+ "0929c4a7": {
+  "it": "Locandina digital4help: protezione digitale contro la violenza di genere, una nuova era è appena cominciata. Uno scudo con una figura femminile al centro di circuiti luminosi e, sotto, i tre modi per chiedere aiuto: smartphone con gesto o comando vocale, smartwatch AIuto SOS watch4help e pulsante button4help premuto per un secondo; in basso IA offline, Safe Zone, No Trace, SOS indossabile e il codice QR del sito.",
+  "tr": "Plakat digital4help: digitaler Schutz gegen geschlechtsspezifische Gewalt, eine neue Ära hat gerade begonnen. Ein Schild mit einer weiblichen Figur zwischen leuchtenden Schaltkreisen und darunter die drei Wege, um Hilfe zu bitten: Smartphone mit Geste oder Sprachbefehl, Smartwatch AIuto SOS watch4help und der eine Sekunde lang gedrückte Knopf button4help; unten Offline-KI, Safe Zone, No Trace, tragbarer SOS und der QR-Code der Website."
+ },
+ "a479a4c3": {
+  "it": "<strong>digital4help™: la tecnologia che chiede aiuto per te</strong>Smartphone, smartwatch e pulsante: i tre modi per far partire l'allarme. Locandina in inglese.",
+  "tr": "<strong>digital4help™: die Technik, die für Sie um Hilfe bittet</strong>Smartphone, Smartwatch und Knopf: die drei Wege, den Alarm auszulösen. Plakat auf Englisch."
+ },
+ "c0cdf624": {
+  "it": "Locandina digital4help: i tre modi per chiedere aiuto, smartphone con gesto o comando vocale, smartwatch AIuto SOS watch4help e pulsante button4help premuto per un secondo; intorno IA offline, Safe Zone, No Trace e SOS indossabile.",
+  "tr": "Plakat digital4help: die drei Wege, um Hilfe zu bitten, Smartphone mit Geste oder Sprachbefehl, Smartwatch AIuto SOS watch4help und der eine Sekunde lang gedrückte Knopf button4help; darum herum Offline-KI, Safe Zone, No Trace und tragbarer SOS."
+ },
+ "b4cd2e50": {
+  "it": "I tre modi per far partire l'allarme · locandina in inglese",
+  "tr": "Die drei Wege, den Alarm auszulösen · Plakat auf Englisch"
+ },
  "_ui": {
   "menu": "Menü",
   "close": "Schließen",

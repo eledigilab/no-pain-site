@@ -710,3 +710,7 @@ mail.partnerBody|Hej,\njag vill gärna veta mer om projektet no pAIn™ och disk
 735|Handbok Proteggimi, Android (PDF) <span class="arr">↗</span>
 736|Telegram: så kopplar du dina kontakter (PDF) <span class="arr">↗</span>
 737|Handbok Proteggimi för Android (PDF) ↗
+738|Affischen digital4help: digitalt skydd mot könsrelaterat våld, en ny era har just börjat. En sköld med en kvinnofigur bland lysande kretsar och under den de tre sätten att be om hjälp: smartphone med en gest eller ett röstkommando, smartklockan AIuto SOS watch4help och knappen button4help nedtryckt i en sekund; längst ner offline-AI, Safe Zone, No Trace, bärbart SOS och webbplatsens QR-kod.
+739|<strong>digital4help™: tekniken som ber om hjälp åt dig</strong>Smartphone, smartklocka och knapp: de tre sätten att utlösa larmet. Affisch på engelska.
+740|Affischen digital4help: de tre sätten att be om hjälp, smartphone med en gest eller ett röstkommando, smartklockan AIuto SOS watch4help och knappen button4help nedtryckt i en sekund; runt omkring offline-AI, Safe Zone, No Trace och bärbart SOS.
+741|De tre sätten att utlösa larmet · affisch på engelska

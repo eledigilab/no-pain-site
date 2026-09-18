@@ -2815,6 +2815,22 @@
   "it": "Manuale Proteggimi per Android (PDF) ↗",
   "tr": "Manual do Proteggimi para Android (PDF) ↗"
  },
+ "0929c4a7": {
+  "it": "Locandina digital4help: protezione digitale contro la violenza di genere, una nuova era è appena cominciata. Uno scudo con una figura femminile al centro di circuiti luminosi e, sotto, i tre modi per chiedere aiuto: smartphone con gesto o comando vocale, smartwatch AIuto SOS watch4help e pulsante button4help premuto per un secondo; in basso IA offline, Safe Zone, No Trace, SOS indossabile e il codice QR del sito.",
+  "tr": "Cartaz digital4help: proteção digital contra a violência de género, uma nova era acaba de começar. Um escudo com uma figura feminina entre circuitos luminosos e, por baixo, as três formas de pedir ajuda: smartphone com um gesto ou um comando de voz, smartwatch AIuto SOS watch4help e o botão button4help premido durante um segundo; em baixo, IA offline, Safe Zone, No Trace, SOS vestível e o código QR do site."
+ },
+ "a479a4c3": {
+  "it": "<strong>digital4help™: la tecnologia che chiede aiuto per te</strong>Smartphone, smartwatch e pulsante: i tre modi per far partire l'allarme. Locandina in inglese.",
+  "tr": "<strong>digital4help™: a tecnologia que pede ajuda por si</strong>Smartphone, smartwatch e botão: as três formas de disparar o alarme. Cartaz em inglês."
+ },
+ "c0cdf624": {
+  "it": "Locandina digital4help: i tre modi per chiedere aiuto, smartphone con gesto o comando vocale, smartwatch AIuto SOS watch4help e pulsante button4help premuto per un secondo; intorno IA offline, Safe Zone, No Trace e SOS indossabile.",
+  "tr": "Cartaz digital4help: as três formas de pedir ajuda, smartphone com um gesto ou um comando de voz, smartwatch AIuto SOS watch4help e o botão button4help premido durante um segundo; à volta, IA offline, Safe Zone, No Trace e SOS vestível."
+ },
+ "b4cd2e50": {
+  "it": "I tre modi per far partire l'allarme · locandina in inglese",
+  "tr": "As três formas de disparar o alarme · cartaz em inglês"
+ },
  "_ui": {
   "menu": "Menu",
   "close": "Fechar",

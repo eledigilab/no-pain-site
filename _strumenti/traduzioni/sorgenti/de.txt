@@ -709,3 +709,7 @@ mail.partnerBody|Guten Tag,\nich möchte mehr über das Projekt no pAIn™ erfah
 735|Handbuch Proteggimi, Android (PDF) <span class="arr">↗</span>
 736|Telegram: So verbinden Sie Ihre Kontakte (PDF) <span class="arr">↗</span>
 737|Handbuch Proteggimi für Android (PDF) ↗
+738|Plakat digital4help: digitaler Schutz gegen geschlechtsspezifische Gewalt, eine neue Ära hat gerade begonnen. Ein Schild mit einer weiblichen Figur zwischen leuchtenden Schaltkreisen und darunter die drei Wege, um Hilfe zu bitten: Smartphone mit Geste oder Sprachbefehl, Smartwatch AIuto SOS watch4help und der eine Sekunde lang gedrückte Knopf button4help; unten Offline-KI, Safe Zone, No Trace, tragbarer SOS und der QR-Code der Website.
+739|<strong>digital4help™: die Technik, die für Sie um Hilfe bittet</strong>Smartphone, Smartwatch und Knopf: die drei Wege, den Alarm auszulösen. Plakat auf Englisch.
+740|Plakat digital4help: die drei Wege, um Hilfe zu bitten, Smartphone mit Geste oder Sprachbefehl, Smartwatch AIuto SOS watch4help und der eine Sekunde lang gedrückte Knopf button4help; darum herum Offline-KI, Safe Zone, No Trace und tragbarer SOS.
+741|Die drei Wege, den Alarm auszulösen · Plakat auf Englisch

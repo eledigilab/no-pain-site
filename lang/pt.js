@@ -715,6 +715,10 @@
 "9b95d6a5": "O manual do Proteggimi para Android é um PDF em italiano: abre-se no navegador e pode ser guardado. A secção sobre o Telegram explica como ligar os contactos ao bot em poucos passos. A duração da localização em direto muda de aplicação para aplicação: consulte as opções da aplicação instalada.",
 "a21f8077": "Manual do Proteggimi, Android (PDF) <span class=\"arr\">↗</span>",
 "8984e1be": "Telegram: como ligar os seus contactos (PDF) <span class=\"arr\">↗</span>",
-"4c4cb0a1": "Manual do Proteggimi para Android (PDF) ↗"
+"4c4cb0a1": "Manual do Proteggimi para Android (PDF) ↗",
+"0929c4a7": "Cartaz digital4help: proteção digital contra a violência de género, uma nova era acaba de começar. Um escudo com uma figura feminina entre circuitos luminosos e, por baixo, as três formas de pedir ajuda: smartphone com um gesto ou um comando de voz, smartwatch AIuto SOS watch4help e o botão button4help premido durante um segundo; em baixo, IA offline, Safe Zone, No Trace, SOS vestível e o código QR do site.",
+"a479a4c3": "<strong>digital4help™: a tecnologia que pede ajuda por si</strong>Smartphone, smartwatch e botão: as três formas de disparar o alarme. Cartaz em inglês.",
+"c0cdf624": "Cartaz digital4help: as três formas de pedir ajuda, smartphone com um gesto ou um comando de voz, smartwatch AIuto SOS watch4help e o botão button4help premido durante um segundo; à volta, IA offline, Safe Zone, No Trace e SOS vestível.",
+"b4cd2e50": "As três formas de disparar o alarme · cartaz em inglês"
 }
 };

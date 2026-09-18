@@ -643,8 +643,8 @@ a.press-thumb:hover img { transform: scale(1.03); }
 }
 @media (max-width: 560px) { .media-track { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px 12px; } }
 
-.hero h1.h1-long { font-size: clamp(2rem, 4.2vw, 3.5rem); line-height: 1.08; }
-.hero .claim { font-family: var(--f-display); font-size: clamp(1.2rem, 2.1vw, 1.55rem); line-height: 1.3; font-weight: 500; color: var(--text); max-width: 36ch; }
+.hero h1.h1-long { font-size: clamp(1.7rem, 3.3vw, 2.7rem); line-height: 1.14; }
+.hero .claim { font-family: var(--f-display); font-size: clamp(1.8rem, 3.6vw, 2.95rem); line-height: 1.12; font-weight: 700; color: var(--text); max-width: 26ch; margin-bottom: 4px; }
 .hero .claim strong { color: var(--signal); }
 .hero .hero-poster { width: 100%; max-width: 400px; justify-self: center; }
 .hero .hero-poster .frame-media { aspect-ratio: 832 / 1270; box-shadow: 0 30px 80px -30px rgba(0, 0, 0, .8), 0 0 80px rgba(183, 38, 207, .35); }

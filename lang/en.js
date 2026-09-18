@@ -714,6 +714,10 @@
 "9b95d6a5": "The manual of Proteggimi for Android is a PDF in Italian: it opens in the browser and can be saved. The section on Telegram explains how to connect the contacts to the bot in a few steps. The duration of the live location changes from app to app: check the options of the app you installed.",
 "a21f8077": "Proteggimi manual, Android (PDF) <span class=\"arr\">↗</span>",
 "8984e1be": "Telegram: how to connect your contacts (PDF) <span class=\"arr\">↗</span>",
-"4c4cb0a1": "Proteggimi manual for Android (PDF) ↗"
+"4c4cb0a1": "Proteggimi manual for Android (PDF) ↗",
+"0929c4a7": "digital4help poster: digital protection against gender-based violence, a new era has just begun. A shield with a female figure among glowing circuits and, below, the three ways to ask for help: smartphone with a gesture or a voice command, AIuto SOS watch4help smartwatch and the button4help button pressed for one second; at the bottom offline AI, Safe Zone, No Trace, wearable SOS and the QR code of the website.",
+"a479a4c3": "<strong>digital4help™: the technology that asks for help for you</strong>Smartphone, smartwatch and button: the three ways to set off the alarm. Poster in English.",
+"c0cdf624": "digital4help poster: the three ways to ask for help, smartphone with a gesture or a voice command, AIuto SOS watch4help smartwatch and the button4help button pressed for one second; around them offline AI, Safe Zone, No Trace and wearable SOS.",
+"b4cd2e50": "The three ways to set off the alarm · poster in English"
 }
 };
