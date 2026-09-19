@@ -786,6 +786,8 @@
 "7710e7c2": "Bize yazın ↗",
 "14574e8a": "Boyna takılan altın kalp kolyeye bir parmakla bastırılıyor: ortasında button4help düğmesini gizliyor. Altında button4help, the signal4help becomes pure technology yazısı.",
 "8f4593bb": "Projenin tanıtım materyali, İngilizce.",
-"69ad19f3": "Diğer sayfalar"
+"69ad19f3": "Diğer sayfalar",
+"0f544e99": "<b data-no-i18n=\"\">Instagram · avvocato_eufemiaferrara</b> · Gönderi",
+"7cae9175": "Kadınların korunması alanında çalışan bir avukat, Politecnico di Bari'de geliştirilen uygulamadan söz ediyor ve bir tartışma açıyor: teknoloji hukuki korumanın yerini almaz, ama birkaç saniyenin önem taşıdığı anlarda hukuk, kurumlar, kolluk kuvvetleri ve şiddetle mücadele merkezlerinden oluşan bir ağa eklenecek bir araç daha olur."
 }
 };

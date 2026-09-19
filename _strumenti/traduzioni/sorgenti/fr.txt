@@ -781,3 +781,5 @@ mail.partnerBody|Bonjour,\nje souhaiterais en savoir plus sur le projet no pAIn�
 806|Un pendentif doré en forme de cœur, porté au cou, est pressé d’un doigt : en son centre il cache le bouton button4help. En dessous, l’inscription button4help, the signal4help becomes pure technology.
 807|Matériel promotionnel du projet, en anglais.
 808|Autres pages
+809|<b data-no-i18n="">Instagram · avvocato_eufemiaferrara</b> · Publication
+810|Une avocate spécialisée dans la protection des femmes cite l’application développée à l’École polytechnique de Bari et ouvre une réflexion : la technologie ne remplace pas la protection juridique, mais quand quelques secondes comptent elle devient un outil de plus, à insérer dans un réseau fait de droit, d’institutions, de forces de l’ordre et de centres contre les violences.

@@ -786,6 +786,8 @@
 "7710e7c2": "Skriv till oss ↗",
 "14574e8a": "Ett hjärtformat hänge i guld, buret runt halsen, trycks in med ett finger: i mitten döljer det button4help-knappen. Under står orden button4help, the signal4help becomes pure technology.",
 "8f4593bb": "Projektets marknadsmaterial, på engelska.",
-"69ad19f3": "Fler sidor"
+"69ad19f3": "Fler sidor",
+"0f544e99": "<b data-no-i18n=\"\">Instagram · avvocato_eufemiaferrara</b> · Inlägg",
+"7cae9175": "En advokat som arbetar med kvinnors skydd nämner appen som utvecklats vid Politecnico di Bari och väcker en tanke: tekniken ersätter inte det rättsliga skyddet, men när några sekunder avgör blir den ytterligare ett verktyg, att foga in i ett nät av juridik, institutioner, polis och kriscentrum mot våld."
 }
 };

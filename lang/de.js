@@ -785,6 +785,8 @@
 "7710e7c2": "Schreiben Sie uns ↗",
 "14574e8a": "Ein goldener Herzanhänger, um den Hals getragen, wird mit einem Finger gedrückt: In seiner Mitte verbirgt er den button4help-Knopf. Darunter die Worte button4help, the signal4help becomes pure technology.",
 "8f4593bb": "Werbematerial des Projekts, auf Englisch.",
-"69ad19f3": "Weitere Seiten"
+"69ad19f3": "Weitere Seiten",
+"0f544e99": "<b data-no-i18n=\"\">Instagram · avvocato_eufemiaferrara</b> · Beitrag",
+"7cae9175": "Eine Anwältin, die sich mit dem Schutz von Frauen befasst, erwähnt die am Politecnico di Bari entwickelte App und stößt eine Überlegung an: Technik ersetzt den rechtlichen Schutz nicht, aber wenn es auf wenige Sekunden ankommt, wird sie zu einem Werkzeug mehr, eingebettet in ein Netz aus Recht, Institutionen, Polizei und Beratungsstellen gegen Gewalt."
 }
 };

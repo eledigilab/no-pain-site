@@ -780,3 +780,5 @@ mail.partnerBody|Guten Tag,\nich möchte mehr über das Projekt no pAIn™ erfah
 806|Ein goldener Herzanhänger, um den Hals getragen, wird mit einem Finger gedrückt: In seiner Mitte verbirgt er den button4help-Knopf. Darunter die Worte button4help, the signal4help becomes pure technology.
 807|Werbematerial des Projekts, auf Englisch.
 808|Weitere Seiten
+809|<b data-no-i18n="">Instagram · avvocato_eufemiaferrara</b> · Beitrag
+810|Eine Anwältin, die sich mit dem Schutz von Frauen befasst, erwähnt die am Politecnico di Bari entwickelte App und stößt eine Überlegung an: Technik ersetzt den rechtlichen Schutz nicht, aber wenn es auf wenige Sekunden ankommt, wird sie zu einem Werkzeug mehr, eingebettet in ein Netz aus Recht, Institutionen, Polizei und Beratungsstellen gegen Gewalt.

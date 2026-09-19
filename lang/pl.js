@@ -786,6 +786,8 @@
 "7710e7c2": "Napisz do nas ↗",
 "14574e8a": "Złoty wisiorek w kształcie serca, noszony na szyi, jest naciskany palcem: w środku ukrywa przycisk button4help. Pod spodem napis button4help, the signal4help becomes pure technology.",
 "8f4593bb": "Materiał promocyjny projektu, po angielsku.",
-"69ad19f3": "Więcej stron"
+"69ad19f3": "Więcej stron",
+"0f544e99": "<b data-no-i18n=\"\">Instagram · avvocato_eufemiaferrara</b> · Post",
+"7cae9175": "Adwokatka zajmująca się ochroną kobiet wspomina o aplikacji stworzonej na Politecnico di Bari i otwiera refleksję: technologia nie zastępuje ochrony prawnej, ale gdy liczy się kilka sekund, staje się kolejnym narzędziem, które trzeba wpisać w sieć złożoną z prawa, instytucji, policji i ośrodków przeciwdziałania przemocy."
 }
 };

@@ -786,6 +786,8 @@
 "7710e7c2": "Escreva-nos ↗",
 "14574e8a": "Um pendente de ouro em forma de coração, ao pescoço, é premido com um dedo: no centro esconde o botão button4help. Por baixo, as palavras button4help, the signal4help becomes pure technology.",
 "8f4593bb": "Material promocional do projeto, em inglês.",
-"69ad19f3": "Mais páginas"
+"69ad19f3": "Mais páginas",
+"0f544e99": "<b data-no-i18n=\"\">Instagram · avvocato_eufemiaferrara</b> · Publicação",
+"7cae9175": "Uma advogada que trabalha na proteção das mulheres cita a aplicação desenvolvida no Politecnico di Bari e abre uma reflexão: a tecnologia não substitui a tutela jurídica, mas quando contam poucos segundos torna-se mais uma ferramenta, a inserir numa rede feita de direito, instituições, autoridades e centros de apoio contra a violência."
 }
 };

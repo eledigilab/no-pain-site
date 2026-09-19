@@ -3099,6 +3099,14 @@
   "it": "Altre pagine",
   "tr": "Mais páginas"
  },
+ "0f544e99": {
+  "it": "<b data-no-i18n=\"\">Instagram · avvocato_eufemiaferrara</b> · Post",
+  "tr": "<b data-no-i18n=\"\">Instagram · avvocato_eufemiaferrara</b> · Publicação"
+ },
+ "7cae9175": {
+  "it": "Un'avvocata che si occupa di tutela delle donne cita l'app sviluppata al Politecnico di Bari e apre una riflessione: la tecnologia non sostituisce la tutela giuridica, ma quando contano pochi secondi diventa uno strumento in più, da inserire in una rete fatta di diritto, istituzioni, forze dell'ordine e centri antiviolenza.",
+  "tr": "Uma advogada que trabalha na proteção das mulheres cita a aplicação desenvolvida no Politecnico di Bari e abre uma reflexão: a tecnologia não substitui a tutela jurídica, mas quando contam poucos segundos torna-se mais uma ferramenta, a inserir numa rede feita de direito, instituições, autoridades e centros de apoio contra a violência."
+ },
  "_ui": {
   "menu": "Menu",
   "close": "Fechar",

@@ -785,6 +785,8 @@
 "7710e7c2": "Write to us ↗",
 "14574e8a": "A gold heart-shaped pendant, worn around the neck, is pressed with a finger: in its centre it hides the button4help button. Below, the words button4help, the signal4help becomes pure technology.",
 "8f4593bb": "Promotional material of the project, in English.",
-"69ad19f3": "More pages"
+"69ad19f3": "More pages",
+"0f544e99": "<b data-no-i18n=\"\">Instagram · avvocato_eufemiaferrara</b> · Post",
+"7cae9175": "A lawyer who works on the protection of women mentions the app developed at the Politecnico di Bari and opens a reflection: technology does not replace legal protection, but when a few seconds count it becomes one more tool, to be placed in a network made of law, institutions, police and anti-violence centres."
 }
 };

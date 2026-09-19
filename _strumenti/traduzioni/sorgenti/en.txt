@@ -780,3 +780,5 @@ mail.partnerBody|Hello,\nI would like to learn more about the no pAIn™ project
 806|A gold heart-shaped pendant, worn around the neck, is pressed with a finger: in its centre it hides the button4help button. Below, the words button4help, the signal4help becomes pure technology.
 807|Promotional material of the project, in English.
 808|More pages
+809|<b data-no-i18n="">Instagram · avvocato_eufemiaferrara</b> · Post
+810|A lawyer who works on the protection of women mentions the app developed at the Politecnico di Bari and opens a reflection: technology does not replace legal protection, but when a few seconds count it becomes one more tool, to be placed in a network made of law, institutions, police and anti-violence centres.

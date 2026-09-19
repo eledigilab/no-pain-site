@@ -781,3 +781,5 @@ mail.partnerBody|Merhaba,\nno pAIn™ projesi hakkında daha fazla bilgi almak v
 806|Boyna takılan altın kalp kolyeye bir parmakla bastırılıyor: ortasında button4help düğmesini gizliyor. Altında button4help, the signal4help becomes pure technology yazısı.
 807|Projenin tanıtım materyali, İngilizce.
 808|Diğer sayfalar
+809|<b data-no-i18n="">Instagram · avvocato_eufemiaferrara</b> · Gönderi
+810|Kadınların korunması alanında çalışan bir avukat, Politecnico di Bari'de geliştirilen uygulamadan söz ediyor ve bir tartışma açıyor: teknoloji hukuki korumanın yerini almaz, ama birkaç saniyenin önem taşıdığı anlarda hukuk, kurumlar, kolluk kuvvetleri ve şiddetle mücadele merkezlerinden oluşan bir ağa eklenecek bir araç daha olur.

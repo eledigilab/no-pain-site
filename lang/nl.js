@@ -786,6 +786,8 @@
 "7710e7c2": "Schrijf ons ↗",
 "14574e8a": "Een gouden hartvormige hanger, om de hals gedragen, wordt met een vinger ingedrukt: in het midden verbergt hij de button4help-knop. Eronder de woorden button4help, the signal4help becomes pure technology.",
 "8f4593bb": "Promotiemateriaal van het project, in het Engels.",
-"69ad19f3": "Meer pagina's"
+"69ad19f3": "Meer pagina's",
+"0f544e99": "<b data-no-i18n=\"\">Instagram · avvocato_eufemiaferrara</b> · Bericht",
+"7cae9175": "Een advocate die zich bezighoudt met de bescherming van vrouwen noemt de app die aan de Politecnico di Bari is ontwikkeld en opent een gedachte: techniek vervangt de juridische bescherming niet, maar als enkele seconden tellen wordt ze een middel extra, in te passen in een netwerk van recht, instellingen, politie en hulpcentra tegen geweld."
 }
 };

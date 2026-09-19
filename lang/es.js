@@ -785,6 +785,8 @@
 "7710e7c2": "Escríbenos ↗",
 "14574e8a": "Un colgante de oro en forma de corazón, llevado al cuello, se pulsa con un dedo: en su centro esconde el botón button4help. Debajo, las palabras button4help, the signal4help becomes pure technology.",
 "8f4593bb": "Material promocional del proyecto, en inglés.",
-"69ad19f3": "Más páginas"
+"69ad19f3": "Más páginas",
+"0f544e99": "<b data-no-i18n=\"\">Instagram · avvocato_eufemiaferrara</b> · Publicación",
+"7cae9175": "Una abogada que se ocupa de la protección de las mujeres cita la app desarrollada en el Politecnico di Bari y abre una reflexión: la tecnología no sustituye a la tutela jurídica, pero cuando cuentan pocos segundos se convierte en una herramienta más, que debe insertarse en una red hecha de derecho, instituciones, fuerzas del orden y centros contra la violencia."
 }
 };

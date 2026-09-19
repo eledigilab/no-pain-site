@@ -786,6 +786,8 @@
 "7710e7c2": "Écrivez-nous ↗",
 "14574e8a": "Un pendentif doré en forme de cœur, porté au cou, est pressé d’un doigt : en son centre il cache le bouton button4help. En dessous, l’inscription button4help, the signal4help becomes pure technology.",
 "8f4593bb": "Matériel promotionnel du projet, en anglais.",
-"69ad19f3": "Autres pages"
+"69ad19f3": "Autres pages",
+"0f544e99": "<b data-no-i18n=\"\">Instagram · avvocato_eufemiaferrara</b> · Publication",
+"7cae9175": "Une avocate spécialisée dans la protection des femmes cite l’application développée à l’École polytechnique de Bari et ouvre une réflexion : la technologie ne remplace pas la protection juridique, mais quand quelques secondes comptent elle devient un outil de plus, à insérer dans un réseau fait de droit, d’institutions, de forces de l’ordre et de centres contre les violences."
 }
 };

@@ -785,6 +785,8 @@
 "7710e7c2": "Scrie-ne ↗",
 "14574e8a": "Un pandantiv de aur în formă de inimă, purtat la gât, este apăsat cu un deget: în centru ascunde butonul button4help. Dedesubt, inscripția button4help, the signal4help becomes pure technology.",
 "8f4593bb": "Material promoțional al proiectului, în engleză.",
-"69ad19f3": "Alte pagini"
+"69ad19f3": "Alte pagini",
+"0f544e99": "<b data-no-i18n=\"\">Instagram · avvocato_eufemiaferrara</b> · Postare",
+"7cae9175": "O avocată care se ocupă de protecția femeilor menționează aplicația dezvoltată la Politecnico di Bari și deschide o reflecție: tehnologia nu înlocuiește protecția juridică, dar când contează câteva secunde devine un instrument în plus, de integrat într-o rețea formată din drept, instituții, poliție și centre împotriva violenței."
 }
 };

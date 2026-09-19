@@ -781,3 +781,5 @@ mail.partnerBody|Dzień dobry,\nchciałabym/chciałbym dowiedzieć się więcej 
 806|Złoty wisiorek w kształcie serca, noszony na szyi, jest naciskany palcem: w środku ukrywa przycisk button4help. Pod spodem napis button4help, the signal4help becomes pure technology.
 807|Materiał promocyjny projektu, po angielsku.
 808|Więcej stron
+809|<b data-no-i18n="">Instagram · avvocato_eufemiaferrara</b> · Post
+810|Adwokatka zajmująca się ochroną kobiet wspomina o aplikacji stworzonej na Politecnico di Bari i otwiera refleksję: technologia nie zastępuje ochrony prawnej, ale gdy liczy się kilka sekund, staje się kolejnym narzędziem, które trzeba wpisać w sieć złożoną z prawa, instytucji, policji i ośrodków przeciwdziałania przemocy.
