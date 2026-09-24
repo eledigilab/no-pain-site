@@ -758,5 +758,6 @@ a.press-thumb:hover img { transform: scale(1.03); }
 @media (max-width: 1180px) { .nav-more { display: none !important; } }
 /* schermate di iPhone: il riquadro ha le proporzioni dello schermo, così non restano bande */
 .media.tall .frame-media { aspect-ratio: 923 / 2000; }
-/* foto affiancate alle schermate: stessa altezza, larghezza in proporzione */
-.shot.match { max-width: 305px; }
+/* foto dell'orologio accanto alla galleria delle schermate */
+.media-wall .intro .watch-aside { max-width: 280px; margin-top: 10px; }
+@media (max-width: 900px) { .media-wall .intro .watch-aside { max-width: 240px; } }
