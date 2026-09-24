@@ -788,6 +788,24 @@
 "8f4593bb": "Materiał promocyjny projektu, po angielsku.",
 "69ad19f3": "Więcej stron",
 "0f544e99": "<b data-no-i18n=\"\">Instagram · avvocato_eufemiaferrara</b> · Post",
-"7cae9175": "Adwokatka zajmująca się ochroną kobiet wspomina o aplikacji stworzonej na Politecnico di Bari i otwiera refleksję: technologia nie zastępuje ochrony prawnej, ale gdy liczy się kilka sekund, staje się kolejnym narzędziem, które trzeba wpisać w sieć złożoną z prawa, instytucji, policji i ośrodków przeciwdziałania przemocy."
+"7cae9175": "Adwokatka zajmująca się ochroną kobiet wspomina o aplikacji stworzonej na Politecnico di Bari i otwiera refleksję: technologia nie zastępuje ochrony prawnej, ale gdy liczy się kilka sekund, staje się kolejnym narzędziem, które trzeba wpisać w sieć złożoną z prawa, instytucji, policji i ośrodków przeciwdziałania przemocy.",
+"1fc5eca8": "Pełny przewodnik (PDF, włoski) <span class=\"arr\">↗</span>",
+"0fa79953": "Pełny przewodnik (PDF, angielski) <span class=\"arr\">↗</span>",
+"f6f695ce": "Na stronie głównej jest duży przycisk ALARM, połączenie z numerem 112 i przypomnienie polecenia głosowego. W ustawieniach wybierasz działania alarmowe, język polecenia Siri i parujesz przycisk button4help™. Przewodnik krok po kroku jest w aplikacji.",
+"89b12855": "<strong>Strona główna</strong>Przycisk ALARM, połączenie z numerem 112 i polecenie głosowe.",
+"586aa74d": "<strong>Działania alarmowe</strong>Telegram z lokalizacją na żywo, SMS, WhatsApp i połączenie, z czasem trwania i numerem do wybrania.",
+"5972625e": "<strong>Przycisk button4help™</strong>Parowanie, czułość, sygnał i poziom baterii, z ostrzeżeniem, by nie zamykać aplikacji całkowicie.",
+"94035c67": "<strong>12 języków</strong>Język polecenia głosowego wybiera się w ustawieniach.",
+"9564b140": "<strong>Przewodnik w aplikacji</strong>Krok po kroku, ekran po ekranie, także dla tych, którzy nigdy nie używali takiej aplikacji.",
+"7472646f": "<strong>Wszystkie tematy</strong>Od szybkich sposobów po numer 112 i pełny przewodnik w PDF.",
+"59edb6ee": "Przewodnik iPhone (PDF, włoski) <span class=\"arr\">↗</span>",
+"082c323f": "Przewodnik iPhone (PDF, angielski) <span class=\"arr\">↗</span>",
+"375bec30": "Przewodnik no pAIn™ na iPhone’a (PDF) ↗",
+"107fec46": "Strona główna no pAIn app na iPhonie: stan Gotowe, duży czerwony przycisk ALARM wezwanie pomocy, przycisk Zadzwoń pod 112 i przypomnienie polecenia głosowego „Hej Siri, Pomóż mi”.",
+"7c48e7a4": "Ustawienia no pAIn app: działania alarmowe z Telegramem, lokalizacją na żywo i czasem trwania, SMS, WhatsApp, połączenie i wybór numeru do wybrania.",
+"0701040d": "Ustawienia no pAIn app: przycisk alarmowy button4help aktywny i gotowy, rozpoznany model Holy-IOT 21011, czułość, jakość sygnału i poziom baterii.",
+"e9620604": "Wybór języka polecenia Siri w no pAIn app: włoski, angielski, francuski, niemiecki, hiszpański, turecki, grecki, portugalski, rumuński, polski, niderlandzki, szwedzki.",
+"a7d4d807": "Przewodnik w no pAIn app: na początek, czym jest aplikacja, za darmo i Premium, pierwsze uruchomienie i uprawnienia; potem część o konfiguracji aplikacji.",
+"8d4f0aab": "Przewodnik w no pAIn app: inne szybkie sposoby, co dostają kontakty, lokalizacja na żywo, Apple Watch, przycisk button4help, jeden numer alarmowy i pełny przewodnik w PDF."
 }
 };

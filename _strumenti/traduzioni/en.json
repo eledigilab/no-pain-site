@@ -3103,6 +3103,78 @@
   "it": "Un'avvocata che si occupa di tutela delle donne cita l'app sviluppata al Politecnico di Bari e apre una riflessione: la tecnologia non sostituisce la tutela giuridica, ma quando contano pochi secondi diventa uno strumento in più, da inserire in una rete fatta di diritto, istituzioni, forze dell'ordine e centri antiviolenza.",
   "tr": "A lawyer who works on the protection of women mentions the app developed at the Politecnico di Bari and opens a reflection: technology does not replace legal protection, but when a few seconds count it becomes one more tool, to be placed in a network made of law, institutions, police and anti-violence centres."
  },
+ "1fc5eca8": {
+  "it": "Guida completa (PDF, italiano) <span class=\"arr\">↗</span>",
+  "tr": "Full guide (PDF, Italian) <span class=\"arr\">↗</span>"
+ },
+ "0fa79953": {
+  "it": "Full guide (PDF, English) <span class=\"arr\">↗</span>",
+  "tr": "Full guide (PDF, English) <span class=\"arr\">↗</span>"
+ },
+ "f6f695ce": {
+  "it": "Nella pagina principale c’è il grande tasto EMERGENZA, la chiamata al 112 e il promemoria del comando vocale. Nelle impostazioni scegli le azioni di emergenza, la lingua del comando Siri e abbini il pulsante button4help™. La guida passo passo è dentro l’app.",
+  "tr": "On the main page there is the big EMERGENCY button, the call to 112 and the reminder of the voice command. In the settings you choose the emergency actions, the language of the Siri command and pair the button4help™ button. The step-by-step guide is inside the app."
+ },
+ "89b12855": {
+  "it": "<strong>La pagina principale</strong>Il tasto EMERGENZA, la chiamata al 112 e il comando vocale.",
+  "tr": "<strong>The main page</strong>The EMERGENCY button, the call to 112 and the voice command."
+ },
+ "586aa74d": {
+  "it": "<strong>Le azioni di emergenza</strong>Telegram con posizione live, SMS, WhatsApp e telefonata, con la durata e il numero da chiamare.",
+  "tr": "<strong>The emergency actions</strong>Telegram with live location, SMS, WhatsApp and phone call, with the duration and the number to call."
+ },
+ "5972625e": {
+  "it": "<strong>Il pulsante button4help™</strong>Abbinamento, sensibilità, segnale e carica della pila, con l'avviso di non chiudere del tutto l'app.",
+  "tr": "<strong>The button4help™ button</strong>Pairing, sensitivity, signal and battery charge, with the warning not to close the app completely."
+ },
+ "94035c67": {
+  "it": "<strong>Le 12 lingue</strong>La lingua del comando vocale si sceglie nelle impostazioni.",
+  "tr": "<strong>The 12 languages</strong>The language of the voice command is chosen in the settings."
+ },
+ "9564b140": {
+  "it": "<strong>La guida nell'app</strong>Passo passo, schermata per schermata, anche per chi non ha mai usato un'app così.",
+  "tr": "<strong>The guide inside the app</strong>Step by step, screen by screen, even for those who have never used an app like this."
+ },
+ "7472646f": {
+  "it": "<strong>Tutti gli argomenti</strong>Dai modi rapidi al 112, fino alla guida completa in PDF.",
+  "tr": "<strong>Every topic</strong>From the quick ways to 112, up to the full guide in PDF."
+ },
+ "59edb6ee": {
+  "it": "Guida iPhone (PDF, italiano) <span class=\"arr\">↗</span>",
+  "tr": "iPhone guide (PDF, Italian) <span class=\"arr\">↗</span>"
+ },
+ "082c323f": {
+  "it": "iPhone guide (PDF, English) <span class=\"arr\">↗</span>",
+  "tr": "iPhone guide (PDF, English) <span class=\"arr\">↗</span>"
+ },
+ "375bec30": {
+  "it": "Guida no pAIn™ per iPhone (PDF) ↗",
+  "tr": "no pAIn™ guide for iPhone (PDF) ↗"
+ },
+ "107fec46": {
+  "it": "Pagina principale di no pAIn app su iPhone: stato Pronto, grande tasto rosso EMERGENZA richiesta aiuto, tasto Chiama 112 e promemoria del comando vocale “Ehi Siri, Proteggimi”.",
+  "tr": "Main page of no pAIn app on iPhone: status Ready, big red EMERGENCY call for help button, Call 112 button and reminder of the voice command “Hey Siri, Help me”."
+ },
+ "7c48e7a4": {
+  "it": "Impostazioni di no pAIn app: azioni di emergenza con Telegram, posizione live e durata, SMS, WhatsApp, chiamata e scelta del numero da chiamare.",
+  "tr": "Settings of no pAIn app: emergency actions with Telegram, live location and duration, SMS, WhatsApp, call and choice of the number to call."
+ },
+ "0701040d": {
+  "it": "Impostazioni di no pAIn app: pulsante di emergenza button4help attivo e pronto, modello riconosciuto Holy-IOT 21011, sensibilità, qualità del segnale e carica della pila.",
+  "tr": "Settings of no pAIn app: button4help emergency button active and ready, recognised model Holy-IOT 21011, sensitivity, signal quality and battery charge."
+ },
+ "e9620604": {
+  "it": "Scelta della lingua del comando Siri in no pAIn app: italiano, inglese, francese, tedesco, spagnolo, turco, greco, portoghese, rumeno, polacco, olandese, svedese.",
+  "tr": "Choosing the language of the Siri command in no pAIn app: Italian, English, French, German, Spanish, Turkish, Greek, Portuguese, Romanian, Polish, Dutch, Swedish."
+ },
+ "a7d4d807": {
+  "it": "Guida dentro no pAIn app: per iniziare, cos'è l'app, gratis e Premium, primo avvio e permessi; poi la sezione per configurare l'app.",
+  "tr": "Guide inside no pAIn app: getting started, what the app is, free and Premium, first launch and permissions; then the section for setting up the app."
+ },
+ "8d4f0aab": {
+  "it": "Guida dentro no pAIn app: altri modi rapidi, cosa ricevono i contatti, posizione in diretta, Apple Watch, pulsante button4help, numero unico di emergenza e guida completa in PDF.",
+  "tr": "Guide inside no pAIn app: other quick ways, what the contacts receive, live location, Apple Watch, button4help button, single emergency number and full guide in PDF."
+ },
  "_ui": {
   "menu": "Menu",
   "close": "Close",

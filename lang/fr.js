@@ -788,6 +788,24 @@
 "8f4593bb": "Matériel promotionnel du projet, en anglais.",
 "69ad19f3": "Autres pages",
 "0f544e99": "<b data-no-i18n=\"\">Instagram · avvocato_eufemiaferrara</b> · Publication",
-"7cae9175": "Une avocate spécialisée dans la protection des femmes cite l’application développée à l’École polytechnique de Bari et ouvre une réflexion : la technologie ne remplace pas la protection juridique, mais quand quelques secondes comptent elle devient un outil de plus, à insérer dans un réseau fait de droit, d’institutions, de forces de l’ordre et de centres contre les violences."
+"7cae9175": "Une avocate spécialisée dans la protection des femmes cite l’application développée à l’École polytechnique de Bari et ouvre une réflexion : la technologie ne remplace pas la protection juridique, mais quand quelques secondes comptent elle devient un outil de plus, à insérer dans un réseau fait de droit, d’institutions, de forces de l’ordre et de centres contre les violences.",
+"1fc5eca8": "Guide complet (PDF, italien) <span class=\"arr\">↗</span>",
+"0fa79953": "Guide complet (PDF, anglais) <span class=\"arr\">↗</span>",
+"f6f695ce": "Sur la page principale se trouvent le grand bouton URGENCE, l’appel au 112 et le rappel de la commande vocale. Dans les réglages, vous choisissez les actions d’urgence, la langue de la commande Siri et vous associez le bouton button4help™. Le guide pas à pas est dans l’application.",
+"89b12855": "<strong>La page principale</strong>Le bouton URGENCE, l’appel au 112 et la commande vocale.",
+"586aa74d": "<strong>Les actions d’urgence</strong>Telegram avec position en direct, SMS, WhatsApp et appel, avec la durée et le numéro à appeler.",
+"5972625e": "<strong>Le bouton button4help™</strong>Association, sensibilité, signal et niveau de la pile, avec l’avertissement de ne pas fermer complètement l’application.",
+"94035c67": "<strong>Les 12 langues</strong>La langue de la commande vocale se choisit dans les réglages.",
+"9564b140": "<strong>Le guide dans l’application</strong>Pas à pas, écran par écran, même pour qui n’a jamais utilisé une application de ce type.",
+"7472646f": "<strong>Tous les sujets</strong>Des moyens rapides au 112, jusqu’au guide complet en PDF.",
+"59edb6ee": "Guide iPhone (PDF, italien) <span class=\"arr\">↗</span>",
+"082c323f": "Guide iPhone (PDF, anglais) <span class=\"arr\">↗</span>",
+"375bec30": "Guide no pAIn™ pour iPhone (PDF) ↗",
+"107fec46": "Page principale de no pAIn app sur iPhone : état Prêt, grand bouton rouge URGENCE demande d’aide, bouton Appeler le 112 et rappel de la commande vocale « Hey Siri, Aide-moi ».",
+"7c48e7a4": "Réglages de no pAIn app : actions d’urgence avec Telegram, position en direct et durée, SMS, WhatsApp, appel et choix du numéro à appeler.",
+"0701040d": "Réglages de no pAIn app : bouton d’urgence button4help actif et prêt, modèle reconnu Holy-IOT 21011, sensibilité, qualité du signal et niveau de la pile.",
+"e9620604": "Choix de la langue de la commande Siri dans no pAIn app : italien, anglais, français, allemand, espagnol, turc, grec, portugais, roumain, polonais, néerlandais, suédois.",
+"a7d4d807": "Guide dans no pAIn app : pour commencer, ce qu’est l’application, gratuit et Premium, premier lancement et autorisations ; puis la partie pour configurer l’application.",
+"8d4f0aab": "Guide dans no pAIn app : autres moyens rapides, ce que reçoivent les contacts, position en direct, Apple Watch, bouton button4help, numéro d’urgence unique et guide complet en PDF."
 }
 };

@@ -11,7 +11,7 @@ import re
 
 TOOLS = pathlib.Path(__file__).resolve().parent
 OUT = TOOLS.parent
-VERSION = "20260918d"
+VERSION = "20260924c"
 
 # Nomi ideati dall'autore: mai tradotti, sempre con ™
 TM_TERMS = ["digital4help", "watch4help", "button4help", "no pAIn"]
@@ -155,6 +155,7 @@ FOOT = """
       <ul>
         <li><a href="https://poliba.wixsite.com/no_pain_privacy" target="_blank" rel="noopener">Manuali e privacy delle app ↗</a></li>
         <li><a href="assets/guida-no-pain-android.pdf" target="_blank" rel="noopener">Manuale Proteggimi per Android (PDF) ↗</a></li>
+        <li><a href="assets/guida-no-pain-ios-it.pdf" target="_blank" rel="noopener">Guida no pAIn per iPhone (PDF) ↗</a></li>
         <li><a href="assets/no-pain-presentazione.pdf" target="_blank" rel="noopener">Presentazione del progetto (PDF, in italiano) ↗</a></li>
         <li><a href="https://www.instagram.com/no_pain_app/" target="_blank" rel="noopener">Instagram ↗</a></li>
       </ul>

@@ -65,6 +65,8 @@ python3 _strumenti/traduzioni.py CARTELLA en fr  # converte le traduzioni in lan
 `_strumenti/traduzioni/it.json` è l'elenco numerato dei testi italiani; `_strumenti/traduzioni/sorgenti/`
 contiene le traduzioni riga per riga; `_strumenti/traduzioni/xx.json` è l'archivio testo italiano → traduzione.
 
+Le guide in PDF stanno in `assets/` (`guida-no-pain-android.pdf`, `guida-no-pain-ios-it.pdf`, `guida-no-pain-ios-en.pdf`) e sono linkate dalle schede delle app, da Come funziona, da Tutorial e dal piè di pagina.
+
 I blocchi "Scarica ora" in `prodotti.html` hanno il codice QR (`assets/qr/`) e il banner ufficiale di
 Google Play o App Store (`assets/badge/`, uno per lingua): `site.js` sceglie il banner della lingua attiva
 leggendo l'attributo `data-badge` dell'immagine.

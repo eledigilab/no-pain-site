@@ -788,6 +788,24 @@
 "8f4593bb": "Material promocional do projeto, em inglês.",
 "69ad19f3": "Mais páginas",
 "0f544e99": "<b data-no-i18n=\"\">Instagram · avvocato_eufemiaferrara</b> · Publicação",
-"7cae9175": "Uma advogada que trabalha na proteção das mulheres cita a aplicação desenvolvida no Politecnico di Bari e abre uma reflexão: a tecnologia não substitui a tutela jurídica, mas quando contam poucos segundos torna-se mais uma ferramenta, a inserir numa rede feita de direito, instituições, autoridades e centros de apoio contra a violência."
+"7cae9175": "Uma advogada que trabalha na proteção das mulheres cita a aplicação desenvolvida no Politecnico di Bari e abre uma reflexão: a tecnologia não substitui a tutela jurídica, mas quando contam poucos segundos torna-se mais uma ferramenta, a inserir numa rede feita de direito, instituições, autoridades e centros de apoio contra a violência.",
+"1fc5eca8": "Guia completo (PDF, italiano) <span class=\"arr\">↗</span>",
+"0fa79953": "Guia completo (PDF, inglês) <span class=\"arr\">↗</span>",
+"f6f695ce": "Na página principal há o grande botão EMERGÊNCIA, a chamada para o 112 e o lembrete do comando de voz. Nas definições escolhe as ações de emergência, a língua do comando Siri e emparelha o botão button4help™. O guia passo a passo está dentro da aplicação.",
+"89b12855": "<strong>A página principal</strong>O botão EMERGÊNCIA, a chamada para o 112 e o comando de voz.",
+"586aa74d": "<strong>As ações de emergência</strong>Telegram com localização em direto, SMS, WhatsApp e chamada, com a duração e o número a ligar.",
+"5972625e": "<strong>O botão button4help™</strong>Emparelhamento, sensibilidade, sinal e carga da pilha, com o aviso para não fechar totalmente a aplicação.",
+"94035c67": "<strong>As 12 línguas</strong>A língua do comando de voz escolhe-se nas definições.",
+"9564b140": "<strong>O guia dentro da aplicação</strong>Passo a passo, ecrã a ecrã, mesmo para quem nunca usou uma aplicação assim.",
+"7472646f": "<strong>Todos os temas</strong>Das formas rápidas ao 112, até ao guia completo em PDF.",
+"59edb6ee": "Guia iPhone (PDF, italiano) <span class=\"arr\">↗</span>",
+"082c323f": "Guia iPhone (PDF, inglês) <span class=\"arr\">↗</span>",
+"375bec30": "Guia no pAIn™ para iPhone (PDF) ↗",
+"107fec46": "Página principal do no pAIn app no iPhone: estado Pronto, grande botão vermelho EMERGÊNCIA pedido de ajuda, botão Ligar 112 e lembrete do comando de voz “Hey Siri, Ajuda-me”.",
+"7c48e7a4": "Definições do no pAIn app: ações de emergência com Telegram, localização em direto e duração, SMS, WhatsApp, chamada e escolha do número a ligar.",
+"0701040d": "Definições do no pAIn app: botão de emergência button4help ativo e pronto, modelo reconhecido Holy-IOT 21011, sensibilidade, qualidade do sinal e carga da pilha.",
+"e9620604": "Escolha da língua do comando Siri no no pAIn app: italiano, inglês, francês, alemão, espanhol, turco, grego, português, romeno, polaco, neerlandês, sueco.",
+"a7d4d807": "Guia dentro do no pAIn app: para começar, o que é a aplicação, grátis e Premium, primeiro arranque e permissões; depois a parte para configurar a aplicação.",
+"8d4f0aab": "Guia dentro do no pAIn app: outras formas rápidas, o que recebem os contactos, localização em direto, Apple Watch, botão button4help, número único de emergência e guia completo em PDF."
 }
 };

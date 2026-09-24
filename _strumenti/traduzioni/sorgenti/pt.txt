@@ -783,3 +783,21 @@ mail.partnerBody|Bom dia,\ngostaria de saber mais sobre o projeto no pAIn™ e a
 808|Mais páginas
 809|<b data-no-i18n="">Instagram · avvocato_eufemiaferrara</b> · Publicação
 810|Uma advogada que trabalha na proteção das mulheres cita a aplicação desenvolvida no Politecnico di Bari e abre uma reflexão: a tecnologia não substitui a tutela jurídica, mas quando contam poucos segundos torna-se mais uma ferramenta, a inserir numa rede feita de direito, instituições, autoridades e centros de apoio contra a violência.
+811|Guia completo (PDF, italiano) <span class="arr">↗</span>
+812|Guia completo (PDF, inglês) <span class="arr">↗</span>
+813|Na página principal há o grande botão EMERGÊNCIA, a chamada para o 112 e o lembrete do comando de voz. Nas definições escolhe as ações de emergência, a língua do comando Siri e emparelha o botão button4help™. O guia passo a passo está dentro da aplicação.
+814|<strong>A página principal</strong>O botão EMERGÊNCIA, a chamada para o 112 e o comando de voz.
+815|<strong>As ações de emergência</strong>Telegram com localização em direto, SMS, WhatsApp e chamada, com a duração e o número a ligar.
+816|<strong>O botão button4help™</strong>Emparelhamento, sensibilidade, sinal e carga da pilha, com o aviso para não fechar totalmente a aplicação.
+817|<strong>As 12 línguas</strong>A língua do comando de voz escolhe-se nas definições.
+818|<strong>O guia dentro da aplicação</strong>Passo a passo, ecrã a ecrã, mesmo para quem nunca usou uma aplicação assim.
+819|<strong>Todos os temas</strong>Das formas rápidas ao 112, até ao guia completo em PDF.
+820|Guia iPhone (PDF, italiano) <span class="arr">↗</span>
+821|Guia iPhone (PDF, inglês) <span class="arr">↗</span>
+822|Guia no pAIn™ para iPhone (PDF) ↗
+823|Página principal do no pAIn app no iPhone: estado Pronto, grande botão vermelho EMERGÊNCIA pedido de ajuda, botão Ligar 112 e lembrete do comando de voz “Hey Siri, Ajuda-me”.
+824|Definições do no pAIn app: ações de emergência com Telegram, localização em direto e duração, SMS, WhatsApp, chamada e escolha do número a ligar.
+825|Definições do no pAIn app: botão de emergência button4help ativo e pronto, modelo reconhecido Holy-IOT 21011, sensibilidade, qualidade do sinal e carga da pilha.
+826|Escolha da língua do comando Siri no no pAIn app: italiano, inglês, francês, alemão, espanhol, turco, grego, português, romeno, polaco, neerlandês, sueco.
+827|Guia dentro do no pAIn app: para começar, o que é a aplicação, grátis e Premium, primeiro arranque e permissões; depois a parte para configurar a aplicação.
+828|Guia dentro do no pAIn app: outras formas rápidas, o que recebem os contactos, localização em direto, Apple Watch, botão button4help, número único de emergência e guia completo em PDF.

@@ -783,3 +783,21 @@ mail.partnerBody|Bonjour,\nje souhaiterais en savoir plus sur le projet no pAIn�
 808|Autres pages
 809|<b data-no-i18n="">Instagram · avvocato_eufemiaferrara</b> · Publication
 810|Une avocate spécialisée dans la protection des femmes cite l’application développée à l’École polytechnique de Bari et ouvre une réflexion : la technologie ne remplace pas la protection juridique, mais quand quelques secondes comptent elle devient un outil de plus, à insérer dans un réseau fait de droit, d’institutions, de forces de l’ordre et de centres contre les violences.
+811|Guide complet (PDF, italien) <span class="arr">↗</span>
+812|Guide complet (PDF, anglais) <span class="arr">↗</span>
+813|Sur la page principale se trouvent le grand bouton URGENCE, l’appel au 112 et le rappel de la commande vocale. Dans les réglages, vous choisissez les actions d’urgence, la langue de la commande Siri et vous associez le bouton button4help™. Le guide pas à pas est dans l’application.
+814|<strong>La page principale</strong>Le bouton URGENCE, l’appel au 112 et la commande vocale.
+815|<strong>Les actions d’urgence</strong>Telegram avec position en direct, SMS, WhatsApp et appel, avec la durée et le numéro à appeler.
+816|<strong>Le bouton button4help™</strong>Association, sensibilité, signal et niveau de la pile, avec l’avertissement de ne pas fermer complètement l’application.
+817|<strong>Les 12 langues</strong>La langue de la commande vocale se choisit dans les réglages.
+818|<strong>Le guide dans l’application</strong>Pas à pas, écran par écran, même pour qui n’a jamais utilisé une application de ce type.
+819|<strong>Tous les sujets</strong>Des moyens rapides au 112, jusqu’au guide complet en PDF.
+820|Guide iPhone (PDF, italien) <span class="arr">↗</span>
+821|Guide iPhone (PDF, anglais) <span class="arr">↗</span>
+822|Guide no pAIn™ pour iPhone (PDF) ↗
+823|Page principale de no pAIn app sur iPhone : état Prêt, grand bouton rouge URGENCE demande d’aide, bouton Appeler le 112 et rappel de la commande vocale « Hey Siri, Aide-moi ».
+824|Réglages de no pAIn app : actions d’urgence avec Telegram, position en direct et durée, SMS, WhatsApp, appel et choix du numéro à appeler.
+825|Réglages de no pAIn app : bouton d’urgence button4help actif et prêt, modèle reconnu Holy-IOT 21011, sensibilité, qualité du signal et niveau de la pile.
+826|Choix de la langue de la commande Siri dans no pAIn app : italien, anglais, français, allemand, espagnol, turc, grec, portugais, roumain, polonais, néerlandais, suédois.
+827|Guide dans no pAIn app : pour commencer, ce qu’est l’application, gratuit et Premium, premier lancement et autorisations ; puis la partie pour configurer l’application.
+828|Guide dans no pAIn app : autres moyens rapides, ce que reçoivent les contacts, position en direct, Apple Watch, bouton button4help, numéro d’urgence unique et guide complet en PDF.

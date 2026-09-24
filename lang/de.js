@@ -787,6 +787,24 @@
 "8f4593bb": "Werbematerial des Projekts, auf Englisch.",
 "69ad19f3": "Weitere Seiten",
 "0f544e99": "<b data-no-i18n=\"\">Instagram · avvocato_eufemiaferrara</b> · Beitrag",
-"7cae9175": "Eine Anwältin, die sich mit dem Schutz von Frauen befasst, erwähnt die am Politecnico di Bari entwickelte App und stößt eine Überlegung an: Technik ersetzt den rechtlichen Schutz nicht, aber wenn es auf wenige Sekunden ankommt, wird sie zu einem Werkzeug mehr, eingebettet in ein Netz aus Recht, Institutionen, Polizei und Beratungsstellen gegen Gewalt."
+"7cae9175": "Eine Anwältin, die sich mit dem Schutz von Frauen befasst, erwähnt die am Politecnico di Bari entwickelte App und stößt eine Überlegung an: Technik ersetzt den rechtlichen Schutz nicht, aber wenn es auf wenige Sekunden ankommt, wird sie zu einem Werkzeug mehr, eingebettet in ein Netz aus Recht, Institutionen, Polizei und Beratungsstellen gegen Gewalt.",
+"1fc5eca8": "Vollständige Anleitung (PDF, Italienisch) <span class=\"arr\">↗</span>",
+"0fa79953": "Vollständige Anleitung (PDF, Englisch) <span class=\"arr\">↗</span>",
+"f6f695ce": "Auf der Hauptseite stehen der große Knopf NOTFALL, der Anruf bei 112 und der Hinweis auf den Sprachbefehl. In den Einstellungen wählen Sie die Notfallaktionen, die Sprache des Siri-Befehls und koppeln den Knopf button4help™. Die Schritt-für-Schritt-Anleitung steckt in der App.",
+"89b12855": "<strong>Die Hauptseite</strong>Der Knopf NOTFALL, der Anruf bei 112 und der Sprachbefehl.",
+"586aa74d": "<strong>Die Notfallaktionen</strong>Telegram mit Live-Standort, SMS, WhatsApp und Anruf, mit der Dauer und der anzurufenden Nummer.",
+"5972625e": "<strong>Der Knopf button4help™</strong>Kopplung, Empfindlichkeit, Signal und Batteriestand, mit dem Hinweis, die App nicht ganz zu schließen.",
+"94035c67": "<strong>Die 12 Sprachen</strong>Die Sprache des Sprachbefehls wird in den Einstellungen gewählt.",
+"9564b140": "<strong>Die Anleitung in der App</strong>Schritt für Schritt, Bildschirm für Bildschirm, auch für alle, die noch nie so eine App benutzt haben.",
+"7472646f": "<strong>Alle Themen</strong>Von den schnellen Wegen bis zur 112 und zur vollständigen Anleitung als PDF.",
+"59edb6ee": "iPhone-Anleitung (PDF, Italienisch) <span class=\"arr\">↗</span>",
+"082c323f": "iPhone-Anleitung (PDF, Englisch) <span class=\"arr\">↗</span>",
+"375bec30": "Anleitung no pAIn™ für iPhone (PDF) ↗",
+"107fec46": "Hauptseite von no pAIn app auf dem iPhone: Status Bereit, großer roter Knopf NOTFALL Hilferuf, Knopf 112 anrufen und Hinweis auf den Sprachbefehl „Hey Siri, Hilf mir“.",
+"7c48e7a4": "Einstellungen von no pAIn app: Notfallaktionen mit Telegram, Live-Standort und Dauer, SMS, WhatsApp, Anruf und Auswahl der anzurufenden Nummer.",
+"0701040d": "Einstellungen von no pAIn app: Notfallknopf button4help aktiv und bereit, erkanntes Modell Holy-IOT 21011, Empfindlichkeit, Signalqualität und Batteriestand.",
+"e9620604": "Auswahl der Sprache des Siri-Befehls in no pAIn app: Italienisch, Englisch, Französisch, Deutsch, Spanisch, Türkisch, Griechisch, Portugiesisch, Rumänisch, Polnisch, Niederländisch, Schwedisch.",
+"a7d4d807": "Anleitung in no pAIn app: zum Anfangen, was die App ist, kostenlos und Premium, erster Start und Berechtigungen; danach der Teil zum Einrichten der App.",
+"8d4f0aab": "Anleitung in no pAIn app: weitere schnelle Wege, was die Kontakte erhalten, Live-Standort, Apple Watch, Knopf button4help, einheitliche Notrufnummer und vollständige Anleitung als PDF."
 }
 };

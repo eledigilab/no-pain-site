@@ -788,6 +788,24 @@
 "8f4593bb": "Projektets marknadsmaterial, på engelska.",
 "69ad19f3": "Fler sidor",
 "0f544e99": "<b data-no-i18n=\"\">Instagram · avvocato_eufemiaferrara</b> · Inlägg",
-"7cae9175": "En advokat som arbetar med kvinnors skydd nämner appen som utvecklats vid Politecnico di Bari och väcker en tanke: tekniken ersätter inte det rättsliga skyddet, men när några sekunder avgör blir den ytterligare ett verktyg, att foga in i ett nät av juridik, institutioner, polis och kriscentrum mot våld."
+"7cae9175": "En advokat som arbetar med kvinnors skydd nämner appen som utvecklats vid Politecnico di Bari och väcker en tanke: tekniken ersätter inte det rättsliga skyddet, men när några sekunder avgör blir den ytterligare ett verktyg, att foga in i ett nät av juridik, institutioner, polis och kriscentrum mot våld.",
+"1fc5eca8": "Fullständig guide (PDF, italienska) <span class=\"arr\">↗</span>",
+"0fa79953": "Fullständig guide (PDF, engelska) <span class=\"arr\">↗</span>",
+"f6f695ce": "På huvudsidan finns den stora knappen NÖDLÄGE, samtalet till 112 och påminnelsen om röstkommandot. I inställningarna väljer du nödåtgärderna, språket för Siri-kommandot och parkopplar knappen button4help™. Den steg-för-steg-guiden finns i appen.",
+"89b12855": "<strong>Huvudsidan</strong>Knappen NÖDLÄGE, samtalet till 112 och röstkommandot.",
+"586aa74d": "<strong>Nödåtgärderna</strong>Telegram med liveposition, sms, WhatsApp och samtal, med längd och numret som rings upp.",
+"5972625e": "<strong>Knappen button4help™</strong>Parkoppling, känslighet, signal och batterinivå, med varningen att inte stänga appen helt.",
+"94035c67": "<strong>De 12 språken</strong>Språket för röstkommandot väljs i inställningarna.",
+"9564b140": "<strong>Guiden i appen</strong>Steg för steg, skärm för skärm, även för den som aldrig använt en sådan app.",
+"7472646f": "<strong>Alla ämnen</strong>Från de snabba sätten till 112, ända till den fullständiga guiden i PDF.",
+"59edb6ee": "iPhone-guide (PDF, italienska) <span class=\"arr\">↗</span>",
+"082c323f": "iPhone-guide (PDF, engelska) <span class=\"arr\">↗</span>",
+"375bec30": "Guide no pAIn™ för iPhone (PDF) ↗",
+"107fec46": "Huvudsidan i no pAIn app på iPhone: status Redo, stor röd knapp NÖDLÄGE hjälpbegäran, knapp Ring 112 och påminnelse om röstkommandot ”Hej Siri, Hjälp mig”.",
+"7c48e7a4": "Inställningar i no pAIn app: nödåtgärder med Telegram, liveposition och längd, sms, WhatsApp, samtal och val av numret som ska ringas.",
+"0701040d": "Inställningar i no pAIn app: nödknappen button4help aktiv och redo, igenkänd modell Holy-IOT 21011, känslighet, signalkvalitet och batterinivå.",
+"e9620604": "Val av språk för Siri-kommandot i no pAIn app: italienska, engelska, franska, tyska, spanska, turkiska, grekiska, portugisiska, rumänska, polska, nederländska, svenska.",
+"a7d4d807": "Guiden i no pAIn app: för att komma igång, vad appen är, gratis och Premium, första starten och behörigheter; sedan delen om att ställa in appen.",
+"8d4f0aab": "Guiden i no pAIn app: andra snabba sätt, vad kontakterna får, liveposition, Apple Watch, knappen button4help, det gemensamma nödnumret och den fullständiga guiden i PDF."
 }
 };

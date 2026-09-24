@@ -788,6 +788,24 @@
 "8f4593bb": "Projenin tanıtım materyali, İngilizce.",
 "69ad19f3": "Diğer sayfalar",
 "0f544e99": "<b data-no-i18n=\"\">Instagram · avvocato_eufemiaferrara</b> · Gönderi",
-"7cae9175": "Kadınların korunması alanında çalışan bir avukat, Politecnico di Bari'de geliştirilen uygulamadan söz ediyor ve bir tartışma açıyor: teknoloji hukuki korumanın yerini almaz, ama birkaç saniyenin önem taşıdığı anlarda hukuk, kurumlar, kolluk kuvvetleri ve şiddetle mücadele merkezlerinden oluşan bir ağa eklenecek bir araç daha olur."
+"7cae9175": "Kadınların korunması alanında çalışan bir avukat, Politecnico di Bari'de geliştirilen uygulamadan söz ediyor ve bir tartışma açıyor: teknoloji hukuki korumanın yerini almaz, ama birkaç saniyenin önem taşıdığı anlarda hukuk, kurumlar, kolluk kuvvetleri ve şiddetle mücadele merkezlerinden oluşan bir ağa eklenecek bir araç daha olur.",
+"1fc5eca8": "Tam kılavuz (PDF, İtalyanca) <span class=\"arr\">↗</span>",
+"0fa79953": "Tam kılavuz (PDF, İngilizce) <span class=\"arr\">↗</span>",
+"f6f695ce": "Ana sayfada büyük ACİL DURUM düğmesi, 112 araması ve sesli komut hatırlatması var. Ayarlarda acil durum eylemlerini, Siri komutunun dilini seçer ve button4help™ düğmesini eşleştirirsiniz. Adım adım kılavuz uygulamanın içindedir.",
+"89b12855": "<strong>Ana sayfa</strong>ACİL DURUM düğmesi, 112 araması ve sesli komut.",
+"586aa74d": "<strong>Acil durum eylemleri</strong>Canlı konumlu Telegram, SMS, WhatsApp ve arama; süre ve aranacak numara ile birlikte.",
+"5972625e": "<strong>button4help™ düğmesi</strong>Eşleştirme, hassasiyet, sinyal ve pil durumu; uygulamayı tamamen kapatmama uyarısıyla.",
+"94035c67": "<strong>12 dil</strong>Sesli komutun dili ayarlardan seçilir.",
+"9564b140": "<strong>Uygulamadaki kılavuz</strong>Adım adım, ekran ekran; böyle bir uygulamayı hiç kullanmamış olanlar için de.",
+"7472646f": "<strong>Tüm konular</strong>Hızlı yollardan 112'ye, PDF'teki tam kılavuza kadar.",
+"59edb6ee": "iPhone kılavuzu (PDF, İtalyanca) <span class=\"arr\">↗</span>",
+"082c323f": "iPhone kılavuzu (PDF, İngilizce) <span class=\"arr\">↗</span>",
+"375bec30": "iPhone için no pAIn™ kılavuzu (PDF) ↗",
+"107fec46": "iPhone'da no pAIn app ana sayfası: Hazır durumu, büyük kırmızı ACİL DURUM yardım isteği düğmesi, 112'yi Ara düğmesi ve “Hey Siri, Bana yardım et” sesli komut hatırlatması.",
+"7c48e7a4": "no pAIn app ayarları: Telegram, canlı konum ve süre, SMS, WhatsApp, arama ve aranacak numara seçimi ile acil durum eylemleri.",
+"0701040d": "no pAIn app ayarları: button4help acil durum düğmesi etkin ve hazır, tanınan model Holy-IOT 21011, hassasiyet, sinyal kalitesi ve pil durumu.",
+"e9620604": "no pAIn app'te Siri komutunun dili seçimi: İtalyanca, İngilizce, Fransızca, Almanca, İspanyolca, Türkçe, Yunanca, Portekizce, Rumence, Lehçe, Felemenkçe, İsveççe.",
+"a7d4d807": "no pAIn app içindeki kılavuz: başlarken, uygulama nedir, ücretsiz ve Premium, ilk açılış ve izinler; ardından uygulamayı ayarlama bölümü.",
+"8d4f0aab": "no pAIn app içindeki kılavuz: diğer hızlı yollar, kişilerin neler aldığı, canlı konum, Apple Watch, button4help düğmesi, tek acil durum numarası ve PDF'teki tam kılavuz."
 }
 };

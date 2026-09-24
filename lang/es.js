@@ -787,6 +787,24 @@
 "8f4593bb": "Material promocional del proyecto, en inglés.",
 "69ad19f3": "Más páginas",
 "0f544e99": "<b data-no-i18n=\"\">Instagram · avvocato_eufemiaferrara</b> · Publicación",
-"7cae9175": "Una abogada que se ocupa de la protección de las mujeres cita la app desarrollada en el Politecnico di Bari y abre una reflexión: la tecnología no sustituye a la tutela jurídica, pero cuando cuentan pocos segundos se convierte en una herramienta más, que debe insertarse en una red hecha de derecho, instituciones, fuerzas del orden y centros contra la violencia."
+"7cae9175": "Una abogada que se ocupa de la protección de las mujeres cita la app desarrollada en el Politecnico di Bari y abre una reflexión: la tecnología no sustituye a la tutela jurídica, pero cuando cuentan pocos segundos se convierte en una herramienta más, que debe insertarse en una red hecha de derecho, instituciones, fuerzas del orden y centros contra la violencia.",
+"1fc5eca8": "Guía completa (PDF, italiano) <span class=\"arr\">↗</span>",
+"0fa79953": "Guía completa (PDF, inglés) <span class=\"arr\">↗</span>",
+"f6f695ce": "En la página principal están el gran botón EMERGENCIA, la llamada al 112 y el recordatorio del comando de voz. En los ajustes eliges las acciones de emergencia, el idioma del comando de Siri y emparejas el botón button4help™. La guía paso a paso está dentro de la app.",
+"89b12855": "<strong>La página principal</strong>El botón EMERGENCIA, la llamada al 112 y el comando de voz.",
+"586aa74d": "<strong>Las acciones de emergencia</strong>Telegram con ubicación en tiempo real, SMS, WhatsApp y llamada, con la duración y el número al que llamar.",
+"5972625e": "<strong>El botón button4help™</strong>Emparejamiento, sensibilidad, señal y carga de la pila, con el aviso de no cerrar del todo la app.",
+"94035c67": "<strong>Los 12 idiomas</strong>El idioma del comando de voz se elige en los ajustes.",
+"9564b140": "<strong>La guía en la app</strong>Paso a paso, pantalla por pantalla, también para quien nunca ha usado una app así.",
+"7472646f": "<strong>Todos los temas</strong>De las formas rápidas al 112, hasta la guía completa en PDF.",
+"59edb6ee": "Guía para iPhone (PDF, italiano) <span class=\"arr\">↗</span>",
+"082c323f": "Guía para iPhone (PDF, inglés) <span class=\"arr\">↗</span>",
+"375bec30": "Guía de no pAIn™ para iPhone (PDF) ↗",
+"107fec46": "Página principal de no pAIn app en iPhone: estado Listo, gran botón rojo EMERGENCIA petición de ayuda, botón Llamar al 112 y recordatorio del comando de voz “Oye Siri, Ayúdame”.",
+"7c48e7a4": "Ajustes de no pAIn app: acciones de emergencia con Telegram, ubicación en tiempo real y duración, SMS, WhatsApp, llamada y elección del número al que llamar.",
+"0701040d": "Ajustes de no pAIn app: botón de emergencia button4help activo y listo, modelo reconocido Holy-IOT 21011, sensibilidad, calidad de la señal y carga de la pila.",
+"e9620604": "Elección del idioma del comando de Siri en no pAIn app: italiano, inglés, francés, alemán, español, turco, griego, portugués, rumano, polaco, neerlandés, sueco.",
+"a7d4d807": "Guía dentro de no pAIn app: para empezar, qué es la app, gratis y Premium, primer inicio y permisos; después la parte para configurar la app.",
+"8d4f0aab": "Guía dentro de no pAIn app: otras formas rápidas, qué reciben los contactos, ubicación en directo, Apple Watch, botón button4help, número único de emergencia y guía completa en PDF."
 }
 };

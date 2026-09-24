@@ -783,3 +783,21 @@ mail.partnerBody|Merhaba,\nno pAIn™ projesi hakkında daha fazla bilgi almak v
 808|Diğer sayfalar
 809|<b data-no-i18n="">Instagram · avvocato_eufemiaferrara</b> · Gönderi
 810|Kadınların korunması alanında çalışan bir avukat, Politecnico di Bari'de geliştirilen uygulamadan söz ediyor ve bir tartışma açıyor: teknoloji hukuki korumanın yerini almaz, ama birkaç saniyenin önem taşıdığı anlarda hukuk, kurumlar, kolluk kuvvetleri ve şiddetle mücadele merkezlerinden oluşan bir ağa eklenecek bir araç daha olur.
+811|Tam kılavuz (PDF, İtalyanca) <span class="arr">↗</span>
+812|Tam kılavuz (PDF, İngilizce) <span class="arr">↗</span>
+813|Ana sayfada büyük ACİL DURUM düğmesi, 112 araması ve sesli komut hatırlatması var. Ayarlarda acil durum eylemlerini, Siri komutunun dilini seçer ve button4help™ düğmesini eşleştirirsiniz. Adım adım kılavuz uygulamanın içindedir.
+814|<strong>Ana sayfa</strong>ACİL DURUM düğmesi, 112 araması ve sesli komut.
+815|<strong>Acil durum eylemleri</strong>Canlı konumlu Telegram, SMS, WhatsApp ve arama; süre ve aranacak numara ile birlikte.
+816|<strong>button4help™ düğmesi</strong>Eşleştirme, hassasiyet, sinyal ve pil durumu; uygulamayı tamamen kapatmama uyarısıyla.
+817|<strong>12 dil</strong>Sesli komutun dili ayarlardan seçilir.
+818|<strong>Uygulamadaki kılavuz</strong>Adım adım, ekran ekran; böyle bir uygulamayı hiç kullanmamış olanlar için de.
+819|<strong>Tüm konular</strong>Hızlı yollardan 112'ye, PDF'teki tam kılavuza kadar.
+820|iPhone kılavuzu (PDF, İtalyanca) <span class="arr">↗</span>
+821|iPhone kılavuzu (PDF, İngilizce) <span class="arr">↗</span>
+822|iPhone için no pAIn™ kılavuzu (PDF) ↗
+823|iPhone'da no pAIn app ana sayfası: Hazır durumu, büyük kırmızı ACİL DURUM yardım isteği düğmesi, 112'yi Ara düğmesi ve “Hey Siri, Bana yardım et” sesli komut hatırlatması.
+824|no pAIn app ayarları: Telegram, canlı konum ve süre, SMS, WhatsApp, arama ve aranacak numara seçimi ile acil durum eylemleri.
+825|no pAIn app ayarları: button4help acil durum düğmesi etkin ve hazır, tanınan model Holy-IOT 21011, hassasiyet, sinyal kalitesi ve pil durumu.
+826|no pAIn app'te Siri komutunun dili seçimi: İtalyanca, İngilizce, Fransızca, Almanca, İspanyolca, Türkçe, Yunanca, Portekizce, Rumence, Lehçe, Felemenkçe, İsveççe.
+827|no pAIn app içindeki kılavuz: başlarken, uygulama nedir, ücretsiz ve Premium, ilk açılış ve izinler; ardından uygulamayı ayarlama bölümü.
+828|no pAIn app içindeki kılavuz: diğer hızlı yollar, kişilerin neler aldığı, canlı konum, Apple Watch, button4help düğmesi, tek acil durum numarası ve PDF'teki tam kılavuz.

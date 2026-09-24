@@ -787,6 +787,24 @@
 "8f4593bb": "Promotional material of the project, in English.",
 "69ad19f3": "More pages",
 "0f544e99": "<b data-no-i18n=\"\">Instagram · avvocato_eufemiaferrara</b> · Post",
-"7cae9175": "A lawyer who works on the protection of women mentions the app developed at the Politecnico di Bari and opens a reflection: technology does not replace legal protection, but when a few seconds count it becomes one more tool, to be placed in a network made of law, institutions, police and anti-violence centres."
+"7cae9175": "A lawyer who works on the protection of women mentions the app developed at the Politecnico di Bari and opens a reflection: technology does not replace legal protection, but when a few seconds count it becomes one more tool, to be placed in a network made of law, institutions, police and anti-violence centres.",
+"1fc5eca8": "Full guide (PDF, Italian) <span class=\"arr\">↗</span>",
+"0fa79953": "Full guide (PDF, English) <span class=\"arr\">↗</span>",
+"f6f695ce": "On the main page there is the big EMERGENCY button, the call to 112 and the reminder of the voice command. In the settings you choose the emergency actions, the language of the Siri command and pair the button4help™ button. The step-by-step guide is inside the app.",
+"89b12855": "<strong>The main page</strong>The EMERGENCY button, the call to 112 and the voice command.",
+"586aa74d": "<strong>The emergency actions</strong>Telegram with live location, SMS, WhatsApp and phone call, with the duration and the number to call.",
+"5972625e": "<strong>The button4help™ button</strong>Pairing, sensitivity, signal and battery charge, with the warning not to close the app completely.",
+"94035c67": "<strong>The 12 languages</strong>The language of the voice command is chosen in the settings.",
+"9564b140": "<strong>The guide inside the app</strong>Step by step, screen by screen, even for those who have never used an app like this.",
+"7472646f": "<strong>Every topic</strong>From the quick ways to 112, up to the full guide in PDF.",
+"59edb6ee": "iPhone guide (PDF, Italian) <span class=\"arr\">↗</span>",
+"082c323f": "iPhone guide (PDF, English) <span class=\"arr\">↗</span>",
+"375bec30": "no pAIn™ guide for iPhone (PDF) ↗",
+"107fec46": "Main page of no pAIn app on iPhone: status Ready, big red EMERGENCY call for help button, Call 112 button and reminder of the voice command “Hey Siri, Help me”.",
+"7c48e7a4": "Settings of no pAIn app: emergency actions with Telegram, live location and duration, SMS, WhatsApp, call and choice of the number to call.",
+"0701040d": "Settings of no pAIn app: button4help emergency button active and ready, recognised model Holy-IOT 21011, sensitivity, signal quality and battery charge.",
+"e9620604": "Choosing the language of the Siri command in no pAIn app: Italian, English, French, German, Spanish, Turkish, Greek, Portuguese, Romanian, Polish, Dutch, Swedish.",
+"a7d4d807": "Guide inside no pAIn app: getting started, what the app is, free and Premium, first launch and permissions; then the section for setting up the app.",
+"8d4f0aab": "Guide inside no pAIn app: other quick ways, what the contacts receive, live location, Apple Watch, button4help button, single emergency number and full guide in PDF."
 }
 };

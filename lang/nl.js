@@ -788,6 +788,24 @@
 "8f4593bb": "Promotiemateriaal van het project, in het Engels.",
 "69ad19f3": "Meer pagina's",
 "0f544e99": "<b data-no-i18n=\"\">Instagram · avvocato_eufemiaferrara</b> · Bericht",
-"7cae9175": "Een advocate die zich bezighoudt met de bescherming van vrouwen noemt de app die aan de Politecnico di Bari is ontwikkeld en opent een gedachte: techniek vervangt de juridische bescherming niet, maar als enkele seconden tellen wordt ze een middel extra, in te passen in een netwerk van recht, instellingen, politie en hulpcentra tegen geweld."
+"7cae9175": "Een advocate die zich bezighoudt met de bescherming van vrouwen noemt de app die aan de Politecnico di Bari is ontwikkeld en opent een gedachte: techniek vervangt de juridische bescherming niet, maar als enkele seconden tellen wordt ze een middel extra, in te passen in een netwerk van recht, instellingen, politie en hulpcentra tegen geweld.",
+"1fc5eca8": "Volledige gids (PDF, Italiaans) <span class=\"arr\">↗</span>",
+"0fa79953": "Volledige gids (PDF, Engels) <span class=\"arr\">↗</span>",
+"f6f695ce": "Op de hoofdpagina staan de grote knop NOODGEVAL, het bellen van 112 en de herinnering aan de spraakopdracht. In de instellingen kies je de noodacties, de taal van de Siri-opdracht en koppel je de knop button4help™. De stapsgewijze gids zit in de app.",
+"89b12855": "<strong>De hoofdpagina</strong>De knop NOODGEVAL, het bellen van 112 en de spraakopdracht.",
+"586aa74d": "<strong>De noodacties</strong>Telegram met live locatie, sms, WhatsApp en telefoontje, met de duur en het nummer dat gebeld wordt.",
+"5972625e": "<strong>De knop button4help™</strong>Koppeling, gevoeligheid, signaal en batterijlading, met de waarschuwing de app niet helemaal te sluiten.",
+"94035c67": "<strong>De 12 talen</strong>De taal van de spraakopdracht kies je in de instellingen.",
+"9564b140": "<strong>De gids in de app</strong>Stap voor stap, scherm voor scherm, ook voor wie nog nooit zo'n app heeft gebruikt.",
+"7472646f": "<strong>Alle onderwerpen</strong>Van de snelle manieren tot 112, tot en met de volledige gids in pdf.",
+"59edb6ee": "iPhone-gids (PDF, Italiaans) <span class=\"arr\">↗</span>",
+"082c323f": "iPhone-gids (PDF, Engels) <span class=\"arr\">↗</span>",
+"375bec30": "Gids no pAIn™ voor iPhone (pdf) ↗",
+"107fec46": "Hoofdpagina van no pAIn app op de iPhone: status Gereed, grote rode knop NOODGEVAL hulpvraag, knop Bel 112 en herinnering aan de spraakopdracht “Hey Siri, Help mij”.",
+"7c48e7a4": "Instellingen van no pAIn app: noodacties met Telegram, live locatie en duur, sms, WhatsApp, telefoontje en keuze van het te bellen nummer.",
+"0701040d": "Instellingen van no pAIn app: noodknop button4help actief en gereed, herkend model Holy-IOT 21011, gevoeligheid, signaalkwaliteit en batterijlading.",
+"e9620604": "Keuze van de taal van de Siri-opdracht in no pAIn app: Italiaans, Engels, Frans, Duits, Spaans, Turks, Grieks, Portugees, Roemeens, Pools, Nederlands, Zweeds.",
+"a7d4d807": "Gids in no pAIn app: om te beginnen, wat de app is, gratis en Premium, eerste start en toestemmingen; daarna het deel over het instellen van de app.",
+"8d4f0aab": "Gids in no pAIn app: andere snelle manieren, wat de contacten ontvangen, live locatie, Apple Watch, knop button4help, het enige noodnummer en de volledige gids in pdf."
 }
 };

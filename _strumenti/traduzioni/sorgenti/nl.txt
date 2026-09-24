@@ -783,3 +783,21 @@ mail.partnerBody|Goedendag,\nik wil graag meer weten over het project no pAIn™
 808|Meer pagina's
 809|<b data-no-i18n="">Instagram · avvocato_eufemiaferrara</b> · Bericht
 810|Een advocate die zich bezighoudt met de bescherming van vrouwen noemt de app die aan de Politecnico di Bari is ontwikkeld en opent een gedachte: techniek vervangt de juridische bescherming niet, maar als enkele seconden tellen wordt ze een middel extra, in te passen in een netwerk van recht, instellingen, politie en hulpcentra tegen geweld.
+811|Volledige gids (PDF, Italiaans) <span class="arr">↗</span>
+812|Volledige gids (PDF, Engels) <span class="arr">↗</span>
+813|Op de hoofdpagina staan de grote knop NOODGEVAL, het bellen van 112 en de herinnering aan de spraakopdracht. In de instellingen kies je de noodacties, de taal van de Siri-opdracht en koppel je de knop button4help™. De stapsgewijze gids zit in de app.
+814|<strong>De hoofdpagina</strong>De knop NOODGEVAL, het bellen van 112 en de spraakopdracht.
+815|<strong>De noodacties</strong>Telegram met live locatie, sms, WhatsApp en telefoontje, met de duur en het nummer dat gebeld wordt.
+816|<strong>De knop button4help™</strong>Koppeling, gevoeligheid, signaal en batterijlading, met de waarschuwing de app niet helemaal te sluiten.
+817|<strong>De 12 talen</strong>De taal van de spraakopdracht kies je in de instellingen.
+818|<strong>De gids in de app</strong>Stap voor stap, scherm voor scherm, ook voor wie nog nooit zo'n app heeft gebruikt.
+819|<strong>Alle onderwerpen</strong>Van de snelle manieren tot 112, tot en met de volledige gids in pdf.
+820|iPhone-gids (PDF, Italiaans) <span class="arr">↗</span>
+821|iPhone-gids (PDF, Engels) <span class="arr">↗</span>
+822|Gids no pAIn™ voor iPhone (pdf) ↗
+823|Hoofdpagina van no pAIn app op de iPhone: status Gereed, grote rode knop NOODGEVAL hulpvraag, knop Bel 112 en herinnering aan de spraakopdracht “Hey Siri, Help mij”.
+824|Instellingen van no pAIn app: noodacties met Telegram, live locatie en duur, sms, WhatsApp, telefoontje en keuze van het te bellen nummer.
+825|Instellingen van no pAIn app: noodknop button4help actief en gereed, herkend model Holy-IOT 21011, gevoeligheid, signaalkwaliteit en batterijlading.
+826|Keuze van de taal van de Siri-opdracht in no pAIn app: Italiaans, Engels, Frans, Duits, Spaans, Turks, Grieks, Portugees, Roemeens, Pools, Nederlands, Zweeds.
+827|Gids in no pAIn app: om te beginnen, wat de app is, gratis en Premium, eerste start en toestemmingen; daarna het deel over het instellen van de app.
+828|Gids in no pAIn app: andere snelle manieren, wat de contacten ontvangen, live locatie, Apple Watch, knop button4help, het enige noodnummer en de volledige gids in pdf.

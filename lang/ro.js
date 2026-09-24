@@ -787,6 +787,24 @@
 "8f4593bb": "Material promoțional al proiectului, în engleză.",
 "69ad19f3": "Alte pagini",
 "0f544e99": "<b data-no-i18n=\"\">Instagram · avvocato_eufemiaferrara</b> · Postare",
-"7cae9175": "O avocată care se ocupă de protecția femeilor menționează aplicația dezvoltată la Politecnico di Bari și deschide o reflecție: tehnologia nu înlocuiește protecția juridică, dar când contează câteva secunde devine un instrument în plus, de integrat într-o rețea formată din drept, instituții, poliție și centre împotriva violenței."
+"7cae9175": "O avocată care se ocupă de protecția femeilor menționează aplicația dezvoltată la Politecnico di Bari și deschide o reflecție: tehnologia nu înlocuiește protecția juridică, dar când contează câteva secunde devine un instrument în plus, de integrat într-o rețea formată din drept, instituții, poliție și centre împotriva violenței.",
+"1fc5eca8": "Ghid complet (PDF, italiană) <span class=\"arr\">↗</span>",
+"0fa79953": "Ghid complet (PDF, engleză) <span class=\"arr\">↗</span>",
+"f6f695ce": "Pe pagina principală se află butonul mare URGENȚĂ, apelul la 112 și amintirea comenzii vocale. În setări alegi acțiunile de urgență, limba comenzii Siri și asociezi butonul button4help™. Ghidul pas cu pas este în aplicație.",
+"89b12855": "<strong>Pagina principală</strong>Butonul URGENȚĂ, apelul la 112 și comanda vocală.",
+"586aa74d": "<strong>Acțiunile de urgență</strong>Telegram cu locație live, SMS, WhatsApp și apel, cu durata și numărul de apelat.",
+"5972625e": "<strong>Butonul button4help™</strong>Asociere, sensibilitate, semnal și nivelul bateriei, cu avertismentul de a nu închide complet aplicația.",
+"94035c67": "<strong>Cele 12 limbi</strong>Limba comenzii vocale se alege din setări.",
+"9564b140": "<strong>Ghidul din aplicație</strong>Pas cu pas, ecran cu ecran, chiar și pentru cine nu a folosit niciodată o astfel de aplicație.",
+"7472646f": "<strong>Toate subiectele</strong>De la modurile rapide la 112, până la ghidul complet în PDF.",
+"59edb6ee": "Ghid iPhone (PDF, italiană) <span class=\"arr\">↗</span>",
+"082c323f": "Ghid iPhone (PDF, engleză) <span class=\"arr\">↗</span>",
+"375bec30": "Ghid no pAIn™ pentru iPhone (PDF) ↗",
+"107fec46": "Pagina principală a no pAIn app pe iPhone: stare Pregătit, buton roșu mare URGENȚĂ cerere de ajutor, buton Sună la 112 și amintirea comenzii vocale „Hey Siri, Ajută-mă”.",
+"7c48e7a4": "Setările no pAIn app: acțiuni de urgență cu Telegram, locație live și durată, SMS, WhatsApp, apel și alegerea numărului de apelat.",
+"0701040d": "Setările no pAIn app: butonul de urgență button4help activ și pregătit, model recunoscut Holy-IOT 21011, sensibilitate, calitatea semnalului și nivelul bateriei.",
+"e9620604": "Alegerea limbii comenzii Siri în no pAIn app: italiană, engleză, franceză, germană, spaniolă, turcă, greacă, portugheză, română, poloneză, neerlandeză, suedeză.",
+"a7d4d807": "Ghidul din no pAIn app: pentru început, ce este aplicația, gratis și Premium, prima pornire și permisiuni; apoi partea pentru configurarea aplicației.",
+"8d4f0aab": "Ghidul din no pAIn app: alte moduri rapide, ce primesc contactele, locație live, Apple Watch, butonul button4help, numărul unic de urgență și ghidul complet în PDF."
 }
 };

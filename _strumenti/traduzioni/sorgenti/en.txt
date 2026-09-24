@@ -782,3 +782,21 @@ mail.partnerBody|Hello,\nI would like to learn more about the no pAIn™ project
 808|More pages
 809|<b data-no-i18n="">Instagram · avvocato_eufemiaferrara</b> · Post
 810|A lawyer who works on the protection of women mentions the app developed at the Politecnico di Bari and opens a reflection: technology does not replace legal protection, but when a few seconds count it becomes one more tool, to be placed in a network made of law, institutions, police and anti-violence centres.
+811|Full guide (PDF, Italian) <span class="arr">↗</span>
+812|Full guide (PDF, English) <span class="arr">↗</span>
+813|On the main page there is the big EMERGENCY button, the call to 112 and the reminder of the voice command. In the settings you choose the emergency actions, the language of the Siri command and pair the button4help™ button. The step-by-step guide is inside the app.
+814|<strong>The main page</strong>The EMERGENCY button, the call to 112 and the voice command.
+815|<strong>The emergency actions</strong>Telegram with live location, SMS, WhatsApp and phone call, with the duration and the number to call.
+816|<strong>The button4help™ button</strong>Pairing, sensitivity, signal and battery charge, with the warning not to close the app completely.
+817|<strong>The 12 languages</strong>The language of the voice command is chosen in the settings.
+818|<strong>The guide inside the app</strong>Step by step, screen by screen, even for those who have never used an app like this.
+819|<strong>Every topic</strong>From the quick ways to 112, up to the full guide in PDF.
+820|iPhone guide (PDF, Italian) <span class="arr">↗</span>
+821|iPhone guide (PDF, English) <span class="arr">↗</span>
+822|no pAIn™ guide for iPhone (PDF) ↗
+823|Main page of no pAIn app on iPhone: status Ready, big red EMERGENCY call for help button, Call 112 button and reminder of the voice command “Hey Siri, Help me”.
+824|Settings of no pAIn app: emergency actions with Telegram, live location and duration, SMS, WhatsApp, call and choice of the number to call.
+825|Settings of no pAIn app: button4help emergency button active and ready, recognised model Holy-IOT 21011, sensitivity, signal quality and battery charge.
+826|Choosing the language of the Siri command in no pAIn app: Italian, English, French, German, Spanish, Turkish, Greek, Portuguese, Romanian, Polish, Dutch, Swedish.
+827|Guide inside no pAIn app: getting started, what the app is, free and Premium, first launch and permissions; then the section for setting up the app.
+828|Guide inside no pAIn app: other quick ways, what the contacts receive, live location, Apple Watch, button4help button, single emergency number and full guide in PDF.
