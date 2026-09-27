@@ -211,7 +211,7 @@ section + section { border-top: 1px solid var(--line); }
    lunghissime (sotto i 980 px torna a una colonna sola) */
 .sec-head.larga { max-width: none; }
 .sec-head.larga > .lede { max-width: none; }
-@media (min-width: 981px) { .sec-head.larga > .lede { columns: 2; column-gap: 40px; } }
+@media (min-width: 981px) { .sec-head.larga > .lede, .sec-head.larga > p.small { columns: 2; column-gap: 40px; } }
 
 /* ---------- hero ---------- */
 .hero { padding-block: clamp(48px, 7vw, 88px); position: relative; overflow: hidden; }
