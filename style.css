@@ -350,6 +350,11 @@ section + section { border-top: 1px solid var(--line); }
    (presentazione e riquadro del download) e poi i riquadri in griglia a due
    colonne, così le sezioni restano tutte uguali e allineate */
 .product .wrap.p-head { grid-template-columns: 1.05fr .95fr; }
+/* nelle sezioni a specchio la presentazione finisce nella seconda colonna:
+   le larghezze si invertono così resta sempre lei la colonna più larga */
+.product.flip .wrap.p-head { grid-template-columns: .95fr 1.05fr; }
+/* titolo lungo (AIuto SOS — watch4help™): un corpo più piccolo per tenerlo su una riga */
+.p-intro h2.lungo { font-size: clamp(1.6rem, 3.3vw, 2.5rem); }
 .p-get { display: grid; gap: 16px; align-content: start; }
 .product .wrap.p-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; margin-top: 40px; align-items: stretch; }
 .product .wrap.p-stack { grid-template-columns: 1fr; }
@@ -368,7 +373,9 @@ section + section { border-top: 1px solid var(--line); }
 .checks li.no { color: var(--muted); }
 .small { font-size: .88rem; color: var(--muted); }
 @media (max-width: 900px) {
-  .product .wrap, .product .wrap.p-head, .product .wrap.p-grid { grid-template-columns: 1fr; }
+  .product .wrap, .product .wrap.p-head, .product.flip .wrap.p-head, .product .wrap.p-grid { grid-template-columns: 1fr; }
+  /* qui la presentazione occupa tutta la larghezza: il titolo lungo può essere più grande */
+  .p-intro h2.lungo { font-size: clamp(1.6rem, 3.5vw, 2.6rem); }
   .product.flip .wrap > :first-child { order: 0; }
   .p-intro { position: static; }
 }
