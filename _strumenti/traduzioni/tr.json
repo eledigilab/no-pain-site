@@ -3179,6 +3179,218 @@
   "it": "Guida dentro no pAIn app: altri modi rapidi, cosa ricevono i contatti, posizione in diretta, Apple Watch, pulsante button4help, numero unico di emergenza e guida completa in PDF.",
   "tr": "no pAIn app içindeki kılavuz: diğer hızlı yollar, kişilerin neler aldığı, canlı konum, Apple Watch, button4help düğmesi, tek acil durum numarası ve PDF'teki tam kılavuz."
  },
+ "25756558": {
+  "it": "<b>watch4help™</b> — l'unica tecnologia di questa app: tutto avviene sullo smartwatch",
+  "tr": "<b>watch4help™</b> — bu uygulamanın tek teknolojisi: her şey akıllı saatte olur"
+ },
+ "9e8012f7": {
+  "it": "AI help App · Android",
+  "tr": "AI help App · Android"
+ },
+ "ec3b25a7": {
+  "it": "Le tecnologie",
+  "tr": "Teknolojiler"
+ },
+ "5d8b86d8": {
+  "it": "<b>digital4help™</b> — l'app sullo smartphone: voce, tasti rapidi e notifica persistente",
+  "tr": "<b>digital4help™</b> — telefondaki uygulama: ses, hızlı düğmeler ve kalıcı bildirim"
+ },
+ "32ac4396": {
+  "it": "<b>watch4help™</b> — l'app compagna per smartwatch Wear OS, per far partire l'allarme dal polso",
+  "tr": "<b>watch4help™</b> — Wear OS akıllı saatler için eş uygulama, alarmı bilekten başlatmak için"
+ },
+ "bb9ceb99": {
+  "it": "<b>button4help™</b> — il pulsante esterno da tenere addosso, dopo l'abbinamento all'app",
+  "tr": "<b>button4help™</b> — üzerinizde taşıdığınız harici düğme, uygulamayla eşleştirildikten sonra"
+ },
+ "f8b2a0d0": {
+  "it": "<b>digital4help™</b> — l'app sull'iPhone: tasto SOS e comando vocale con Siri",
+  "tr": "<b>digital4help™</b> — iPhone'daki uygulama: SOS tuşu ve Siri ile sesli komut"
+ },
+ "6375e8d0": {
+  "it": "<b>watch4help™</b> — l'app compagna per Apple Watch, per far partire l'allarme dal polso",
+  "tr": "<b>watch4help™</b> — Apple Watch için eş uygulama, alarmı bilekten başlatmak için"
+ },
+ "6e3638e8": {
+  "it": "<b>button4help™</b> — il pulsante esterno, dalla versione 59 in poi, dopo l'abbinamento all'app",
+  "tr": "<b>button4help™</b> — harici düğme, 59. sürümden itibaren, uygulamayla eşleştirildikten sonra"
+ },
+ "cac1bea8": {
+  "it": "<b>digital4help™</b> — l'app sullo smartphone: parole chiave, tasti rapidi e notifica persistente",
+  "tr": "<b>digital4help™</b> — telefondaki uygulama: anahtar sözcükler, hızlı düğmeler ve kalıcı bildirim"
+ },
+ "251888b9": {
+  "it": "Il pulsante button4help™ non è previsto: usa AI help You se ti serve",
+  "tr": "button4help™ düğmesi desteklenmiyor: gerekiyorsa AI help You kullanın"
+ },
+ "e7fe1e57": {
+  "it": "Non serve lo smartphone per chiedere aiuto: lo usi solo per leggere la guida",
+  "tr": "Yardım istemek için akıllı telefona gerek yok: telefonu yalnızca kılavuzu okumak için kullanırsınız"
+ },
+ "72ca8c6d": {
+  "it": "Niente app per lo smartphone e niente pulsante button4help™",
+  "tr": "Telefon için uygulama yok, button4help™ düğmesi de yok"
+ },
+ "f074539b": {
+  "it": "La versione per Apple Watch è in fase di sviluppo. Per usare oggi Apple Watch, installa <a class=\"link-arrow\" href=\"#no-pain-ios\">no pAIn™ per iPhone</a> con la sua app compagna.",
+  "tr": "Apple Watch sürümü geliştirme aşamasında. Apple Watch'ı bugün kullanmak için eş uygulamasıyla birlikte <a class=\"link-arrow\" href=\"#no-pain-ios\">iPhone için no pAIn™</a> kurun."
+ },
+ "4bc16add": {
+  "it": "AI help <span class=\"hl\">App</span>",
+  "tr": "AI help <span class=\"hl\">App</span>"
+ },
+ "49d70dea": {
+  "it": "Un'altra soluzione multilingue per Android: 12 lingue, di cui 3 con riconoscimento vocale anche offline. Si attiva con i comandi vocali o con la richiesta manuale di aiuto dalla schermata principale.",
+  "tr": "Android için çok dilli bir başka çözüm: 12 dil, bunların 3'ünde çevrim dışı da çalışan ses tanıma. Sesli komutlarla ya da ana ekrandan elle yardım isteğiyle çalışır."
+ },
+ "3d26ac45": {
+  "it": "<b>digital4help™</b> — l'unica tecnologia di questa app: tutto parte dallo smartphone",
+  "tr": "<b>digital4help™</b> — bu uygulamanın tek teknolojisi: her şey akıllı telefondan başlar"
+ },
+ "36b65295": {
+  "it": "Per il momento non ha l'app compagna per smartwatch watch4help™",
+  "tr": "Şimdilik akıllı saatler için watch4help™ eş uygulaması yok"
+ },
+ "e8688e2b": {
+  "it": "Per il momento non funziona con il pulsante button4help™",
+  "tr": "Şimdilik button4help™ düğmesiyle çalışmıyor"
+ },
+ "f115a130": {
+  "it": "Comandi vocali, con riconoscimento anche offline in 3 lingue",
+  "tr": "3 dilde çevrim dışı da çalışan ses tanımayla sesli komutlar"
+ },
+ "94f426da": {
+  "it": "Tasto START nella schermata principale, che avvia l'ascolto",
+  "tr": "Ana ekrandaki START düğmesi, dinlemeyi başlatır"
+ },
+ "49a8334e": {
+  "it": "Richiesta manuale di aiuto dalla schermata principale",
+  "tr": "Ana ekrandan elle yardım isteği"
+ },
+ "c2ea5bb5": {
+  "it": "Telegram con la posizione",
+  "tr": "Konumla birlikte Telegram"
+ },
+ "838ad335": {
+  "it": "Com’è fatta AI help App.",
+  "tr": "AI help App nasıl görünüyor."
+ },
+ "aab94c01": {
+  "it": "Il tasto START avvia l'ascolto delle parole chiave; nelle impostazioni scegli le azioni di emergenza, il chat ID di Telegram e la lingua fra le dodici disponibili.",
+  "tr": "START düğmesi anahtar sözcüklerin dinlenmesini başlatır; ayarlarda acil durum eylemlerini, Telegram chat ID'sini ve on iki dil arasından dili seçersiniz."
+ },
+ "2c606f84": {
+  "it": "Le tre tecnologie e le quattro app del progetto · materiale promozionale",
+  "tr": "Projenin üç teknolojisi ve dört uygulaması · tanıtım materyali"
+ },
+ "c80e4f9c": {
+  "it": "AI help You in tre locandine.",
+  "tr": "Üç afişte AI help You."
+ },
+ "827245eb": {
+  "it": "<strong>Il pulsante agganciato alla tasca</strong>Una semplice pressione fa partire la richiesta di aiuto, anche con lo smartphone a qualche metro di distanza. Locandina in inglese.",
+  "tr": "<strong>Cebe takılan düğme</strong>Basit bir basış, akıllı telefon birkaç metre uzakta olsa bile yardım çağrısını başlatır. Afiş İngilizce."
+ },
+ "58132d0e": {
+  "it": "<strong>Il pulsante appeso alla borsa</strong>Al collo, in tasca, sul portachiavi o sulla borsa: resta a portata di dito senza farsi notare. Locandina in inglese.",
+  "tr": "<strong>Çantaya asılan düğme</strong>Boyunda, cepte, anahtarlıkta ya da çantada: fark edilmeden her an parmağınızın altında. Afiş İngilizce."
+ },
+ "869a17b5": {
+  "it": "<strong>Cos'è e cosa non è</strong>App gratuita per smartwatch Wear OS: niente localizzatore sempre acceso, niente hardware in più. Infografica in inglese.",
+  "tr": "<strong>Ne olduğu ve ne olmadığı</strong>Wear OS akıllı saatler için ücretsiz uygulama: sürekli açık kalan bir konum takipçisi yok, ek donanım yok. İnfografik İngilizce."
+ },
+ "0be07812": {
+  "it": "Parole chiave",
+  "tr": "Anahtar kelimeler"
+ },
+ "b544fb40": {
+  "it": "Locandina in inglese con le tre tecnologie del progetto: digital4help dallo smartphone, watch4help dallo smartwatch, button4help dal pulsante. Una ragazza tiene il telefono con l'app no pAIn, ha uno smartwatch con il tasto SOS e stringe il pulsante appeso alla collana. In basso l'elenco delle app: Proteggimi (no pAIn) per Android in italiano, AI help You per Android in 12 lingue, AIuto SOS watch4help solo per smartwatch Wear OS, no pAIn (Proteggimi) per iOS in 12 lingue.",
+  "tr": "Projenin üç teknolojisini gösteren İngilizce afiş: akıllı telefondan digital4help, akıllı saatten watch4help, düğmeden button4help. Bir genç kız no pAIn uygulamasının açık olduğu telefonu tutuyor, SOS tuşlu bir akıllı saat takıyor ve kolyesine asılı düğmeyi sıkıyor. Altta uygulamaların listesi: Android için İtalyanca Proteggimi (no pAIn), Android için 12 dilde AI help You, yalnızca Wear OS akıllı saatler için AIuto SOS watch4help, iOS için 12 dilde no pAIn (Proteggimi)."
+ },
+ "19ce99ad": {
+  "it": "Locandina AI help You e button4help: il pulsante agganciato alla tasca dei jeans. Non un localizzatore GPS continuo, non un tag Bluetooth, nessun controllo costante: un pulsante di emergenza intelligente, innovativo, discreto, leggero, indossabile, facile da usare. In basso le fasi allerta inviata, l'amica riceve la notifica, azione immediata, forze dell'ordine avvisate.",
+  "tr": "AI help You ve button4help afişi: kot pantolonun cebine takılmış düğme. Sürekli çalışan bir GPS takip cihazı değil, bir Bluetooth etiketi değil, sürekli izleme yok: akıllı, yenilikçi, göze batmayan, hafif, takılabilir ve kullanımı kolay bir acil durum düğmesi. Altta aşamalar: uyarı gönderildi, arkadaşı bildirimi alıyor, anında harekete geçiliyor, kolluk kuvvetleri haberdar ediliyor."
+ },
+ "0da3d42c": {
+  "it": "Locandina AI help You e button4help: il pulsante appeso alla borsa, premuto con un dito. Non un localizzatore GPS continuo, non un tag Bluetooth, nessun controllo costante: un pulsante di emergenza intelligente da portare al collo, in tasca, sul portachiavi o sulla borsa.",
+  "tr": "AI help You ve button4help afişi: çantaya asılı düğme, bir parmakla basılıyor. Sürekli çalışan bir GPS takip cihazı değil, bir Bluetooth etiketi değil, sürekli izleme yok: boyunda, cepte, anahtarlıkta ya da çantada taşınacak akıllı bir acil durum düğmesi."
+ },
+ "b57a5867": {
+  "it": "Infografica AIuto SOS watch4help: non è un localizzatore GPS, non è un tasto SOS per anziani, non è un AirTag. App completamente gratuita per smartwatch Wear OS, sullo smartphone serve solo la documentazione, nessun dispositivo aggiuntivo. Attivazione con un tocco sul tasto SOS o con un comando vocale, posizione live per un'ora, SMS e chiamate automatiche ai contatti fidati.",
+  "tr": "AIuto SOS watch4help infografiği: GPS takip cihazı değil, yaşlılar için SOS düğmesi değil, AirTag değil. Wear OS akıllı saatler için tamamen ücretsiz uygulama, akıllı telefon yalnızca belgeler için gerekli, ek cihaz yok. SOS tuşuna dokunarak ya da sesli komutla devreye girer, bir saat boyunca canlı konum, güvendiğiniz kişilere otomatik SMS ve aramalar."
+ },
+ "e1476872": {
+  "it": "Schermata principale di AI help App: stato Pronta, tasto verde START, tasto per la richiesta manuale di aiuto e tasto rosso per chiamare il 112.",
+  "tr": "AI help App ana ekranı: durum Hazır, yeşil START düğmesi, elle yardım isteme düğmesi ve 112'yi aramak için kırmızı düğme."
+ },
+ "2dc2355f": {
+  "it": "Impostazioni di AI help App: scelta delle azioni di emergenza fra messaggi Telegram, SMS, chiamate e tasto del numero di emergenza, con il campo del chat ID di Telegram che si riempie da solo con il codice di abbinamento.",
+  "tr": "AI help App ayarları: Telegram mesajları, SMS, aramalar ve acil durum numarası düğmesi arasından acil durum işlemlerinin seçimi; Telegram chat ID alanı eşleştirme koduyla kendiliğinden doluyor."
+ },
+ "5d631e4a": {
+  "it": "Impostazioni di AI help App: numero di emergenza del proprio Paese, tre parole chiave personali e lingua del riconoscimento vocale.",
+  "tr": "AI help App ayarları: ülkenizin acil durum numarası, üç kişisel anahtar kelime ve sesli tanımanın dili."
+ },
+ "fb61d795": {
+  "it": "Il pulsante button4help™",
+  "tr": "button4help™ düğmesi"
+ },
+ "d11cfe35": {
+  "it": "Il pulsante Bluetooth da tenere addosso: tenuto premuto un paio di secondi fa partire l'emergenza di AI help You, dopo la procedura guidata di abbinamento. Da solo non ha funzioni di emergenza.",
+  "tr": "Üzerinizde taşıdığınız Bluetooth düğmesi: birkaç saniye basılı tutulduğunda, rehberli eşleştirme tamamlandıktan sonra AI help You acil durumunu başlatır. Tek başına acil durum işlevi yoktur."
+ },
+ "63cebbd5": {
+  "it": "Cos'è, come si abbina e dove si compra →",
+  "tr": "Nedir, nasıl eşleştirilir ve nereden alınır →"
+ },
+ "bc085198": {
+  "it": "Il pulsante Bluetooth da tenere addosso: tenuto premuto un paio di secondi fa partire l'emergenza di no pAIn™, dalla versione 59 in poi, dopo la procedura guidata di abbinamento. Da solo non ha funzioni di emergenza.",
+  "tr": "Üzerinizde taşıdığınız Bluetooth düğmesi: birkaç saniye basılı tutulduğunda, 59. sürümden itibaren ve rehberli eşleştirme tamamlandıktan sonra no pAIn™ acil durumunu başlatır. Tek başına acil durum işlevi yoktur."
+ },
+ "57f0b54b": {
+  "it": "Video dimostrativi",
+  "tr": "Tanıtım videoları"
+ },
+ "d913b928": {
+  "it": "Due situazioni diverse: la voce quando il telefono è finito a terra, il tocco sull'orologio quando le mani non possono raggiungerlo. In tutte e due gli amici ricevono l'allarme con la posizione e chiamano le forze dell'ordine.",
+  "tr": "İki ayrı durum: telefon yere düştüğünde ses, eller telefona ulaşamadığında saate dokunma. İkisinde de arkadaşlar konumla birlikte uyarıyı alıyor ve kolluk kuvvetlerini arıyor."
+ },
+ "9426779b": {
+  "it": "Scene di finzione, a scopo dimostrativo. I video hanno l'audio.",
+  "tr": "Kurgu sahneler, tanıtım amaçlıdır. Videolarda ses vardır."
+ },
+ "9dca1163": {
+  "it": "Telegram con posizione live fino a 60 minuti",
+  "tr": "60 dakikaya kadar canlı konumla Telegram"
+ },
+ "47134b2b": {
+  "it": "Il servizio resta attivo in secondo piano: prima Telegram, poi gli SMS, poi le telefonate",
+  "tr": "Hizmet arka planda etkin kalır: önce Telegram, sonra SMS'ler, sonra aramalar"
+ },
+ "b2624b27": {
+  "it": "Il chat ID di Telegram si riempie da solo con il codice di abbinamento",
+  "tr": "Telegram chat ID alanı eşleştirme koduyla kendiliğinden dolar"
+ },
+ "3ac90194": {
+  "it": "Il numero di emergenza si sceglie fra quelli dei vari Paesi: il tasto apre il tastierino già pronto e la chiamata la avvii tu",
+  "tr": "Acil durum numarası çeşitli ülkelerinkiler arasından seçilir: tuş, numarası hazır tuş takımını açar, aramayı siz başlatırsınız"
+ },
+ "c5b7e264": {
+  "it": "Fino a 3 comandi vocali personalizzati e segreti (secret keyword): l'emergenza parte senza toccare lo smartphone e senza che nessuno se ne accorga",
+  "tr": "3 adede kadar kişisel ve gizli sesli komut (secret keyword): acil durum, akıllı telefona dokunmadan ve kimse fark etmeden başlar"
+ },
+ "efddb6f9": {
+  "it": "Telegram con posizione live fino a 24 ore",
+  "tr": "24 saate kadar canlı konumla Telegram"
+ },
+ "072abe43": {
+  "it": "³ La presentazione indica fino a 24 ore nelle versioni abilitate: AI help You e Proteggimi Android da 1 minuto a 24 ore, AIuto SOS watch4help™ fino a 60 minuti. Le 12 lingue riguardano le app multilingue; Proteggimi Android è in italiano.",
+  "tr": "³ Sunum, etkinleştirilmiş sürümler için 24 saate kadar diyor: AI help You ve Proteggimi Android 1 dakikadan 24 saate, AIuto SOS watch4help™ 60 dakikaya kadar. 12 dil, çok dilli uygulamalar için geçerlidir; Proteggimi Android İtalyancadır."
+ },
+ "9ed28354": {
+  "it": "La durata dipende dall'app e dalla versione. Su iOS Free è di 30 minuti; su iOS Premium va da 1 minuto a 24 ore. Su Android, AI help You e Proteggimi arrivano fino a 24 ore; AIuto SOS watch4help™ arriva fino a 60 minuti. Controlla le opzioni dell'app installata.",
+  "tr": "Uygulamaya ve sürüme bağlıdır. iOS Free'de 30 dakika; iOS Premium'da 1 dakikadan 24 saate kadar. Android'de AI help You ve Proteggimi 24 saate kadar; AIuto SOS watch4help™ 60 dakikaya kadar çıkar. Kurduğunuz uygulamanın seçeneklerine bakın."
+ },
  "_ui": {
   "menu": "Menü",
   "close": "Kapat",

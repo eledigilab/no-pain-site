@@ -801,3 +801,56 @@ mail.partnerBody|Goedendag,\nik wil graag meer weten over het project no pAIn™
 826|Keuze van de taal van de Siri-opdracht in no pAIn app: Italiaans, Engels, Frans, Duits, Spaans, Turks, Grieks, Portugees, Roemeens, Pools, Nederlands, Zweeds.
 827|Gids in no pAIn app: om te beginnen, wat de app is, gratis en Premium, eerste start en toestemmingen; daarna het deel over het instellen van de app.
 828|Gids in no pAIn app: andere snelle manieren, wat de contacten ontvangen, live locatie, Apple Watch, knop button4help, het enige noodnummer en de volledige gids in pdf.
+829|<b>watch4help™</b> — de enige techniek in deze app: alles gebeurt op de smartwatch
+830|AI help App · Android
+831|De technieken
+832|<b>digital4help™</b> — de app op de smartphone: stem, snelknoppen en vaste melding
+833|<b>watch4help™</b> — de begeleidende app voor Wear OS-smartwatches, om het alarm vanaf je pols te starten
+834|<b>button4help™</b> — de externe knop die je bij je draagt, na koppeling met de app
+835|<b>digital4help™</b> — de app op de iPhone: SOS-knop en spraakopdracht met Siri
+836|<b>watch4help™</b> — de begeleidende app voor Apple Watch, om het alarm vanaf je pols te starten
+837|<b>button4help™</b> — de externe knop, vanaf versie 59, na koppeling met de app
+838|<b>digital4help™</b> — de app op de smartphone: trefwoorden, snelknoppen en vaste melding
+839|De knop button4help™ wordt niet ondersteund: gebruik AI help You als je hem nodig hebt
+840|Je hebt geen smartphone nodig om hulp te vragen: die gebruik je alleen om de gids te lezen
+841|Geen app voor de smartphone en geen button4help™-knop
+842|De versie voor Apple Watch is in ontwikkeling. Wil je vandaag de Apple Watch gebruiken, installeer dan <a class="link-arrow" href="#no-pain-ios">no pAIn™ voor iPhone</a> met de begeleidende app.
+843|AI help <span class="hl">App</span>
+844|Nog een meertalige oplossing voor Android: 12 talen, waarvan 3 met spraakherkenning die ook offline werkt. Ze start met spraakopdrachten of met de handmatige hulpvraag op het hoofdscherm.
+845|<b>digital4help™</b> — de enige techniek in deze app: alles begint bij de smartphone
+846|Voorlopig heeft ze geen begeleidende app watch4help™ voor smartwatches
+847|Voorlopig werkt ze niet met de knop button4help™
+848|Spraakopdrachten, met herkenning die ook offline werkt in 3 talen
+849|START-knop op het hoofdscherm, die het luisteren begint
+850|Handmatige hulpvraag op het hoofdscherm
+851|Telegram met de locatie
+852|Hoe AI help App eruitziet.
+853|De START-knop begint te luisteren naar de trefwoorden; in de instellingen kies je de noodacties, het Telegram-chat-ID en de taal uit de twaalf beschikbare.
+854|De drie technologieën en de vier apps van het project · promotiemateriaal
+855|AI help You op drie posters.
+856|<strong>De knop aan de broekzak</strong>Eén simpele druk start de hulpoproep, ook als de smartphone een paar meter verderop ligt. Poster in het Engels.
+857|<strong>De knop aan de tas</strong>Om de hals, in de zak, aan de sleutelhanger of aan de tas: altijd binnen handbereik zonder op te vallen. Poster in het Engels.
+858|<strong>Wat het wel en niet is</strong>Gratis app voor Wear OS-smartwatches: geen tracker die altijd aanstaat, geen extra hardware. Infographic in het Engels.
+859|Sleutelwoorden
+860|Poster in het Engels met de drie technologieën van het project: digital4help vanaf de smartphone, watch4help vanaf de smartwatch, button4help vanaf de knop. Een meisje houdt de telefoon met de app no pAIn vast, draagt een smartwatch met de SOS-toets en houdt de knop vast die aan haar ketting hangt. Onderaan de lijst met apps: Proteggimi (no pAIn) voor Android in het Italiaans, AI help You voor Android in 12 talen, AIuto SOS watch4help alleen voor Wear OS-smartwatches, no pAIn (Proteggimi) voor iOS in 12 talen.
+861|Poster AI help You en button4help: de knop aan de zak van een spijkerbroek. Geen continue GPS-tracker, geen Bluetooth-tag, geen constante controle: een slimme noodknop, vernieuwend, discreet, licht, draagbaar en eenvoudig te gebruiken. Onderaan de stappen: alarm verstuurd, de vriendin krijgt de melding, onmiddellijke actie, politie gewaarschuwd.
+862|Poster AI help You en button4help: de knop aan de tas, met een vinger ingedrukt. Geen continue GPS-tracker, geen Bluetooth-tag, geen constante controle: een slimme noodknop om om de hals, in de zak, aan de sleutelhanger of aan de tas te dragen.
+863|Infographic AIuto SOS watch4help: geen GPS-tracker, geen SOS-knop voor ouderen, geen AirTag. Volledig gratis app voor Wear OS-smartwatches, de smartphone is alleen nodig voor de documentatie, geen extra apparaat. Activering met een tik op de SOS-toets of met een spraakopdracht, live locatie gedurende een uur, automatische sms'en en oproepen naar de vertrouwenscontacten.
+864|Hoofdscherm van AI help App: status Klaar, groene START-knop, knop voor de handmatige hulpoproep en rode knop om 112 te bellen.
+865|Instellingen van AI help App: keuze van de noodacties tussen Telegram-berichten, sms, oproepen en de knop voor het alarmnummer, met het veld voor de Telegram-chat-ID dat zichzelf invult met de koppelcode.
+866|Instellingen van AI help App: het alarmnummer van je land, drie persoonlijke sleutelwoorden en de taal van de spraakherkenning.
+867|De button4help™-knop
+868|De Bluetooth-knop die je bij je draagt: een paar seconden ingedrukt houden start het alarm van AI help You, zodra de begeleide koppeling klaar is. Alleen heeft hij geen alarmfuncties.
+869|Wat het is, hoe je hem koppelt en waar je hem koopt →
+870|De Bluetooth-knop die je bij je draagt: een paar seconden ingedrukt houden start het alarm van no pAIn™, vanaf versie 59, zodra de begeleide koppeling klaar is. Alleen heeft hij geen alarmfuncties.
+871|Demonstratievideo's
+872|Twee verschillende situaties: de stem wanneer de telefoon op de grond is beland, de tik op het horloge wanneer de handen er niet bij kunnen. In allebei krijgen de vrienden het alarm met de locatie en bellen ze de politie.
+873|Fictieve scènes, ter demonstratie. De video's hebben geluid.
+874|Telegram met live locatie tot 60 minuten
+875|De dienst blijft op de achtergrond actief: eerst Telegram, dan de sms'en, dan de oproepen
+876|Het Telegram-chat-ID vult zichzelf in met de koppelcode
+877|Het alarmnummer kies je uit dat van de verschillende landen: de knop opent het toetsenblok al klaar en jij start het gesprek
+878|Tot 3 persoonlijke, geheime spraakopdrachten (secret keyword): het alarm start zonder de smartphone aan te raken en zonder dat iemand het merkt
+879|Telegram met live locatie tot 24 uur
+880|³ De presentatie noemt tot 24 uur in de vrijgeschakelde versies: AI help You en Proteggimi Android van 1 minuut tot 24 uur, AIuto SOS watch4help™ tot 60 minuten. De 12 talen gaan over de meertalige apps; Proteggimi Android is in het Italiaans.
+881|Dat hangt af van de app en de versie. Bij iOS Free is het 30 minuten; bij iOS Premium gaat het van 1 minuut tot 24 uur. Op Android gaan AI help You en Proteggimi tot 24 uur; AIuto SOS watch4help™ gaat tot 60 minuten. Controleer de opties van de geïnstalleerde app.

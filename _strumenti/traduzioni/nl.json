@@ -3179,6 +3179,218 @@
   "it": "Guida dentro no pAIn app: altri modi rapidi, cosa ricevono i contatti, posizione in diretta, Apple Watch, pulsante button4help, numero unico di emergenza e guida completa in PDF.",
   "tr": "Gids in no pAIn app: andere snelle manieren, wat de contacten ontvangen, live locatie, Apple Watch, knop button4help, het enige noodnummer en de volledige gids in pdf."
  },
+ "25756558": {
+  "it": "<b>watch4help™</b> — l'unica tecnologia di questa app: tutto avviene sullo smartwatch",
+  "tr": "<b>watch4help™</b> — de enige techniek in deze app: alles gebeurt op de smartwatch"
+ },
+ "9e8012f7": {
+  "it": "AI help App · Android",
+  "tr": "AI help App · Android"
+ },
+ "ec3b25a7": {
+  "it": "Le tecnologie",
+  "tr": "De technieken"
+ },
+ "5d8b86d8": {
+  "it": "<b>digital4help™</b> — l'app sullo smartphone: voce, tasti rapidi e notifica persistente",
+  "tr": "<b>digital4help™</b> — de app op de smartphone: stem, snelknoppen en vaste melding"
+ },
+ "32ac4396": {
+  "it": "<b>watch4help™</b> — l'app compagna per smartwatch Wear OS, per far partire l'allarme dal polso",
+  "tr": "<b>watch4help™</b> — de begeleidende app voor Wear OS-smartwatches, om het alarm vanaf je pols te starten"
+ },
+ "bb9ceb99": {
+  "it": "<b>button4help™</b> — il pulsante esterno da tenere addosso, dopo l'abbinamento all'app",
+  "tr": "<b>button4help™</b> — de externe knop die je bij je draagt, na koppeling met de app"
+ },
+ "f8b2a0d0": {
+  "it": "<b>digital4help™</b> — l'app sull'iPhone: tasto SOS e comando vocale con Siri",
+  "tr": "<b>digital4help™</b> — de app op de iPhone: SOS-knop en spraakopdracht met Siri"
+ },
+ "6375e8d0": {
+  "it": "<b>watch4help™</b> — l'app compagna per Apple Watch, per far partire l'allarme dal polso",
+  "tr": "<b>watch4help™</b> — de begeleidende app voor Apple Watch, om het alarm vanaf je pols te starten"
+ },
+ "6e3638e8": {
+  "it": "<b>button4help™</b> — il pulsante esterno, dalla versione 59 in poi, dopo l'abbinamento all'app",
+  "tr": "<b>button4help™</b> — de externe knop, vanaf versie 59, na koppeling met de app"
+ },
+ "cac1bea8": {
+  "it": "<b>digital4help™</b> — l'app sullo smartphone: parole chiave, tasti rapidi e notifica persistente",
+  "tr": "<b>digital4help™</b> — de app op de smartphone: trefwoorden, snelknoppen en vaste melding"
+ },
+ "251888b9": {
+  "it": "Il pulsante button4help™ non è previsto: usa AI help You se ti serve",
+  "tr": "De knop button4help™ wordt niet ondersteund: gebruik AI help You als je hem nodig hebt"
+ },
+ "e7fe1e57": {
+  "it": "Non serve lo smartphone per chiedere aiuto: lo usi solo per leggere la guida",
+  "tr": "Je hebt geen smartphone nodig om hulp te vragen: die gebruik je alleen om de gids te lezen"
+ },
+ "72ca8c6d": {
+  "it": "Niente app per lo smartphone e niente pulsante button4help™",
+  "tr": "Geen app voor de smartphone en geen button4help™-knop"
+ },
+ "f074539b": {
+  "it": "La versione per Apple Watch è in fase di sviluppo. Per usare oggi Apple Watch, installa <a class=\"link-arrow\" href=\"#no-pain-ios\">no pAIn™ per iPhone</a> con la sua app compagna.",
+  "tr": "De versie voor Apple Watch is in ontwikkeling. Wil je vandaag de Apple Watch gebruiken, installeer dan <a class=\"link-arrow\" href=\"#no-pain-ios\">no pAIn™ voor iPhone</a> met de begeleidende app."
+ },
+ "4bc16add": {
+  "it": "AI help <span class=\"hl\">App</span>",
+  "tr": "AI help <span class=\"hl\">App</span>"
+ },
+ "49d70dea": {
+  "it": "Un'altra soluzione multilingue per Android: 12 lingue, di cui 3 con riconoscimento vocale anche offline. Si attiva con i comandi vocali o con la richiesta manuale di aiuto dalla schermata principale.",
+  "tr": "Nog een meertalige oplossing voor Android: 12 talen, waarvan 3 met spraakherkenning die ook offline werkt. Ze start met spraakopdrachten of met de handmatige hulpvraag op het hoofdscherm."
+ },
+ "3d26ac45": {
+  "it": "<b>digital4help™</b> — l'unica tecnologia di questa app: tutto parte dallo smartphone",
+  "tr": "<b>digital4help™</b> — de enige techniek in deze app: alles begint bij de smartphone"
+ },
+ "36b65295": {
+  "it": "Per il momento non ha l'app compagna per smartwatch watch4help™",
+  "tr": "Voorlopig heeft ze geen begeleidende app watch4help™ voor smartwatches"
+ },
+ "e8688e2b": {
+  "it": "Per il momento non funziona con il pulsante button4help™",
+  "tr": "Voorlopig werkt ze niet met de knop button4help™"
+ },
+ "f115a130": {
+  "it": "Comandi vocali, con riconoscimento anche offline in 3 lingue",
+  "tr": "Spraakopdrachten, met herkenning die ook offline werkt in 3 talen"
+ },
+ "94f426da": {
+  "it": "Tasto START nella schermata principale, che avvia l'ascolto",
+  "tr": "START-knop op het hoofdscherm, die het luisteren begint"
+ },
+ "49a8334e": {
+  "it": "Richiesta manuale di aiuto dalla schermata principale",
+  "tr": "Handmatige hulpvraag op het hoofdscherm"
+ },
+ "c2ea5bb5": {
+  "it": "Telegram con la posizione",
+  "tr": "Telegram met de locatie"
+ },
+ "838ad335": {
+  "it": "Com’è fatta AI help App.",
+  "tr": "Hoe AI help App eruitziet."
+ },
+ "aab94c01": {
+  "it": "Il tasto START avvia l'ascolto delle parole chiave; nelle impostazioni scegli le azioni di emergenza, il chat ID di Telegram e la lingua fra le dodici disponibili.",
+  "tr": "De START-knop begint te luisteren naar de trefwoorden; in de instellingen kies je de noodacties, het Telegram-chat-ID en de taal uit de twaalf beschikbare."
+ },
+ "2c606f84": {
+  "it": "Le tre tecnologie e le quattro app del progetto · materiale promozionale",
+  "tr": "De drie technologieën en de vier apps van het project · promotiemateriaal"
+ },
+ "c80e4f9c": {
+  "it": "AI help You in tre locandine.",
+  "tr": "AI help You op drie posters."
+ },
+ "827245eb": {
+  "it": "<strong>Il pulsante agganciato alla tasca</strong>Una semplice pressione fa partire la richiesta di aiuto, anche con lo smartphone a qualche metro di distanza. Locandina in inglese.",
+  "tr": "<strong>De knop aan de broekzak</strong>Eén simpele druk start de hulpoproep, ook als de smartphone een paar meter verderop ligt. Poster in het Engels."
+ },
+ "58132d0e": {
+  "it": "<strong>Il pulsante appeso alla borsa</strong>Al collo, in tasca, sul portachiavi o sulla borsa: resta a portata di dito senza farsi notare. Locandina in inglese.",
+  "tr": "<strong>De knop aan de tas</strong>Om de hals, in de zak, aan de sleutelhanger of aan de tas: altijd binnen handbereik zonder op te vallen. Poster in het Engels."
+ },
+ "869a17b5": {
+  "it": "<strong>Cos'è e cosa non è</strong>App gratuita per smartwatch Wear OS: niente localizzatore sempre acceso, niente hardware in più. Infografica in inglese.",
+  "tr": "<strong>Wat het wel en niet is</strong>Gratis app voor Wear OS-smartwatches: geen tracker die altijd aanstaat, geen extra hardware. Infographic in het Engels."
+ },
+ "0be07812": {
+  "it": "Parole chiave",
+  "tr": "Sleutelwoorden"
+ },
+ "b544fb40": {
+  "it": "Locandina in inglese con le tre tecnologie del progetto: digital4help dallo smartphone, watch4help dallo smartwatch, button4help dal pulsante. Una ragazza tiene il telefono con l'app no pAIn, ha uno smartwatch con il tasto SOS e stringe il pulsante appeso alla collana. In basso l'elenco delle app: Proteggimi (no pAIn) per Android in italiano, AI help You per Android in 12 lingue, AIuto SOS watch4help solo per smartwatch Wear OS, no pAIn (Proteggimi) per iOS in 12 lingue.",
+  "tr": "Poster in het Engels met de drie technologieën van het project: digital4help vanaf de smartphone, watch4help vanaf de smartwatch, button4help vanaf de knop. Een meisje houdt de telefoon met de app no pAIn vast, draagt een smartwatch met de SOS-toets en houdt de knop vast die aan haar ketting hangt. Onderaan de lijst met apps: Proteggimi (no pAIn) voor Android in het Italiaans, AI help You voor Android in 12 talen, AIuto SOS watch4help alleen voor Wear OS-smartwatches, no pAIn (Proteggimi) voor iOS in 12 talen."
+ },
+ "19ce99ad": {
+  "it": "Locandina AI help You e button4help: il pulsante agganciato alla tasca dei jeans. Non un localizzatore GPS continuo, non un tag Bluetooth, nessun controllo costante: un pulsante di emergenza intelligente, innovativo, discreto, leggero, indossabile, facile da usare. In basso le fasi allerta inviata, l'amica riceve la notifica, azione immediata, forze dell'ordine avvisate.",
+  "tr": "Poster AI help You en button4help: de knop aan de zak van een spijkerbroek. Geen continue GPS-tracker, geen Bluetooth-tag, geen constante controle: een slimme noodknop, vernieuwend, discreet, licht, draagbaar en eenvoudig te gebruiken. Onderaan de stappen: alarm verstuurd, de vriendin krijgt de melding, onmiddellijke actie, politie gewaarschuwd."
+ },
+ "0da3d42c": {
+  "it": "Locandina AI help You e button4help: il pulsante appeso alla borsa, premuto con un dito. Non un localizzatore GPS continuo, non un tag Bluetooth, nessun controllo costante: un pulsante di emergenza intelligente da portare al collo, in tasca, sul portachiavi o sulla borsa.",
+  "tr": "Poster AI help You en button4help: de knop aan de tas, met een vinger ingedrukt. Geen continue GPS-tracker, geen Bluetooth-tag, geen constante controle: een slimme noodknop om om de hals, in de zak, aan de sleutelhanger of aan de tas te dragen."
+ },
+ "b57a5867": {
+  "it": "Infografica AIuto SOS watch4help: non è un localizzatore GPS, non è un tasto SOS per anziani, non è un AirTag. App completamente gratuita per smartwatch Wear OS, sullo smartphone serve solo la documentazione, nessun dispositivo aggiuntivo. Attivazione con un tocco sul tasto SOS o con un comando vocale, posizione live per un'ora, SMS e chiamate automatiche ai contatti fidati.",
+  "tr": "Infographic AIuto SOS watch4help: geen GPS-tracker, geen SOS-knop voor ouderen, geen AirTag. Volledig gratis app voor Wear OS-smartwatches, de smartphone is alleen nodig voor de documentatie, geen extra apparaat. Activering met een tik op de SOS-toets of met een spraakopdracht, live locatie gedurende een uur, automatische sms'en en oproepen naar de vertrouwenscontacten."
+ },
+ "e1476872": {
+  "it": "Schermata principale di AI help App: stato Pronta, tasto verde START, tasto per la richiesta manuale di aiuto e tasto rosso per chiamare il 112.",
+  "tr": "Hoofdscherm van AI help App: status Klaar, groene START-knop, knop voor de handmatige hulpoproep en rode knop om 112 te bellen."
+ },
+ "2dc2355f": {
+  "it": "Impostazioni di AI help App: scelta delle azioni di emergenza fra messaggi Telegram, SMS, chiamate e tasto del numero di emergenza, con il campo del chat ID di Telegram che si riempie da solo con il codice di abbinamento.",
+  "tr": "Instellingen van AI help App: keuze van de noodacties tussen Telegram-berichten, sms, oproepen en de knop voor het alarmnummer, met het veld voor de Telegram-chat-ID dat zichzelf invult met de koppelcode."
+ },
+ "5d631e4a": {
+  "it": "Impostazioni di AI help App: numero di emergenza del proprio Paese, tre parole chiave personali e lingua del riconoscimento vocale.",
+  "tr": "Instellingen van AI help App: het alarmnummer van je land, drie persoonlijke sleutelwoorden en de taal van de spraakherkenning."
+ },
+ "fb61d795": {
+  "it": "Il pulsante button4help™",
+  "tr": "De button4help™-knop"
+ },
+ "d11cfe35": {
+  "it": "Il pulsante Bluetooth da tenere addosso: tenuto premuto un paio di secondi fa partire l'emergenza di AI help You, dopo la procedura guidata di abbinamento. Da solo non ha funzioni di emergenza.",
+  "tr": "De Bluetooth-knop die je bij je draagt: een paar seconden ingedrukt houden start het alarm van AI help You, zodra de begeleide koppeling klaar is. Alleen heeft hij geen alarmfuncties."
+ },
+ "63cebbd5": {
+  "it": "Cos'è, come si abbina e dove si compra →",
+  "tr": "Wat het is, hoe je hem koppelt en waar je hem koopt →"
+ },
+ "bc085198": {
+  "it": "Il pulsante Bluetooth da tenere addosso: tenuto premuto un paio di secondi fa partire l'emergenza di no pAIn™, dalla versione 59 in poi, dopo la procedura guidata di abbinamento. Da solo non ha funzioni di emergenza.",
+  "tr": "De Bluetooth-knop die je bij je draagt: een paar seconden ingedrukt houden start het alarm van no pAIn™, vanaf versie 59, zodra de begeleide koppeling klaar is. Alleen heeft hij geen alarmfuncties."
+ },
+ "57f0b54b": {
+  "it": "Video dimostrativi",
+  "tr": "Demonstratievideo's"
+ },
+ "d913b928": {
+  "it": "Due situazioni diverse: la voce quando il telefono è finito a terra, il tocco sull'orologio quando le mani non possono raggiungerlo. In tutte e due gli amici ricevono l'allarme con la posizione e chiamano le forze dell'ordine.",
+  "tr": "Twee verschillende situaties: de stem wanneer de telefoon op de grond is beland, de tik op het horloge wanneer de handen er niet bij kunnen. In allebei krijgen de vrienden het alarm met de locatie en bellen ze de politie."
+ },
+ "9426779b": {
+  "it": "Scene di finzione, a scopo dimostrativo. I video hanno l'audio.",
+  "tr": "Fictieve scènes, ter demonstratie. De video's hebben geluid."
+ },
+ "9dca1163": {
+  "it": "Telegram con posizione live fino a 60 minuti",
+  "tr": "Telegram met live locatie tot 60 minuten"
+ },
+ "47134b2b": {
+  "it": "Il servizio resta attivo in secondo piano: prima Telegram, poi gli SMS, poi le telefonate",
+  "tr": "De dienst blijft op de achtergrond actief: eerst Telegram, dan de sms'en, dan de oproepen"
+ },
+ "b2624b27": {
+  "it": "Il chat ID di Telegram si riempie da solo con il codice di abbinamento",
+  "tr": "Het Telegram-chat-ID vult zichzelf in met de koppelcode"
+ },
+ "3ac90194": {
+  "it": "Il numero di emergenza si sceglie fra quelli dei vari Paesi: il tasto apre il tastierino già pronto e la chiamata la avvii tu",
+  "tr": "Het alarmnummer kies je uit dat van de verschillende landen: de knop opent het toetsenblok al klaar en jij start het gesprek"
+ },
+ "c5b7e264": {
+  "it": "Fino a 3 comandi vocali personalizzati e segreti (secret keyword): l'emergenza parte senza toccare lo smartphone e senza che nessuno se ne accorga",
+  "tr": "Tot 3 persoonlijke, geheime spraakopdrachten (secret keyword): het alarm start zonder de smartphone aan te raken en zonder dat iemand het merkt"
+ },
+ "efddb6f9": {
+  "it": "Telegram con posizione live fino a 24 ore",
+  "tr": "Telegram met live locatie tot 24 uur"
+ },
+ "072abe43": {
+  "it": "³ La presentazione indica fino a 24 ore nelle versioni abilitate: AI help You e Proteggimi Android da 1 minuto a 24 ore, AIuto SOS watch4help™ fino a 60 minuti. Le 12 lingue riguardano le app multilingue; Proteggimi Android è in italiano.",
+  "tr": "³ De presentatie noemt tot 24 uur in de vrijgeschakelde versies: AI help You en Proteggimi Android van 1 minuut tot 24 uur, AIuto SOS watch4help™ tot 60 minuten. De 12 talen gaan over de meertalige apps; Proteggimi Android is in het Italiaans."
+ },
+ "9ed28354": {
+  "it": "La durata dipende dall'app e dalla versione. Su iOS Free è di 30 minuti; su iOS Premium va da 1 minuto a 24 ore. Su Android, AI help You e Proteggimi arrivano fino a 24 ore; AIuto SOS watch4help™ arriva fino a 60 minuti. Controlla le opzioni dell'app installata.",
+  "tr": "Dat hangt af van de app en de versie. Bij iOS Free is het 30 minuten; bij iOS Premium gaat het van 1 minuut tot 24 uur. Op Android gaan AI help You en Proteggimi tot 24 uur; AIuto SOS watch4help™ gaat tot 60 minuten. Controleer de opties van de geïnstalleerde app."
+ },
  "_ui": {
   "menu": "Menu",
   "close": "Sluiten",

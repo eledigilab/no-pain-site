@@ -801,3 +801,56 @@ mail.partnerBody|Merhaba,\nno pAIn™ projesi hakkında daha fazla bilgi almak v
 826|no pAIn app'te Siri komutunun dili seçimi: İtalyanca, İngilizce, Fransızca, Almanca, İspanyolca, Türkçe, Yunanca, Portekizce, Rumence, Lehçe, Felemenkçe, İsveççe.
 827|no pAIn app içindeki kılavuz: başlarken, uygulama nedir, ücretsiz ve Premium, ilk açılış ve izinler; ardından uygulamayı ayarlama bölümü.
 828|no pAIn app içindeki kılavuz: diğer hızlı yollar, kişilerin neler aldığı, canlı konum, Apple Watch, button4help düğmesi, tek acil durum numarası ve PDF'teki tam kılavuz.
+829|<b>watch4help™</b> — bu uygulamanın tek teknolojisi: her şey akıllı saatte olur
+830|AI help App · Android
+831|Teknolojiler
+832|<b>digital4help™</b> — telefondaki uygulama: ses, hızlı düğmeler ve kalıcı bildirim
+833|<b>watch4help™</b> — Wear OS akıllı saatler için eş uygulama, alarmı bilekten başlatmak için
+834|<b>button4help™</b> — üzerinizde taşıdığınız harici düğme, uygulamayla eşleştirildikten sonra
+835|<b>digital4help™</b> — iPhone'daki uygulama: SOS tuşu ve Siri ile sesli komut
+836|<b>watch4help™</b> — Apple Watch için eş uygulama, alarmı bilekten başlatmak için
+837|<b>button4help™</b> — harici düğme, 59. sürümden itibaren, uygulamayla eşleştirildikten sonra
+838|<b>digital4help™</b> — telefondaki uygulama: anahtar sözcükler, hızlı düğmeler ve kalıcı bildirim
+839|button4help™ düğmesi desteklenmiyor: gerekiyorsa AI help You kullanın
+840|Yardım istemek için akıllı telefona gerek yok: telefonu yalnızca kılavuzu okumak için kullanırsınız
+841|Telefon için uygulama yok, button4help™ düğmesi de yok
+842|Apple Watch sürümü geliştirme aşamasında. Apple Watch'ı bugün kullanmak için eş uygulamasıyla birlikte <a class="link-arrow" href="#no-pain-ios">iPhone için no pAIn™</a> kurun.
+843|AI help <span class="hl">App</span>
+844|Android için çok dilli bir başka çözüm: 12 dil, bunların 3'ünde çevrim dışı da çalışan ses tanıma. Sesli komutlarla ya da ana ekrandan elle yardım isteğiyle çalışır.
+845|<b>digital4help™</b> — bu uygulamanın tek teknolojisi: her şey akıllı telefondan başlar
+846|Şimdilik akıllı saatler için watch4help™ eş uygulaması yok
+847|Şimdilik button4help™ düğmesiyle çalışmıyor
+848|3 dilde çevrim dışı da çalışan ses tanımayla sesli komutlar
+849|Ana ekrandaki START düğmesi, dinlemeyi başlatır
+850|Ana ekrandan elle yardım isteği
+851|Konumla birlikte Telegram
+852|AI help App nasıl görünüyor.
+853|START düğmesi anahtar sözcüklerin dinlenmesini başlatır; ayarlarda acil durum eylemlerini, Telegram chat ID'sini ve on iki dil arasından dili seçersiniz.
+854|Projenin üç teknolojisi ve dört uygulaması · tanıtım materyali
+855|Üç afişte AI help You.
+856|<strong>Cebe takılan düğme</strong>Basit bir basış, akıllı telefon birkaç metre uzakta olsa bile yardım çağrısını başlatır. Afiş İngilizce.
+857|<strong>Çantaya asılan düğme</strong>Boyunda, cepte, anahtarlıkta ya da çantada: fark edilmeden her an parmağınızın altında. Afiş İngilizce.
+858|<strong>Ne olduğu ve ne olmadığı</strong>Wear OS akıllı saatler için ücretsiz uygulama: sürekli açık kalan bir konum takipçisi yok, ek donanım yok. İnfografik İngilizce.
+859|Anahtar kelimeler
+860|Projenin üç teknolojisini gösteren İngilizce afiş: akıllı telefondan digital4help, akıllı saatten watch4help, düğmeden button4help. Bir genç kız no pAIn uygulamasının açık olduğu telefonu tutuyor, SOS tuşlu bir akıllı saat takıyor ve kolyesine asılı düğmeyi sıkıyor. Altta uygulamaların listesi: Android için İtalyanca Proteggimi (no pAIn), Android için 12 dilde AI help You, yalnızca Wear OS akıllı saatler için AIuto SOS watch4help, iOS için 12 dilde no pAIn (Proteggimi).
+861|AI help You ve button4help afişi: kot pantolonun cebine takılmış düğme. Sürekli çalışan bir GPS takip cihazı değil, bir Bluetooth etiketi değil, sürekli izleme yok: akıllı, yenilikçi, göze batmayan, hafif, takılabilir ve kullanımı kolay bir acil durum düğmesi. Altta aşamalar: uyarı gönderildi, arkadaşı bildirimi alıyor, anında harekete geçiliyor, kolluk kuvvetleri haberdar ediliyor.
+862|AI help You ve button4help afişi: çantaya asılı düğme, bir parmakla basılıyor. Sürekli çalışan bir GPS takip cihazı değil, bir Bluetooth etiketi değil, sürekli izleme yok: boyunda, cepte, anahtarlıkta ya da çantada taşınacak akıllı bir acil durum düğmesi.
+863|AIuto SOS watch4help infografiği: GPS takip cihazı değil, yaşlılar için SOS düğmesi değil, AirTag değil. Wear OS akıllı saatler için tamamen ücretsiz uygulama, akıllı telefon yalnızca belgeler için gerekli, ek cihaz yok. SOS tuşuna dokunarak ya da sesli komutla devreye girer, bir saat boyunca canlı konum, güvendiğiniz kişilere otomatik SMS ve aramalar.
+864|AI help App ana ekranı: durum Hazır, yeşil START düğmesi, elle yardım isteme düğmesi ve 112'yi aramak için kırmızı düğme.
+865|AI help App ayarları: Telegram mesajları, SMS, aramalar ve acil durum numarası düğmesi arasından acil durum işlemlerinin seçimi; Telegram chat ID alanı eşleştirme koduyla kendiliğinden doluyor.
+866|AI help App ayarları: ülkenizin acil durum numarası, üç kişisel anahtar kelime ve sesli tanımanın dili.
+867|button4help™ düğmesi
+868|Üzerinizde taşıdığınız Bluetooth düğmesi: birkaç saniye basılı tutulduğunda, rehberli eşleştirme tamamlandıktan sonra AI help You acil durumunu başlatır. Tek başına acil durum işlevi yoktur.
+869|Nedir, nasıl eşleştirilir ve nereden alınır →
+870|Üzerinizde taşıdığınız Bluetooth düğmesi: birkaç saniye basılı tutulduğunda, 59. sürümden itibaren ve rehberli eşleştirme tamamlandıktan sonra no pAIn™ acil durumunu başlatır. Tek başına acil durum işlevi yoktur.
+871|Tanıtım videoları
+872|İki ayrı durum: telefon yere düştüğünde ses, eller telefona ulaşamadığında saate dokunma. İkisinde de arkadaşlar konumla birlikte uyarıyı alıyor ve kolluk kuvvetlerini arıyor.
+873|Kurgu sahneler, tanıtım amaçlıdır. Videolarda ses vardır.
+874|60 dakikaya kadar canlı konumla Telegram
+875|Hizmet arka planda etkin kalır: önce Telegram, sonra SMS'ler, sonra aramalar
+876|Telegram chat ID alanı eşleştirme koduyla kendiliğinden dolar
+877|Acil durum numarası çeşitli ülkelerinkiler arasından seçilir: tuş, numarası hazır tuş takımını açar, aramayı siz başlatırsınız
+878|3 adede kadar kişisel ve gizli sesli komut (secret keyword): acil durum, akıllı telefona dokunmadan ve kimse fark etmeden başlar
+879|24 saate kadar canlı konumla Telegram
+880|³ Sunum, etkinleştirilmiş sürümler için 24 saate kadar diyor: AI help You ve Proteggimi Android 1 dakikadan 24 saate, AIuto SOS watch4help™ 60 dakikaya kadar. 12 dil, çok dilli uygulamalar için geçerlidir; Proteggimi Android İtalyancadır.
+881|Uygulamaya ve sürüme bağlıdır. iOS Free'de 30 dakika; iOS Premium'da 1 dakikadan 24 saate kadar. Android'de AI help You ve Proteggimi 24 saate kadar; AIuto SOS watch4help™ 60 dakikaya kadar çıkar. Kurduğunuz uygulamanın seçeneklerine bakın.

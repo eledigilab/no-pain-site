@@ -801,3 +801,56 @@ mail.partnerBody|Dzień dobry,\nchciałabym/chciałbym dowiedzieć się więcej 
 826|Wybór języka polecenia Siri w no pAIn app: włoski, angielski, francuski, niemiecki, hiszpański, turecki, grecki, portugalski, rumuński, polski, niderlandzki, szwedzki.
 827|Przewodnik w no pAIn app: na początek, czym jest aplikacja, za darmo i Premium, pierwsze uruchomienie i uprawnienia; potem część o konfiguracji aplikacji.
 828|Przewodnik w no pAIn app: inne szybkie sposoby, co dostają kontakty, lokalizacja na żywo, Apple Watch, przycisk button4help, jeden numer alarmowy i pełny przewodnik w PDF.
+829|<b>watch4help™</b> — jedyna technologia tej aplikacji: wszystko dzieje się na smartwatchu
+830|AI help App · Android
+831|Technologie
+832|<b>digital4help™</b> — aplikacja w telefonie: głos, szybkie przyciski i stałe powiadomienie
+833|<b>watch4help™</b> — aplikacja towarzysząca na smartwatche Wear OS, by alarm ruszał z nadgarstka
+834|<b>button4help™</b> — zewnętrzny przycisk noszony przy sobie, po sparowaniu z aplikacją
+835|<b>digital4help™</b> — aplikacja na iPhonie: przycisk SOS i polecenie głosowe z Siri
+836|<b>watch4help™</b> — aplikacja towarzysząca na Apple Watch, by alarm ruszał z nadgarstka
+837|<b>button4help™</b> — zewnętrzny przycisk, od wersji 59 wzwyż, po sparowaniu z aplikacją
+838|<b>digital4help™</b> — aplikacja w telefonie: słowa kluczowe, szybkie przyciski i stałe powiadomienie
+839|Przycisk button4help™ nie jest przewidziany: użyj AI help You, jeśli go potrzebujesz
+840|Do wezwania pomocy smartfon nie jest potrzebny: używasz go tylko do czytania instrukcji
+841|Brak aplikacji na smartfon i brak przycisku button4help™
+842|Wersja na Apple Watch jest w przygotowaniu. Żeby dziś korzystać z Apple Watch, zainstaluj <a class="link-arrow" href="#no-pain-ios">no pAIn™ na iPhone’a</a> wraz z aplikacją towarzyszącą.
+843|AI help <span class="hl">App</span>
+844|Kolejne wielojęzyczne rozwiązanie na Androida: 12 języków, w tym 3 z rozpoznawaniem mowy także offline. Uruchamia się poleceniem głosowym albo ręcznym wezwaniem pomocy z ekranu głównego.
+845|<b>digital4help™</b> — jedyna technologia tej aplikacji: wszystko zaczyna się od smartfona
+846|Na razie nie ma aplikacji towarzyszącej watch4help™ na smartwatche
+847|Na razie nie działa z przyciskiem button4help™
+848|Polecenia głosowe, z rozpoznawaniem także offline w 3 językach
+849|Przycisk START na ekranie głównym, który uruchamia nasłuchiwanie
+850|Ręczne wezwanie pomocy z ekranu głównego
+851|Telegram z lokalizacją
+852|Jak wygląda AI help App.
+853|Przycisk START uruchamia nasłuchiwanie słów kluczowych; w ustawieniach wybierasz działania alarmowe, chat ID Telegrama i język spośród dwunastu dostępnych.
+854|Trzy technologie i cztery aplikacje projektu · materiały promocyjne
+855|AI help You na trzech plakatach.
+856|<strong>Przycisk przypięty do kieszeni</strong>Jedno naciśnięcie uruchamia wezwanie pomocy, nawet gdy smartfon jest kilka metrów dalej. Plakat po angielsku.
+857|<strong>Przycisk zawieszony przy torebce</strong>Na szyi, w kieszeni, przy kluczach albo przy torebce: zawsze w zasięgu palca i niezauważalny. Plakat po angielsku.
+858|<strong>Czym jest, a czym nie jest</strong>Bezpłatna aplikacja na smartwatche Wear OS: bez stale włączonego lokalizatora, bez dodatkowego sprzętu. Infografika po angielsku.
+859|Słowa kluczowe
+860|Plakat po angielsku z trzema technologiami projektu: digital4help ze smartfona, watch4help ze smartwatcha, button4help z przycisku. Dziewczyna trzyma telefon z aplikacją no pAIn, ma smartwatch z przyciskiem SOS i ściska przycisk zawieszony na naszyjniku. Poniżej lista aplikacji: Proteggimi (no pAIn) na Androida po włosku, AI help You na Androida w 12 językach, AIuto SOS watch4help tylko na smartwatche Wear OS, no pAIn (Proteggimi) na iOS w 12 językach.
+861|Plakat AI help You i button4help: przycisk przypięty do kieszeni jeansów. To nie ciągły lokalizator GPS, nie znacznik Bluetooth, żadnego stałego śledzenia: inteligentny przycisk alarmowy, nowatorski, dyskretny, lekki, do noszenia, prosty w obsłudze. Poniżej etapy: alarm wysłany, przyjaciółka dostaje powiadomienie, natychmiastowa reakcja, powiadomione służby.
+862|Plakat AI help You i button4help: przycisk zawieszony przy torebce, naciskany palcem. To nie ciągły lokalizator GPS, nie znacznik Bluetooth, żadnego stałego śledzenia: inteligentny przycisk alarmowy do noszenia na szyi, w kieszeni, przy kluczach albo przy torebce.
+863|Infografika AIuto SOS watch4help: to nie lokalizator GPS, nie przycisk SOS dla seniorów, nie AirTag. Całkowicie bezpłatna aplikacja na smartwatche Wear OS, smartfon służy tylko do dokumentacji, żadnego dodatkowego urządzenia. Uruchomienie dotknięciem przycisku SOS albo poleceniem głosowym, lokalizacja na żywo przez godzinę, automatyczne SMS-y i połączenia do zaufanych kontaktów.
+864|Ekran główny AI help App: stan Gotowa, zielony przycisk START, przycisk ręcznego wezwania pomocy i czerwony przycisk do połączenia z numerem 112.
+865|Ustawienia AI help App: wybór działań alarmowych spośród wiadomości Telegram, SMS-ów, połączeń i przycisku numeru alarmowego, z polem chat ID Telegrama, które samo wypełnia się kodem parowania.
+866|Ustawienia AI help App: numer alarmowy twojego kraju, trzy własne słowa kluczowe i język rozpoznawania mowy.
+867|Przycisk button4help™
+868|Przycisk Bluetooth noszony przy sobie: przytrzymany przez dwie sekundy uruchamia alarm AI help You, po przeprowadzeniu kreatora parowania. Sam w sobie nie ma funkcji alarmowych.
+869|Czym jest, jak się go paruje i gdzie go kupić →
+870|Przycisk Bluetooth noszony przy sobie: przytrzymany przez dwie sekundy uruchamia alarm no pAIn™, od wersji 59 wzwyż, po przeprowadzeniu kreatora parowania. Sam w sobie nie ma funkcji alarmowych.
+871|Filmy pokazowe
+872|Dwie różne sytuacje: głos, gdy telefon wylądował na ziemi, i dotknięcie zegarka, gdy ręce nie mogą go dosięgnąć. W obu przyjaciele dostają alarm z lokalizacją i dzwonią po służby.
+873|Sceny fabularne, w celach pokazowych. Filmy mają dźwięk.
+874|Telegram z lokalizacją na żywo do 60 minut
+875|Usługa pozostaje aktywna w tle: najpierw Telegram, potem SMS-y, potem połączenia
+876|Pole chat ID Telegrama wypełnia się samo kodem parowania
+877|Numer alarmowy wybiera się spośród numerów różnych krajów: przycisk otwiera gotową klawiaturę, a połączenie uruchamiasz ty
+878|Do 3 osobistych, tajnych poleceń głosowych (secret keyword): alarm rusza bez dotykania smartfona i tak, że nikt tego nie zauważy
+879|Telegram z lokalizacją na żywo do 24 godzin
+880|³ Prezentacja podaje do 24 godzin w wersjach z tą funkcją: AI help You i Proteggimi Android od 1 minuty do 24 godzin, AIuto SOS watch4help™ do 60 minut. 12 języków dotyczy aplikacji wielojęzycznych; Proteggimi Android jest po włosku.
+881|Zależy od aplikacji i wersji. W iOS Free to 30 minut; w iOS Premium od 1 minuty do 24 godzin. W Androidzie AI help You i Proteggimi sięgają 24 godzin; AIuto SOS watch4help™ sięga 60 minut. Sprawdź opcje zainstalowanej aplikacji.

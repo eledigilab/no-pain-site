@@ -801,3 +801,56 @@ mail.partnerBody|Bonjour,\nje souhaiterais en savoir plus sur le projet no pAIn�
 826|Choix de la langue de la commande Siri dans no pAIn app : italien, anglais, français, allemand, espagnol, turc, grec, portugais, roumain, polonais, néerlandais, suédois.
 827|Guide dans no pAIn app : pour commencer, ce qu’est l’application, gratuit et Premium, premier lancement et autorisations ; puis la partie pour configurer l’application.
 828|Guide dans no pAIn app : autres moyens rapides, ce que reçoivent les contacts, position en direct, Apple Watch, bouton button4help, numéro d’urgence unique et guide complet en PDF.
+829|<b>watch4help™</b> — la seule technologie de cette application : tout se passe sur la montre connectée
+830|AI help App · Android
+831|Les technologies
+832|<b>digital4help™</b> — l’application sur le smartphone : voix, boutons rapides et notification permanente
+833|<b>watch4help™</b> — l’application compagnon pour montres Wear OS, pour déclencher l’alerte depuis le poignet
+834|<b>button4help™</b> — le bouton externe que vous gardez sur vous, une fois associé à l’application
+835|<b>digital4help™</b> — l’application sur l’iPhone : bouton SOS et commande vocale avec Siri
+836|<b>watch4help™</b> — l’application compagnon pour Apple Watch, pour déclencher l’alerte depuis le poignet
+837|<b>button4help™</b> — le bouton externe, à partir de la version 59, une fois associé à l’application
+838|<b>digital4help™</b> — l’application sur le smartphone : mots-clés, boutons rapides et notification permanente
+839|Le bouton button4help™ n’est pas prévu : utilisez AI help You s’il vous le faut
+840|Le smartphone n’est pas nécessaire pour demander de l’aide : il sert seulement à lire le guide
+841|Pas d’application pour le smartphone et pas de bouton button4help™
+842|La version pour Apple Watch est en cours de développement. Pour utiliser l’Apple Watch aujourd’hui, installez <a class="link-arrow" href="#no-pain-ios">no pAIn™ pour iPhone</a> avec son application compagnon.
+843|AI help <span class="hl">App</span>
+844|Une autre solution multilingue pour Android : 12 langues, dont 3 avec reconnaissance vocale même hors ligne. Elle se déclenche par commande vocale ou par la demande d’aide manuelle depuis l’écran principal.
+845|<b>digital4help™</b> — la seule technologie de cette application : tout part du smartphone
+846|Pour le moment, elle n’a pas l’application compagnon watch4help™ pour montres connectées
+847|Pour le moment, elle ne fonctionne pas avec le bouton button4help™
+848|Commandes vocales, avec reconnaissance même hors ligne en 3 langues
+849|Bouton START sur l’écran principal, qui lance l’écoute
+850|Demande d’aide manuelle depuis l’écran principal
+851|Telegram avec la position
+852|À quoi ressemble AI help App.
+853|Le bouton START lance l’écoute des mots-clés ; dans les réglages vous choisissez les actions d’urgence, le chat ID Telegram et la langue parmi les douze disponibles.
+854|Les trois technologies et les quatre applications du projet · matériel promotionnel
+855|AI help You en trois affiches.
+856|<strong>Le bouton accroché à la poche</strong>Une simple pression déclenche la demande d'aide, même avec le smartphone à quelques mètres. Affiche en anglais.
+857|<strong>Le bouton accroché au sac</strong>Au cou, dans la poche, sur le porte-clés ou sur le sac : il reste à portée de doigt sans se faire remarquer. Affiche en anglais.
+858|<strong>Ce que c'est et ce que ce n'est pas</strong>Application gratuite pour montres connectées Wear OS : pas de traceur toujours actif, pas de matériel supplémentaire. Infographie en anglais.
+859|Mots-clés
+860|Affiche en anglais avec les trois technologies du projet : digital4help depuis le smartphone, watch4help depuis la montre connectée, button4help depuis le bouton. Une jeune fille tient le téléphone avec l'application no pAIn, porte une montre connectée avec la touche SOS et serre le bouton accroché à son collier. En bas, la liste des applications : Proteggimi (no pAIn) pour Android en italien, AI help You pour Android en 12 langues, AIuto SOS watch4help uniquement pour montres connectées Wear OS, no pAIn (Proteggimi) pour iOS en 12 langues.
+861|Affiche AI help You et button4help : le bouton accroché à la poche d'un jean. Pas un traceur GPS continu, pas une balise Bluetooth, aucune surveillance permanente : un bouton d'urgence intelligent, innovant, discret, léger, portable, facile à utiliser. En bas, les étapes alerte envoyée, l'amie reçoit la notification, action immédiate, forces de l'ordre prévenues.
+862|Affiche AI help You et button4help : le bouton accroché au sac, pressé avec un doigt. Pas un traceur GPS continu, pas une balise Bluetooth, aucune surveillance permanente : un bouton d'urgence intelligent à porter au cou, dans la poche, sur le porte-clés ou sur le sac.
+863|Infographie AIuto SOS watch4help : ce n'est pas un traceur GPS, ce n'est pas un bouton SOS pour personnes âgées, ce n'est pas un AirTag. Application entièrement gratuite pour montres connectées Wear OS, le smartphone ne sert que pour la documentation, aucun appareil supplémentaire. Activation par un appui sur la touche SOS ou par commande vocale, position en direct pendant une heure, SMS et appels automatiques aux contacts de confiance.
+864|Écran principal d'AI help App : état Prête, bouton vert START, bouton pour la demande manuelle d'aide et bouton rouge pour appeler le 112.
+865|Réglages d'AI help App : choix des actions d'urgence parmi messages Telegram, SMS, appels et bouton du numéro d'urgence, avec le champ du chat ID Telegram qui se remplit tout seul grâce au code d'association.
+866|Réglages d'AI help App : le numéro d'urgence de votre pays, trois mots-clés personnels et la langue de la reconnaissance vocale.
+867|Le bouton button4help™
+868|Le bouton Bluetooth que vous gardez sur vous : maintenu appuyé deux secondes, il déclenche l'urgence d'AI help You, une fois l'association guidée terminée. Seul, il n'a aucune fonction d'urgence.
+869|Ce que c'est, comment l'associer et où l'acheter →
+870|Le bouton Bluetooth que vous gardez sur vous : maintenu appuyé deux secondes, il déclenche l'urgence de no pAIn™, à partir de la version 59, une fois l'association guidée terminée. Seul, il n'a aucune fonction d'urgence.
+871|Vidéos de démonstration
+872|Deux situations différentes : la voix quand le téléphone est tombé par terre, le toucher sur la montre quand les mains ne peuvent pas l'atteindre. Dans les deux cas, les amis reçoivent l'alerte avec la position et appellent les forces de l'ordre.
+873|Scènes de fiction, à but de démonstration. Les vidéos ont du son.
+874|Telegram avec position en direct jusqu'à 60 minutes
+875|Le service reste actif en arrière-plan : d'abord Telegram, puis les SMS, puis les appels
+876|Le chat ID Telegram se remplit tout seul avec le code d'association
+877|Le numéro d'urgence se choisit parmi ceux des différents pays : la touche ouvre le clavier déjà prêt et c'est vous qui lancez l'appel
+878|Jusqu'à 3 commandes vocales personnelles et secrètes (secret keyword) : l'urgence part sans toucher le smartphone et sans que personne s'en aperçoive
+879|Telegram avec position en direct jusqu'à 24 heures
+880|³ La présentation indique jusqu'à 24 heures dans les versions activées : AI help You et Proteggimi Android de 1 minute à 24 heures, AIuto SOS watch4help™ jusqu'à 60 minutes. Les 12 langues concernent les applications multilingues ; Proteggimi Android est en italien.
+881|Cela dépend de l'application et de la version. Sur iOS Free c'est 30 minutes ; sur iOS Premium cela va de 1 minute à 24 heures. Sur Android, AI help You et Proteggimi vont jusqu'à 24 heures ; AIuto SOS watch4help™ va jusqu'à 60 minutes. Vérifiez les options de l'application installée.

@@ -346,17 +346,29 @@ section + section { border-top: 1px solid var(--line); }
 .product.flip .wrap > :first-child { order: 2; }
 .p-intro { display: grid; gap: 18px; align-content: start; }
 .badges { display: flex; flex-wrap: wrap; gap: 8px; }
-.p-details { display: grid; gap: 20px; }
+/* ogni sezione app ha la stessa struttura: intestazione a due colonne
+   (presentazione e riquadro del download) e poi i riquadri in griglia a due
+   colonne, così le sezioni restano tutte uguali e allineate */
+.product .wrap.p-head { grid-template-columns: 1.05fr .95fr; }
+.p-get { display: grid; gap: 16px; align-content: start; }
+.product .wrap.p-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; margin-top: 40px; align-items: stretch; }
+.product .wrap.p-stack { grid-template-columns: 1fr; }
+.product.flip .wrap.p-grid > :first-child,
+.product.flip .wrap.p-stack > :first-child { order: 0; }
+.p-stack .sec-head { margin-bottom: 28px; }
 .box { background: var(--ink-2); border: 1px solid var(--line); border-radius: var(--r); padding: 22px 24px; display: grid; gap: 12px; }
 .box h3 { font-size: 1.05rem; font-family: var(--f-mono); font-weight: 500; letter-spacing: .08em; text-transform: uppercase; color: var(--violet); }
 .checks { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
-.checks li { display: grid; grid-template-columns: 22px 1fr; gap: 8px; }
-.checks li::before { content: "✓"; color: var(--signal); font-weight: 700; }
+/* il segno di spunta sta fuori dal testo: così il testo resta un blocco unico
+   e va a capo normalmente, anche quando dentro la voce c'è un <b> o un link */
+.checks li { display: block; position: relative; padding-left: 30px; }
+.checks li b { color: var(--text); }
+.checks li::before { content: "✓"; position: absolute; left: 0; top: 0; color: var(--signal); font-weight: 700; }
 .checks li.no::before { content: "–"; color: var(--muted); }
 .checks li.no { color: var(--muted); }
 .small { font-size: .88rem; color: var(--muted); }
 @media (max-width: 900px) {
-  .product .wrap { grid-template-columns: 1fr; }
+  .product .wrap, .product .wrap.p-head, .product .wrap.p-grid { grid-template-columns: 1fr; }
   .product.flip .wrap > :first-child { order: 0; }
   .p-intro { position: static; }
 }
@@ -758,6 +770,20 @@ a.press-thumb:hover img { transform: scale(1.03); }
 @media (max-width: 1180px) { .nav-more { display: none !important; } }
 /* schermate di iPhone: il riquadro ha le proporzioni dello schermo, così non restano bande */
 .media.tall .frame-media { aspect-ratio: 923 / 2000; }
+/* schermate di AI help App: schermo 9:20, stessa cornice per tutte e quattro */
+#ai-help-app-schermate .media .frame-media { aspect-ratio: 9 / 20; }
 /* foto dell'orologio accanto alla galleria delle schermate */
 .media-wall .intro .watch-aside { max-width: 280px; margin-top: 10px; }
 @media (max-width: 900px) { .media-wall .intro .watch-aside { max-width: 240px; } }
+
+/* sottomenu delle app: barra che resta in alto mentre si scorre */
+.subnav-bar { position: sticky; top: calc(64px + env(safe-area-inset-top, 0px)); z-index: 15; background: color-mix(in srgb, var(--sky-1) 78%, transparent); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); border-bottom: 1px solid var(--line); }
+.subnav-bar .subnav { margin: 0; padding: 12px 0; }
+.subnav-bar a[aria-current="true"] { border-color: var(--signal); color: var(--text); }
+section.product { scroll-margin-top: 136px; }
+[id].media-wall { scroll-margin-top: 136px; }
+@media (max-width: 760px) {
+  .subnav-bar .subnav { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; scroll-snap-type: x proximity; -webkit-mask-image: linear-gradient(to right, #000 84%, transparent); mask-image: linear-gradient(to right, #000 84%, transparent); }
+  .subnav-bar .subnav::-webkit-scrollbar { display: none; }
+  .subnav-bar .subnav a { scroll-snap-align: start; }
+}
