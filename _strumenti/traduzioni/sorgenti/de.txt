@@ -853,3 +853,19 @@ mail.partnerBody|Guten Tag,\nich möchte mehr über das Projekt no pAIn™ erfah
 879|Telegram mit Live-Standort bis zu 24 Stunden
 880|³ Die Präsentation gibt bis zu 24 Stunden in den freigeschalteten Versionen an: AI help You und Proteggimi Android von 1 Minute bis 24 Stunden, AIuto SOS watch4help™ bis zu 60 Minuten. Die 12 Sprachen betreffen die mehrsprachigen Apps; Proteggimi Android ist auf Italienisch.
 881|Das hängt von der App und der Version ab. Bei iOS Free sind es 30 Minuten; bei iOS Premium geht es von 1 Minute bis 24 Stunden. Unter Android kommen AI help You und Proteggimi bis zu 24 Stunden; AIuto SOS watch4help™ kommt bis zu 60 Minuten. Prüfen Sie die Optionen der installierten App.
+882|Das Projekt no pAIn™
+883|Der Name ist ein englisches Akronym und sagt schon, worum es geht: nie mehr unterdrückt, geschützt von künstlicher Intelligenz, in einem System gegen Gewalt.
+884|<strong>Technologie gegen geschlechtsspezifische Gewalt</strong>Das Plakat des Projekts, auf Englisch: völlige Privatsphäre, künstliche Intelligenz an Bord und schnelle Auslösung.
+885|Logo des Projekts no pAIn: eine Frau, deren Körper aus leuchtenden Schaltkreisen besteht, hebt die offene Hand zur Betrachterin, wie die Geste, die um Hilfe bittet, und auf der Handfläche steht NO PAIN.
+886|Plakat des Projekts no pAIn: Technologie gegen geschlechtsspezifische Gewalt. Zwei Hände halten ein Smartphone mit einem leuchtenden Schild auf dem Bildschirm und den Tasten für Schutz mit künstlicher Intelligenz und Offline-Betrieb; ringsherum die Wörter No Trace und Safe Zone. Unten: vollständige Peer-to-Peer-Privatsphäre, künstliche Intelligenz offline ohne Cloud, schnelle Auslösung per Stimme, Berührung, Smartwatch oder button4help-Knopf.
+887|Der Zweck
+888|Ein elektronisches <span class="hl">signal for help</span>.
+889|Das signal for help, die Handgeste, sieht wer in diesem Moment dort ist: Es geht nicht über eine Leitstelle, einen Server oder einen offiziellen Dienst. Genauso erreicht der Hilferuf von no pAIn™ zuerst Vertrauenspersonen, von Gerät zu Gerät, ohne Vermittler.
+890|Es ersetzt nicht die öffentlichen Rettungsdienste, angefangen bei der einheitlichen Notrufnummer, die es in jedem Land gibt: Es ergänzt sie. Genau wie jemand, der die Handgeste sieht, eingreifen und gleichzeitig die Polizei rufen kann, kann wer den Alarm von no pAIn™ erhält helfen und den offiziellen Rettungsdienst rufen.
+891|Die Hilferufe sind sehr schnell, weil sie im Notfall gebraucht werden: wie die Handgeste, die einen Augenblick dauert. Mit einem Unterschied: Die künstliche Intelligenz des Projekts erlaubt es, den Hilferuf mit dem Standort auch ohne Hände abzusetzen, ohne das eigene Gerät zu bedienen.
+892|Smartphone
+893|Die im Projekt entwickelte Technologie für Smartphones: Sie funktioniert sowohl auf Android als auch auf dem iPhone.
+894|Die im Projekt entwickelte Technologie für Smartwatches: Der Alarm startet am Handgelenk, auf Wear OS und Apple Watch.
+895|Bluetooth-Knopf
+896|Die Technologie für ein externes Gerät, das sich mit dem Smartphone verbindet: ein Knopf, den man bei sich trägt und ein paar Sekunden gedrückt hält.
+897|Das Projekt no pAIn™ ist in den universitären Forschungslaboren der <strong>Technischen Universität Bari</strong> entstanden und wird von <strong>Prof. Ing. Agostino Giorgio</strong> erdacht und entwickelt.

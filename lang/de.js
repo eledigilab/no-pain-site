@@ -858,6 +858,22 @@
 "c5b7e264": "Bis zu 3 persönliche, geheime Sprachbefehle (secret keyword): der Notfall startet, ohne das Smartphone zu berühren und ohne dass es jemand merkt",
 "efddb6f9": "Telegram mit Live-Standort bis zu 24 Stunden",
 "072abe43": "³ Die Präsentation gibt bis zu 24 Stunden in den freigeschalteten Versionen an: AI help You und Proteggimi Android von 1 Minute bis 24 Stunden, AIuto SOS watch4help™ bis zu 60 Minuten. Die 12 Sprachen betreffen die mehrsprachigen Apps; Proteggimi Android ist auf Italienisch.",
-"9ed28354": "Das hängt von der App und der Version ab. Bei iOS Free sind es 30 Minuten; bei iOS Premium geht es von 1 Minute bis 24 Stunden. Unter Android kommen AI help You und Proteggimi bis zu 24 Stunden; AIuto SOS watch4help™ kommt bis zu 60 Minuten. Prüfen Sie die Optionen der installierten App."
+"9ed28354": "Das hängt von der App und der Version ab. Bei iOS Free sind es 30 Minuten; bei iOS Premium geht es von 1 Minute bis 24 Stunden. Unter Android kommen AI help You und Proteggimi bis zu 24 Stunden; AIuto SOS watch4help™ kommt bis zu 60 Minuten. Prüfen Sie die Optionen der installierten App.",
+"3aa16d19": "Das Projekt no pAIn™",
+"871d2afc": "Der Name ist ein englisches Akronym und sagt schon, worum es geht: nie mehr unterdrückt, geschützt von künstlicher Intelligenz, in einem System gegen Gewalt.",
+"ef2aa9c2": "<strong>Technologie gegen geschlechtsspezifische Gewalt</strong>Das Plakat des Projekts, auf Englisch: völlige Privatsphäre, künstliche Intelligenz an Bord und schnelle Auslösung.",
+"851c8425": "Logo des Projekts no pAIn: eine Frau, deren Körper aus leuchtenden Schaltkreisen besteht, hebt die offene Hand zur Betrachterin, wie die Geste, die um Hilfe bittet, und auf der Handfläche steht NO PAIN.",
+"20e13567": "Plakat des Projekts no pAIn: Technologie gegen geschlechtsspezifische Gewalt. Zwei Hände halten ein Smartphone mit einem leuchtenden Schild auf dem Bildschirm und den Tasten für Schutz mit künstlicher Intelligenz und Offline-Betrieb; ringsherum die Wörter No Trace und Safe Zone. Unten: vollständige Peer-to-Peer-Privatsphäre, künstliche Intelligenz offline ohne Cloud, schnelle Auslösung per Stimme, Berührung, Smartwatch oder button4help-Knopf.",
+"860541be": "Der Zweck",
+"18e0d02c": "Ein elektronisches <span class=\"hl\">signal for help</span>.",
+"898361e4": "Das signal for help, die Handgeste, sieht wer in diesem Moment dort ist: Es geht nicht über eine Leitstelle, einen Server oder einen offiziellen Dienst. Genauso erreicht der Hilferuf von no pAIn™ zuerst Vertrauenspersonen, von Gerät zu Gerät, ohne Vermittler.",
+"1c03ab3b": "Es ersetzt nicht die öffentlichen Rettungsdienste, angefangen bei der einheitlichen Notrufnummer, die es in jedem Land gibt: Es ergänzt sie. Genau wie jemand, der die Handgeste sieht, eingreifen und gleichzeitig die Polizei rufen kann, kann wer den Alarm von no pAIn™ erhält helfen und den offiziellen Rettungsdienst rufen.",
+"779211df": "Die Hilferufe sind sehr schnell, weil sie im Notfall gebraucht werden: wie die Handgeste, die einen Augenblick dauert. Mit einem Unterschied: Die künstliche Intelligenz des Projekts erlaubt es, den Hilferuf mit dem Standort auch ohne Hände abzusetzen, ohne das eigene Gerät zu bedienen.",
+"74398292": "Smartphone",
+"92974a97": "Die im Projekt entwickelte Technologie für Smartphones: Sie funktioniert sowohl auf Android als auch auf dem iPhone.",
+"7e7b2c76": "Die im Projekt entwickelte Technologie für Smartwatches: Der Alarm startet am Handgelenk, auf Wear OS und Apple Watch.",
+"85ed6e0d": "Bluetooth-Knopf",
+"bce7bde8": "Die Technologie für ein externes Gerät, das sich mit dem Smartphone verbindet: ein Knopf, den man bei sich trägt und ein paar Sekunden gedrückt hält.",
+"5d910530": "Das Projekt no pAIn™ ist in den universitären Forschungslaboren der <strong>Technischen Universität Bari</strong> entstanden und wird von <strong>Prof. Ing. Agostino Giorgio</strong> erdacht und entwickelt."
 }
 };

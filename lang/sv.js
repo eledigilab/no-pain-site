@@ -859,6 +859,22 @@
 "c5b7e264": "Upp till 3 personliga, hemliga röstkommandon (secret keyword): larmet startar utan att du rör mobilen och utan att någon märker det",
 "efddb6f9": "Telegram med live-position i upp till 24 timmar",
 "072abe43": "³ Presentationen anger upp till 24 timmar i de versioner som har funktionen: AI help You och Proteggimi Android från 1 minut till 24 timmar, AIuto SOS watch4help™ upp till 60 minuter. De 12 språken gäller de flerspråkiga apparna; Proteggimi Android är på italienska.",
-"9ed28354": "Det beror på appen och versionen. I iOS Free är det 30 minuter; i iOS Premium går det från 1 minut till 24 timmar. På Android når AI help You och Proteggimi upp till 24 timmar; AIuto SOS watch4help™ når upp till 60 minuter. Kontrollera alternativen i appen du installerat."
+"9ed28354": "Det beror på appen och versionen. I iOS Free är det 30 minuter; i iOS Premium går det från 1 minut till 24 timmar. På Android når AI help You och Proteggimi upp till 24 timmar; AIuto SOS watch4help™ når upp till 60 minuter. Kontrollera alternativen i appen du installerat.",
+"3aa16d19": "Projektet no pAIn™",
+"871d2afc": "Namnet är en engelsk akronym och säger redan vad det handlar om: aldrig mer överväldigad, skyddad av artificiell intelligens, i ett system som arbetar mot våld.",
+"ef2aa9c2": "<strong>Teknik mot könsrelaterat våld</strong>Projektets affisch, på engelska: total integritet, artificiell intelligens i enheten och snabb start.",
+"851c8425": "Logotyp för projektet no pAIn: en kvinna med en kropp av lysande kretsar lyfter sin öppna hand mot betraktaren, som gesten som ber om hjälp, och i handflatan står NO PAIN.",
+"20e13567": "Affisch för projektet no pAIn: teknik mot könsrelaterat våld. Två händer håller en mobil med en lysande sköld på skärmen och knapparna för skydd med artificiell intelligens och drift utan internet; runt omkring orden No Trace och Safe Zone. Längst ned: total integritet direkt mellan enheter, artificiell intelligens utan moln, snabb start med rösten, en tryckning, smartklockan eller button4help-knappen.",
+"860541be": "Syftet",
+"18e0d02c": "Ett elektroniskt <span class=\"hl\">signal for help</span>.",
+"898361e4": "Signal for help, handgesten, ses av den som är där i det ögonblicket: den går inte via en larmcentral, en server eller en officiell tjänst. På samma sätt når hjälpbegäran från no pAIn™ först och främst betrodda personer, från enhet till enhet, utan mellanhand.",
+"1c03ab3b": "Det ersätter inte de offentliga räddningstjänsterna, med början i det gemensamma nödnumret som finns i varje land: det kompletterar dem. Precis som den som ser handgesten kan ingripa och samtidigt ringa polisen, kan den som tar emot larmet från no pAIn™ hjälpa till och ringa den officiella räddningstjänsten.",
+"779211df": "Hjälpbegäran går blixtsnabbt, för den behövs i en nödsituation: som handgesten, som görs på ett ögonblick. Med en skillnad: projektets artificiella intelligens gör det möjligt att skicka begäran med positionen även utan händerna, utan att hantera sin egen enhet.",
+"74398292": "Mobil",
+"92974a97": "Tekniken som utvecklats i projektet för mobiler: den fungerar både på Android och på iPhone.",
+"7e7b2c76": "Tekniken som utvecklats i projektet för smartklockor: larmet startar från handleden, på Wear OS och Apple Watch.",
+"85ed6e0d": "Bluetooth-knapp",
+"bce7bde8": "Tekniken för en extern enhet som ansluter till mobilen: en knapp du bär med dig, nedtryckt ett par sekunder.",
+"5d910530": "Projektet no pAIn™ föddes i de universitetsforskningslaboratorier som hör till <strong>Tekniska universitetet i Bari</strong> och har tagits fram och utvecklats av <strong>prof. ing. Agostino Giorgio</strong>."
 }
 };

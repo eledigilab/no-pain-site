@@ -3391,6 +3391,70 @@
   "it": "La durata dipende dall'app e dalla versione. Su iOS Free è di 30 minuti; su iOS Premium va da 1 minuto a 24 ore. Su Android, AI help You e Proteggimi arrivano fino a 24 ore; AIuto SOS watch4help™ arriva fino a 60 minuti. Controlla le opzioni dell'app installata.",
   "tr": "Zależy od aplikacji i wersji. W iOS Free to 30 minut; w iOS Premium od 1 minuty do 24 godzin. W Androidzie AI help You i Proteggimi sięgają 24 godzin; AIuto SOS watch4help™ sięga 60 minut. Sprawdź opcje zainstalowanej aplikacji."
  },
+ "3aa16d19": {
+  "it": "Il progetto no pAIn™",
+  "tr": "Projekt no pAIn™"
+ },
+ "871d2afc": {
+  "it": "Il nome è un acronimo inglese e dice già cosa fa: mai più sopraffatta, protetta dall'intelligenza artificiale, dentro un sistema che lavora contro la violenza.",
+  "tr": "Nazwa to angielski akronim i już mówi, co robi: nigdy więcej zniewolona, chroniona przez sztuczną inteligencję, w systemie działającym przeciwko przemocy."
+ },
+ "ef2aa9c2": {
+  "it": "<strong>Tecnologia contro la violenza di genere</strong>La locandina del progetto, in inglese: privacy totale, intelligenza artificiale a bordo e attivazione rapida.",
+  "tr": "<strong>Technologia przeciwko przemocy ze względu na płeć</strong>Plakat projektu, po angielsku: pełna prywatność, sztuczna inteligencja na urządzeniu i szybkie uruchomienie."
+ },
+ "851c8425": {
+  "it": "Logo del progetto no pAIn: una donna con il corpo fatto di circuiti luminosi alza la mano aperta verso chi guarda, come il gesto che chiede aiuto, e sul palmo si legge NO PAIN.",
+  "tr": "Logo projektu no pAIn: kobieta o ciele ze świecących obwodów unosi otwartą dłoń w stronę patrzącego, jak gest proszący o pomoc, a na dłoni widnieje napis NO PAIN."
+ },
+ "20e13567": {
+  "it": "Locandina del progetto no pAIn: tecnologia contro la violenza di genere. Due mani sorreggono uno smartphone con uno scudo luminoso sullo schermo e i tasti protezione con intelligenza artificiale e funzionamento offline; intorno le scritte No Trace e Safe Zone. In basso: privacy totale peer to peer, intelligenza artificiale offline senza cloud, attivazione rapida con voce, tocco, smartwatch o pulsante button4help.",
+  "tr": "Plakat projektu no pAIn: technologia przeciwko przemocy ze względu na płeć. Dwie dłonie trzymają smartfon ze świecącą tarczą na ekranie oraz przyciskami ochrony przez sztuczną inteligencję i pracy bez internetu; wokół napisy No Trace i Safe Zone. Na dole: pełna prywatność bezpośrednio między urządzeniami, sztuczna inteligencja bez chmury, szybkie uruchomienie głosem, dotykiem, smartwatchem albo przyciskiem button4help."
+ },
+ "860541be": {
+  "it": "Lo scopo",
+  "tr": "Cel"
+ },
+ "18e0d02c": {
+  "it": "Un <span class=\"hl\">signal for help</span> elettronico.",
+  "tr": "Elektroniczny <span class=\"hl\">signal for help</span>."
+ },
+ "898361e4": {
+  "it": "Il signal for help, il gesto della mano, lo vede chi in quel momento è lì: non passa da una centrale, da un server, da un servizio ufficiale. Allo stesso modo la richiesta di aiuto di no pAIn™ arriva prima di tutto a persone di fiducia, da dispositivo a dispositivo, senza intermediari.",
+  "tr": "Signal for help, gest dłoni, widzi ten, kto jest w tej chwili obok: nie przechodzi przez centralę, serwer ani oficjalną służbę. Tak samo wezwanie pomocy z no pAIn™ trafia najpierw do zaufanych osób, z urządzenia na urządzenie, bez pośredników."
+ },
+ "1c03ab3b": {
+  "it": "Non sostituisce i servizi pubblici di soccorso, a cominciare dal numero unico di emergenza che esiste in ogni Paese: li integra. Esattamente come chi vede il gesto della mano può intervenire e nello stesso momento chiamare le forze dell'ordine, chi riceve l'allarme di no pAIn™ può aiutare e chiamare i soccorsi ufficiali.",
+  "tr": "Nie zastępuje publicznych służb ratunkowych, poczynając od jednolitego numeru alarmowego, który istnieje w każdym kraju: uzupełnia je. Dokładnie tak, jak ten, kto widzi gest dłoni, może zareagować i jednocześnie zadzwonić po służby, tak samo ten, kto dostaje alarm z no pAIn™, może pomóc i wezwać oficjalną pomoc."
+ },
+ "779211df": {
+  "it": "Le richieste di aiuto sono velocissime, perché servono nell'emergenza: come il gesto della mano, che si fa in un attimo. Con una differenza: l'intelligenza artificiale del progetto permette di far partire la richiesta con la geolocalizzazione anche senza usare le mani, senza manovrare il proprio dispositivo.",
+  "tr": "Wezwania pomocy są błyskawiczne, bo są potrzebne w nagłej sytuacji: jak gest dłoni, który wykonuje się w mgnieniu oka. Z jedną różnicą: sztuczna inteligencja projektu pozwala wysłać wezwanie z lokalizacją nawet bez użycia rąk, bez obsługiwania własnego urządzenia."
+ },
+ "74398292": {
+  "it": "Smartphone",
+  "tr": "Smartfon"
+ },
+ "92974a97": {
+  "it": "La tecnologia sviluppata nel progetto per gli smartphone: funziona sia su Android sia su iPhone.",
+  "tr": "Technologia opracowana w projekcie dla smartfonów: działa zarówno na Androidzie, jak i na iPhonie."
+ },
+ "7e7b2c76": {
+  "it": "La tecnologia sviluppata nel progetto per gli smartwatch: l'allarme parte dal polso, su Wear OS e Apple Watch.",
+  "tr": "Technologia opracowana w projekcie dla smartwatchy: alarm rusza z nadgarstka, na Wear OS i Apple Watch."
+ },
+ "85ed6e0d": {
+  "it": "Pulsante Bluetooth",
+  "tr": "Przycisk Bluetooth"
+ },
+ "bce7bde8": {
+  "it": "La tecnologia per un dispositivo esterno che si collega allo smartphone: un pulsante da tenere addosso, premuto un paio di secondi.",
+  "tr": "Technologia dla zewnętrznego urządzenia, które łączy się ze smartfonem: przycisk noszony przy sobie, przytrzymany przez dwie sekundy."
+ },
+ "5d910530": {
+  "it": "Il progetto no pAIn™ nasce nei laboratori di ricerca universitaria del <strong>Politecnico di Bari</strong> ed è ideato e sviluppato dal <strong>Prof. Ing. Agostino Giorgio</strong>.",
+  "tr": "Projekt no pAIn™ narodził się w uniwersyteckich laboratoriach badawczych <strong>Politechniki w Bari</strong>, a jego pomysłodawcą i twórcą jest <strong>prof. inż. Agostino Giorgio</strong>."
+ },
  "_ui": {
   "menu": "Menu",
   "close": "Zamknij",

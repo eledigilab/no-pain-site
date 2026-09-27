@@ -662,6 +662,40 @@ a.press-thumb:hover img { transform: scale(1.03); }
 }
 @media (max-width: 560px) { .media-track { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px 12px; } }
 
+/* apertura della home: logo ufficiale, acronimo e locandina del progetto */
+.brandmark { padding-block: clamp(40px, 5vw, 64px) clamp(32px, 4vw, 56px); }
+.brandmark + .hero { border-top: 0; }
+.brandmark .wrap.brand-row { display: grid; grid-template-columns: minmax(0, .75fr) minmax(0, 1.35fr) minmax(0, .9fr); gap: 40px; align-items: center; }
+.scopo { margin-top: clamp(36px, 4vw, 56px); }
+/* il testo occupa tutta la larghezza del blocco, in colonne allineate alle schede */
+.scopo .sec-head { max-width: none; margin-bottom: 24px; }
+.scopo-titolo { font-family: var(--f-display); font-weight: 700; line-height: 1.08; color: var(--text); font-size: clamp(1.7rem, 3.4vw, 2.5rem); }
+.scopo-testi { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; margin-bottom: 32px; }
+.scopo-testi p { color: var(--muted); }
+@media (max-width: 980px) { .scopo-testi { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 600px) { .scopo-testi { grid-template-columns: 1fr; } }
+.tech-cards .card h3 { font-family: var(--f-display); font-size: 1.35rem; }
+.tech-cards .card .meta { color: var(--violet); }
+.logo-mark { justify-self: center; width: 100%; max-width: 260px; }
+.logo-mark img { border-radius: var(--r); border-color: #ffffff22; }
+.brand-copy { display: grid; gap: 12px; align-content: center; }
+.brand-name { font-family: var(--f-display); font-weight: 700; line-height: 1; color: var(--text); font-size: clamp(2.4rem, 5vw, 3.6rem); }
+.acronimo {
+  font-family: var(--f-mono); font-size: clamp(.92rem, 1.35vw, 1.1rem); line-height: 1.55; color: var(--signal);
+  border-left: 3px solid var(--signal); padding-left: 14px;
+}
+.brand-poster { width: 100%; }
+.brand-poster .frame-media { aspect-ratio: 1 / 1; }
+@media (max-width: 900px) {
+  .brandmark .wrap.brand-row { grid-template-columns: 1fr 1fr; gap: 28px; }
+  .brand-copy { grid-column: 1 / -1; order: -1; }
+  .logo-mark { max-width: 100%; }
+}
+@media (max-width: 560px) {
+  .brandmark .wrap.brand-row { grid-template-columns: 1fr; }
+  .logo-mark { max-width: 220px; }
+}
+
 .hero h1.h1-long { font-size: clamp(1.7rem, 3.3vw, 2.7rem); line-height: 1.14; }
 .hero .claim { font-family: var(--f-display); font-size: clamp(1.8rem, 3.6vw, 2.95rem); line-height: 1.12; font-weight: 700; color: var(--text); max-width: 26ch; margin-bottom: 4px; }
 .hero .claim strong { color: var(--signal); }

@@ -859,6 +859,22 @@
 "c5b7e264": "Tot 3 persoonlijke, geheime spraakopdrachten (secret keyword): het alarm start zonder de smartphone aan te raken en zonder dat iemand het merkt",
 "efddb6f9": "Telegram met live locatie tot 24 uur",
 "072abe43": "³ De presentatie noemt tot 24 uur in de vrijgeschakelde versies: AI help You en Proteggimi Android van 1 minuut tot 24 uur, AIuto SOS watch4help™ tot 60 minuten. De 12 talen gaan over de meertalige apps; Proteggimi Android is in het Italiaans.",
-"9ed28354": "Dat hangt af van de app en de versie. Bij iOS Free is het 30 minuten; bij iOS Premium gaat het van 1 minuut tot 24 uur. Op Android gaan AI help You en Proteggimi tot 24 uur; AIuto SOS watch4help™ gaat tot 60 minuten. Controleer de opties van de geïnstalleerde app."
+"9ed28354": "Dat hangt af van de app en de versie. Bij iOS Free is het 30 minuten; bij iOS Premium gaat het van 1 minuut tot 24 uur. Op Android gaan AI help You en Proteggimi tot 24 uur; AIuto SOS watch4help™ gaat tot 60 minuten. Controleer de opties van de geïnstalleerde app.",
+"3aa16d19": "Het project no pAIn™",
+"871d2afc": "De naam is een Engels acroniem en zegt al wat het doet: nooit meer overweldigd, beschermd door kunstmatige intelligentie, binnen een systeem dat tegen geweld werkt.",
+"ef2aa9c2": "<strong>Technologie tegen gendergerelateerd geweld</strong>De poster van het project, in het Engels: volledige privacy, kunstmatige intelligentie aan boord en snelle activering.",
+"851c8425": "Logo van het project no pAIn: een vrouw met een lichaam van oplichtende schakelingen heft haar open hand naar de kijker, als het gebaar dat om hulp vraagt, en op haar handpalm staat NO PAIN.",
+"20e13567": "Poster van het project no pAIn: technologie tegen gendergerelateerd geweld. Twee handen houden een smartphone vast met een oplichtend schild op het scherm en de knoppen voor bescherming met kunstmatige intelligentie en werking zonder internet; eromheen de woorden No Trace en Safe Zone. Onderaan: volledige privacy rechtstreeks tussen apparaten, kunstmatige intelligentie zonder cloud, snelle activering met stem, aanraking, smartwatch of de button4help-knop.",
+"860541be": "Het doel",
+"18e0d02c": "Een elektronisch <span class=\"hl\">signal for help</span>.",
+"898361e4": "Het signal for help, het handgebaar, ziet wie op dat moment aanwezig is: het gaat niet via een meldkamer, een server of een officiële dienst. Op dezelfde manier bereikt de hulpoproep van no pAIn™ allereerst vertrouwenspersonen, van apparaat naar apparaat, zonder tussenpersoon.",
+"1c03ab3b": "Het vervangt de openbare hulpdiensten niet, om te beginnen het eenvormige alarmnummer dat in elk land bestaat: het vult ze aan. Precies zoals wie het handgebaar ziet kan ingrijpen en tegelijk de politie kan bellen, kan wie het alarm van no pAIn™ ontvangt helpen en de officiële hulpdiensten bellen.",
+"779211df": "De hulpoproepen zijn razendsnel, omdat ze in een noodgeval nodig zijn: net als het handgebaar, dat in een oogwenk gemaakt is. Met één verschil: de kunstmatige intelligentie van het project maakt het mogelijk de oproep met de locatie te versturen zonder je handen te gebruiken, zonder je toestel te bedienen.",
+"74398292": "Smartphone",
+"92974a97": "De technologie die in het project voor smartphones is ontwikkeld: ze werkt zowel op Android als op iPhone.",
+"7e7b2c76": "De technologie die in het project voor smartwatches is ontwikkeld: het alarm start vanaf de pols, op Wear OS en Apple Watch.",
+"85ed6e0d": "Bluetooth-knop",
+"bce7bde8": "De technologie voor een extern apparaat dat met de smartphone verbindt: een knop die je bij je draagt en een paar seconden ingedrukt houdt.",
+"5d910530": "Het project no pAIn™ is ontstaan in de universitaire onderzoekslaboratoria van de <strong>Polytechnische Universiteit van Bari</strong> en wordt bedacht en ontwikkeld door <strong>prof. ir. Agostino Giorgio</strong>."
 }
 };

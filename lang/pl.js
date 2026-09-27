@@ -859,6 +859,22 @@
 "c5b7e264": "Do 3 osobistych, tajnych poleceń głosowych (secret keyword): alarm rusza bez dotykania smartfona i tak, że nikt tego nie zauważy",
 "efddb6f9": "Telegram z lokalizacją na żywo do 24 godzin",
 "072abe43": "³ Prezentacja podaje do 24 godzin w wersjach z tą funkcją: AI help You i Proteggimi Android od 1 minuty do 24 godzin, AIuto SOS watch4help™ do 60 minut. 12 języków dotyczy aplikacji wielojęzycznych; Proteggimi Android jest po włosku.",
-"9ed28354": "Zależy od aplikacji i wersji. W iOS Free to 30 minut; w iOS Premium od 1 minuty do 24 godzin. W Androidzie AI help You i Proteggimi sięgają 24 godzin; AIuto SOS watch4help™ sięga 60 minut. Sprawdź opcje zainstalowanej aplikacji."
+"9ed28354": "Zależy od aplikacji i wersji. W iOS Free to 30 minut; w iOS Premium od 1 minuty do 24 godzin. W Androidzie AI help You i Proteggimi sięgają 24 godzin; AIuto SOS watch4help™ sięga 60 minut. Sprawdź opcje zainstalowanej aplikacji.",
+"3aa16d19": "Projekt no pAIn™",
+"871d2afc": "Nazwa to angielski akronim i już mówi, co robi: nigdy więcej zniewolona, chroniona przez sztuczną inteligencję, w systemie działającym przeciwko przemocy.",
+"ef2aa9c2": "<strong>Technologia przeciwko przemocy ze względu na płeć</strong>Plakat projektu, po angielsku: pełna prywatność, sztuczna inteligencja na urządzeniu i szybkie uruchomienie.",
+"851c8425": "Logo projektu no pAIn: kobieta o ciele ze świecących obwodów unosi otwartą dłoń w stronę patrzącego, jak gest proszący o pomoc, a na dłoni widnieje napis NO PAIN.",
+"20e13567": "Plakat projektu no pAIn: technologia przeciwko przemocy ze względu na płeć. Dwie dłonie trzymają smartfon ze świecącą tarczą na ekranie oraz przyciskami ochrony przez sztuczną inteligencję i pracy bez internetu; wokół napisy No Trace i Safe Zone. Na dole: pełna prywatność bezpośrednio między urządzeniami, sztuczna inteligencja bez chmury, szybkie uruchomienie głosem, dotykiem, smartwatchem albo przyciskiem button4help.",
+"860541be": "Cel",
+"18e0d02c": "Elektroniczny <span class=\"hl\">signal for help</span>.",
+"898361e4": "Signal for help, gest dłoni, widzi ten, kto jest w tej chwili obok: nie przechodzi przez centralę, serwer ani oficjalną służbę. Tak samo wezwanie pomocy z no pAIn™ trafia najpierw do zaufanych osób, z urządzenia na urządzenie, bez pośredników.",
+"1c03ab3b": "Nie zastępuje publicznych służb ratunkowych, poczynając od jednolitego numeru alarmowego, który istnieje w każdym kraju: uzupełnia je. Dokładnie tak, jak ten, kto widzi gest dłoni, może zareagować i jednocześnie zadzwonić po służby, tak samo ten, kto dostaje alarm z no pAIn™, może pomóc i wezwać oficjalną pomoc.",
+"779211df": "Wezwania pomocy są błyskawiczne, bo są potrzebne w nagłej sytuacji: jak gest dłoni, który wykonuje się w mgnieniu oka. Z jedną różnicą: sztuczna inteligencja projektu pozwala wysłać wezwanie z lokalizacją nawet bez użycia rąk, bez obsługiwania własnego urządzenia.",
+"74398292": "Smartfon",
+"92974a97": "Technologia opracowana w projekcie dla smartfonów: działa zarówno na Androidzie, jak i na iPhonie.",
+"7e7b2c76": "Technologia opracowana w projekcie dla smartwatchy: alarm rusza z nadgarstka, na Wear OS i Apple Watch.",
+"85ed6e0d": "Przycisk Bluetooth",
+"bce7bde8": "Technologia dla zewnętrznego urządzenia, które łączy się ze smartfonem: przycisk noszony przy sobie, przytrzymany przez dwie sekundy.",
+"5d910530": "Projekt no pAIn™ narodził się w uniwersyteckich laboratoriach badawczych <strong>Politechniki w Bari</strong>, a jego pomysłodawcą i twórcą jest <strong>prof. inż. Agostino Giorgio</strong>."
 }
 };

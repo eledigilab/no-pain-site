@@ -3391,6 +3391,70 @@
   "it": "La durata dipende dall'app e dalla versione. Su iOS Free è di 30 minuti; su iOS Premium va da 1 minuto a 24 ore. Su Android, AI help You e Proteggimi arrivano fino a 24 ore; AIuto SOS watch4help™ arriva fino a 60 minuti. Controlla le opzioni dell'app installata.",
   "tr": "Det beror på appen och versionen. I iOS Free är det 30 minuter; i iOS Premium går det från 1 minut till 24 timmar. På Android når AI help You och Proteggimi upp till 24 timmar; AIuto SOS watch4help™ når upp till 60 minuter. Kontrollera alternativen i appen du installerat."
  },
+ "3aa16d19": {
+  "it": "Il progetto no pAIn™",
+  "tr": "Projektet no pAIn™"
+ },
+ "871d2afc": {
+  "it": "Il nome è un acronimo inglese e dice già cosa fa: mai più sopraffatta, protetta dall'intelligenza artificiale, dentro un sistema che lavora contro la violenza.",
+  "tr": "Namnet är en engelsk akronym och säger redan vad det handlar om: aldrig mer överväldigad, skyddad av artificiell intelligens, i ett system som arbetar mot våld."
+ },
+ "ef2aa9c2": {
+  "it": "<strong>Tecnologia contro la violenza di genere</strong>La locandina del progetto, in inglese: privacy totale, intelligenza artificiale a bordo e attivazione rapida.",
+  "tr": "<strong>Teknik mot könsrelaterat våld</strong>Projektets affisch, på engelska: total integritet, artificiell intelligens i enheten och snabb start."
+ },
+ "851c8425": {
+  "it": "Logo del progetto no pAIn: una donna con il corpo fatto di circuiti luminosi alza la mano aperta verso chi guarda, come il gesto che chiede aiuto, e sul palmo si legge NO PAIN.",
+  "tr": "Logotyp för projektet no pAIn: en kvinna med en kropp av lysande kretsar lyfter sin öppna hand mot betraktaren, som gesten som ber om hjälp, och i handflatan står NO PAIN."
+ },
+ "20e13567": {
+  "it": "Locandina del progetto no pAIn: tecnologia contro la violenza di genere. Due mani sorreggono uno smartphone con uno scudo luminoso sullo schermo e i tasti protezione con intelligenza artificiale e funzionamento offline; intorno le scritte No Trace e Safe Zone. In basso: privacy totale peer to peer, intelligenza artificiale offline senza cloud, attivazione rapida con voce, tocco, smartwatch o pulsante button4help.",
+  "tr": "Affisch för projektet no pAIn: teknik mot könsrelaterat våld. Två händer håller en mobil med en lysande sköld på skärmen och knapparna för skydd med artificiell intelligens och drift utan internet; runt omkring orden No Trace och Safe Zone. Längst ned: total integritet direkt mellan enheter, artificiell intelligens utan moln, snabb start med rösten, en tryckning, smartklockan eller button4help-knappen."
+ },
+ "860541be": {
+  "it": "Lo scopo",
+  "tr": "Syftet"
+ },
+ "18e0d02c": {
+  "it": "Un <span class=\"hl\">signal for help</span> elettronico.",
+  "tr": "Ett elektroniskt <span class=\"hl\">signal for help</span>."
+ },
+ "898361e4": {
+  "it": "Il signal for help, il gesto della mano, lo vede chi in quel momento è lì: non passa da una centrale, da un server, da un servizio ufficiale. Allo stesso modo la richiesta di aiuto di no pAIn™ arriva prima di tutto a persone di fiducia, da dispositivo a dispositivo, senza intermediari.",
+  "tr": "Signal for help, handgesten, ses av den som är där i det ögonblicket: den går inte via en larmcentral, en server eller en officiell tjänst. På samma sätt når hjälpbegäran från no pAIn™ först och främst betrodda personer, från enhet till enhet, utan mellanhand."
+ },
+ "1c03ab3b": {
+  "it": "Non sostituisce i servizi pubblici di soccorso, a cominciare dal numero unico di emergenza che esiste in ogni Paese: li integra. Esattamente come chi vede il gesto della mano può intervenire e nello stesso momento chiamare le forze dell'ordine, chi riceve l'allarme di no pAIn™ può aiutare e chiamare i soccorsi ufficiali.",
+  "tr": "Det ersätter inte de offentliga räddningstjänsterna, med början i det gemensamma nödnumret som finns i varje land: det kompletterar dem. Precis som den som ser handgesten kan ingripa och samtidigt ringa polisen, kan den som tar emot larmet från no pAIn™ hjälpa till och ringa den officiella räddningstjänsten."
+ },
+ "779211df": {
+  "it": "Le richieste di aiuto sono velocissime, perché servono nell'emergenza: come il gesto della mano, che si fa in un attimo. Con una differenza: l'intelligenza artificiale del progetto permette di far partire la richiesta con la geolocalizzazione anche senza usare le mani, senza manovrare il proprio dispositivo.",
+  "tr": "Hjälpbegäran går blixtsnabbt, för den behövs i en nödsituation: som handgesten, som görs på ett ögonblick. Med en skillnad: projektets artificiella intelligens gör det möjligt att skicka begäran med positionen även utan händerna, utan att hantera sin egen enhet."
+ },
+ "74398292": {
+  "it": "Smartphone",
+  "tr": "Mobil"
+ },
+ "92974a97": {
+  "it": "La tecnologia sviluppata nel progetto per gli smartphone: funziona sia su Android sia su iPhone.",
+  "tr": "Tekniken som utvecklats i projektet för mobiler: den fungerar både på Android och på iPhone."
+ },
+ "7e7b2c76": {
+  "it": "La tecnologia sviluppata nel progetto per gli smartwatch: l'allarme parte dal polso, su Wear OS e Apple Watch.",
+  "tr": "Tekniken som utvecklats i projektet för smartklockor: larmet startar från handleden, på Wear OS och Apple Watch."
+ },
+ "85ed6e0d": {
+  "it": "Pulsante Bluetooth",
+  "tr": "Bluetooth-knapp"
+ },
+ "bce7bde8": {
+  "it": "La tecnologia per un dispositivo esterno che si collega allo smartphone: un pulsante da tenere addosso, premuto un paio di secondi.",
+  "tr": "Tekniken för en extern enhet som ansluter till mobilen: en knapp du bär med dig, nedtryckt ett par sekunder."
+ },
+ "5d910530": {
+  "it": "Il progetto no pAIn™ nasce nei laboratori di ricerca universitaria del <strong>Politecnico di Bari</strong> ed è ideato e sviluppato dal <strong>Prof. Ing. Agostino Giorgio</strong>.",
+  "tr": "Projektet no pAIn™ föddes i de universitetsforskningslaboratorier som hör till <strong>Tekniska universitetet i Bari</strong> och har tagits fram och utvecklats av <strong>prof. ing. Agostino Giorgio</strong>."
+ },
  "_ui": {
   "menu": "Meny",
   "close": "Stäng",

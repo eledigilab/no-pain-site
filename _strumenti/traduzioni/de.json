@@ -3387,6 +3387,70 @@
   "it": "La durata dipende dall'app e dalla versione. Su iOS Free è di 30 minuti; su iOS Premium va da 1 minuto a 24 ore. Su Android, AI help You e Proteggimi arrivano fino a 24 ore; AIuto SOS watch4help™ arriva fino a 60 minuti. Controlla le opzioni dell'app installata.",
   "tr": "Das hängt von der App und der Version ab. Bei iOS Free sind es 30 Minuten; bei iOS Premium geht es von 1 Minute bis 24 Stunden. Unter Android kommen AI help You und Proteggimi bis zu 24 Stunden; AIuto SOS watch4help™ kommt bis zu 60 Minuten. Prüfen Sie die Optionen der installierten App."
  },
+ "3aa16d19": {
+  "it": "Il progetto no pAIn™",
+  "tr": "Das Projekt no pAIn™"
+ },
+ "871d2afc": {
+  "it": "Il nome è un acronimo inglese e dice già cosa fa: mai più sopraffatta, protetta dall'intelligenza artificiale, dentro un sistema che lavora contro la violenza.",
+  "tr": "Der Name ist ein englisches Akronym und sagt schon, worum es geht: nie mehr unterdrückt, geschützt von künstlicher Intelligenz, in einem System gegen Gewalt."
+ },
+ "ef2aa9c2": {
+  "it": "<strong>Tecnologia contro la violenza di genere</strong>La locandina del progetto, in inglese: privacy totale, intelligenza artificiale a bordo e attivazione rapida.",
+  "tr": "<strong>Technologie gegen geschlechtsspezifische Gewalt</strong>Das Plakat des Projekts, auf Englisch: völlige Privatsphäre, künstliche Intelligenz an Bord und schnelle Auslösung."
+ },
+ "851c8425": {
+  "it": "Logo del progetto no pAIn: una donna con il corpo fatto di circuiti luminosi alza la mano aperta verso chi guarda, come il gesto che chiede aiuto, e sul palmo si legge NO PAIN.",
+  "tr": "Logo des Projekts no pAIn: eine Frau, deren Körper aus leuchtenden Schaltkreisen besteht, hebt die offene Hand zur Betrachterin, wie die Geste, die um Hilfe bittet, und auf der Handfläche steht NO PAIN."
+ },
+ "20e13567": {
+  "it": "Locandina del progetto no pAIn: tecnologia contro la violenza di genere. Due mani sorreggono uno smartphone con uno scudo luminoso sullo schermo e i tasti protezione con intelligenza artificiale e funzionamento offline; intorno le scritte No Trace e Safe Zone. In basso: privacy totale peer to peer, intelligenza artificiale offline senza cloud, attivazione rapida con voce, tocco, smartwatch o pulsante button4help.",
+  "tr": "Plakat des Projekts no pAIn: Technologie gegen geschlechtsspezifische Gewalt. Zwei Hände halten ein Smartphone mit einem leuchtenden Schild auf dem Bildschirm und den Tasten für Schutz mit künstlicher Intelligenz und Offline-Betrieb; ringsherum die Wörter No Trace und Safe Zone. Unten: vollständige Peer-to-Peer-Privatsphäre, künstliche Intelligenz offline ohne Cloud, schnelle Auslösung per Stimme, Berührung, Smartwatch oder button4help-Knopf."
+ },
+ "860541be": {
+  "it": "Lo scopo",
+  "tr": "Der Zweck"
+ },
+ "18e0d02c": {
+  "it": "Un <span class=\"hl\">signal for help</span> elettronico.",
+  "tr": "Ein elektronisches <span class=\"hl\">signal for help</span>."
+ },
+ "898361e4": {
+  "it": "Il signal for help, il gesto della mano, lo vede chi in quel momento è lì: non passa da una centrale, da un server, da un servizio ufficiale. Allo stesso modo la richiesta di aiuto di no pAIn™ arriva prima di tutto a persone di fiducia, da dispositivo a dispositivo, senza intermediari.",
+  "tr": "Das signal for help, die Handgeste, sieht wer in diesem Moment dort ist: Es geht nicht über eine Leitstelle, einen Server oder einen offiziellen Dienst. Genauso erreicht der Hilferuf von no pAIn™ zuerst Vertrauenspersonen, von Gerät zu Gerät, ohne Vermittler."
+ },
+ "1c03ab3b": {
+  "it": "Non sostituisce i servizi pubblici di soccorso, a cominciare dal numero unico di emergenza che esiste in ogni Paese: li integra. Esattamente come chi vede il gesto della mano può intervenire e nello stesso momento chiamare le forze dell'ordine, chi riceve l'allarme di no pAIn™ può aiutare e chiamare i soccorsi ufficiali.",
+  "tr": "Es ersetzt nicht die öffentlichen Rettungsdienste, angefangen bei der einheitlichen Notrufnummer, die es in jedem Land gibt: Es ergänzt sie. Genau wie jemand, der die Handgeste sieht, eingreifen und gleichzeitig die Polizei rufen kann, kann wer den Alarm von no pAIn™ erhält helfen und den offiziellen Rettungsdienst rufen."
+ },
+ "779211df": {
+  "it": "Le richieste di aiuto sono velocissime, perché servono nell'emergenza: come il gesto della mano, che si fa in un attimo. Con una differenza: l'intelligenza artificiale del progetto permette di far partire la richiesta con la geolocalizzazione anche senza usare le mani, senza manovrare il proprio dispositivo.",
+  "tr": "Die Hilferufe sind sehr schnell, weil sie im Notfall gebraucht werden: wie die Handgeste, die einen Augenblick dauert. Mit einem Unterschied: Die künstliche Intelligenz des Projekts erlaubt es, den Hilferuf mit dem Standort auch ohne Hände abzusetzen, ohne das eigene Gerät zu bedienen."
+ },
+ "74398292": {
+  "it": "Smartphone",
+  "tr": "Smartphone"
+ },
+ "92974a97": {
+  "it": "La tecnologia sviluppata nel progetto per gli smartphone: funziona sia su Android sia su iPhone.",
+  "tr": "Die im Projekt entwickelte Technologie für Smartphones: Sie funktioniert sowohl auf Android als auch auf dem iPhone."
+ },
+ "7e7b2c76": {
+  "it": "La tecnologia sviluppata nel progetto per gli smartwatch: l'allarme parte dal polso, su Wear OS e Apple Watch.",
+  "tr": "Die im Projekt entwickelte Technologie für Smartwatches: Der Alarm startet am Handgelenk, auf Wear OS und Apple Watch."
+ },
+ "85ed6e0d": {
+  "it": "Pulsante Bluetooth",
+  "tr": "Bluetooth-Knopf"
+ },
+ "bce7bde8": {
+  "it": "La tecnologia per un dispositivo esterno che si collega allo smartphone: un pulsante da tenere addosso, premuto un paio di secondi.",
+  "tr": "Die Technologie für ein externes Gerät, das sich mit dem Smartphone verbindet: ein Knopf, den man bei sich trägt und ein paar Sekunden gedrückt hält."
+ },
+ "5d910530": {
+  "it": "Il progetto no pAIn™ nasce nei laboratori di ricerca universitaria del <strong>Politecnico di Bari</strong> ed è ideato e sviluppato dal <strong>Prof. Ing. Agostino Giorgio</strong>.",
+  "tr": "Das Projekt no pAIn™ ist in den universitären Forschungslaboren der <strong>Technischen Universität Bari</strong> entstanden und wird von <strong>Prof. Ing. Agostino Giorgio</strong> erdacht und entwickelt."
+ },
  "_ui": {
   "menu": "Menü",
   "close": "Schließen",

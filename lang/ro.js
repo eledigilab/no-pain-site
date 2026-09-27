@@ -858,6 +858,22 @@
 "c5b7e264": "Până la 3 comenzi vocale personale și secrete (secret keyword): urgența pornește fără să atingi telefonul și fără ca nimeni să observe",
 "efddb6f9": "Telegram cu poziție în direct până la 24 de ore",
 "072abe43": "³ Prezentarea indică până la 24 de ore în versiunile activate: AI help You și Proteggimi Android de la 1 minut la 24 de ore, AIuto SOS watch4help™ până la 60 de minute. Cele 12 limbi privesc aplicațiile multilingve; Proteggimi Android este în italiană.",
-"9ed28354": "Depinde de aplicație și de versiune. Pe iOS Free sunt 30 de minute; pe iOS Premium merge de la 1 minut la 24 de ore. Pe Android, AI help You și Proteggimi ajung până la 24 de ore; AIuto SOS watch4help™ ajunge până la 60 de minute. Verifică opțiunile aplicației instalate."
+"9ed28354": "Depinde de aplicație și de versiune. Pe iOS Free sunt 30 de minute; pe iOS Premium merge de la 1 minut la 24 de ore. Pe Android, AI help You și Proteggimi ajung până la 24 de ore; AIuto SOS watch4help™ ajunge până la 60 de minute. Verifică opțiunile aplicației instalate.",
+"3aa16d19": "Proiectul no pAIn™",
+"871d2afc": "Numele este un acronim englezesc și spune deja ce face: niciodată oprimată, protejată de inteligența artificială, într-un sistem care lucrează împotriva violenței.",
+"ef2aa9c2": "<strong>Tehnologie împotriva violenței de gen</strong>Afișul proiectului, în engleză: confidențialitate totală, inteligență artificială la bord și pornire rapidă.",
+"851c8425": "Sigla proiectului no pAIn: o femeie cu corpul făcut din circuite luminoase ridică mâna deschisă spre privitor, ca gestul care cere ajutor, iar pe palmă scrie NO PAIN.",
+"20e13567": "Afișul proiectului no pAIn: tehnologie împotriva violenței de gen. Două mâini țin un smartphone cu un scut luminos pe ecran și tastele pentru protecție cu inteligență artificială și funcționare fără internet; în jur, cuvintele No Trace și Safe Zone. Jos: confidențialitate totală direct între dispozitive, inteligență artificială fără internet și fără cloud, pornire rapidă cu vocea, atingerea, ceasul inteligent sau butonul button4help.",
+"860541be": "Scopul",
+"18e0d02c": "Un <span class=\"hl\">signal for help</span> electronic.",
+"898361e4": "Signal for help, gestul mâinii, îl vede cine se află acolo în acel moment: nu trece printr-un dispecerat, printr-un server sau printr-un serviciu oficial. La fel, cererea de ajutor din no pAIn™ ajunge mai întâi la persoane de încredere, de la dispozitiv la dispozitiv, fără intermediari.",
+"1c03ab3b": "Nu înlocuiește serviciile publice de urgență, începând cu numărul unic de urgență care există în fiecare țară: le completează. Exact cum cine vede gestul mâinii poate interveni și în același timp poate suna la poliție, cine primește alerta din no pAIn™ poate ajuta și poate chema ajutoarele oficiale.",
+"779211df": "Cererile de ajutor sunt foarte rapide, pentru că sunt necesare în situații de urgență: ca gestul mâinii, care se face într-o clipă. Cu o diferență: inteligența artificială a proiectului permite trimiterea cererii cu geolocalizare chiar și fără mâini, fără să umbli la propriul dispozitiv.",
+"74398292": "Smartphone",
+"92974a97": "Tehnologia dezvoltată în proiect pentru smartphone-uri: funcționează atât pe Android, cât și pe iPhone.",
+"7e7b2c76": "Tehnologia dezvoltată în proiect pentru ceasurile inteligente: alarma pornește de la încheietură, pe Wear OS și Apple Watch.",
+"85ed6e0d": "Buton Bluetooth",
+"bce7bde8": "Tehnologia pentru un dispozitiv extern care se conectează la smartphone: un buton pe care îl ții la tine, ținut apăsat câteva secunde.",
+"5d910530": "Proiectul no pAIn™ s-a născut în laboratoarele de cercetare universitară ale <strong>Politehnicii din Bari</strong> și este conceput și dezvoltat de <strong>Prof. Ing. Agostino Giorgio</strong>."
 }
 };

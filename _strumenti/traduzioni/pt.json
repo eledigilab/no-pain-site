@@ -3391,6 +3391,70 @@
   "it": "La durata dipende dall'app e dalla versione. Su iOS Free è di 30 minuti; su iOS Premium va da 1 minuto a 24 ore. Su Android, AI help You e Proteggimi arrivano fino a 24 ore; AIuto SOS watch4help™ arriva fino a 60 minuti. Controlla le opzioni dell'app installata.",
   "tr": "Depende da aplicação e da versão. No iOS Free são 30 minutos; no iOS Premium vai de 1 minuto a 24 horas. No Android, o AI help You e o Proteggimi chegam até 24 horas; o AIuto SOS watch4help™ chega até 60 minutos. Verifique as opções da aplicação instalada."
  },
+ "3aa16d19": {
+  "it": "Il progetto no pAIn™",
+  "tr": "O projeto no pAIn™"
+ },
+ "871d2afc": {
+  "it": "Il nome è un acronimo inglese e dice già cosa fa: mai più sopraffatta, protetta dall'intelligenza artificiale, dentro un sistema che lavora contro la violenza.",
+  "tr": "O nome é um acrónimo inglês e já diz o que faz: nunca mais oprimida, protegida pela inteligência artificial, dentro de um sistema que trabalha contra a violência."
+ },
+ "ef2aa9c2": {
+  "it": "<strong>Tecnologia contro la violenza di genere</strong>La locandina del progetto, in inglese: privacy totale, intelligenza artificiale a bordo e attivazione rapida.",
+  "tr": "<strong>Tecnologia contra a violência de género</strong>O cartaz do projeto, em inglês: privacidade total, inteligência artificial a bordo e ativação rápida."
+ },
+ "851c8425": {
+  "it": "Logo del progetto no pAIn: una donna con il corpo fatto di circuiti luminosi alza la mano aperta verso chi guarda, come il gesto che chiede aiuto, e sul palmo si legge NO PAIN.",
+  "tr": "Logótipo do projeto no pAIn: uma mulher com o corpo feito de circuitos luminosos levanta a mão aberta para quem olha, como o gesto que pede ajuda, e na palma lê-se NO PAIN."
+ },
+ "20e13567": {
+  "it": "Locandina del progetto no pAIn: tecnologia contro la violenza di genere. Due mani sorreggono uno smartphone con uno scudo luminoso sullo schermo e i tasti protezione con intelligenza artificiale e funzionamento offline; intorno le scritte No Trace e Safe Zone. In basso: privacy totale peer to peer, intelligenza artificiale offline senza cloud, attivazione rapida con voce, tocco, smartwatch o pulsante button4help.",
+  "tr": "Cartaz do projeto no pAIn: tecnologia contra a violência de género. Duas mãos seguram um smartphone com um escudo luminoso no ecrã e as teclas de proteção com inteligência artificial e funcionamento sem ligação; à volta, as palavras No Trace e Safe Zone. Em baixo: privacidade total ponto a ponto, inteligência artificial sem ligação e sem nuvem, ativação rápida com a voz, o toque, o smartwatch ou o botão button4help."
+ },
+ "860541be": {
+  "it": "Lo scopo",
+  "tr": "O objetivo"
+ },
+ "18e0d02c": {
+  "it": "Un <span class=\"hl\">signal for help</span> elettronico.",
+  "tr": "Um <span class=\"hl\">signal for help</span> eletrónico."
+ },
+ "898361e4": {
+  "it": "Il signal for help, il gesto della mano, lo vede chi in quel momento è lì: non passa da una centrale, da un server, da un servizio ufficiale. Allo stesso modo la richiesta di aiuto di no pAIn™ arriva prima di tutto a persone di fiducia, da dispositivo a dispositivo, senza intermediari.",
+  "tr": "O signal for help, o gesto da mão, vê-o quem está ali naquele momento: não passa por uma central, por um servidor nem por um serviço oficial. Do mesmo modo, o pedido de ajuda do no pAIn™ chega antes de mais a pessoas de confiança, de dispositivo para dispositivo, sem intermediários."
+ },
+ "1c03ab3b": {
+  "it": "Non sostituisce i servizi pubblici di soccorso, a cominciare dal numero unico di emergenza che esiste in ogni Paese: li integra. Esattamente come chi vede il gesto della mano può intervenire e nello stesso momento chiamare le forze dell'ordine, chi riceve l'allarme di no pAIn™ può aiutare e chiamare i soccorsi ufficiali.",
+  "tr": "Não substitui os serviços públicos de socorro, a começar pelo número único de emergência que existe em cada país: complementa-os. Exatamente como quem vê o gesto da mão pode intervir e ao mesmo tempo chamar as autoridades, quem recebe o alerta do no pAIn™ pode ajudar e chamar os socorros oficiais."
+ },
+ "779211df": {
+  "it": "Le richieste di aiuto sono velocissime, perché servono nell'emergenza: come il gesto della mano, che si fa in un attimo. Con una differenza: l'intelligenza artificiale del progetto permette di far partire la richiesta con la geolocalizzazione anche senza usare le mani, senza manovrare il proprio dispositivo.",
+  "tr": "Os pedidos de ajuda são rapidíssimos, porque servem na emergência: como o gesto da mão, que se faz num instante. Com uma diferença: a inteligência artificial do projeto permite lançar o pedido com a localização mesmo sem usar as mãos, sem mexer no próprio dispositivo."
+ },
+ "74398292": {
+  "it": "Smartphone",
+  "tr": "Smartphone"
+ },
+ "92974a97": {
+  "it": "La tecnologia sviluppata nel progetto per gli smartphone: funziona sia su Android sia su iPhone.",
+  "tr": "A tecnologia desenvolvida no projeto para os smartphones: funciona tanto em Android como em iPhone."
+ },
+ "7e7b2c76": {
+  "it": "La tecnologia sviluppata nel progetto per gli smartwatch: l'allarme parte dal polso, su Wear OS e Apple Watch.",
+  "tr": "A tecnologia desenvolvida no projeto para os smartwatches: o alarme parte do pulso, em Wear OS e Apple Watch."
+ },
+ "85ed6e0d": {
+  "it": "Pulsante Bluetooth",
+  "tr": "Botão Bluetooth"
+ },
+ "bce7bde8": {
+  "it": "La tecnologia per un dispositivo esterno che si collega allo smartphone: un pulsante da tenere addosso, premuto un paio di secondi.",
+  "tr": "A tecnologia para um dispositivo externo que se liga ao smartphone: um botão que traz consigo, mantido premido dois segundos."
+ },
+ "5d910530": {
+  "it": "Il progetto no pAIn™ nasce nei laboratori di ricerca universitaria del <strong>Politecnico di Bari</strong> ed è ideato e sviluppato dal <strong>Prof. Ing. Agostino Giorgio</strong>.",
+  "tr": "O projeto no pAIn™ nasce nos laboratórios de investigação universitária do <strong>Politécnico de Bari</strong> e é concebido e desenvolvido pelo <strong>Prof. Eng. Agostino Giorgio</strong>."
+ },
  "_ui": {
   "menu": "Menu",
   "close": "Fechar",

@@ -859,6 +859,22 @@
 "c5b7e264": "3 adede kadar kişisel ve gizli sesli komut (secret keyword): acil durum, akıllı telefona dokunmadan ve kimse fark etmeden başlar",
 "efddb6f9": "24 saate kadar canlı konumla Telegram",
 "072abe43": "³ Sunum, etkinleştirilmiş sürümler için 24 saate kadar diyor: AI help You ve Proteggimi Android 1 dakikadan 24 saate, AIuto SOS watch4help™ 60 dakikaya kadar. 12 dil, çok dilli uygulamalar için geçerlidir; Proteggimi Android İtalyancadır.",
-"9ed28354": "Uygulamaya ve sürüme bağlıdır. iOS Free'de 30 dakika; iOS Premium'da 1 dakikadan 24 saate kadar. Android'de AI help You ve Proteggimi 24 saate kadar; AIuto SOS watch4help™ 60 dakikaya kadar çıkar. Kurduğunuz uygulamanın seçeneklerine bakın."
+"9ed28354": "Uygulamaya ve sürüme bağlıdır. iOS Free'de 30 dakika; iOS Premium'da 1 dakikadan 24 saate kadar. Android'de AI help You ve Proteggimi 24 saate kadar; AIuto SOS watch4help™ 60 dakikaya kadar çıkar. Kurduğunuz uygulamanın seçeneklerine bakın.",
+"3aa16d19": "no pAIn™ projesi",
+"871d2afc": "Ad, İngilizce bir kısaltmadır ve ne yaptığını daha baştan söyler: bir daha asla ezilmemek, yapay zekâ tarafından korunmak, şiddete karşı çalışan bir sistemin içinde.",
+"ef2aa9c2": "<strong>Toplumsal cinsiyete dayalı şiddete karşı teknoloji</strong>Projenin afişi, İngilizce: tam gizlilik, cihazda çalışan yapay zekâ ve hızlı devreye girme.",
+"851c8425": "no pAIn projesinin logosu: gövdesi ışıklı devrelerden oluşan bir kadın, yardım isteyen el işareti gibi açık elini bakana doğru kaldırıyor ve avucunda NO PAIN yazıyor.",
+"20e13567": "no pAIn projesinin afişi: toplumsal cinsiyete dayalı şiddete karşı teknoloji. İki el, ekranında ışıklı bir kalkan ile yapay zekâ koruması ve çevrimdışı çalışma tuşları bulunan bir akıllı telefonu tutuyor; çevresinde No Trace ve Safe Zone yazıları var. Altta: uçtan uca tam gizlilik, buluta bağlanmayan çevrimdışı yapay zekâ, sesle, dokunuşla, akıllı saatle ya da button4help düğmesiyle hızlı devreye girme.",
+"860541be": "Amaç",
+"18e0d02c": "Elektronik bir <span class=\"hl\">signal for help</span>.",
+"898361e4": "El hareketi olan signal for help'i, o anda orada olan görür: bir merkezden, bir sunucudan ya da resmî bir hizmetten geçmez. Aynı şekilde no pAIn™ yardım çağrısı da önce güvendiğiniz kişilere, cihazdan cihaza, aracısız ulaşır.",
+"1c03ab3b": "Her ülkede bulunan tek acil durum numarasından başlayarak, kamu acil yardım hizmetlerinin yerini almaz; onları tamamlar. El hareketini gören birinin hem müdahale edip hem de aynı anda kolluk kuvvetlerini araması gibi, no pAIn™ uyarısını alan kişi de yardım edebilir ve resmî yardım hizmetlerini arayabilir.",
+"779211df": "Yardım çağrıları çok hızlıdır, çünkü acil durumda gerekir: bir anda yapılan el hareketi gibi. Tek farkla: projedeki yapay zekâ, çağrının konumla birlikte eller kullanılmadan, kendi cihazınıza dokunmadan da gönderilmesini sağlar.",
+"74398292": "Akıllı telefon",
+"92974a97": "Projede akıllı telefonlar için geliştirilen teknoloji: hem Android'de hem iPhone'da çalışır.",
+"7e7b2c76": "Projede akıllı saatler için geliştirilen teknoloji: alarm bilekten başlar, Wear OS ve Apple Watch üzerinde.",
+"85ed6e0d": "Bluetooth düğmesi",
+"bce7bde8": "Akıllı telefona bağlanan harici bir cihaz için geliştirilen teknoloji: üzerinizde taşıdığınız, birkaç saniye basılı tutulan bir düğme.",
+"5d910530": "no pAIn™ projesi <strong>Bari Politeknik Üniversitesi</strong> araştırma laboratuvarlarında doğdu; tasarımı ve geliştirmesi <strong>Prof. Dr. Müh. Agostino Giorgio</strong> tarafından yapılmaktadır."
 }
 };

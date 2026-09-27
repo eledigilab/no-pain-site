@@ -859,6 +859,22 @@
 "c5b7e264": "Jusqu'à 3 commandes vocales personnelles et secrètes (secret keyword) : l'urgence part sans toucher le smartphone et sans que personne s'en aperçoive",
 "efddb6f9": "Telegram avec position en direct jusqu'à 24 heures",
 "072abe43": "³ La présentation indique jusqu'à 24 heures dans les versions activées : AI help You et Proteggimi Android de 1 minute à 24 heures, AIuto SOS watch4help™ jusqu'à 60 minutes. Les 12 langues concernent les applications multilingues ; Proteggimi Android est en italien.",
-"9ed28354": "Cela dépend de l'application et de la version. Sur iOS Free c'est 30 minutes ; sur iOS Premium cela va de 1 minute à 24 heures. Sur Android, AI help You et Proteggimi vont jusqu'à 24 heures ; AIuto SOS watch4help™ va jusqu'à 60 minutes. Vérifiez les options de l'application installée."
+"9ed28354": "Cela dépend de l'application et de la version. Sur iOS Free c'est 30 minutes ; sur iOS Premium cela va de 1 minute à 24 heures. Sur Android, AI help You et Proteggimi vont jusqu'à 24 heures ; AIuto SOS watch4help™ va jusqu'à 60 minutes. Vérifiez les options de l'application installée.",
+"3aa16d19": "Le projet no pAIn™",
+"871d2afc": "Le nom est un acronyme anglais et dit déjà ce qu'il fait : plus jamais opprimée, protégée par l'intelligence artificielle, au sein d'un système qui agit contre la violence.",
+"ef2aa9c2": "<strong>La technologie contre les violences de genre</strong>L'affiche du projet, en anglais : confidentialité totale, intelligence artificielle embarquée et activation rapide.",
+"851c8425": "Logo du projet no pAIn : une femme dont le corps est fait de circuits lumineux lève la main ouverte vers celui qui regarde, comme le geste qui demande de l'aide, et on lit NO PAIN sur sa paume.",
+"20e13567": "Affiche du projet no pAIn : la technologie contre les violences de genre. Deux mains tiennent un smartphone avec un bouclier lumineux à l'écran et les touches de protection par intelligence artificielle et de fonctionnement hors ligne ; autour, les mots No Trace et Safe Zone. En bas : confidentialité totale en pair à pair, intelligence artificielle hors ligne sans cloud, activation rapide par la voix, le toucher, la montre connectée ou le bouton button4help.",
+"860541be": "Le but",
+"18e0d02c": "Un <span class=\"hl\">signal for help</span> électronique.",
+"898361e4": "Le signal for help, le geste de la main, est vu par celui qui se trouve là à ce moment-là : il ne passe ni par une centrale, ni par un serveur, ni par un service officiel. De la même manière, la demande d'aide de no pAIn™ arrive d'abord à des personnes de confiance, d'appareil à appareil, sans intermédiaire.",
+"1c03ab3b": "Il ne remplace pas les services publics de secours, à commencer par le numéro d'urgence unique qui existe dans chaque pays : il les complète. Exactement comme celui qui voit le geste de la main peut intervenir et appeler en même temps les forces de l'ordre, celui qui reçoit l'alerte de no pAIn™ peut aider et appeler les secours officiels.",
+"779211df": "Les demandes d'aide sont très rapides, parce qu'elles servent dans l'urgence : comme le geste de la main, qui se fait en un instant. Avec une différence : l'intelligence artificielle du projet permet de lancer la demande avec la géolocalisation même sans utiliser les mains, sans manipuler son appareil.",
+"74398292": "Smartphone",
+"92974a97": "La technologie développée dans le projet pour les smartphones : elle fonctionne aussi bien sur Android que sur iPhone.",
+"7e7b2c76": "La technologie développée dans le projet pour les montres connectées : l'alarme part du poignet, sur Wear OS et Apple Watch.",
+"85ed6e0d": "Bouton Bluetooth",
+"bce7bde8": "La technologie pour un appareil externe qui se connecte au smartphone : un bouton que l'on garde sur soi, maintenu appuyé deux secondes.",
+"5d910530": "Le projet no pAIn™ est né dans les laboratoires de recherche universitaire de l'<strong>École polytechnique de Bari</strong> et il est conçu et développé par le <strong>Prof. Ing. Agostino Giorgio</strong>."
 }
 };
