@@ -531,13 +531,13 @@
   "it": "Risorse",
   "tr": "Resurse"
  },
- "d2c43509": {
-  "it": "Manuali e privacy delle app ↗",
-  "tr": "Manuale și confidențialitatea aplicațiilor ↗"
+ "3ebb6ddf": {
+  "it": "Manuali e privacy delle app&nbsp;↗",
+  "tr": "Manuale și confidențialitatea aplicațiilor&nbsp;↗"
  },
- "3de40ce7": {
-  "it": "Presentazione del progetto (PDF, in italiano) ↗",
-  "tr": "Prezentarea proiectului (PDF, în italiană) ↗"
+ "4b9657d5": {
+  "it": "Presentazione del progetto (PDF, in italiano)&nbsp;↗",
+  "tr": "Prezentarea proiectului (PDF, în italiană)&nbsp;↗"
  },
  "fa6502e1": {
   "it": "In caso di pericolo immediato chiama il 112. Le app no pAIn™ avvisano i contatti di emergenza scelti da te e non sostituiscono i servizi pubblici di emergenza.",
@@ -1815,21 +1815,21 @@
   "it": "Questa locandina riassume il progetto no pAIn™: l'intelligenza artificiale al servizio della prevenzione, strumenti digitali discreti che ti proteggono ovunque tu sia e un'app per ogni dispositivo, con le app compagne per smartwatch.",
   "tr": "Acest afiș rezumă proiectul no pAIn™: inteligența artificială în slujba prevenirii, instrumente digitale discrete care te protejează oriunde te-ai afla și o aplicație pentru fiecare dispozitiv, cu aplicații însoțitoare pentru ceasuri inteligente."
  },
- "e30a1811": {
-  "it": "<a class=\"link-arrow\" href=\"https://play.google.com/store/apps/details?id=com.agiotech.aibutton\" target=\"_blank\" rel=\"noopener\">AIuto SOS — watch4help™ ↗</a> per smartwatch Wear OS",
-  "tr": "<a class=\"link-arrow\" href=\"https://play.google.com/store/apps/details?id=com.agiotech.aibutton\" target=\"_blank\" rel=\"noopener\">AIuto SOS — watch4help™ ↗</a> pentru ceasuri Wear OS"
+ "8d52f3bf": {
+  "it": "<a class=\"link-arrow\" href=\"https://play.google.com/store/apps/details?id=com.agiotech.aibutton\" target=\"_blank\" rel=\"noopener\">AIuto SOS — watch4help™&nbsp;↗</a> per smartwatch Wear OS",
+  "tr": "<a class=\"link-arrow\" href=\"https://play.google.com/store/apps/details?id=com.agiotech.aibutton\" target=\"_blank\" rel=\"noopener\">AIuto SOS — watch4help™&nbsp;↗</a> pentru ceasuri Wear OS"
  },
- "4f1e0878": {
-  "it": "<a class=\"link-arrow\" href=\"https://apps.apple.com/it/app/no-pain/id6756390159\" target=\"_blank\" rel=\"noopener\">no pAIn™ ↗</a> per iPhone, in 12 lingue",
-  "tr": "<a class=\"link-arrow\" href=\"https://apps.apple.com/it/app/no-pain/id6756390159\" target=\"_blank\" rel=\"noopener\">no pAIn™ ↗</a> pentru iPhone, în 12 limbi"
+ "26b8a690": {
+  "it": "<a class=\"link-arrow\" href=\"https://apps.apple.com/it/app/no-pain/id6756390159\" target=\"_blank\" rel=\"noopener\">no pAIn™&nbsp;↗</a> per iPhone, in 12 lingue",
+  "tr": "<a class=\"link-arrow\" href=\"https://apps.apple.com/it/app/no-pain/id6756390159\" target=\"_blank\" rel=\"noopener\">no pAIn™&nbsp;↗</a> pentru iPhone, în 12 limbi"
  },
- "aa5f7d48": {
-  "it": "<a class=\"link-arrow\" href=\"https://play.google.com/store/apps/details?id=com.agiotech.nopain\" target=\"_blank\" rel=\"noopener\">Proteggimi ↗</a> per Android, in italiano",
-  "tr": "<a class=\"link-arrow\" href=\"https://play.google.com/store/apps/details?id=com.agiotech.nopain\" target=\"_blank\" rel=\"noopener\">Proteggimi ↗</a> pentru Android, în italiană"
+ "451aca60": {
+  "it": "<a class=\"link-arrow\" href=\"https://play.google.com/store/apps/details?id=com.agiotech.nopain\" target=\"_blank\" rel=\"noopener\">Proteggimi&nbsp;↗</a> per Android, in italiano",
+  "tr": "<a class=\"link-arrow\" href=\"https://play.google.com/store/apps/details?id=com.agiotech.nopain\" target=\"_blank\" rel=\"noopener\">Proteggimi&nbsp;↗</a> pentru Android, în italiană"
  },
- "462a3bb0": {
-  "it": "<a class=\"link-arrow\" href=\"https://play.google.com/store/apps/details?id=com.agiotech.helpyou\" target=\"_blank\" rel=\"noopener\">AI help You ↗</a> per Android, in 12 lingue",
-  "tr": "<a class=\"link-arrow\" href=\"https://play.google.com/store/apps/details?id=com.agiotech.helpyou\" target=\"_blank\" rel=\"noopener\">AI help You ↗</a> pentru Android, în 12 limbi"
+ "97009740": {
+  "it": "<a class=\"link-arrow\" href=\"https://play.google.com/store/apps/details?id=com.agiotech.helpyou\" target=\"_blank\" rel=\"noopener\">AI help You&nbsp;↗</a> per Android, in 12 lingue",
+  "tr": "<a class=\"link-arrow\" href=\"https://play.google.com/store/apps/details?id=com.agiotech.helpyou\" target=\"_blank\" rel=\"noopener\">AI help You&nbsp;↗</a> pentru Android, în 12 limbi"
  },
  "caba9e67": {
   "it": "Tocca la locandina per ingrandirla. Per scaricare le app usa i link qui sopra.",
@@ -2087,9 +2087,9 @@
   "it": "<b data-no-i18n=\"\">BariToday</b> · Articolo · 3 marzo 2026",
   "tr": "<b data-no-i18n=\"\">BariToday</b> · Articol · 3 martie 2026"
  },
- "575317a0": {
-  "it": "Leggi l’articolo ↗",
-  "tr": "Citește articolul ↗"
+ "50d58408": {
+  "it": "Leggi l’articolo&nbsp;↗",
+  "tr": "Citește articolul&nbsp;↗"
  },
  "f6f4fac5": {
   "it": "<b data-no-i18n=\"\">TG Norba</b> · Servizio TV · 19 dicembre 2024",
@@ -2103,9 +2103,9 @@
   "it": "<b data-no-i18n=\"\">La Gazzetta del Mezzogiorno</b> · Video · 17 dicembre 2023",
   "tr": "<b data-no-i18n=\"\">La Gazzetta del Mezzogiorno</b> · Video · 17 decembrie 2023"
  },
- "20935298": {
-  "it": "Guarda il video ↗",
-  "tr": "Urmărește videoclipul ↗"
+ "d632dd10": {
+  "it": "Guarda il video&nbsp;↗",
+  "tr": "Urmărește videoclipul&nbsp;↗"
  },
  "0675c3d1": {
   "it": "<b data-no-i18n=\"\">TVA · Acquedotto Pugliese</b> · Video",
@@ -2175,9 +2175,9 @@
   "it": "Tecnologia peer-to-peer e intelligenza artificiale offline al servizio della sicurezza: l'articolo racconta il progetto no pAIn™, nato nel laboratorio ELEDIGILAB del Politecnico di Bari, e i suoi due pilastri, privacy totale e richiesta di aiuto anche senza toccare il telefono.",
   "tr": "Tehnologie peer-to-peer și inteligență artificială offline în slujba siguranței: articolul prezintă proiectul no pAIn™, născut în laboratorul ELEDIGILAB al Politecnico di Bari, și cei doi piloni ai săi, confidențialitate totală și cerere de ajutor chiar și fără să atingi telefonul."
  },
- "a4abfdce": {
-  "it": "Guarda su Instagram ↗",
-  "tr": "Vezi pe Instagram ↗"
+ "3d7bf19e": {
+  "it": "Guarda su Instagram&nbsp;↗",
+  "tr": "Vezi pe Instagram&nbsp;↗"
  },
  "216c64d7": {
   "it": "Locandina no pAIn project di Agostino Giorgio, Politecnico di Bari: uno scudo con una figura femminile, l'elenco delle quattro app (Proteggimi per Android in italiano, AI help You per Android in 12 lingue, AIuto SOS – watch4help per smartwatch Wear OS, no pAIn per iOS) e, in basso, uno smartwatch con il tasto SOS, uno smartphone con l'app e il pulsante button4help al collo.",
@@ -2259,9 +2259,9 @@
   "it": "Tutti i dettagli su cosa è gratis →",
   "tr": "Toate detaliile despre ce este gratuit →"
  },
- "8a74e3f1": {
-  "it": "<a class=\"link-arrow\" href=\"https://apps.apple.com/app/id6756390159\" target=\"_blank\" rel=\"noopener\">no pAIn™ ↗</a> per iPhone, in 12 lingue",
-  "tr": "<a class=\"link-arrow\" href=\"https://apps.apple.com/app/id6756390159\" target=\"_blank\" rel=\"noopener\">no pAIn™ ↗</a> pentru iPhone, în 12 limbi"
+ "caeab427": {
+  "it": "<a class=\"link-arrow\" href=\"https://apps.apple.com/app/id6756390159\" target=\"_blank\" rel=\"noopener\">no pAIn™&nbsp;↗</a> per iPhone, in 12 lingue",
+  "tr": "<a class=\"link-arrow\" href=\"https://apps.apple.com/app/id6756390159\" target=\"_blank\" rel=\"noopener\">no pAIn™&nbsp;↗</a> pentru iPhone, în 12 limbi"
  },
  "4601fdce": {
   "it": "<strong>Si scaricano tutte gratis</strong> e in ognuna chiedere aiuto con la tua posizione resta gratuito. <a class=\"link-arrow\" href=\"versioni.html\">Cosa è gratis in ogni app →</a>",
@@ -2591,13 +2591,13 @@
   "it": "Le app che lo riconoscono",
   "tr": "Aplicațiile care îl recunosc"
  },
- "d22d750d": {
-  "it": "<a class=\"link-arrow\" href=\"prodotti.html#ai-help-you\">AI help You ↗</a> per Android",
-  "tr": "<a class=\"link-arrow\" href=\"prodotti.html#ai-help-you\">AI help You ↗</a> pentru Android"
+ "c5fc8e43": {
+  "it": "<a class=\"link-arrow\" href=\"prodotti.html#ai-help-you\">AI help You&nbsp;↗</a> per Android",
+  "tr": "<a class=\"link-arrow\" href=\"prodotti.html#ai-help-you\">AI help You&nbsp;↗</a> pentru Android"
  },
- "6fa46b84": {
-  "it": "<a class=\"link-arrow\" href=\"prodotti.html#no-pain-ios\">no pAIn™ (Proteggimi) ↗</a> per iPhone, dalla versione 59 in poi",
-  "tr": "<a class=\"link-arrow\" href=\"prodotti.html#no-pain-ios\">no pAIn™ (Proteggimi) ↗</a> pentru iPhone, de la versiunea 59 în sus"
+ "cf3ca054": {
+  "it": "<a class=\"link-arrow\" href=\"prodotti.html#no-pain-ios\">no pAIn™ (Proteggimi)&nbsp;↗</a> per iPhone, dalla versione 59 in poi",
+  "tr": "<a class=\"link-arrow\" href=\"prodotti.html#no-pain-ios\">no pAIn™ (Proteggimi)&nbsp;↗</a> pentru iPhone, de la versiunea 59 în sus"
  },
  "995f55b7": {
   "it": "L'abbinamento si fa una volta sola, dall'app, con una procedura guidata di pochi passaggi. Proteggimi per Android e AIuto SOS per Wear OS non usano il pulsante.",
@@ -2787,9 +2787,9 @@
   "it": "Il manuale è già dentro l'app, sull'orologio",
   "tr": "Manualul este deja în aplicație, pe ceas"
  },
- "1933dc99": {
-  "it": "Sul telefono puoi installare la stessa guida come app: <a class=\"link-arrow\" href=\"https://play.google.com/store/apps/details?id=com.agiotech.aibutton\" target=\"_blank\" rel=\"noopener\">aprila su Google Play ↗</a>",
-  "tr": "Pe telefon poți instala același ghid ca aplicație: <a class=\"link-arrow\" href=\"https://play.google.com/store/apps/details?id=com.agiotech.aibutton\" target=\"_blank\" rel=\"noopener\">deschide-l pe Google Play ↗</a>"
+ "133b002f": {
+  "it": "Sul telefono puoi installare la stessa guida come app: <a class=\"link-arrow\" href=\"https://play.google.com/store/apps/details?id=com.agiotech.aibutton\" target=\"_blank\" rel=\"noopener\">aprila su Google Play&nbsp;↗</a>",
+  "tr": "Pe telefon poți instala același ghid ca aplicație: <a class=\"link-arrow\" href=\"https://play.google.com/store/apps/details?id=com.agiotech.aibutton\" target=\"_blank\" rel=\"noopener\">deschide-l pe Google Play&nbsp;↗</a>"
  },
  "1e5e285b": {
   "it": "Dalla guida sul telefono si installa anche l'app sull'orologio, per chi non ce l'ha ancora",
@@ -2807,9 +2807,9 @@
   "it": "Telegram: come collegare i contatti (PDF) <span class=\"arr\">↗</span>",
   "tr": "Telegram: cum îți conectezi contactele (PDF) <span class=\"arr\">↗</span>"
  },
- "4c4cb0a1": {
-  "it": "Manuale Proteggimi per Android (PDF) ↗",
-  "tr": "Manual Proteggimi pentru Android (PDF) ↗"
+ "395548e7": {
+  "it": "Manuale Proteggimi per Android (PDF)&nbsp;↗",
+  "tr": "Manual Proteggimi pentru Android (PDF)&nbsp;↗"
  },
  "0929c4a7": {
   "it": "Locandina digital4help: protezione digitale contro la violenza di genere, una nuova era è appena cominciata. Uno scudo con una figura femminile al centro di circuiti luminosi e, sotto, i tre modi per chiedere aiuto: smartphone con gesto o comando vocale, smartwatch AIuto SOS watch4help e pulsante button4help premuto per un secondo; in basso IA offline, Safe Zone, No Trace, SOS indossabile e il codice QR del sito.",
@@ -2943,9 +2943,9 @@
   "it": "Scrivici e ti diciamo appena i videotutorial sono online. Puoi anche dirci quale argomento ti serve per primo: cominciamo da lì.",
   "tr": "Scrie-ne și îți spunem imediat ce tutorialele video sunt online. Poți să ne spui și ce subiect îți trebuie primul: de acolo începem."
  },
- "beb85751": {
-  "it": "Scrivi al progettista ↗",
-  "tr": "Scrie proiectantului ↗"
+ "7ccb2357": {
+  "it": "Scrivi al progettista&nbsp;↗",
+  "tr": "Scrie proiectantului&nbsp;↗"
  },
  "7bb80a0f": {
   "it": "no pAIn™ — Collabora con noi",
@@ -3011,9 +3011,9 @@
   "it": "Compila i campi: il modulo apre il tuo programma di posta con il messaggio già scritto, che arriva all'indirizzo del Prof. Ing. Agostino Giorgio al Politecnico di Bari. Niente viene inviato o registrato da questo sito.",
   "tr": "Completează câmpurile: formularul deschide programul tău de e-mail cu mesajul deja scris, adresat Prof. Ing. Agostino Giorgio de la Politecnico di Bari. Nimic nu este trimis sau înregistrat de acest site."
  },
- "1f994491": {
-  "it": "Preferisci scrivere direttamente? <a class=\"link-arrow\" href=\"mailto:agostino.giorgio@poliba.it\" data-mail=\"partner\">agostino.giorgio@poliba.it ↗</a>",
-  "tr": "Preferi să scrii direct? <a class=\"link-arrow\" href=\"mailto:agostino.giorgio@poliba.it\" data-mail=\"partner\">agostino.giorgio@poliba.it ↗</a>"
+ "bfb497d7": {
+  "it": "Preferisci scrivere direttamente? <a class=\"link-arrow\" href=\"mailto:agostino.giorgio@poliba.it\" data-mail=\"partner\">agostino.giorgio@poliba.it&nbsp;↗</a>",
+  "tr": "Preferi să scrii direct? <a class=\"link-arrow\" href=\"mailto:agostino.giorgio@poliba.it\" data-mail=\"partner\">agostino.giorgio@poliba.it&nbsp;↗</a>"
  },
  "e22786b1": {
   "it": "Nome e cognome",
@@ -3079,9 +3079,9 @@
   "it": "Chi si occupa di comunicazione, formazione o eventi può aiutare a far arrivare queste app a chi non sa che esistono.",
   "tr": "Cine lucrează în comunicare, formare sau evenimente poate ajuta aceste aplicații să ajungă la cei care nu știu că există."
  },
- "7710e7c2": {
-  "it": "Scrivici ↗",
-  "tr": "Scrie-ne ↗"
+ "3bebfb3a": {
+  "it": "Scrivici&nbsp;↗",
+  "tr": "Scrie-ne&nbsp;↗"
  },
  "14574e8a": {
   "it": "Un ciondolo a forma di cuore in oro, portato al collo, viene premuto con un dito: al centro nasconde il pulsante button4help. Sotto, la scritta button4help, the signal4help becomes pure technology.",
@@ -3147,9 +3147,9 @@
   "it": "iPhone guide (PDF, English) <span class=\"arr\">↗</span>",
   "tr": "Ghid iPhone (PDF, engleză) <span class=\"arr\">↗</span>"
  },
- "375bec30": {
-  "it": "Guida no pAIn™ per iPhone (PDF) ↗",
-  "tr": "Ghid no pAIn™ pentru iPhone (PDF) ↗"
+ "84adb798": {
+  "it": "Guida no pAIn™ per iPhone (PDF)&nbsp;↗",
+  "tr": "Ghid no pAIn™ pentru iPhone (PDF)&nbsp;↗"
  },
  "107fec46": {
   "it": "Pagina principale di no pAIn app su iPhone: stato Pronto, grande tasto rosso EMERGENZA richiesta aiuto, tasto Chiama 112 e promemoria del comando vocale “Ehi Siri, Proteggimi”.",
@@ -3451,13 +3451,13 @@
   "it": "Il progetto no pAIn™ nasce nei laboratori di ricerca universitaria del <strong>Politecnico di Bari</strong> ed è ideato e sviluppato dal <strong>Prof. Ing. Agostino Giorgio</strong>.",
   "tr": "Proiectul no pAIn™ s-a născut în laboratoarele de cercetare universitară ale <strong>Politehnicii din Bari</strong> și este conceput și dezvoltat de <strong>Prof. Ing. Agostino Giorgio</strong>."
  },
- "87ce901b": {
-  "it": "Guida no pAIn™ per iPhone (PDF, italiano) ↗",
-  "tr": "Ghid no pAIn™ pentru iPhone (PDF, italiană) ↗"
+ "ce8b7ee1": {
+  "it": "Guida no pAIn™ per iPhone (PDF, italiano)&nbsp;↗",
+  "tr": "Ghid no pAIn™ pentru iPhone (PDF, italiană)&nbsp;↗"
  },
- "1e239557": {
-  "it": "no pAIn™ iPhone guide (PDF, English) ↗",
-  "tr": "Ghid no pAIn™ pentru iPhone (PDF, engleză) ↗"
+ "204f7385": {
+  "it": "no pAIn™ iPhone guide (PDF, English)&nbsp;↗",
+  "tr": "Ghid no pAIn™ pentru iPhone (PDF, engleză)&nbsp;↗"
  },
  "_ui": {
   "menu": "Meniu",

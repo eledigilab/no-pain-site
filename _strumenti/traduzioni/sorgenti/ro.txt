@@ -138,8 +138,8 @@ mail.partnerBody|Bună ziua,\naș dori să aflu mai multe despre proiectul no pA
 142|Proiect al Prof. Ing. Agostino Giorgio<br>Cadru didactic la Politecnico di Bari
 143|Site-ul
 144|Resurse
-145|Manuale și confidențialitatea aplicațiilor ↗
-146|Prezentarea proiectului (PDF, în italiană) ↗
+145|Manuale și confidențialitatea aplicațiilor&nbsp;↗
+146|Prezentarea proiectului (PDF, în italiană)&nbsp;↗
 148|În caz de pericol imediat sună la 112. Aplicațiile no pAIn™ anunță contactele de urgență alese de tine și nu înlocuiesc serviciile publice de urgență.
 149|Informează-te. Configurează. Testează.
 150|Navigare principală
@@ -460,10 +460,10 @@ mail.partnerBody|Bună ziua,\naș dori să aflu mai multe despre proiectul no pA
 486|Proiectul pe scurt
 487|Inteligența artificială împotriva violenței de gen.
 488|Acest afiș rezumă proiectul no pAIn™: inteligența artificială în slujba prevenirii, instrumente digitale discrete care te protejează oriunde te-ai afla și o aplicație pentru fiecare dispozitiv, cu aplicații însoțitoare pentru ceasuri inteligente.
-489|<a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.aibutton" target="_blank" rel="noopener">AIuto SOS — watch4help™ ↗</a> pentru ceasuri Wear OS
-490|<a class="link-arrow" href="https://apps.apple.com/it/app/no-pain/id6756390159" target="_blank" rel="noopener">no pAIn™ ↗</a> pentru iPhone, în 12 limbi
-491|<a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.nopain" target="_blank" rel="noopener">Proteggimi ↗</a> pentru Android, în italiană
-492|<a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.helpyou" target="_blank" rel="noopener">AI help You ↗</a> pentru Android, în 12 limbi
+489|<a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.aibutton" target="_blank" rel="noopener">AIuto SOS — watch4help™&nbsp;↗</a> pentru ceasuri Wear OS
+490|<a class="link-arrow" href="https://apps.apple.com/it/app/no-pain/id6756390159" target="_blank" rel="noopener">no pAIn™&nbsp;↗</a> pentru iPhone, în 12 limbi
+491|<a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.nopain" target="_blank" rel="noopener">Proteggimi&nbsp;↗</a> pentru Android, în italiană
+492|<a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.helpyou" target="_blank" rel="noopener">AI help You&nbsp;↗</a> pentru Android, în 12 limbi
 493|Atinge afișul pentru a-l mări. Pentru a descărca aplicațiile, folosește linkurile de mai sus.
 494|<strong>Protect Your Freedom: AI Against Gender Violence</strong>Afișul proiectului, în engleză.
 495|Afișul proiectului no pAIn: Protect Your Freedom, AI Against Gender Violence. Prezintă aplicațiile AIuto SOS pentru ceasuri inteligente, no pAIn pentru iPhone, Proteggimi și AI help You pentru Android.
@@ -528,11 +528,11 @@ mail.partnerBody|Bună ziua,\naș dori să aflu mai multe despre proiectul no pA
 554|Au vorbit despre noi.
 555|Ziare și televiziuni care au prezentat proiectul no pAIn™.
 556|<b data-no-i18n="">BariToday</b> · Articol · 3 martie 2026
-557|Citește articolul ↗
+557|Citește articolul&nbsp;↗
 558|<b data-no-i18n="">TG Norba</b> · Reportaj TV · 19 decembrie 2024
 559|Proiectul no pAIn™ în ediția de la 7.30 a jurnalului.
 560|<b data-no-i18n="">La Gazzetta del Mezzogiorno</b> · Video · 17 decembrie 2023
-561|Urmărește videoclipul ↗
+561|Urmărește videoclipul&nbsp;↗
 562|<b data-no-i18n="">TVA · Acquedotto Pugliese</b> · Video
 563|Prevenirea violenței de gen cu inteligența artificială: interviu cu Prof. Ing. Agostino Giorgio.
 564|Logoul Politecnico di Bari
@@ -550,7 +550,7 @@ mail.partnerBody|Bună ziua,\naș dori să aflu mai multe despre proiectul no pA
 576|Atinge o imagine pentru a o mări.
 577|<b data-no-i18n="">La Gazzetta del Mezzogiorno</b> · Articol · august 2026
 578|Tehnologie peer-to-peer și inteligență artificială offline în slujba siguranței: articolul prezintă proiectul no pAIn™, născut în laboratorul ELEDIGILAB al Politecnico di Bari, și cei doi piloni ai săi, confidențialitate totală și cerere de ajutor chiar și fără să atingi telefonul.
-579|Vezi pe Instagram ↗
+579|Vezi pe Instagram&nbsp;↗
 580|Afișul no pAIn project de Agostino Giorgio, Politecnico di Bari: un scut cu o siluetă feminină, lista celor patru aplicații (Proteggimi pentru Android în italiană, AI help You pentru Android în 12 limbi, AIuto SOS – watch4help pentru ceasuri inteligente Wear OS, no pAIn pentru iOS) și, jos, un ceas inteligent cu tasta SOS, un smartphone cu aplicația și butonul button4help purtat la gât.
 581|<strong>no pAIn™ project: Technology that protects life</strong>Proiectul și aplicațiile sale într-un afiș, în engleză.
 582|Gratuit când contează
@@ -617,7 +617,7 @@ mail.partnerBody|Bună ziua,\naș dori să aflu mai multe despre proiectul no pA
 644|¹ După cele 3 zile de probă, fără Premium butonul Avvia (Proteggimi) sau Start (AI help You) este inactiv; urgența pornește gratuit din butoanele de urgență rapidă.
 645|² În Android Free, după pornirea dintr-un buton de urgență rapidă.
 646|Descărcarea este gratuită și în fiecare aplicație să ceri ajutor cu locația ta rămâne gratuit. AIuto SOS watch4help™ pentru Wear OS este complet gratuită. Proteggimi și AI help You pentru Android oferă 3 zile de probă completă; apoi funcțiile de urgență rămân gratuite și expiră doar pornirea din butonul Avvia sau Start. Pe iPhone alarma pe Telegram cu locația ta, inclusiv live și de pe Apple Watch, este mereu gratuită; Siri, SMS, WhatsApp și apelul necesită o achiziție unică, fără abonament. <a href="versioni.html">Vezi comparația</a>.
-600|<a class="link-arrow" href="https://apps.apple.com/app/id6756390159" target="_blank" rel="noopener">no pAIn™ ↗</a> pentru iPhone, în 12 limbi
+600|<a class="link-arrow" href="https://apps.apple.com/app/id6756390159" target="_blank" rel="noopener">no pAIn™&nbsp;↗</a> pentru iPhone, în 12 limbi
 647|Vizite pe site
 648|<strong>O atingere pe ceasul inteligent, chiar și cu telefonul pe jos</strong>În timpul unei agresiuni ajunge o atingere pe ceas: Proteggimi anunță prietenii cu locația, ei sună poliția și ajutorul ajunge la timp. Scene de ficțiune, în scop demonstrativ; videoclipul are sunet.
 649|AI help You în două afișe.
@@ -654,8 +654,8 @@ mail.partnerBody|Bună ziua,\naș dori să aflu mai multe despre proiectul no pA
 680|button4help™ este un simplu buton Bluetooth vândut într-un magazin online: nu are cartelă SIM, nu are un centru de asistență în spate și nu îți cunoaște locația. Funcțiile de urgență le oferă aplicația no pAIn™: ea recunoaște dispozitivul, îl acceptă ca declanșator și, la apăsare, trimite mesaje, locația și apeluri către contactele tale.
 681|Fără asocierea cu aplicația, butonul nu are nicio funcție de ajutor.
 682|Aplicațiile care îl recunosc
-683|<a class="link-arrow" href="prodotti.html#ai-help-you">AI help You ↗</a> pentru Android
-684|<a class="link-arrow" href="prodotti.html#no-pain-ios">no pAIn™ (Proteggimi) ↗</a> pentru iPhone, de la versiunea 59 în sus
+683|<a class="link-arrow" href="prodotti.html#ai-help-you">AI help You&nbsp;↗</a> pentru Android
+684|<a class="link-arrow" href="prodotti.html#no-pain-ios">no pAIn™ (Proteggimi)&nbsp;↗</a> pentru iPhone, de la versiunea 59 în sus
 685|Asocierea se face o singură dată, din aplicație, printr-o procedură ghidată de câțiva pași. Proteggimi pentru Android și AIuto SOS pentru Wear OS nu folosesc butonul.
 686|AI help You (Android) și no pAIn™ (iPhone) de la versiunea 59, după asociere
 687|Deschide AI help You pe Android sau no pAIn™ pentru iPhone, de la versiunea 59 în sus, și urmează procedura ghidată de asociere: câțiva pași, o singură dată. De atunci aplicația recunoaște butonul și îl acceptă ca declanșator. Apoi fă o probă stabilită dinainte cu contactele tale.
@@ -703,12 +703,12 @@ mail.partnerBody|Bună ziua,\naș dori să aflu mai multe despre proiectul no pA
 729|Vezi videoclipurile <span class="arr">→</span>
 730|Manualul
 731|Manualul este deja în aplicație, pe ceas
-732|Pe telefon poți instala același ghid ca aplicație: <a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.aibutton" target="_blank" rel="noopener">deschide-l pe Google Play ↗</a>
+732|Pe telefon poți instala același ghid ca aplicație: <a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.aibutton" target="_blank" rel="noopener">deschide-l pe Google Play&nbsp;↗</a>
 733|Din ghidul de pe telefon se instalează și aplicația de pe ceas, pentru cine nu o are încă
 734|Manualul aplicației Proteggimi pentru Android este un PDF în italiană: se deschide în browser și poate fi salvat. Secțiunea despre Telegram explică cum se conectează contactele la bot în câțiva pași. Durata locației live diferă de la o aplicație la alta: verifică opțiunile aplicației instalate.
 735|Manual Proteggimi, Android (PDF) <span class="arr">↗</span>
 736|Telegram: cum îți conectezi contactele (PDF) <span class="arr">↗</span>
-737|Manual Proteggimi pentru Android (PDF) ↗
+737|Manual Proteggimi pentru Android (PDF)&nbsp;↗
 738|Afișul digital4help: protecție digitală împotriva violenței de gen, o nouă eră tocmai a început. Un scut cu o siluetă feminină printre circuite luminoase și, dedesubt, cele trei moduri de a cere ajutor: smartphone cu un gest sau o comandă vocală, ceas inteligent AIuto SOS watch4help și butonul button4help apăsat o secundă; jos, IA offline, Safe Zone, No Trace, SOS purtabil și codul QR al site-ului.
 739|<strong>digital4help™: tehnologia care cere ajutor în locul tău</strong>Smartphone, ceas inteligent și buton: cele trei moduri de a porni alarma. Afiș în engleză.
 740|Afișul digital4help: cele trei moduri de a cere ajutor, smartphone cu un gest sau o comandă vocală, ceas inteligent AIuto SOS watch4help și butonul button4help apăsat o secundă; în jur, IA offline, Safe Zone, No Trace și SOS purtabil.
@@ -742,7 +742,7 @@ mail.partnerBody|Bună ziua,\naș dori să aflu mai multe despre proiectul no pA
 768|Cât pregătim videoclipurile, găsești manualul scris și demonstrațiile cinematografice ale aplicațiilor.
 769|Vrei să te anunțăm
 770|Scrie-ne și îți spunem imediat ce tutorialele video sunt online. Poți să ne spui și ce subiect îți trebuie primul: de acolo începem.
-771|Scrie proiectantului ↗
+771|Scrie proiectantului&nbsp;↗
 772|no pAIn™ — Colaborează cu noi
 773|Colaborează cu proiectul no pAIn™ al Politecnico di Bari: căutăm meșteșugari și firme de bijuterii pentru a ascunde button4help™ în bijuterii și accesorii purtabile.
 774|Colaborează cu noi
@@ -759,7 +759,7 @@ mail.partnerBody|Bună ziua,\naș dori să aflu mai multe despre proiectul no pA
 785|Conceptul: butonul ascuns într-un pandantiv în formă de inimă. Imagine ilustrativă.
 786|Spune-ne ce ai vrea să aduci în proiect.
 787|Completează câmpurile: formularul deschide programul tău de e-mail cu mesajul deja scris, adresat Prof. Ing. Agostino Giorgio de la Politecnico di Bari. Nimic nu este trimis sau înregistrat de acest site.
-788|Preferi să scrii direct? <a class="link-arrow" href="mailto:agostino.giorgio@poliba.it" data-mail="partner">agostino.giorgio@poliba.it ↗</a>
+788|Preferi să scrii direct? <a class="link-arrow" href="mailto:agostino.giorgio@poliba.it" data-mail="partner">agostino.giorgio@poliba.it&nbsp;↗</a>
 789|Nume și prenume
 790|Email sau telefon pentru răspuns
 791|Firmă, atelier sau instituție (opțional)
@@ -776,7 +776,7 @@ mail.partnerBody|Bună ziua,\naș dori să aflu mai multe despre proiectul no pA
 802|Răspândire
 803|Să fie cunoscut
 804|Cine lucrează în comunicare, formare sau evenimente poate ajuta aceste aplicații să ajungă la cei care nu știu că există.
-805|Scrie-ne ↗
+805|Scrie-ne&nbsp;↗
 806|Un pandantiv de aur în formă de inimă, purtat la gât, este apăsat cu un deget: în centru ascunde butonul button4help. Dedesubt, inscripția button4help, the signal4help becomes pure technology.
 807|Material promoțional al proiectului, în engleză.
 808|Alte pagini
@@ -793,7 +793,7 @@ mail.partnerBody|Bună ziua,\naș dori să aflu mai multe despre proiectul no pA
 819|<strong>Toate subiectele</strong>De la modurile rapide la 112, până la ghidul complet în PDF.
 820|Ghid iPhone (PDF, italiană) <span class="arr">↗</span>
 821|Ghid iPhone (PDF, engleză) <span class="arr">↗</span>
-822|Ghid no pAIn™ pentru iPhone (PDF) ↗
+822|Ghid no pAIn™ pentru iPhone (PDF)&nbsp;↗
 823|Pagina principală a no pAIn app pe iPhone: stare Pregătit, buton roșu mare URGENȚĂ cerere de ajutor, buton Sună la 112 și amintirea comenzii vocale „Hey Siri, Ajută-mă”.
 824|Setările no pAIn app: acțiuni de urgență cu Telegram, locație live și durată, SMS, WhatsApp, apel și alegerea numărului de apelat.
 825|Setările no pAIn app: butonul de urgență button4help activ și pregătit, model recunoscut Holy-IOT 21011, sensibilitate, calitatea semnalului și nivelul bateriei.
@@ -869,5 +869,5 @@ mail.partnerBody|Bună ziua,\naș dori să aflu mai multe despre proiectul no pA
 895|Buton Bluetooth
 896|Tehnologia pentru un dispozitiv extern care se conectează la smartphone: un buton pe care îl ții la tine, ținut apăsat câteva secunde.
 897|Proiectul no pAIn™ s-a născut în laboratoarele de cercetare universitară ale <strong>Politehnicii din Bari</strong> și este conceput și dezvoltat de <strong>Prof. Ing. Agostino Giorgio</strong>.
-898|Ghid no pAIn™ pentru iPhone (PDF, italiană) ↗
-899|Ghid no pAIn™ pentru iPhone (PDF, engleză) ↗
+898|Ghid no pAIn™ pentru iPhone (PDF, italiană)&nbsp;↗
+899|Ghid no pAIn™ pentru iPhone (PDF, engleză)&nbsp;↗

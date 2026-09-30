@@ -11,7 +11,7 @@ import re
 
 TOOLS = pathlib.Path(__file__).resolve().parent
 OUT = TOOLS.parent
-VERSION = "20260930a"
+VERSION = "20260930b"
 
 # Nomi ideati dall'autore: mai tradotti, sempre con ™
 TM_TERMS = ["digital4help", "watch4help", "button4help", "no pAIn"]
@@ -126,7 +126,7 @@ FOOT = """
         <span>Politecnico di Bari · Via Re David, 200 · 70125 Bari</span>
         <a href="tel:+390805963239">Tel. ufficio: 080 596 3239/579</a>
         <a href="mailto:agostino.giorgio@poliba.it" data-no-i18n>agostino.giorgio@poliba.it</a>
-        <a href="https://www.instagram.com/no_pain_app/" target="_blank" rel="noopener" data-no-i18n>Instagram: @no_pain_app ↗</a>
+        <a href="https://www.instagram.com/no_pain_app/" target="_blank" rel="noopener" data-no-i18n>Instagram: @no_pain_app ↗</a>
       </address>
     </div>
     <div class="contact-options">
@@ -153,12 +153,12 @@ FOOT = """
     <div>
       <h4>Risorse</h4>
       <ul>
-        <li><a href="https://poliba.wixsite.com/no_pain_privacy" target="_blank" rel="noopener">Manuali e privacy delle app ↗</a></li>
-        <li><a href="assets/guida-no-pain-android.pdf" target="_blank" rel="noopener">Manuale Proteggimi per Android (PDF) ↗</a></li>
-        <li><a href="assets/guida-no-pain-ios-it.pdf?v=20260930" target="_blank" rel="noopener">Guida no pAIn per iPhone (PDF, italiano) ↗</a></li>
-        <li><a href="assets/guida-no-pain-ios-en.pdf?v=20260930" target="_blank" rel="noopener">no pAIn iPhone guide (PDF, English) ↗</a></li>
-        <li><a href="assets/no-pain-presentazione.pdf" target="_blank" rel="noopener">Presentazione del progetto (PDF, in italiano) ↗</a></li>
-        <li><a href="https://www.instagram.com/no_pain_app/" target="_blank" rel="noopener">Instagram ↗</a></li>
+        <li><a href="https://poliba.wixsite.com/no_pain_privacy" target="_blank" rel="noopener">Manuali e privacy delle app ↗</a></li>
+        <li><a href="assets/guida-no-pain-android.pdf" target="_blank" rel="noopener">Manuale Proteggimi per Android (PDF) ↗</a></li>
+        <li><a href="assets/guida-no-pain-ios-it.pdf?v=20260930" target="_blank" rel="noopener">Guida no pAIn per iPhone (PDF, italiano) ↗</a></li>
+        <li><a href="assets/guida-no-pain-ios-en.pdf?v=20260930" target="_blank" rel="noopener">no pAIn iPhone guide (PDF, English) ↗</a></li>
+        <li><a href="assets/no-pain-presentazione.pdf" target="_blank" rel="noopener">Presentazione del progetto (PDF, in italiano) ↗</a></li>
+        <li><a href="https://www.instagram.com/no_pain_app/" target="_blank" rel="noopener">Instagram ↗</a></li>
       </ul>
     </div>
     <p class="fineprint"><span>In caso di pericolo immediato chiama il 112. Le app no pAIn avvisano i contatti di emergenza scelti da te e non sostituiscono i servizi pubblici di emergenza.</span> <span data-no-i18n>© <span id="year">2026</span> no pAIn</span> · <span>Informati. Configura. Prova.</span></p>

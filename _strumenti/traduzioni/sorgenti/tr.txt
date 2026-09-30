@@ -139,8 +139,8 @@ mail.partnerBody|Merhaba,\nno pAIn™ projesi hakkında daha fazla bilgi almak v
 142|Prof. Müh. Agostino Giorgio’nun projesi<br>Politecnico di Bari öğretim üyesi
 143|Site
 144|Kaynaklar
-145|Uygulama kılavuzları ve gizlilik ↗
-146|Proje sunumu (PDF, İtalyanca) ↗
+145|Uygulama kılavuzları ve gizlilik&nbsp;↗
+146|Proje sunumu (PDF, İtalyanca)&nbsp;↗
 148|Acil bir tehlikede 112’yi arayın. no pAIn™ uygulamaları seçtiğiniz acil durum kişilerini uyarır ve kamu acil durum hizmetlerinin yerini tutmaz.
 149|Bilgi edinin. Ayarlayın. Deneyin.
 150|Ana gezinme
@@ -461,10 +461,10 @@ mail.partnerBody|Merhaba,\nno pAIn™ projesi hakkında daha fazla bilgi almak v
 486|Bir bakışta proje
 487|Toplumsal cinsiyete dayalı şiddete karşı yapay zekâ.
 488|Bu afiş no pAIn™ projesini özetliyor: önlemenin hizmetinde yapay zekâ, nerede olursanız olun sizi koruyan fark edilmeyen dijital araçlar ve akıllı saatler için yardımcı uygulamalarla her cihaza bir uygulama.
-489|Wear OS akıllı saatler için <a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.aibutton" target="_blank" rel="noopener">AIuto SOS — watch4help™ ↗</a>
-490|iPhone için <a class="link-arrow" href="https://apps.apple.com/it/app/no-pain/id6756390159" target="_blank" rel="noopener">no pAIn™ ↗</a>, 12 dilde
-491|Android için <a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.nopain" target="_blank" rel="noopener">Proteggimi ↗</a>, İtalyanca
-492|Android için <a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.helpyou" target="_blank" rel="noopener">AI help You ↗</a>, 12 dilde
+489|Wear OS akıllı saatler için <a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.aibutton" target="_blank" rel="noopener">AIuto SOS — watch4help™&nbsp;↗</a>
+490|iPhone için <a class="link-arrow" href="https://apps.apple.com/it/app/no-pain/id6756390159" target="_blank" rel="noopener">no pAIn™&nbsp;↗</a>, 12 dilde
+491|Android için <a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.nopain" target="_blank" rel="noopener">Proteggimi&nbsp;↗</a>, İtalyanca
+492|Android için <a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.helpyou" target="_blank" rel="noopener">AI help You&nbsp;↗</a>, 12 dilde
 493|Büyütmek için afişe dokunun. Uygulamaları indirmek için yukarıdaki bağlantıları kullanın.
 494|<strong>Protect Your Freedom: AI Against Gender Violence</strong>Projenin afişi, İngilizce.
 495|no pAIn projesinin afişi: Protect Your Freedom, AI Against Gender Violence. Akıllı saatler için AIuto SOS, iPhone için no pAIn, Android için Proteggimi ve AI help You uygulamalarını tanıtır.
@@ -529,11 +529,11 @@ mail.partnerBody|Merhaba,\nno pAIn™ projesi hakkında daha fazla bilgi almak v
 554|Hakkında konuştular.
 555|no pAIn™ projesini anlatan gazeteler ve televizyonlar.
 556|<b data-no-i18n="">BariToday</b> · Makale · 3 Mart 2026
-557|Makaleyi okuyun ↗
+557|Makaleyi okuyun&nbsp;↗
 558|<b data-no-i18n="">TG Norba</b> · TV haberi · 19 Aralık 2024
 559|Saat 7.30 haber bülteninde no pAIn™ projesi.
 560|<b data-no-i18n="">La Gazzetta del Mezzogiorno</b> · Video · 17 Aralık 2023
-561|Videoyu izleyin ↗
+561|Videoyu izleyin&nbsp;↗
 562|<b data-no-i18n="">TVA · Acquedotto Pugliese</b> · Video
 563|Toplumsal cinsiyete dayalı şiddeti yapay zekâ ile önlemek: Prof. Müh. Agostino Giorgio ile söyleşi.
 564|Politecnico di Bari logosu
@@ -551,7 +551,7 @@ mail.partnerBody|Merhaba,\nno pAIn™ projesi hakkında daha fazla bilgi almak v
 576|Büyütmek için bir görsele dokunun.
 577|<b data-no-i18n="">La Gazzetta del Mezzogiorno</b> · Makale · Ağustos 2026
 578|Güvenliğin hizmetinde eşler arası teknoloji ve çevrimdışı yapay zekâ: makale, Politecnico di Bari’nin ELEDIGILAB laboratuvarında doğan no pAIn™ projesini ve iki temelini anlatıyor: tam gizlilik ve telefona dokunmadan bile yardım isteme.
-579|Instagram’da görün ↗
+579|Instagram’da görün&nbsp;↗
 580|Agostino Giorgio, Politecnico di Bari imzalı no pAIn project afişi: kadın figürlü bir kalkan, dört uygulamanın listesi (İtalyanca Android için Proteggimi, 12 dilde Android için AI help You, Wear OS akıllı saatler için AIuto SOS – watch4help, iOS için no pAIn) ve altta SOS tuşlu bir akıllı saat, uygulamanın açık olduğu bir akıllı telefon ve boyuna takılan button4help düğmesi.
 581|<strong>no pAIn™ project: Technology that protects life</strong>Proje ve uygulamaları tek bir afişte, İngilizce.
 582|Gerektiğinde ücretsiz
@@ -618,7 +618,7 @@ mail.partnerBody|Merhaba,\nno pAIn™ projesi hakkında daha fazla bilgi almak v
 644|¹ 3 günlük denemeden sonra Premium olmadan Avvia (Proteggimi) ya da Start (AI help You) düğmesi etkin değildir; acil durum hızlı acil durum düğmelerinden ücretsiz başlar.
 645|² Android Free'de, bir hızlı acil durum düğmesiyle başlatıldıktan sonra.
 646|İndirmek ücretsizdir ve her uygulamada konumunuzla yardım istemek ücretsiz kalır. Wear OS için AIuto SOS watch4help™ tamamen ücretsizdir. Android için Proteggimi ve AI help You 3 gün tam deneme sunar; ardından acil durum işlevleri ücretsiz kalır ve yalnızca Avvia ya da Start düğmesiyle başlatma sona erer. iPhone'da konumunuzla Telegram alarmı, canlı konum ve Apple Watch dahil, her zaman ücretsizdir; Siri, SMS, WhatsApp ve arama abonelik olmadan tek seferlik bir satın alma gerektirir. <a href="versioni.html">Karşılaştırmaya bakın</a>.
-600|iPhone için <a class="link-arrow" href="https://apps.apple.com/app/id6756390159" target="_blank" rel="noopener">no pAIn™ ↗</a>, 12 dilde
+600|iPhone için <a class="link-arrow" href="https://apps.apple.com/app/id6756390159" target="_blank" rel="noopener">no pAIn™&nbsp;↗</a>, 12 dilde
 647|Site ziyaretleri
 648|<strong>Telefon yerdeyken bile akıllı saate tek dokunuş</strong>Bir saldırı sırasında saate dokunmak yeterlidir: Proteggimi arkadaşları konumla uyarır, onlar polisi arar ve yardım zamanında gelir. Kurgusal sahneler, tanıtım amaçlıdır; videoda ses vardır.
 649|İki afişte AI help You.
@@ -655,8 +655,8 @@ mail.partnerBody|Merhaba,\nno pAIn™ projesi hakkında daha fazla bilgi almak v
 680|button4help™, çevrim içi bir mağazada satılan basit bir Bluetooth düğmesidir: SIM kartı yoktur, arkasında bir çağrı merkezi yoktur ve konumunuzu bilmez. Acil durum işlevlerini no pAIn™ uygulaması sağlar: cihazı tanıyan, onu tetikleyici olarak kabul eden ve basıldığında kişilerinize mesaj, konum ve arama gönderen uygulamadır.
 681|Uygulamayla eşleştirilmeden düğmenin hiçbir yardım işlevi yoktur.
 682|Onu tanıyan uygulamalar
-683|Android için <a class="link-arrow" href="prodotti.html#ai-help-you">AI help You ↗</a>
-684|iPhone için <a class="link-arrow" href="prodotti.html#no-pain-ios">no pAIn™ (Proteggimi) ↗</a>, 59 ve sonraki sürümler
+683|Android için <a class="link-arrow" href="prodotti.html#ai-help-you">AI help You&nbsp;↗</a>
+684|iPhone için <a class="link-arrow" href="prodotti.html#no-pain-ios">no pAIn™ (Proteggimi)&nbsp;↗</a>, 59 ve sonraki sürümler
 685|Eşleştirme, uygulamadan tek seferde, birkaç adımlık rehberli bir işlemle yapılır. Android için Proteggimi ve Wear OS için AIuto SOS düğmeyi kullanmaz.
 686|AI help You (Android) ve no pAIn™ (iPhone) 59. sürümden itibaren, eşleştirmeden sonra
 687|Android'de AI help You'yu ya da iPhone'da 59 ve sonraki sürümdeki no pAIn™ uygulamasını açın ve rehberli eşleştirme işlemini izleyin: birkaç adım, yalnızca bir kez. Bundan sonra uygulama düğmeyi tanır ve tetikleyici olarak kabul eder. Ardından kişilerinizle önceden konuşarak bir deneme yapın.
@@ -704,12 +704,12 @@ mail.partnerBody|Merhaba,\nno pAIn™ projesi hakkında daha fazla bilgi almak v
 729|Videoları izle <span class="arr">→</span>
 730|Kılavuz
 731|Kılavuz zaten uygulamanın içinde, saatte
-732|Aynı kılavuzu telefonunuza uygulama olarak kurabilirsiniz: <a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.aibutton" target="_blank" rel="noopener">Google Play'de açın ↗</a>
+732|Aynı kılavuzu telefonunuza uygulama olarak kurabilirsiniz: <a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.aibutton" target="_blank" rel="noopener">Google Play'de açın&nbsp;↗</a>
 733|Telefondaki kılavuzdan, henüz kurmamış olanlar için saatteki uygulama da kurulabilir
 734|Android için Proteggimi kılavuzu İtalyanca bir PDF'tir: tarayıcıda açılır ve kaydedilebilir. Telegram bölümü, kişilerin bota birkaç adımda nasıl bağlanacağını anlatır. Canlı konumun süresi uygulamadan uygulamaya değişir: kurduğunuz uygulamanın seçeneklerine bakın.
 735|Proteggimi kılavuzu, Android (PDF) <span class="arr">↗</span>
 736|Telegram: kişilerinizi nasıl bağlarsınız (PDF) <span class="arr">↗</span>
-737|Android için Proteggimi kılavuzu (PDF) ↗
+737|Android için Proteggimi kılavuzu (PDF)&nbsp;↗
 738|digital4help afişi: toplumsal cinsiyete dayalı şiddete karşı dijital koruma, yeni bir çağ henüz başladı. Işıklı devreler arasında kadın figürlü bir kalkan ve altında yardım istemenin üç yolu: hareket ya da sesli komutla akıllı telefon, AIuto SOS watch4help akıllı saat ve bir saniye basılan button4help düğmesi; altta çevrim dışı yapay zekâ, Safe Zone, No Trace, giyilebilir SOS ve sitenin QR kodu.
 739|<strong>digital4help™: sizin yerinize yardım isteyen teknoloji</strong>Akıllı telefon, akıllı saat ve düğme: alarmı başlatmanın üç yolu. Afiş İngilizce.
 740|digital4help afişi: yardım istemenin üç yolu, hareket ya da sesli komutla akıllı telefon, AIuto SOS watch4help akıllı saat ve bir saniye basılan button4help düğmesi; çevresinde çevrim dışı yapay zekâ, Safe Zone, No Trace ve giyilebilir SOS.
@@ -743,7 +743,7 @@ mail.partnerBody|Merhaba,\nno pAIn™ projesi hakkında daha fazla bilgi almak v
 768|Videoları hazırlarken yazılı kılavuzu ve uygulamaların sinematik tanıtımlarını bulabilirsiniz.
 769|Haber verelim mi
 770|Bize yazın, eğitim videoları yayına girer girmez size haber verelim. Hangi konuya önce ihtiyacınız olduğunu da söyleyebilirsiniz: oradan başlarız.
-771|Tasarımcıya yazın ↗
+771|Tasarımcıya yazın&nbsp;↗
 772|no pAIn™ — Bizimle iş birliği
 773|Politecnico di Bari'nin no pAIn™ projesiyle iş birliği yapın: button4help™ düğmesini takılarda ve giyilebilir aksesuarlarda gizlemek için zanaatkârlar ve kuyumculuk firmaları arıyoruz.
 774|Bizimle iş birliği
@@ -760,7 +760,7 @@ mail.partnerBody|Merhaba,\nno pAIn™ projesi hakkında daha fazla bilgi almak v
 785|Konsept: kalp kolyenin içine gizlenmiş düğme. Temsili görsel.
 786|Projeye ne katmak istediğinizi anlatın.
 787|Alanları doldurun: form, e-posta programınızı hazır yazılmış mesajla açar; mesaj Politecnico di Bari'den Prof. Müh. Agostino Giorgio'ya gider. Bu site hiçbir şey göndermez ve kaydetmez.
-788|Doğrudan yazmayı mı tercih edersiniz? <a class="link-arrow" href="mailto:agostino.giorgio@poliba.it" data-mail="partner">agostino.giorgio@poliba.it ↗</a>
+788|Doğrudan yazmayı mı tercih edersiniz? <a class="link-arrow" href="mailto:agostino.giorgio@poliba.it" data-mail="partner">agostino.giorgio@poliba.it&nbsp;↗</a>
 789|Ad ve soyad
 790|Yanıt için e-posta ya da telefon
 791|Şirket, atölye ya da kurum (isteğe bağlı)
@@ -777,7 +777,7 @@ mail.partnerBody|Merhaba,\nno pAIn™ projesi hakkında daha fazla bilgi almak v
 802|Yaygınlaştırma
 803|Duyurmak
 804|İletişim, eğitim ya da etkinlik alanında çalışanlar, bu uygulamaların varlığından habersiz olanlara ulaşmasına yardımcı olabilir.
-805|Bize yazın ↗
+805|Bize yazın&nbsp;↗
 806|Boyna takılan altın kalp kolyeye bir parmakla bastırılıyor: ortasında button4help düğmesini gizliyor. Altında button4help, the signal4help becomes pure technology yazısı.
 807|Projenin tanıtım materyali, İngilizce.
 808|Diğer sayfalar
@@ -794,7 +794,7 @@ mail.partnerBody|Merhaba,\nno pAIn™ projesi hakkında daha fazla bilgi almak v
 819|<strong>Tüm konular</strong>Hızlı yollardan 112'ye, PDF'teki tam kılavuza kadar.
 820|iPhone kılavuzu (PDF, İtalyanca) <span class="arr">↗</span>
 821|iPhone kılavuzu (PDF, İngilizce) <span class="arr">↗</span>
-822|iPhone için no pAIn™ kılavuzu (PDF) ↗
+822|iPhone için no pAIn™ kılavuzu (PDF)&nbsp;↗
 823|iPhone'da no pAIn app ana sayfası: Hazır durumu, büyük kırmızı ACİL DURUM yardım isteği düğmesi, 112'yi Ara düğmesi ve “Hey Siri, Bana yardım et” sesli komut hatırlatması.
 824|no pAIn app ayarları: Telegram, canlı konum ve süre, SMS, WhatsApp, arama ve aranacak numara seçimi ile acil durum eylemleri.
 825|no pAIn app ayarları: button4help acil durum düğmesi etkin ve hazır, tanınan model Holy-IOT 21011, hassasiyet, sinyal kalitesi ve pil durumu.
@@ -870,5 +870,5 @@ mail.partnerBody|Merhaba,\nno pAIn™ projesi hakkında daha fazla bilgi almak v
 895|Bluetooth düğmesi
 896|Akıllı telefona bağlanan harici bir cihaz için geliştirilen teknoloji: üzerinizde taşıdığınız, birkaç saniye basılı tutulan bir düğme.
 897|no pAIn™ projesi <strong>Bari Politeknik Üniversitesi</strong> araştırma laboratuvarlarında doğdu; tasarımı ve geliştirmesi <strong>Prof. Dr. Müh. Agostino Giorgio</strong> tarafından yapılmaktadır.
-898|iPhone için no pAIn™ kılavuzu (PDF, İtalyanca) ↗
-899|iPhone için no pAIn™ kılavuzu (PDF, İngilizce) ↗
+898|iPhone için no pAIn™ kılavuzu (PDF, İtalyanca)&nbsp;↗
+899|iPhone için no pAIn™ kılavuzu (PDF, İngilizce)&nbsp;↗

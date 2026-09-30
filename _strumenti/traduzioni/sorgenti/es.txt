@@ -138,8 +138,8 @@ mail.partnerBody|Buenos días:\nme gustaría conocer mejor el proyecto no pAIn�
 142|Proyecto del Prof. Ing. Agostino Giorgio<br>Profesor del Politecnico di Bari
 143|El sitio
 144|Recursos
-145|Manuales y privacidad de las apps ↗
-146|Presentación del proyecto (PDF, en italiano) ↗
+145|Manuales y privacidad de las apps&nbsp;↗
+146|Presentación del proyecto (PDF, en italiano)&nbsp;↗
 148|En caso de peligro inmediato, llama al 112. Las apps no pAIn™ avisan a los contactos de emergencia que has elegido y no sustituyen a los servicios públicos de emergencia.
 149|Infórmate. Configura. Prueba.
 150|Navegación principal
@@ -460,10 +460,10 @@ mail.partnerBody|Buenos días:\nme gustaría conocer mejor el proyecto no pAIn�
 486|El proyecto de un vistazo
 487|La inteligencia artificial contra la violencia de género.
 488|Este cartel resume el proyecto no pAIn™: la inteligencia artificial al servicio de la prevención, herramientas digitales discretas que te protegen estés donde estés y una app para cada dispositivo, con apps complementarias para smartwatch.
-489|<a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.aibutton" target="_blank" rel="noopener">AIuto SOS — watch4help™ ↗</a> para smartwatches Wear OS
-490|<a class="link-arrow" href="https://apps.apple.com/it/app/no-pain/id6756390159" target="_blank" rel="noopener">no pAIn™ ↗</a> para iPhone, en 12 idiomas
-491|<a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.nopain" target="_blank" rel="noopener">Proteggimi ↗</a> para Android, en italiano
-492|<a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.helpyou" target="_blank" rel="noopener">AI help You ↗</a> para Android, en 12 idiomas
+489|<a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.aibutton" target="_blank" rel="noopener">AIuto SOS — watch4help™&nbsp;↗</a> para smartwatches Wear OS
+490|<a class="link-arrow" href="https://apps.apple.com/it/app/no-pain/id6756390159" target="_blank" rel="noopener">no pAIn™&nbsp;↗</a> para iPhone, en 12 idiomas
+491|<a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.nopain" target="_blank" rel="noopener">Proteggimi&nbsp;↗</a> para Android, en italiano
+492|<a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.helpyou" target="_blank" rel="noopener">AI help You&nbsp;↗</a> para Android, en 12 idiomas
 493|Toca el cartel para ampliarlo. Para descargar las apps, usa los enlaces de arriba.
 494|<strong>Protect Your Freedom: AI Against Gender Violence</strong>El cartel del proyecto, en inglés.
 495|Cartel del proyecto no pAIn: Protect Your Freedom, AI Against Gender Violence. Presenta las apps AIuto SOS para smartwatch, no pAIn para iPhone, Proteggimi y AI help You para Android.
@@ -528,11 +528,11 @@ mail.partnerBody|Buenos días:\nme gustaría conocer mejor el proyecto no pAIn�
 554|Han hablado de ello.
 555|Periódicos y televisiones que han contado el proyecto no pAIn™.
 556|<b data-no-i18n="">BariToday</b> · Artículo · 3 de marzo de 2026
-557|Leer el artículo ↗
+557|Leer el artículo&nbsp;↗
 558|<b data-no-i18n="">TG Norba</b> · Reportaje de TV · 19 de diciembre de 2024
 559|El proyecto no pAIn™ en la edición de las 7.30 del informativo.
 560|<b data-no-i18n="">La Gazzetta del Mezzogiorno</b> · Vídeo · 17 de diciembre de 2023
-561|Ver el vídeo ↗
+561|Ver el vídeo&nbsp;↗
 562|<b data-no-i18n="">TVA · Acquedotto Pugliese</b> · Vídeo
 563|Prevenir la violencia de género con inteligencia artificial: entrevista al Prof. Ing. Agostino Giorgio.
 564|Logotipo del Politecnico di Bari
@@ -550,7 +550,7 @@ mail.partnerBody|Buenos días:\nme gustaría conocer mejor el proyecto no pAIn�
 576|Toca una imagen para ampliarla.
 577|<b data-no-i18n="">La Gazzetta del Mezzogiorno</b> · Artículo · agosto de 2026
 578|Tecnología peer-to-peer e inteligencia artificial sin conexión al servicio de la seguridad: el artículo cuenta el proyecto no pAIn™, nacido en el laboratorio ELEDIGILAB del Politecnico di Bari, y sus dos pilares, privacidad total y petición de ayuda incluso sin tocar el teléfono.
-579|Ver en Instagram ↗
+579|Ver en Instagram&nbsp;↗
 580|Cartel no pAIn project de Agostino Giorgio, Politecnico di Bari: un escudo con una figura femenina, la lista de las cuatro apps (Proteggimi para Android en italiano, AI help You para Android en 12 idiomas, AIuto SOS – watch4help para relojes inteligentes Wear OS, no pAIn para iOS) y, abajo, un reloj inteligente con la tecla SOS, un smartphone con la app y el botón button4help colgado al cuello.
 581|<strong>no pAIn™ project: Technology that protects life</strong>El proyecto y sus apps en un cartel, en inglés.
 582|Gratis cuando hace falta
@@ -617,7 +617,7 @@ mail.partnerBody|Buenos días:\nme gustaría conocer mejor el proyecto no pAIn�
 644|¹ Tras los 3 días de prueba, sin Premium el botón Avvia (Proteggimi) o Start (AI help You) está inactivo; la emergencia se activa gratis desde los botones de emergencia rápida.
 645|² En Android Free, tras el inicio desde un botón de emergencia rápida.
 646|Descargarlas es gratis y en cada app pedir ayuda con tu ubicación sigue siendo gratuito. AIuto SOS watch4help™ para Wear OS es totalmente gratuita. Proteggimi y AI help You para Android ofrecen 3 días de prueba completa; después las funciones de emergencia siguen siendo gratuitas y solo caduca el inicio desde el botón Avvia o Start. En iPhone la alarma por Telegram con tu ubicación, también en tiempo real y desde el Apple Watch, es siempre gratis; Siri, SMS, WhatsApp y llamada requieren una compra única, sin suscripción. <a href="versioni.html">Ver la comparación</a>.
-600|<a class="link-arrow" href="https://apps.apple.com/app/id6756390159" target="_blank" rel="noopener">no pAIn™ ↗</a> para iPhone, en 12 idiomas
+600|<a class="link-arrow" href="https://apps.apple.com/app/id6756390159" target="_blank" rel="noopener">no pAIn™&nbsp;↗</a> para iPhone, en 12 idiomas
 647|Visitas al sitio
 648|<strong>Un toque en el reloj inteligente, incluso con el teléfono en el suelo</strong>Durante una agresión basta con tocar el reloj: Proteggimi avisa a los amigos con la ubicación, ellos llaman a las fuerzas del orden y la ayuda llega a tiempo. Escenas de ficción, con fines demostrativos; el vídeo tiene sonido.
 649|AI help You en dos carteles.
@@ -654,8 +654,8 @@ mail.partnerBody|Buenos días:\nme gustaría conocer mejor el proyecto no pAIn�
 680|button4help™ es un simple botón Bluetooth que se vende en una tienda en línea: no tiene SIM, no tiene detrás ningún centro de asistencia y no conoce tu ubicación. Las funciones de emergencia las pone la app no pAIn™: es ella la que reconoce el dispositivo, lo acepta como activador y, al pulsarlo, envía mensajes, ubicación y llamadas a tus contactos.
 681|Sin el emparejamiento con la app, el botón no tiene ninguna función de auxilio.
 682|Las apps que lo reconocen
-683|<a class="link-arrow" href="prodotti.html#ai-help-you">AI help You ↗</a> para Android
-684|<a class="link-arrow" href="prodotti.html#no-pain-ios">no pAIn™ (Proteggimi) ↗</a> para iPhone, a partir de la versión 59
+683|<a class="link-arrow" href="prodotti.html#ai-help-you">AI help You&nbsp;↗</a> para Android
+684|<a class="link-arrow" href="prodotti.html#no-pain-ios">no pAIn™ (Proteggimi)&nbsp;↗</a> para iPhone, a partir de la versión 59
 685|El emparejamiento se hace una sola vez, desde la app, con un asistente de pocos pasos. Proteggimi para Android y AIuto SOS para Wear OS no usan el botón.
 686|AI help You (Android) y no pAIn™ (iPhone) a partir de la versión 59, tras el emparejamiento
 687|Abre AI help You en Android o no pAIn™ para iPhone, a partir de la versión 59, y sigue el asistente de emparejamiento: pocos pasos, una sola vez. A partir de ese momento la app reconoce el botón y lo acepta como activador. Luego haz una prueba acordada con tus contactos.
@@ -703,12 +703,12 @@ mail.partnerBody|Buenos días:\nme gustaría conocer mejor el proyecto no pAIn�
 729|Ver los vídeos <span class="arr">→</span>
 730|El manual
 731|El manual ya está dentro de la app, en el reloj
-732|En el teléfono puedes instalar la misma guía como app: <a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.aibutton" target="_blank" rel="noopener">ábrela en Google Play ↗</a>
+732|En el teléfono puedes instalar la misma guía como app: <a class="link-arrow" href="https://play.google.com/store/apps/details?id=com.agiotech.aibutton" target="_blank" rel="noopener">ábrela en Google Play&nbsp;↗</a>
 733|Desde la guía del teléfono se instala también la app en el reloj, para quien todavía no la tenga
 734|El manual de Proteggimi para Android es un PDF en italiano: se abre en el navegador y se puede guardar. La sección sobre Telegram explica cómo conectar los contactos al bot en pocos pasos. La duración de la ubicación en tiempo real cambia de una app a otra: consulta las opciones de la app instalada.
 735|Manual de Proteggimi, Android (PDF) <span class="arr">↗</span>
 736|Telegram: cómo conectar tus contactos (PDF) <span class="arr">↗</span>
-737|Manual de Proteggimi para Android (PDF) ↗
+737|Manual de Proteggimi para Android (PDF)&nbsp;↗
 738|Cartel digital4help: protección digital contra la violencia de género, una nueva era acaba de empezar. Un escudo con una figura femenina entre circuitos luminosos y, debajo, las tres formas de pedir ayuda: smartphone con un gesto o un comando de voz, reloj inteligente AIuto SOS watch4help y el botón button4help pulsado durante un segundo; abajo, IA sin conexión, Safe Zone, No Trace, SOS portátil y el código QR del sitio.
 739|<strong>digital4help™: la tecnología que pide ayuda por ti</strong>Smartphone, reloj inteligente y botón: las tres formas de lanzar la alarma. Cartel en inglés.
 740|Cartel digital4help: las tres formas de pedir ayuda, smartphone con un gesto o un comando de voz, reloj inteligente AIuto SOS watch4help y el botón button4help pulsado durante un segundo; alrededor, IA sin conexión, Safe Zone, No Trace y SOS portátil.
@@ -742,7 +742,7 @@ mail.partnerBody|Buenos días:\nme gustaría conocer mejor el proyecto no pAIn�
 768|Mientras preparamos los vídeos, tienes el manual escrito y las demos cinematográficas de las apps.
 769|¿Quieres que te avisemos?
 770|Escríbenos y te diremos en cuanto los videotutoriales estén en línea. También puedes decirnos qué tema necesitas primero: empezamos por ahí.
-771|Escribe al diseñador ↗
+771|Escribe al diseñador&nbsp;↗
 772|no pAIn™ — Colabora con nosotros
 773|Colabora con el proyecto no pAIn™ del Politecnico di Bari: buscamos artesanos y empresas de joyería para esconder button4help™ en joyas y accesorios que se llevan puestos.
 774|Colabora con nosotros
@@ -759,7 +759,7 @@ mail.partnerBody|Buenos días:\nme gustaría conocer mejor el proyecto no pAIn�
 785|El concepto: el botón escondido dentro de un colgante en forma de corazón. Imagen ilustrativa.
 786|Cuéntanos qué te gustaría aportar al proyecto.
 787|Rellena los campos: el formulario abre tu programa de correo con el mensaje ya escrito, dirigido al Prof. Ing. Agostino Giorgio del Politecnico di Bari. Este sitio no envía ni guarda nada.
-788|¿Prefieres escribir directamente? <a class="link-arrow" href="mailto:agostino.giorgio@poliba.it" data-mail="partner">agostino.giorgio@poliba.it ↗</a>
+788|¿Prefieres escribir directamente? <a class="link-arrow" href="mailto:agostino.giorgio@poliba.it" data-mail="partner">agostino.giorgio@poliba.it&nbsp;↗</a>
 789|Nombre y apellidos
 790|Email o teléfono para la respuesta
 791|Empresa, taller o entidad (opcional)
@@ -776,7 +776,7 @@ mail.partnerBody|Buenos días:\nme gustaría conocer mejor el proyecto no pAIn�
 802|Difusión
 803|Darlo a conocer
 804|Quien trabaja en comunicación, formación o eventos puede ayudar a que estas apps lleguen a quien no sabe que existen.
-805|Escríbenos ↗
+805|Escríbenos&nbsp;↗
 806|Un colgante de oro en forma de corazón, llevado al cuello, se pulsa con un dedo: en su centro esconde el botón button4help. Debajo, las palabras button4help, the signal4help becomes pure technology.
 807|Material promocional del proyecto, en inglés.
 808|Más páginas
@@ -793,7 +793,7 @@ mail.partnerBody|Buenos días:\nme gustaría conocer mejor el proyecto no pAIn�
 819|<strong>Todos los temas</strong>De las formas rápidas al 112, hasta la guía completa en PDF.
 820|Guía para iPhone (PDF, italiano) <span class="arr">↗</span>
 821|Guía para iPhone (PDF, inglés) <span class="arr">↗</span>
-822|Guía de no pAIn™ para iPhone (PDF) ↗
+822|Guía de no pAIn™ para iPhone (PDF)&nbsp;↗
 823|Página principal de no pAIn app en iPhone: estado Listo, gran botón rojo EMERGENCIA petición de ayuda, botón Llamar al 112 y recordatorio del comando de voz “Oye Siri, Ayúdame”.
 824|Ajustes de no pAIn app: acciones de emergencia con Telegram, ubicación en tiempo real y duración, SMS, WhatsApp, llamada y elección del número al que llamar.
 825|Ajustes de no pAIn app: botón de emergencia button4help activo y listo, modelo reconocido Holy-IOT 21011, sensibilidad, calidad de la señal y carga de la pila.
@@ -869,5 +869,5 @@ mail.partnerBody|Buenos días:\nme gustaría conocer mejor el proyecto no pAIn�
 895|Botón Bluetooth
 896|La tecnología para un dispositivo externo que se conecta al smartphone: un botón que llevas encima, mantenido pulsado un par de segundos.
 897|El proyecto no pAIn™ nace en los laboratorios de investigación universitaria del <strong>Politécnico de Bari</strong> y está ideado y desarrollado por el <strong>Prof. Ing. Agostino Giorgio</strong>.
-898|Guía no pAIn™ para iPhone (PDF, italiano) ↗
-899|Guía no pAIn™ para iPhone (PDF, inglés) ↗
+898|Guía no pAIn™ para iPhone (PDF, italiano)&nbsp;↗
+899|Guía no pAIn™ para iPhone (PDF, inglés)&nbsp;↗
