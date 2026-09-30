@@ -875,6 +875,8 @@
 "7e7b2c76": "A tecnologia desenvolvida no projeto para os smartwatches: o alarme parte do pulso, em Wear OS e Apple Watch.",
 "85ed6e0d": "Botão Bluetooth",
 "bce7bde8": "A tecnologia para um dispositivo externo que se liga ao smartphone: um botão que traz consigo, mantido premido dois segundos.",
-"5d910530": "O projeto no pAIn™ nasce nos laboratórios de investigação universitária do <strong>Politécnico de Bari</strong> e é concebido e desenvolvido pelo <strong>Prof. Eng. Agostino Giorgio</strong>."
+"5d910530": "O projeto no pAIn™ nasce nos laboratórios de investigação universitária do <strong>Politécnico de Bari</strong> e é concebido e desenvolvido pelo <strong>Prof. Eng. Agostino Giorgio</strong>.",
+"87ce901b": "Guia no pAIn™ para iPhone (PDF, italiano) ↗",
+"1e239557": "Guia no pAIn™ para iPhone (PDF, inglês) ↗"
 }
 };

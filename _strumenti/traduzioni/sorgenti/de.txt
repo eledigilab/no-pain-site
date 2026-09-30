@@ -869,3 +869,5 @@ mail.partnerBody|Guten Tag,\nich möchte mehr über das Projekt no pAIn™ erfah
 895|Bluetooth-Knopf
 896|Die Technologie für ein externes Gerät, das sich mit dem Smartphone verbindet: ein Knopf, den man bei sich trägt und ein paar Sekunden gedrückt hält.
 897|Das Projekt no pAIn™ ist in den universitären Forschungslaboren der <strong>Technischen Universität Bari</strong> entstanden und wird von <strong>Prof. Ing. Agostino Giorgio</strong> erdacht und entwickelt.
+898|no pAIn™-Anleitung für iPhone (PDF, Italienisch) ↗
+899|no pAIn™-Anleitung für iPhone (PDF, Englisch) ↗

@@ -869,3 +869,5 @@ mail.partnerBody|Bună ziua,\naș dori să aflu mai multe despre proiectul no pA
 895|Buton Bluetooth
 896|Tehnologia pentru un dispozitiv extern care se conectează la smartphone: un buton pe care îl ții la tine, ținut apăsat câteva secunde.
 897|Proiectul no pAIn™ s-a născut în laboratoarele de cercetare universitară ale <strong>Politehnicii din Bari</strong> și este conceput și dezvoltat de <strong>Prof. Ing. Agostino Giorgio</strong>.
+898|Ghid no pAIn™ pentru iPhone (PDF, italiană) ↗
+899|Ghid no pAIn™ pentru iPhone (PDF, engleză) ↗

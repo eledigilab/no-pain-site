@@ -870,3 +870,5 @@ mail.partnerBody|Dzień dobry,\nchciałabym/chciałbym dowiedzieć się więcej 
 895|Przycisk Bluetooth
 896|Technologia dla zewnętrznego urządzenia, które łączy się ze smartfonem: przycisk noszony przy sobie, przytrzymany przez dwie sekundy.
 897|Projekt no pAIn™ narodził się w uniwersyteckich laboratoriach badawczych <strong>Politechniki w Bari</strong>, a jego pomysłodawcą i twórcą jest <strong>prof. inż. Agostino Giorgio</strong>.
+898|Przewodnik no pAIn™ na iPhone'a (PDF, po włosku) ↗
+899|Przewodnik no pAIn™ na iPhone'a (PDF, po angielsku) ↗

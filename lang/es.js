@@ -874,6 +874,8 @@
 "7e7b2c76": "La tecnología desarrollada en el proyecto para los smartwatches: la alarma sale desde la muñeca, en Wear OS y Apple Watch.",
 "85ed6e0d": "Botón Bluetooth",
 "bce7bde8": "La tecnología para un dispositivo externo que se conecta al smartphone: un botón que llevas encima, mantenido pulsado un par de segundos.",
-"5d910530": "El proyecto no pAIn™ nace en los laboratorios de investigación universitaria del <strong>Politécnico de Bari</strong> y está ideado y desarrollado por el <strong>Prof. Ing. Agostino Giorgio</strong>."
+"5d910530": "El proyecto no pAIn™ nace en los laboratorios de investigación universitaria del <strong>Politécnico de Bari</strong> y está ideado y desarrollado por el <strong>Prof. Ing. Agostino Giorgio</strong>.",
+"87ce901b": "Guía no pAIn™ para iPhone (PDF, italiano) ↗",
+"1e239557": "Guía no pAIn™ para iPhone (PDF, inglés) ↗"
 }
 };

@@ -875,6 +875,8 @@
 "7e7b2c76": "Technologia opracowana w projekcie dla smartwatchy: alarm rusza z nadgarstka, na Wear OS i Apple Watch.",
 "85ed6e0d": "Przycisk Bluetooth",
 "bce7bde8": "Technologia dla zewnętrznego urządzenia, które łączy się ze smartfonem: przycisk noszony przy sobie, przytrzymany przez dwie sekundy.",
-"5d910530": "Projekt no pAIn™ narodził się w uniwersyteckich laboratoriach badawczych <strong>Politechniki w Bari</strong>, a jego pomysłodawcą i twórcą jest <strong>prof. inż. Agostino Giorgio</strong>."
+"5d910530": "Projekt no pAIn™ narodził się w uniwersyteckich laboratoriach badawczych <strong>Politechniki w Bari</strong>, a jego pomysłodawcą i twórcą jest <strong>prof. inż. Agostino Giorgio</strong>.",
+"87ce901b": "Przewodnik no pAIn™ na iPhone'a (PDF, po włosku) ↗",
+"1e239557": "Przewodnik no pAIn™ na iPhone'a (PDF, po angielsku) ↗"
 }
 };

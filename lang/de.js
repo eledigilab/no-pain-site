@@ -874,6 +874,8 @@
 "7e7b2c76": "Die im Projekt entwickelte Technologie für Smartwatches: Der Alarm startet am Handgelenk, auf Wear OS und Apple Watch.",
 "85ed6e0d": "Bluetooth-Knopf",
 "bce7bde8": "Die Technologie für ein externes Gerät, das sich mit dem Smartphone verbindet: ein Knopf, den man bei sich trägt und ein paar Sekunden gedrückt hält.",
-"5d910530": "Das Projekt no pAIn™ ist in den universitären Forschungslaboren der <strong>Technischen Universität Bari</strong> entstanden und wird von <strong>Prof. Ing. Agostino Giorgio</strong> erdacht und entwickelt."
+"5d910530": "Das Projekt no pAIn™ ist in den universitären Forschungslaboren der <strong>Technischen Universität Bari</strong> entstanden und wird von <strong>Prof. Ing. Agostino Giorgio</strong> erdacht und entwickelt.",
+"87ce901b": "no pAIn™-Anleitung für iPhone (PDF, Italienisch) ↗",
+"1e239557": "no pAIn™-Anleitung für iPhone (PDF, Englisch) ↗"
 }
 };

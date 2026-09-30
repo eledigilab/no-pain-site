@@ -875,6 +875,8 @@
 "7e7b2c76": "Projede akıllı saatler için geliştirilen teknoloji: alarm bilekten başlar, Wear OS ve Apple Watch üzerinde.",
 "85ed6e0d": "Bluetooth düğmesi",
 "bce7bde8": "Akıllı telefona bağlanan harici bir cihaz için geliştirilen teknoloji: üzerinizde taşıdığınız, birkaç saniye basılı tutulan bir düğme.",
-"5d910530": "no pAIn™ projesi <strong>Bari Politeknik Üniversitesi</strong> araştırma laboratuvarlarında doğdu; tasarımı ve geliştirmesi <strong>Prof. Dr. Müh. Agostino Giorgio</strong> tarafından yapılmaktadır."
+"5d910530": "no pAIn™ projesi <strong>Bari Politeknik Üniversitesi</strong> araştırma laboratuvarlarında doğdu; tasarımı ve geliştirmesi <strong>Prof. Dr. Müh. Agostino Giorgio</strong> tarafından yapılmaktadır.",
+"87ce901b": "iPhone için no pAIn™ kılavuzu (PDF, İtalyanca) ↗",
+"1e239557": "iPhone için no pAIn™ kılavuzu (PDF, İngilizce) ↗"
 }
 };

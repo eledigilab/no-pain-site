@@ -874,6 +874,8 @@
 "7e7b2c76": "Tehnologia dezvoltată în proiect pentru ceasurile inteligente: alarma pornește de la încheietură, pe Wear OS și Apple Watch.",
 "85ed6e0d": "Buton Bluetooth",
 "bce7bde8": "Tehnologia pentru un dispozitiv extern care se conectează la smartphone: un buton pe care îl ții la tine, ținut apăsat câteva secunde.",
-"5d910530": "Proiectul no pAIn™ s-a născut în laboratoarele de cercetare universitară ale <strong>Politehnicii din Bari</strong> și este conceput și dezvoltat de <strong>Prof. Ing. Agostino Giorgio</strong>."
+"5d910530": "Proiectul no pAIn™ s-a născut în laboratoarele de cercetare universitară ale <strong>Politehnicii din Bari</strong> și este conceput și dezvoltat de <strong>Prof. Ing. Agostino Giorgio</strong>.",
+"87ce901b": "Ghid no pAIn™ pentru iPhone (PDF, italiană) ↗",
+"1e239557": "Ghid no pAIn™ pentru iPhone (PDF, engleză) ↗"
 }
 };

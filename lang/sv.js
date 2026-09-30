@@ -875,6 +875,8 @@
 "7e7b2c76": "Tekniken som utvecklats i projektet för smartklockor: larmet startar från handleden, på Wear OS och Apple Watch.",
 "85ed6e0d": "Bluetooth-knapp",
 "bce7bde8": "Tekniken för en extern enhet som ansluter till mobilen: en knapp du bär med dig, nedtryckt ett par sekunder.",
-"5d910530": "Projektet no pAIn™ föddes i de universitetsforskningslaboratorier som hör till <strong>Tekniska universitetet i Bari</strong> och har tagits fram och utvecklats av <strong>prof. ing. Agostino Giorgio</strong>."
+"5d910530": "Projektet no pAIn™ föddes i de universitetsforskningslaboratorier som hör till <strong>Tekniska universitetet i Bari</strong> och har tagits fram och utvecklats av <strong>prof. ing. Agostino Giorgio</strong>.",
+"87ce901b": "no pAIn™-guide för iPhone (PDF, italienska) ↗",
+"1e239557": "no pAIn™-guide för iPhone (PDF, engelska) ↗"
 }
 };

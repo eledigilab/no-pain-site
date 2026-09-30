@@ -870,3 +870,5 @@ mail.partnerBody|Bom dia,\ngostaria de saber mais sobre o projeto no pAIn™ e a
 895|Botão Bluetooth
 896|A tecnologia para um dispositivo externo que se liga ao smartphone: um botão que traz consigo, mantido premido dois segundos.
 897|O projeto no pAIn™ nasce nos laboratórios de investigação universitária do <strong>Politécnico de Bari</strong> e é concebido e desenvolvido pelo <strong>Prof. Eng. Agostino Giorgio</strong>.
+898|Guia no pAIn™ para iPhone (PDF, italiano) ↗
+899|Guia no pAIn™ para iPhone (PDF, inglês) ↗

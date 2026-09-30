@@ -875,6 +875,8 @@
 "7e7b2c76": "De technologie die in het project voor smartwatches is ontwikkeld: het alarm start vanaf de pols, op Wear OS en Apple Watch.",
 "85ed6e0d": "Bluetooth-knop",
 "bce7bde8": "De technologie voor een extern apparaat dat met de smartphone verbindt: een knop die je bij je draagt en een paar seconden ingedrukt houdt.",
-"5d910530": "Het project no pAIn™ is ontstaan in de universitaire onderzoekslaboratoria van de <strong>Polytechnische Universiteit van Bari</strong> en wordt bedacht en ontwikkeld door <strong>prof. ir. Agostino Giorgio</strong>."
+"5d910530": "Het project no pAIn™ is ontstaan in de universitaire onderzoekslaboratoria van de <strong>Polytechnische Universiteit van Bari</strong> en wordt bedacht en ontwikkeld door <strong>prof. ir. Agostino Giorgio</strong>.",
+"87ce901b": "no pAIn™-gids voor iPhone (PDF, Italiaans) ↗",
+"1e239557": "no pAIn™-gids voor iPhone (PDF, Engels) ↗"
 }
 };

@@ -869,3 +869,5 @@ mail.partnerBody|Hello,\nI would like to learn more about the no pAIn™ project
 895|Bluetooth button
 896|The technology for an external device that connects to the smartphone: a button you keep on you, held down for a couple of seconds.
 897|The no pAIn™ project was born in the university research laboratories of the <strong>Polytechnic University of Bari</strong> and is conceived and developed by <strong>Prof. Eng. Agostino Giorgio</strong>.
+898|no pAIn™ iPhone guide (PDF, Italian) ↗
+899|no pAIn™ iPhone guide (PDF, English) ↗
