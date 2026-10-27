@@ -834,3 +834,53 @@ section.product { scroll-margin-top: 136px; }
   .subnav-bar .subnav::-webkit-scrollbar { display: none; }
   .subnav-bar .subnav a { scroll-snap-align: start; }
 }
+
+
+/* ========== Confronti tecnologici no pAIn: inizio ========== */
+.comparison-hero { padding-bottom: 2rem; }
+.cmp-principle { max-width: 65rem; padding: 1.15rem 1.4rem; border-left: 4px solid var(--signal, #ff4e9e); background: rgba(255,255,255,.075); border-radius: .45rem 1rem 1rem .45rem; line-height: 1.6; }
+.cmp-shortcuts { display:flex; gap:.7rem; flex-wrap:wrap; margin-top:2rem; }
+.cmp-shortcuts a, .cmp-app-links a { display:inline-block; padding:.7rem 1rem; border:1px solid rgba(160,192,255,.35); border-radius:100px; text-decoration:none; background:rgba(11,35,93,.45); color:inherit; font-weight:700; }
+.cmp-shortcuts a:hover, .cmp-app-links a:hover { border-color:var(--signal, #fa5494); background:rgba(255,61,141,.13); }
+.cmp-section { padding:clamp(3rem,6vw,6rem) 0; }
+.cmp-section.cmp-alt { background:linear-gradient(135deg, rgba(2,11,60,.18), rgba(130,20,95,.11)); }
+.cmp-layout { display:grid; grid-template-columns:minmax(0,1.25fr) minmax(0,1fr); gap:clamp(1.2rem,3vw,3.2rem); align-items:start; margin:2rem 0; }
+.cmp-media-grid { display:grid; grid-template-columns:1fr 1fr; gap:1rem; align-items:start; }
+.cmp-media { margin:0; min-width:0; background:rgba(4,17,66,.65); border:1px solid rgba(148,184,255,.3); border-radius:18px; padding:.75rem; }
+.cmp-media img, .cmp-media video { display:block; width:100%; height:auto; aspect-ratio:9/16; object-fit:contain; border-radius:12px; background:#06133b; }
+.cmp-media figcaption { padding:.75rem .25rem .2rem; font-size:.9rem; line-height:1.45; }
+.cmp-video { background:#071337; border-radius:12px; overflow:hidden; }
+.cmp-copy { min-width:0; }
+.cmp-copy h3 { margin-top:0; }
+.cmp-copy p, .cmp-copy li { line-height:1.7; }
+.cmp-copy ul.checks { padding:0; }
+.cmp-copy .checks li { margin:1rem 0; }
+.cmp-six { display:grid; grid-template-columns:1fr 1fr; gap:.65rem 1.2rem; padding-left:1.5rem; }
+.cmp-six li { padding:.25rem 0; }
+.cmp-note { padding:1rem 1.15rem; border:1px solid rgba(255,108,176,.35); border-radius:12px; background:rgba(255,76,145,.09); }
+.cmp-app-links { display:flex; flex-wrap:wrap; align-items:center; gap:.65rem; border-top:1px solid rgba(150,178,225,.3); margin-top:1.7rem; padding-top:1.5rem; }
+.cmp-app-links strong { margin-right:.35rem; }
+.cmp-app-links a { padding:.58rem .85rem; font-size:.9rem; }
+.cmp-finale { padding:4rem 0 6rem; }
+.cmp-finale-inner { display:grid; grid-template-columns:1fr minmax(14rem,22rem); gap:2rem; align-items:center; padding:2rem; border:1px solid rgba(255,105,171,.4); border-radius:24px; background:linear-gradient(135deg,rgba(16,23,86,.75),rgba(91,15,93,.52)); }
+.cmp-finale-inner img { display:block; width:100%; max-height:470px; object-fit:contain; border-radius:12px; }
+@media(max-width:1080px){ .cmp-layout { grid-template-columns:1fr; } .cmp-media-grid { max-width:780px; } }
+@media(max-width:650px){ .cmp-media-grid { grid-template-columns:1fr 1fr; gap:.55rem; } .cmp-media { padding:.3rem; border-radius:10px; } .cmp-media img,.cmp-media video { border-radius:7px; } .cmp-media figcaption { font-size:.77rem; } .cmp-six { grid-template-columns:1fr; } .cmp-finale-inner { grid-template-columns:1fr; padding:1.2rem; } .cmp-finale-inner img { max-width:220px; justify-self:center; } .cmp-shortcuts a { width:100%; } }
+/* ========== Confronti tecnologici no pAIn: fine ========== */
+
+
+
+/* Selezione lingua della pagina Confronti, integrata con html[data-lang] del sito. */
+[data-cmp-localized] > .cmp-locale { display: none !important; }
+html[data-lang="it"] [data-cmp-localized] > .cmp-locale[lang="it"] { display: inline !important; }
+html[data-lang="en"] [data-cmp-localized] > .cmp-locale[lang="en"] { display: inline !important; }
+html[data-lang="fr"] [data-cmp-localized] > .cmp-locale[lang="fr"] { display: inline !important; }
+html[data-lang="de"] [data-cmp-localized] > .cmp-locale[lang="de"] { display: inline !important; }
+html[data-lang="es"] [data-cmp-localized] > .cmp-locale[lang="es"] { display: inline !important; }
+html[data-lang="tr"] [data-cmp-localized] > .cmp-locale[lang="tr"] { display: inline !important; }
+html[data-lang="el"] [data-cmp-localized] > .cmp-locale[lang="el"] { display: inline !important; }
+html[data-lang="pt"] [data-cmp-localized] > .cmp-locale[lang="pt"] { display: inline !important; }
+html[data-lang="ro"] [data-cmp-localized] > .cmp-locale[lang="ro"] { display: inline !important; }
+html[data-lang="pl"] [data-cmp-localized] > .cmp-locale[lang="pl"] { display: inline !important; }
+html[data-lang="nl"] [data-cmp-localized] > .cmp-locale[lang="nl"] { display: inline !important; }
+html[data-lang="sv"] [data-cmp-localized] > .cmp-locale[lang="sv"] { display: inline !important; }

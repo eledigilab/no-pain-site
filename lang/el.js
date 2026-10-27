@@ -880,3 +880,6 @@
 "204f7385": "Οδηγός no pAIn™ για iPhone (PDF, αγγλικά)&nbsp;↗"
 }
 };
+
+/* no pAIn Confronti: voce di menu tradotta (v3) */
+(window.NP_LANGS.el.t || (window.NP_LANGS.el.t={}))["cb849139"] = "Συγκρίσεις";

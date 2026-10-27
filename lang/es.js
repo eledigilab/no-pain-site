@@ -879,3 +879,6 @@
 "204f7385": "Guía no pAIn™ para iPhone (PDF, inglés)&nbsp;↗"
 }
 };
+
+/* no pAIn Confronti: voce di menu tradotta (v3) */
+(window.NP_LANGS.es.t || (window.NP_LANGS.es.t={}))["cb849139"] = "Comparaciones";

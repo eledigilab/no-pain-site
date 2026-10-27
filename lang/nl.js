@@ -880,3 +880,6 @@
 "204f7385": "no pAIn™-gids voor iPhone (PDF, Engels)&nbsp;↗"
 }
 };
+
+/* no pAIn Confronti: voce di menu tradotta (v3) */
+(window.NP_LANGS.nl.t || (window.NP_LANGS.nl.t={}))["cb849139"] = "Vergelijkingen";

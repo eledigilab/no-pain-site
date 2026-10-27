@@ -11,7 +11,7 @@ import re
 
 TOOLS = pathlib.Path(__file__).resolve().parent
 OUT = TOOLS.parent
-VERSION = "20260930b"
+VERSION = "20261027-i18n"
 
 # Nomi ideati dall'autore: mai tradotti, sempre con ™
 TM_TERMS = ["digital4help", "watch4help", "button4help", "no pAIn"]
@@ -31,7 +31,9 @@ PAGES = [
      "Come si attivano le app no pAIn, quali azioni partono, come funziona watch4help e come preparare la prima configurazione."),
     ("video.html", "Video", "no pAIn — Video e demo",
      "I video del progetto no pAIn: la posizione inviata dal telefono della vittima, le demo delle app, lo smartwatch e il pulsante button4help."),
-    ("tutorial.html", "Tutorial", "no pAIn — Tutorial",
+    ("confronti.html", "Confronti", "no pAIn — Confronti tecnologici",
+ "Confronto tra no pAIn e braccialetto giudiziario, SOS di smartphone e smartwatch, tracker GPS e AirTag, 112 e YouPol."),
+("tutorial.html", "Tutorial", "no pAIn — Tutorial",
      "I videotutorial del progetto no pAIn: configurazione, contatti su Telegram, abbinamento di button4help e smartwatch. Pagina in costruzione."),
     ("ricerca.html", "Ricerca", "no pAIn — Tecnologia e ricerca",
      "La tecnologia e le pubblicazioni scientifiche del progetto no pAIn del Prof. Ing. Agostino Giorgio, Politecnico di Bari."),

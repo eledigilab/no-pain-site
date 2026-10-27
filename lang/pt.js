@@ -880,3 +880,6 @@
 "204f7385": "Guia no pAIn™ para iPhone (PDF, inglês)&nbsp;↗"
 }
 };
+
+/* no pAIn Confronti: voce di menu tradotta (v3) */
+(window.NP_LANGS.pt.t || (window.NP_LANGS.pt.t={}))["cb849139"] = "Comparações";

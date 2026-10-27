@@ -1,2 +1,5 @@
 .DS_Store
 foto&video/
+
+# Materiale originale locale (pubblicare invece assets/confronti/)
+/foto&video/confronti/

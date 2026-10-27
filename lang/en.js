@@ -879,3 +879,6 @@
 "204f7385": "no pAIn™ iPhone guide (PDF, English)&nbsp;↗"
 }
 };
+
+/* no pAIn Confronti: voce di menu tradotta (v3) */
+(window.NP_LANGS.en.t || (window.NP_LANGS.en.t={}))["cb849139"] = "Comparisons";

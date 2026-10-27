@@ -880,3 +880,6 @@
 "204f7385": "iPhone için no pAIn™ kılavuzu (PDF, İngilizce)&nbsp;↗"
 }
 };
+
+/* no pAIn Confronti: voce di menu tradotta (v3) */
+(window.NP_LANGS.tr.t || (window.NP_LANGS.tr.t={}))["cb849139"] = "Karşılaştırmalar";

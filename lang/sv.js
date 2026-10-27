@@ -880,3 +880,6 @@
 "204f7385": "no pAIn™-guide för iPhone (PDF, engelska)&nbsp;↗"
 }
 };
+
+/* no pAIn Confronti: voce di menu tradotta (v3) */
+(window.NP_LANGS.sv.t || (window.NP_LANGS.sv.t={}))["cb849139"] = "Jämförelser";

@@ -879,3 +879,6 @@
 "204f7385": "Ghid no pAIn™ pentru iPhone (PDF, engleză)&nbsp;↗"
 }
 };
+
+/* no pAIn Confronti: voce di menu tradotta (v3) */
+(window.NP_LANGS.ro.t || (window.NP_LANGS.ro.t={}))["cb849139"] = "Comparații";
