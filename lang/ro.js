@@ -882,3 +882,11 @@
 
 /* no pAIn Confronti: voce di menu tradotta (v3) */
 (window.NP_LANGS.ro.t || (window.NP_LANGS.ro.t={}))["cb849139"] = "Comparații";
+
+/* no pAIn footer resources manuals 12 languages v4 */
+if (window.NP_LANGS && window.NP_LANGS.ro) {
+  var npFooterTranslations = window.NP_LANGS.ro.t || (window.NP_LANGS.ro.t = {});
+  npFooterTranslations["18c6da7f"] = "Politicile de confidențialitate ale aplicațiilor ↗";
+  npFooterTranslations["47653b1c"] = "Manual pentru Proteggimi (PDF) ↗";
+  npFooterTranslations["46d19045"] = "Manual pentru AIhelpYou (PDF) ↗";
+}

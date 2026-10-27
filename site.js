@@ -10,7 +10,7 @@
   'use strict';
 
   var LANGS = ['it', 'en', 'fr', 'de', 'es', 'tr', 'el', 'pt', 'ro', 'pl', 'nl', 'sv'];
-  var VERSION = "20261027-i18n";
+  var VERSION = "20261027-manuali-v4";
   var root = document.documentElement;
   window.NP_LANGS = window.NP_LANGS || {};
 

@@ -883,3 +883,11 @@
 
 /* no pAIn Confronti: voce di menu tradotta (v3) */
 (window.NP_LANGS.fr.t || (window.NP_LANGS.fr.t={}))["cb849139"] = "Comparaisons";
+
+/* no pAIn footer resources manuals 12 languages v4 */
+if (window.NP_LANGS && window.NP_LANGS.fr) {
+  var npFooterTranslations = window.NP_LANGS.fr.t || (window.NP_LANGS.fr.t = {});
+  npFooterTranslations["18c6da7f"] = "Politiques de confidentialité des applications ↗";
+  npFooterTranslations["47653b1c"] = "Manuel pour Proteggimi (PDF) ↗";
+  npFooterTranslations["46d19045"] = "Manuel pour AIhelpYou (PDF) ↗";
+}

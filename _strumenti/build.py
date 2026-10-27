@@ -11,7 +11,7 @@ import re
 
 TOOLS = pathlib.Path(__file__).resolve().parent
 OUT = TOOLS.parent
-VERSION = "20261027-i18n"
+VERSION = "20261027-manuali-v4"
 
 # Nomi ideati dall'autore: mai tradotti, sempre con ™
 TM_TERMS = ["digital4help", "watch4help", "button4help", "no pAIn"]
@@ -155,8 +155,9 @@ FOOT = """
     <div>
       <h4>Risorse</h4>
       <ul>
-        <li><a href="https://poliba.wixsite.com/no_pain_privacy" target="_blank" rel="noopener">Manuali e privacy delle app ↗</a></li>
-        <li><a href="assets/guida-no-pain-android.pdf" target="_blank" rel="noopener">Manuale Proteggimi per Android (PDF) ↗</a></li>
+        <li><a href="https://poliba.wixsite.com/no_pain_privacy" target="_blank" rel="noopener">Normativa sulla privacy delle app ↗</a></li>
+        <li><a href="assets/manuali/no_pAIn_Manuale.pdf" type="application/pdf" download="no_pAIn_Manuale.pdf">Manuale per Proteggimi (PDF) ↗</a></li>
+<li><a href="assets/manuali/AIhelpYou_Manual_EN.pdf" type="application/pdf" download="AIhelpYou_Manual_EN.pdf">Manuale per AIhelpYou (PDF) ↗</a></li>
         <li><a href="assets/guida-no-pain-ios-it.pdf?v=20260930" target="_blank" rel="noopener">Guida no pAIn per iPhone (PDF, italiano) ↗</a></li>
         <li><a href="assets/guida-no-pain-ios-en.pdf?v=20260930" target="_blank" rel="noopener">no pAIn iPhone guide (PDF, English) ↗</a></li>
         <li><a href="assets/no-pain-presentazione.pdf" target="_blank" rel="noopener">Presentazione del progetto (PDF, in italiano) ↗</a></li>

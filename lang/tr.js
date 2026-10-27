@@ -883,3 +883,11 @@
 
 /* no pAIn Confronti: voce di menu tradotta (v3) */
 (window.NP_LANGS.tr.t || (window.NP_LANGS.tr.t={}))["cb849139"] = "Karşılaştırmalar";
+
+/* no pAIn footer resources manuals 12 languages v4 */
+if (window.NP_LANGS && window.NP_LANGS.tr) {
+  var npFooterTranslations = window.NP_LANGS.tr.t || (window.NP_LANGS.tr.t = {});
+  npFooterTranslations["18c6da7f"] = "Uygulamaların gizlilik politikaları ↗";
+  npFooterTranslations["47653b1c"] = "Proteggimi için kullanım kılavuzu (PDF) ↗";
+  npFooterTranslations["46d19045"] = "AIhelpYou için kullanım kılavuzu (PDF) ↗";
+}

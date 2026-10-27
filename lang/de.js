@@ -882,3 +882,11 @@
 
 /* no pAIn Confronti: voce di menu tradotta (v3) */
 (window.NP_LANGS.de.t || (window.NP_LANGS.de.t={}))["cb849139"] = "Vergleiche";
+
+/* no pAIn footer resources manuals 12 languages v4 */
+if (window.NP_LANGS && window.NP_LANGS.de) {
+  var npFooterTranslations = window.NP_LANGS.de.t || (window.NP_LANGS.de.t = {});
+  npFooterTranslations["18c6da7f"] = "Datenschutzbestimmungen der Apps ↗";
+  npFooterTranslations["47653b1c"] = "Handbuch für Proteggimi (PDF) ↗";
+  npFooterTranslations["46d19045"] = "Handbuch für AIhelpYou (PDF) ↗";
+}
